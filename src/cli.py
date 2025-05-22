@@ -41,7 +41,7 @@ def main():
     
     # 生成摘要
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_file = os.path.join(args.output_dir, f"summary_{timestamp}.md")
+    output_file = os.path.join(args.output_dir, f"arXivDaily.md")
     
     # 创建输出目录
     os.makedirs(args.output_dir, exist_ok=True)

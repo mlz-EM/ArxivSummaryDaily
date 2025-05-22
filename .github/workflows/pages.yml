@@ -62,13 +62,22 @@ jobs:
         run: arxivsummary
       
       # Use site_manager to manage the site
-      - name: Generate site
-        run: arxivsite --data-dir ./data --github-dir ./.github --days 14
-      
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Checkout target repo (personal-site)
+        uses: actions/checkout@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./data
-          publish_branch: gh-pages
-          enable_jekyll: true
+          repository: mlz-EM/personal-site
+          token: ${{ secrets.TARGET_REPO_TOKEN }}
+          path: personal-site  # checked out to subdirectory
+
+      - name: Copy Markdown files to personal-site/src/data
+        run: |
+          cp ./data/arXivDaily.md personal-site/src/data/
+
+      - name: Commit and push to personal-site
+        run: |
+          cd personal-site
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/arXivDaily.md
+          git commit -m "Update summaries from arXivDaily run ${{ github.run_id }}" || echo "No changes to commit"
+          git push

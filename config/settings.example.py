@@ -4,7 +4,7 @@ ArXiv API 配置文件
 
 # arXiv API 搜索配置
 SEARCH_CONFIG = {
-    'max_total_results': 200,         # 总共要获取的最大论文数量
+    'max_total_results': 25,         # 总共要获取的最大论文数量
     'sort_by': 'SubmittedDate',       # 排序方式: Relevance, LastUpdatedDate, SubmittedDate
     'sort_order': 'Descending',       # 排序顺序: Ascending, Descending
     'include_cross_listed': True,     # 是否包含跨类别的论文
@@ -27,7 +27,7 @@ CATEGORIES = [
 # 搜索查询配置，用OR或用AND连接关键词，或者没有关键词也可以留空
 # QUERY = "nickelate OR cuprate"   # 搜索包含关键词nickelate或cuprate,并且在CATEGORIES中的所有文献
 # QUERY = "nickelate AND cuprate"   # 搜索包含关键词nickelate和cuprate,并且在CATEGORIES中的所有文献
-QUERY = ""     # 搜索CATEGORIES中的所有文献
+QUERY = '(all:"ptychography" OR all:"electron microscopy")'     # 搜索CATEGORIES中的所有文献
 
 # 语言模型API配置
 LLM_CONFIG = {
