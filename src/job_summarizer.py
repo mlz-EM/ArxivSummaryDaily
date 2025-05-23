@@ -118,40 +118,41 @@ job_url: {job['job_url']}
 """
         
         final_prompt = f"""我是一名材料工程系的博士毕业生，我的研究领域是用电子显微镜在不同尺度上进行材料表征并建立其结构与性能之间的联系。目前我在寻找北美tenure tracked的教职。我将提供{len(jobs)}个潜在工作机会，请根据description或者job_url的内容分别生成markdown语言格式的总结。对每份工作：
-1. 筛除领域完全不相关的工作，例如文科类工作，或管理类工作。
-2. 筛除不是tenure tracked的工作，例如teaching faculty或者adjunct professor
+1. 删除领域完全不相关的工作，例如文科类工作，或管理类工作。
+2. 删除不是tenure tracked的工作，例如teaching faculty或者adjunct professor。
 3. 根据与我背景的对工作相关程度进行打分 从一颗到三颗🌟
 4. 在工作描述中提取一句话的关键词进行总结，最好是工作需要的具体方向或者department
+5. 查询学校是否为R1或者R2并进行标注
 请用英文回答，保持原有格式，对每份工作的回答后加入markdown格式的"---"分隔符。
-确保每篇论文的标题等信息保持不变。
+确保每份工作信息与提供的内容保持一致。
 你的输出环境同时支持markdown和LaTeX语法渲染
 输出格式为：
 
 **[title](job_url)** 🌟🌟
-- **Location**: (school at location)
+- **Location**: (school (R1) at location)
 - **Date**: (posted YYYY-MM-DD)
 - **Description**: (summary)
 ---
 **[title](job_url)** 🌟
-- **Location**: (school at location)
+- **Location**: (school (R1) at location)
 - **Date**: (posted YYYY-MM-DD)
 - **Description**: (summary)
 ---
 ......
 ---
 **[title](job_url)** 🌟🌟🌟
-- **Location**: (school at location)
+- **Location**: (school (R2) at location)
 - **Date**: (posted YYYY-MM-DD)
 - **Description**: (summary)
 ---
 
-请注意，以上是对每份工作的总结格式示例。请确保输出格式与示例一致。不要添加任何额外信息，只生成规定格式的总结内容即可。
+请注意，以上是对每份工作的总结格式示例。请确保输出格式与示例一致。不要添加任何额外信息，只生成规定格式的总结内容即可。请一定确保格式争取。
 
 以下是一个示例：
 
 ---
 **[Assistant Professor in Materials Sciecne Department](http://linkedin.com/job)** 🌟🌟🌟
-- **Location**: (Harvard Univeersity at Boston, USA)
+- **Location**: (Harvard Univeersity (R1) at Boston, USA)
 - **Date**: 2025-01-11
 - **Description**: Department of Materials Sciecne is looking for TT prof to work on the characterization of energy-related materials.
 ---
