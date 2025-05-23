@@ -129,21 +129,21 @@ job_url: {job['job_url']}
 输出格式为：
 
 **[title](job_url)** 🌟🌟
-- **Location**: (school (R1) at location)
-- **Date**: (posted YYYY-MM-DD)
-- **Description**: (summary)
+- **Location**: school (R1) at location
+- **Date**: YYYY-MM-DD
+- **Description**: summary
 ---
 **[title](job_url)** 🌟
-- **Location**: (school (R1) at location)
-- **Date**: (posted YYYY-MM-DD)
-- **Description**: (summary)
+- **Location**: school (R1) at location
+- **Date**: YYYY-MM-DD
+- **Description**: summary
 ---
 ......
 ---
 **[title](job_url)** 🌟🌟🌟
-- **Location**: (school (R2) at location)
-- **Date**: (posted YYYY-MM-DD)
-- **Description**: (summary)
+- **Location**: school (R2) at location
+- **Date**: YYYY-MM-DD
+- **Description**: summary
 ---
 
 请注意，以上是对每份工作的总结格式示例。请确保输出格式与示例一致。不要添加任何额外信息，只生成规定格式的总结内容即可。请一定确保格式争取。
@@ -152,7 +152,7 @@ job_url: {job['job_url']}
 
 ---
 **[Assistant Professor in Materials Sciecne Department](http://linkedin.com/job)** 🌟🌟🌟
-- **Location**: (Harvard Univeersity (R1) at Boston, USA)
+- **Location**: Harvard Univeersity (R1) at Boston, USA
 - **Date**: 2025-01-11
 - **Description**: Department of Materials Sciecne is looking for TT prof to work on the characterization of energy-related materials.
 ---
