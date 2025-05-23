@@ -7,10 +7,12 @@ setup(
     install_requires=[
         "arxiv",
         "python-dotenv",
+        "python-jobspy"
     ],
     entry_points={
         'console_scripts': [
             'arxivsummary=src.cli:main',
+            'jobsummary=src.jobcli:main',
             'arxivsite=src.site_manager:main',  # 添加新的命令行入口点
         ],
     },

@@ -1,5 +1,5 @@
 """
-论文总结模块 - 使用大语言模型API生成论文摘要
+工作总结模块 - 使用大语言模型API生成工作机会概况
 """
 import os
 import json
@@ -98,67 +98,59 @@ class ModelClient:
                     raise
                 time.sleep(LLM_CONFIG['retry_delay'] * (2 ** attempt))
 
-class PaperSummarizer:
+class JobSummarizer:
     def __init__(self, api_key: str, model: Optional[str] = None):
         self.client = ModelClient(api_key, model)
         self.max_papers_per_batch = 25
 
-    def _generate_batch_summaries(self, papers: List[Dict[str, Any]], start_index: int) -> str:
+    def _generate_batch_summaries(self, jobs: List[Dict[str, Any]], start_index: int) -> str:
         """为一批论文生成总结"""
         batch_prompt = ""
-        for i, paper in enumerate(papers, start=start_index):
+        for i, job in enumerate(jobs, start=start_index):
             batch_prompt += f"""
-论文 {i}：
-标题：{paper['title']}
-作者：{', '.join(paper['authors'])}
-发布日期：{paper['published'][:10]}
-arXiv链接：{paper['entry_id']}
-论文摘要：{paper['summary']}
-
+job {i}：
+title: {job['title']}
+school: {job['company']}
+location: {job['location']}
+posted: {job['date_posted']}
+description: {job['description']}
+job_url: {job['job_url']}
 """
         
-        final_prompt = f"""请为以下{len(papers)}篇论文分别生成markdown语言格式的总结。对每篇论文：
-1. 用一句话说明研究目的
-2. 用几句话说明主要发现，尤其是电子显微镜相关技术在其中的贡献
-请用英文回答，保持原有格式，对每篇论文的回答后加入markdown格式的"---"分隔符。
-确保对每篇论文的编号、标题等信息保持不变。
-你的输出环境同时支持markdown和LaTeX语法渲染，可以直接使用LaTeX语法来表示数学公式和符号。请将需要使用LaTeX语法的部分用美元符号$包裹起来，其中若需要下标或上标，请保证将相应的元素用大括号包裹。
+        final_prompt = f"""我是一名材料工程系的博士毕业生，我的研究领域是用电子显微镜在不同尺度上建立材料结构与性能之间的联系。目前我在寻找北美tenure tracked的教职。我将提供{len(jobs)}个潜在工作机会，请根据description或者job_url的内容为这些工作打分，并分别生成markdown语言格式的总结。对每份工作：
+1. 筛除领域完全不相关的工作，例如文科类工作，或管理类工作
+2. 根据与我背景的对工作相关程度进行打分 从一颗到三颗🌟
+请用英文回答，保持原有格式，对每份工作的回答后加入markdown格式的"---"分隔符。
+确保每篇论文的标题等信息保持不变。
+你的输出环境同时支持markdown和LaTeX语法渲染
 输出格式为：
 
-**Index. [标题](文章链接)**
-- **Authors**: (作者)
-- **Date**: (发表时间 YYYY-MM-DD)
-- **Objective**: (研究目的)
-- **Finding**: (主要发现)
+**[title](job_url)** 🌟🌟
+- **Location**: (school at location)
+- **Date**: (posted YYYY-MM-DD)
 ---
-**Index. [标题](文章链接)**
-- **Authors**: (作者)
-- **Date**: (发表时间 YYYY-MM-DD)
-- **Objective**: (研究目的)
-- **Finding**: (主要发现)
+**[title](job_url)** 🌟
+- **Location**: (school at location)
+- **Date**: (posted YYYY-MM-DD)
 ---
 ......
 ---
-**Index. [标题](文章链接)**
-- **Authors**: (作者)
-- **Date**: (发表时间 YYYY-MM-DD)
-- **Objective**: (研究目的)
-- **Finding**: (主要发现)
+**[title](job_url)** 🌟🌟🌟
+- **Location**: (school at location)
+- **Date**: (posted YYYY-MM-DD)
 ---
 
-请注意，以上是对每篇论文的总结格式示例。请确保输出格式与示例一致。Index为论文顺序，从1开始。
+请注意，以上是对每份工作的总结格式示例。请确保输出格式与示例一致。不要添加任何额外信息，只生成规定格式的总结内容即可。
 
 以下是一个示例：
 
 ---
-**1. [Lattice models with subsystem/weak non-invertible symmetry-protected topological order](http://arxiv.org/abs/2505.11419v1)**
-- **Authors**: Yuki Furukawa
+**[Assistant Professor in Materials Sciecne Department](http://linkedin.com/job)** 🌟🌟🌟
+- **Location**: (Harvard Univeersity at Boston, USA)
 - **Date**: 2025-01-11
-- **Objective**: 构建具有子系统非可逆对称性保护拓扑 (SPT) 序的格点模型，并研究其界面模式以及弱SPT相。
-- **Finding**: 构建了一系列具有子系统非可逆SPT序的格点模型，并展示了由平移对称性和非可逆对称性组合区分的弱SPT相之间的界面存在奇异的Lieb-Schultz-Mattis反常。
 ---
 
-请根据以下论文信息生成总结：
+请根据以下工作信息生成总结：
 {batch_prompt}"""
 
         try:
@@ -170,43 +162,44 @@ arXiv链接：{paper['entry_id']}
         except Exception as e:
             # 如果批处理失败，生成错误信息
             error_summaries = []
-            for i, paper in enumerate(papers, start=start_index):
+            for i, job in enumerate(jobs, start=start_index):
                 error_summaries.append(f"""
-论文 {i}：
-标题：{paper['title']}
-作者：{', '.join(paper['authors'])}
-发布日期：{paper['published'][:10]}
-arXiv链接：{paper['pdf_url']}
-研究目的：[生成失败: {str(e)}]
-主要发现：[生成失败: {str(e)}]
+job {i}：
+title: {job['title']}
+school: {job['company']}
+location: {job['location']}
+posted: {job['date_posted']}
+description: {job['description']}
+job_url: {job['job_url']}
+summary: [生成失败: {str(e)}]
 ---""")
             return "\n".join(error_summaries)
 
-    def _process_batch(self, papers: List[Dict[str, Any]], start_index: int) -> str:
-        """处理一批论文"""
-        print(f"正在批量处理 {len(papers)} 篇论文...")
-        summaries = self._generate_batch_summaries(papers, start_index)
+    def _process_batch(self, jobs: List[Dict[str, Any]], start_index: int) -> str:
+        """处理一批工作"""
+        print(f"正在批量处理 {len(jobs)} 份工作...")
+        summaries = self._generate_batch_summaries(jobs, start_index)
         time.sleep(2)  # 在批次之间添加短暂延迟
         return summaries
 
-    def _generate_batch_summary(self, papers: List[Dict[str, Any]]) -> str:
-        """批量生成所有论文的总结"""
+    def _generate_batch_summary(self, jobs: List[Dict[str, Any]]) -> str:
+        """批量生成所有工作的总结"""
         all_summaries = []
-        total_papers = len(papers)
+        total_jobs = len(jobs)
         
-        for i in range(0, total_papers, self.max_papers_per_batch):
-            batch = papers[i:i + self.max_papers_per_batch]
-            print(f"\n正在处理第 {i + 1} 到 {min(i + self.max_papers_per_batch, total_papers)} 篇论文...")
+        for i in range(0, total_jobs, self.max_papers_per_batch):
+            batch = jobs[i:i + self.max_papers_per_batch]
+            print(f"\n正在处理第 {i + 1} 到 {min(i + self.max_papers_per_batch, total_jobs)} 份工作...")
             batch_summary = self._process_batch(batch, i + 1)
             all_summaries.append(batch_summary)
             
-            if i + self.max_papers_per_batch < total_papers:
+            if i + self.max_papers_per_batch < total_jobs:
                 print("批次处理完成，等待3秒后继续...")
                 time.sleep(3)  # 批次之间的冷却时间
         
         return "\n".join(all_summaries)
 
-    def summarize_papers(self, papers: List[Dict[str, Any]], output_file: str) -> bool:
+    def summarize_jobs(self, jobs: List[Dict[str, Any]], output_file: str) -> bool:
         """
         批量处理所有论文并创建Markdown报告
         
@@ -221,8 +214,8 @@ arXiv链接：{paper['pdf_url']}
         
         try:
             # 生成总结内容
-            print(f"开始生成论文总结，共 {len(papers)} 篇...")
-            summaries = self._generate_batch_summary(papers)
+            print(f"开始生成工作总结，共 {len(jobs)} 份...")
+            summaries = self._generate_batch_summary(jobs)
             
             # 检查生成的摘要是否包含错误信息
             if "[生成失败:" in summaries:
@@ -230,7 +223,7 @@ arXiv链接：{paper['pdf_url']}
                 print("警告: 摘要生成过程中出现错误，结果可能不完整")
             
             # 转换为markdown格式
-            markdown_content = self._generate_markdown(papers, summaries)
+            markdown_content = self._generate_markdown(jobs, summaries)
             
             # 保存为markdown文件
             output_md = output_file.replace('.pdf', '.md')
@@ -250,14 +243,16 @@ arXiv链接：{paper['pdf_url']}
 **生成总结时发生错误，以下是论文基本信息：**
 
 """
-            for i, paper in enumerate(papers, 1):
+            for i, job in enumerate(jobs, 1):
                 error_content += f"""
-## 论文 {i}：
-- 标题：{paper['title']}
-- 作者：{', '.join(paper['authors'])}
-- 发布日期：{paper['published'][:10]}
-- arXiv链接：{paper['pdf_url']}
-
+job {i}：
+title: {job['title']}
+school: {job['company']}
+location: {job['location']}
+posted: {job['date_posted']}
+description: {job['description']}
+job_url: {job['job_url']}
+summary: [生成失败: {str(e)}]
 """
             
             # 保存错误信息为markdown文件
@@ -268,15 +263,15 @@ arXiv链接：{paper['pdf_url']}
             
             return False  # 发生异常，摘要生成肯定失败
 
-    def _generate_markdown(self, papers: List[Dict[str, Any]], summaries: str) -> str:
+    def _generate_markdown(self, jobs: List[Dict[str, Any]], summaries: str) -> str:
         """生成markdown格式的报告"""
         beijing_time = datetime.now(pytz.timezone('America/New_York')).strftime('%Y-%m-%d %H:%M:%S')
         
         markdown_content = f"""
 # Basic Info
 - This report was automatically generated by **{self.client.model}** at **{beijing_time}**.  
-- It includes the most recent **{len(papers)}** arXiv papers related to the keyword **"{QUERY}"**.  
-- This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily).
+- It includes the recent tenure tracked position in engineering related field from Google, LinkedIn and Indeed.  
+- This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily) and [JobSpy](https://github.com/speedyapply/JobSpy).
 ---
 {summaries}
 """

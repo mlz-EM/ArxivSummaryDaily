@@ -37,17 +37,30 @@ QUERY = '(all:"ptychography" OR all:"electron microscopy")'     # 搜索CATEGORI
 LLM_CONFIG = {
     'api_key': "YOUR_API_HERE",                                             # 在这里输入API密钥
     'model': 'gemini-2.5-flash-preview-04-17',                                            # 模型名称
-    # 'model': 'gemini-2.0-flash',
     'api_url': "https://generativelanguage.googleapis.com/v1beta/models",   # API基础URL
     'temperature': 0.5,                                                     # 温度参数
     'max_output_tokens': 32648,                                             # 最大输出长度
     'top_p': 0.8,                                                           # Top P 参数
     'top_k': 40,                                                            # Top K 参数
-    'retry_count': 10,                                                       # API调用失败时的重试次数
-    'retry_delay': 10,                                                       # 重试间隔（秒）
-    'timeout': 300,                                                          # API请求超时时间（秒）
+    'retry_count': 5,                                                       # API调用失败时的重试次数
+    'retry_delay': 5,                                                       # 重试间隔（秒）
+    'timeout': 600,                                                         # API请求超时时间（秒）
 }
 
 # 输出配置
 OUTPUT_DIR = "data"
-LAST_RUN_FILE = "run_log.json"  # 存储上次运行的信息
+LAST_RUN_FILE = False  # 存储上次运行的信息
+
+
+# JOB Query
+JOB_CONFIG = {
+    'site_name': ["indeed", "linkedin", "google", ],
+    'search_term': "professor tenure -adjunct -dean -chair -lecturer -temporary",
+    'google_search_term': "tenure tracked professor in engieering within the united states",
+    'location': "USA",
+    'results_wanted': 10,
+    'hours_old': 60*24,
+    'country_indeed': 'USA',
+    'linkedin_fetch_description': True # gets more info such as description, direct job url (slower)
+    # proxies=["208.195.175.46:65095", "208.195.175.45:65095", "localhost"],
+}

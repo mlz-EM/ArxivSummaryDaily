@@ -56,11 +56,16 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-dist-
 
-      - name: Build the data
+      - name: Build the arXiv data
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
         run: arxivsummary
-      
+
+      - name: Build the Job data
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+        run: jobsummary
+
       # Use site_manager to manage the site
       - name: Checkout target repo (personal-site)
         uses: actions/checkout@v4
@@ -71,7 +76,7 @@ jobs:
 
       - name: Copy Markdown files to personal-site/src/data
         run: |
-          cp ./data/arXivDaily.md personal-site/src/data/
+          cp ./data/*.md personal-site/src/data/
 
       - name: Commit and push to personal-site
         run: |

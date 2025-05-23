@@ -24,7 +24,10 @@ def main():
     paper_summarizer = PaperSummarizer(LLM_CONFIG['api_key'], LLM_CONFIG.get('model'))
     
     # 准备 last_run_file 路径
-    last_run_file = os.path.join(args.output_dir, LAST_RUN_FILE)
+    if LAST_RUN_FILE:
+        last_run_file = os.path.join(args.output_dir, LAST_RUN_FILE)
+    else:
+        last_run_file = False
     
     # 获取论文
     papers = arxiv_client.search_papers(
