@@ -4,7 +4,7 @@ ArXiv API 配置文件
 
 # arXiv API 搜索配置
 SEARCH_CONFIG = {
-    'max_total_results': 25,         # 总共要获取的最大论文数量
+    'max_total_results': 50,         # 总共要获取的最大论文数量
     'sort_by': 'SubmittedDate',       # 排序方式: Relevance, LastUpdatedDate, SubmittedDate
     'sort_order': 'Descending',       # 排序顺序: Ascending, Descending
     'include_cross_listed': True,     # 是否包含跨类别的论文
@@ -22,6 +22,10 @@ CATEGORIES = [
     "cond-mat.str-el",    # 强关联电子系统
     "cond-mat.mtrl-sci",   # 材料科学
     "cond-mat.mes-hall",  # 量子霍尔效应
+    "physics.app-ph",
+    "physics.comp-ph",
+    "physics.ins-det",
+    "physics.optics"
 ]
 
 # 搜索查询配置，用OR或用AND连接关键词，或者没有关键词也可以留空
@@ -39,11 +43,11 @@ LLM_CONFIG = {
     'max_output_tokens': 32648,                                             # 最大输出长度
     'top_p': 0.8,                                                           # Top P 参数
     'top_k': 40,                                                            # Top K 参数
-    'retry_count': 3,                                                       # API调用失败时的重试次数
-    'retry_delay': 2,                                                       # 重试间隔（秒）
+    'retry_count': 10,                                                       # API调用失败时的重试次数
+    'retry_delay': 10,                                                       # 重试间隔（秒）
     'timeout': 300,                                                          # API请求超时时间（秒）
 }
 
 # 输出配置
 OUTPUT_DIR = "data"
-LAST_RUN_FILE = "last_run.json"  # 存储上次运行的信息
+LAST_RUN_FILE = "run_log.json"  # 存储上次运行的信息

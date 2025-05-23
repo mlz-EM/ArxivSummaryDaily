@@ -119,38 +119,42 @@ arXiv链接：{paper['entry_id']}
         
         final_prompt = f"""请为以下{len(papers)}篇论文分别生成markdown语言格式的总结。对每篇论文：
 1. 用一句话说明研究目的
-2. 用一两句话说明主要发现，尤其是电子显微镜相关技术在其中的贡献
+2. 用几句话说明主要发现，尤其是电子显微镜相关技术在其中的贡献
 请用英文回答，保持原有格式，对每篇论文的回答后加入markdown格式的"---"分隔符。
 确保对每篇论文的编号、标题等信息保持不变。
 你的输出环境同时支持markdown和LaTeX语法渲染，可以直接使用LaTeX语法来表示数学公式和符号。请将需要使用LaTeX语法的部分用美元符号$包裹起来，其中若需要下标或上标，请保证将相应的元素用大括号包裹。
 输出格式为：
 
-**[标题](文章链接)**
+**Index. [标题](文章链接)**
 - **Authors**: (作者)
-- **Purpose**: (研究目的)
+- **Date**: (发表时间 YYYY-MM-DD)
+- **Objective**: (研究目的)
 - **Finding**: (主要发现)
 ---
-**[标题](文章链接)**
+**Index. [标题](文章链接)**
 - **Authors**: (作者)
-- **Purpose**: (研究目的)
+- **Date**: (发表时间 YYYY-MM-DD)
+- **Objective**: (研究目的)
 - **Finding**: (主要发现)
 ---
 ......
 ---
-**[标题](文章链接)**
+**Index. [标题](文章链接)**
 - **Authors**: (作者)
-- **Purpose**: (研究目的)
+- **Date**: (发表时间 YYYY-MM-DD)
+- **Objective**: (研究目的)
 - **Finding**: (主要发现)
 ---
 
-请注意，以上是对每篇论文的总结格式示例。请确保输出格式与示例一致。
+请注意，以上是对每篇论文的总结格式示例。请确保输出格式与示例一致。Index为论文顺序，从1开始。
 
 以下是一个示例：
 
 ---
-**[Lattice models with subsystem/weak non-invertible symmetry-protected topological order](http://arxiv.org/abs/2505.11419v1)**
+**1. [Lattice models with subsystem/weak non-invertible symmetry-protected topological order](http://arxiv.org/abs/2505.11419v1)**
 - **Authors**: Yuki Furukawa
-- **Purpose**: 构建具有子系统非可逆对称性保护拓扑 (SPT) 序的格点模型，并研究其界面模式以及弱SPT相。
+- **Date**: 2025-01-11
+- **Objective**: 构建具有子系统非可逆对称性保护拓扑 (SPT) 序的格点模型，并研究其界面模式以及弱SPT相。
 - **Finding**: 构建了一系列具有子系统非可逆SPT序的格点模型，并展示了由平移对称性和非可逆对称性组合区分的弱SPT相之间的界面存在奇异的Lieb-Schultz-Mattis反常。
 ---
 
