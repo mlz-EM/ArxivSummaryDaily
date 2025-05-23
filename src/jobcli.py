@@ -17,6 +17,7 @@ def main():
         
     # 获取工作
     jobs = scrape_jobs(**JOB_CONFIG)
+    jobs = jobs.sort_values(by='date_posted', ascending=False)
     jobs = jobs.to_dict(orient="records")
     if not jobs:
         print("未找到符合条件的工作")
