@@ -58,7 +58,7 @@ JOB_CONFIG = {
     'search_term': "professor tenure -adjunct -dean -chair -lecturer -temporary",
     'google_search_term': "tenure tracked professor in engieering within the united states",
     'location': "USA",
-    'results_wanted': 10,
+    'results_wanted': 50,
     'hours_old': 60*24,
     'country_indeed': 'USA',
     'linkedin_fetch_description': True # gets more info such as description, direct job url (slower)
