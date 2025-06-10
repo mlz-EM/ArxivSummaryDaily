@@ -101,7 +101,7 @@ class ModelClient:
 class JobSummarizer:
     def __init__(self, api_key: str, model: Optional[str] = None):
         self.client = ModelClient(api_key, model)
-        self.max_papers_per_batch = 25
+        self.max_papers_per_batch = 20
 
     def _generate_batch_summaries(self, jobs: List[Dict[str, Any]], start_index: int) -> str:
         """为一批论文生成总结"""
@@ -117,19 +117,14 @@ description: {job['description']}
 job_url: {job['job_url']}
 """
         
-        final_prompt = f"""我是一名材料工程系的博士毕业生，我的研究领域是用电子显微镜在不同尺度上进行材料表征并建立其结构与性能之间的联系，以下是我研究兴趣的简述：
-1. Advancing (scanning) transmission electron microscopy techniques for material analysis
-2. Probing structure/chemistry correlations in 3D using multilslice electron ptychography
-3. Exploring material behavior and emergent phenomena with in situ electron microscopy
-4. Extracting insights from microscopy data using statistical analysis and machine learning
-
-目前我在寻找北美tenure tracked的教职。我将提供{len(jobs)}个潜在工作机会，请根据description或者job_url的内容分别生成markdown语言格式的总结。对每份工作：
-1. 删除领域完全不相关的工作，例如文科类工作，生物类或医学院工作，以及管理类工作。
+        final_prompt = f"""我是一名材料工程系的博士毕业生，我的研究领域是用电子显微镜在微观尺度上进行材料表征并建立其结构与性能之间的联系。目前我在寻找北美tenure tracked的教职。我将提供{len(jobs)}个潜在工作机会，请根据description或者job_url的内容分别生成markdown语言格式的总结。对每份工作：
+1. 删除领域完全不相关的工作，例如文科类工作，医学院工作，以及管理类工作。
 2. 删除不是tenure tracked的工作，例如teaching faculty或者adjunct professor。
-3. 根据与我背景的对工作相关程度进行打分 从一颗到三颗🌟
-4. 在工作描述中提取一句话的关键词进行总结，最好是工作需要的具体方向或者department
-5. 查询学校是否为R1或者R2并进行标注
-请用英文回答，保持原有格式，对每份工作的回答后加入markdown格式的"---"分隔符。保留最起码一份工作。
+3. 如果全部都不相关，也请保留一份最相关的工作并生成总结。
+4. 根据与我背景的对工作相关程度进行打分 从一颗到三颗🌟
+5. 在工作描述中提取一句话的关键词进行总结，最好是工作需要的具体方向或者department
+6. 查询学校是否为R1或者R2并进行标注
+请用英文回答，保持原有格式，对每份工作的回答后加入markdown格式的"---"分隔符。
 确保每份工作信息与提供的内容保持一致。
 你的输出环境同时支持markdown和LaTeX语法渲染
 输出格式为：
@@ -171,6 +166,8 @@ job_url: {job['job_url']}
                 "role": "user",
                 "content": final_prompt
             }])
+            nr = response["choices"][0]["message"]["content"].strip().count('**Description**:')
+            print(f"批量处理完成，生成{nr}份总结...")
             return response["choices"][0]["message"]["content"].strip()
         except Exception as e:
             # 如果批处理失败，生成错误信息

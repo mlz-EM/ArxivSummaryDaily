@@ -55,10 +55,10 @@ LAST_RUN_FILE = False  # 存储上次运行的信息
 # JOB Query
 JOB_CONFIG = {
     'site_name': ["indeed", "linkedin", "google", ],
-    'search_term': "professor tenure -adjunct -dean -chair -lecturer -temporary",
+    'search_term': "professor tenure -adjunct -dean -chair -lecturer -temporary -medical -clinical -visiting -research -postdoc -post-doc -post doc -fellowship -fellow -law",
     'google_search_term': "tenure tracked professor in engieering within the united states",
     'location': "USA",
-    'results_wanted': 50,
+    'results_wanted': 100,
     'hours_old': 60*24,
     'country_indeed': 'USA',
     'linkedin_fetch_description': True # gets more info such as description, direct job url (slower)
