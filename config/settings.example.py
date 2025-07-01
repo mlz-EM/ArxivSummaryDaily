@@ -36,7 +36,7 @@ QUERY = '(all:"ptychography" OR all:"electron microscopy")'     # 搜索CATEGORI
 # 语言模型API配置
 LLM_CONFIG = {
     'api_key': "YOUR_API_HERE",                                             # 在这里输入API密钥
-    'model': 'gemini-2.5-flash-preview-05-20',                                            # 模型名称
+    'model': 'gemini-2.5-flash',                                            # 模型名称
     'api_url': "https://generativelanguage.googleapis.com/v1beta/models",   # API基础URL
     'temperature': 0.5,                                                     # 温度参数
     'max_output_tokens': 32648,                                             # 最大输出长度
