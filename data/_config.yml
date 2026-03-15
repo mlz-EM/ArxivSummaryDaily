@@ -1,0 +1,11 @@
+# Use the default GitHub Pages theme - Cayman
+theme: jekyll-theme-cayman
+title: ArXiv Summary Daily
+description: "A daily tool that automatically retrieves and summarizes arXiv papers using AI.\nThe search areas on this page are fixed to superconductivity, strongly correlated systems, materials physics, and mesoscopic/nano physics."
+author: dong-zehao
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  math_engine: nil

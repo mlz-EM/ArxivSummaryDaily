@@ -1,0 +1,16 @@
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']], // Inline math delimiters
+      displayMath: [['$$', '$$'], ['\\[', '\\]']], // Display math delimiters
+      processEscapes: true, // Handle escapes like \$ and \\
+      processEnvironments: true // Handle LaTeX environments such as begin/end
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // Skip math processing in these tags
+    }
+  };
+</script>
+<script id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
