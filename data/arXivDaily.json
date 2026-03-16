@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-03-15T18:45:04Z",
+    "generatedAt": "2026-03-16T05:45:22Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 50 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 51 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2603.12822v1",
+      "title": "Optimized growth of large-size, high quality $\\text{ZrTe}_5$ single crystals enabling clear quantum oscillations in electrical transport",
+      "url": "https://arxiv.org/abs/2603.12822v1",
+      "date": "2026-03-13",
+      "summary": "This study optimizes a Te-flux synthesis method to grow large, high-quality ZrTe5 single crystals while minimizing defects. The resulting centimeter-scale crystals exhibit high purity and excellent crystallinity. Magnetotransport measurements reveal high carrier mobility and low carrier density, demonstrated by a low Shubnikov-de Haas oscillation onset field of 0.38 T and reaching the quantum limit at 1.3 T.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2603.11643v1",
       "title": "Unlocking nanoscale microstructural detail in aluminium alloys through differential phase contrast segmentation in STEM",
