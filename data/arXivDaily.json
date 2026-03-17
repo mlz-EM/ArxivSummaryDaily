@@ -2,14 +2,56 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-03-16T05:45:22Z",
+    "generatedAt": "2026-03-17T05:17:27Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 51 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 55 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2603.15582v1",
+      "title": "Benchmarking Machine Learning Approaches for Polarization Mapping in Ferroelectrics Using 4D-STEM",
+      "url": "https://arxiv.org/abs/2603.15582v1",
+      "date": "2026-03-16",
+      "summary": "This study benchmarks machine learning models, including ResNet and PCA-informed kNN, to automate polarization direction detection from 4D-STEM data in ferroelectric materials. While simulation-to-experiment domain gaps pose challenges, prototype representation training and PCA-based methods improve transferability. Findings also reveal that model prediction irregularities can effectively identify structural defects, guiding the development of robust tools for electron microscopy analysis.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cs-cv"
+      ]
+    },
+    {
+      "id": "arxiv-2603.15420v1",
+      "title": "Microstructural characteristics, atomic-scale features, and growth mechanisms of deuterides (hydrides) in hafnium",
+      "url": "https://arxiv.org/abs/2603.15420v1",
+      "date": "2026-03-16",
+      "summary": "This study investigates deuteride-matrix interfaces in hafnium alloys using advanced microscopy and atom probe tomography to understand their multiscale structure and chemistry. The researchers characterized crystallographic orientation relationships, misfit-induced dislocations, and oxygen segregation during growth. These findings clarify the mechanisms of interface evolution, providing insights for the design and performance of hydride-metal composites in nuclear reactor applications.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2603.15406v1",
+      "title": "Epitaxial growth of topological insulator $β$-Ag2Te thin films",
+      "url": "https://arxiv.org/abs/2603.15406v1",
+      "date": "2026-03-16",
+      "summary": "Researchers report the epitaxial growth of beta-Ag2Te thin films on InP substrates using molecular beam epitaxy. Structural analyses confirmed a (002) crystal orientation and epitaxial atomic arrangement. Electrical measurements revealed that the films exhibit two-dimensional metallic conduction while the bulk remains insulating. This provides a viable platform for investigating surface Dirac states and designing topological insulator-based heterojunction devices.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2603.13937v1",
+      "title": "Countershading coloration in blue shark skin emerges from hierarchically organized and spatially tuned photonic architectures inside skin denticles",
+      "url": "https://arxiv.org/abs/2603.13937v1",
+      "date": "2026-03-14",
+      "summary": "This study investigates the physical basis of countershading in blue shark skin using correlative microscopy and spectroscopy. It reveals that coloration originates from hierarchical photonic architectures within dermal denticle pulp cavities rather than dermal chromatophores. Specifically, ordered purine-crystal stacks generate blue reflection, while disordered assemblies produce white scattering. These findings identify denticles as optical pixels that provide mechanically protected coloration.",
+      "tags": [
+        "physics-optics",
+        "q-bio-qm"
+      ]
+    },
     {
       "id": "arxiv-2603.12822v1",
       "title": "Optimized growth of large-size, high quality $\\text{ZrTe}_5$ single crystals enabling clear quantum oscillations in electrical transport",
