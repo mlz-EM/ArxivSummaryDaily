@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-03-17T05:17:27Z",
+    "generatedAt": "2026-03-18T05:22:07Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 55 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 56 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2603.16607v1",
+      "title": "Efficient methods for wave propagation in electron microscopy",
+      "url": "https://arxiv.org/abs/2603.16607v1",
+      "date": "2026-03-17",
+      "summary": "This paper introduces the Scaling Angular Spectrum Method (SASM) and No-Lensing Angular Spectrum Method (NLASM) to optimize wave-optical simulations in electron microscopy. These methods significantly reduce sampling requirements and computational costs by scaling optical systems or suppressing lensing effects. Benchmarking confirms they enable efficient, high-fidelity modeling of complex electron-optical systems that were previously computationally intractable.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2603.15582v1",
       "title": "Benchmarking Machine Learning Approaches for Polarization Mapping in Ferroelectrics Using 4D-STEM",
