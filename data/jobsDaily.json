@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-03-19T05:22:12Z",
+    "generatedAt": "2026-03-20T05:12:51Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,165 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Faculty Tenure Track-9 Mo - Assistant Professor, Industrial and Systems Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=a8c3ba9a3771a427",
+      "date": "2026-03-19",
+      "location": "Kent, OH, US",
+      "description": "Tenure-track position in industrial engineering focusing on manufacturing systems and complex engineered systems.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "industrial engineering",
+        "advanced manufacturing",
+        "systems engineering"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Faculty Tenure Track-9 Mo - Assistant/Associate Professor Aerospace Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=78ff22fc047292c9",
+      "date": "2026-03-19",
+      "location": "Kent, OH, US",
+      "description": "Tenure-track faculty position in aerospace engineering focusing on structures, materials, and advanced manufacturing.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "aerospace engineering",
+        "materials",
+        "advanced manufacturing",
+        "structures"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - 645",
+      "url": "https://www.indeed.com/viewjob?jk=088f8d9b68e389d4",
+      "date": "2026-03-19",
+      "location": "University of North Carolina at Pembroke at Pembroke, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track Assistant, Associate, or Full Professor, Aerospace Engineering, Daytona Beach Campus",
+      "url": "https://www.indeed.com/viewjob?jk=2e145a7422178cbd",
+      "date": "2026-03-19",
+      "location": "Embry-Riddle Aeronautical University at Daytona Beach, FL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant, Associate, or Full Professor of Music (Trombone), Tenured or Tenure-track position",
+      "url": "https://www.indeed.com/viewjob?jk=3173048dcbbf7a72",
+      "date": "2026-03-19",
+      "location": "Indiana University at Bloomington, IN, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Physics",
+      "url": "https://www.indeed.com/viewjob?jk=9ac3fb324b57d4b8",
+      "date": "2026-03-19",
+      "location": "Lincoln University at Jefferson City, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Frank Batten School of Leadership and Public Policy, General Faculty - Teaching",
+      "url": "https://www.indeed.com/viewjob?jk=be4fcb7ac83cceb6",
+      "date": "2026-03-19",
+      "location": "University of Virginia at Charlottesville, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=c2a8732fc499b1a0",
+      "date": "2026-03-19",
+      "location": "Lincoln University at Jefferson City, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Professor of Practice",
+      "url": "https://www.indeed.com/viewjob?jk=9c4236990d0771f8",
+      "date": "2026-03-19",
+      "location": "Auburn University at Auburn University, AL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor 10 Month of Maritime History - SUNY Maritime College",
+      "url": "https://www.indeed.com/viewjob?jk=3753640ffae0064b",
+      "date": "2026-03-18",
+      "location": "SUNY Maritime College at Bronx, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor 10 Month of Mathematics - SUNY Maritime College",
+      "url": "https://www.indeed.com/viewjob?jk=c08a74ac2c7f733f",
+      "date": "2026-03-18",
+      "location": "SUNY Maritime College at Bronx, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Instructor, Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=56db412d802691f2",
+      "date": "2026-03-12",
+      "location": "University of North Dakota at Grand Forks, ND, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4382398897",
+      "title": "Hill Assistant Professorships and other Postdoctoral Positions",
+      "url": "https://www.linkedin.com/jobs/view/4382398897",
+      "date": "2026-03-07",
+      "location": "Rutgers University at Piscataway, NJ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant, Associate, or Full Professor of Music (Trombone), Tenured or Tenure-track position",
       "url": "https://www.indeed.com/viewjob?jk=ea6d0d12942de558",
       "date": "2026-03-18",
       "location": "Indiana University at Bloomington, IN, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +181,7 @@
       "location": "University of Texas at Arlington at Arlington, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +192,7 @@
       "location": "Lincoln University at Jefferson City, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +203,7 @@
       "location": "John Carroll University at OH, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +214,7 @@
       "location": "University of Mississippi at Tupelo, MS, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +225,7 @@
       "location": "Clayton State University at Morrow, GA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +236,7 @@
       "location": "Marquette University at Milwaukee, WI, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +247,7 @@
       "location": "North Idaho College at Coeur d'Alene, ID, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +258,7 @@
       "location": "Oakland University at Rochester, MI",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,62 +269,7 @@
       "location": "University of Texas at El Paso at El Paso, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Biology",
-      "url": "https://www.indeed.com/viewjob?jk=a945409a16b67edd",
-      "date": "2026-03-16",
-      "location": "Eastern New Mexico University at Portales, NM, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4385291895",
-      "title": "Principal Research Scientist - AI & Machine Learning",
-      "url": "https://www.linkedin.com/jobs/view/4385291895",
-      "date": "2026-03-16",
-      "location": "Novateur Research Solutions at Ashburn, VA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Post Doc Research Fellow Lab - Takaku Lab",
-      "url": "https://www.indeed.com/viewjob?jk=5f36cef5fce563a4",
-      "date": "2026-03-13",
-      "location": "University of North Dakota at Grand Forks, ND, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Biological Sciences, Mic...",
-      "url": "https://www.indeed.com/viewjob?jk=287c439ae051e3b2",
-      "date": "2025-10-01",
-      "location": "Western Illinois University at Macomb, IL, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4387128291",
-      "title": "Open Rank Research Faculty Nephrology & Hypertension  >>>",
-      "url": "https://www.linkedin.com/jobs/view/4387128291",
-      "date": "",
-      "location": "Tulane University School of Medicine at New Orleans, LA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -351,6 +448,28 @@
       "url": "https://www.indeed.com/viewjob?jk=f14474bbff7a2e61",
       "date": "2026-03-17",
       "location": "Eastern Kentucky University at Richmond, KY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Biology",
+      "url": "https://www.indeed.com/viewjob?jk=a945409a16b67edd",
+      "date": "2026-03-16",
+      "location": "Eastern New Mexico University at Portales, NM, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4385291895",
+      "title": "Principal Research Scientist - AI & Machine Learning",
+      "url": "https://www.linkedin.com/jobs/view/4385291895",
+      "date": "2026-03-16",
+      "location": "Novateur Research Solutions at Ashburn, VA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -601,6 +720,17 @@
       "url": "https://www.linkedin.com/jobs/view/4385851663",
       "date": "2026-03-14",
       "location": "CommLabASU at Arizona State University at Valley, WV",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Post Doc Research Fellow Lab - Takaku Lab",
+      "url": "https://www.indeed.com/viewjob?jk=5f36cef5fce563a4",
+      "date": "2026-03-13",
+      "location": "University of North Dakota at Grand Forks, ND, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2778,6 +2908,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Biological Sciences, Mic...",
+      "url": "https://www.indeed.com/viewjob?jk=287c439ae051e3b2",
+      "date": "2025-10-01",
+      "location": "Western Illinois University at Macomb, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor, Homiletics",
       "url": "https://www.indeed.com/viewjob?jk=ad3f6a6ed1ae33aa",
       "date": "2025-09-11",
@@ -2837,6 +2978,17 @@
       "url": "https://www.indeed.com/viewjob?jk=c47d8c55bd5bbcb4",
       "date": "2025-08-10",
       "location": "Western Illinois University at Moline, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4387128291",
+      "title": "Open Rank Research Faculty Nephrology & Hypertension  >>>",
+      "url": "https://www.linkedin.com/jobs/view/4387128291",
+      "date": "",
+      "location": "Tulane University School of Medicine at New Orleans, LA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
