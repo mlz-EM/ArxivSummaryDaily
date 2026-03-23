@@ -2,14 +2,34 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-03-20T05:11:14Z",
+    "generatedAt": "2026-03-23T05:26:28Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 56 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 58 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2603.19943v1",
+      "title": "Physics-informed Bayesian Optimization for Quantitative High-Resolution Transmission Electron Microscopy",
+      "url": "https://arxiv.org/abs/2603.19943v1",
+      "date": "2026-03-20",
+      "summary": "This study implements a physics-informed Bayesian optimization framework to automate and accelerate HRTEM image quantification. By leveraging a stepwise probabilistic approach, the method determines 3D crystal structures from single images. Testing on BaTiO3 demonstrates a three to four order-of-magnitude improvement in time efficiency compared to conventional iterative approaches, enabling rapid, large-field-of-view analysis and full automation.",
+      "tags": [
+        "physics-comp-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2603.19942v1",
+      "title": "Physics-aware neural networks enable robust and full atomic structure determination via low-dose atomic electron tomography",
+      "url": "https://arxiv.org/abs/2603.19942v1",
+      "date": "2026-03-20",
+      "summary": "Researchers developed a physics-aware neural network (PANN) to enhance atomic electron tomography (AET) under low-dose conditions. PANN utilizes a 3D ResUNet for reconstruction refinement and a graph attention Transformer for elemental classification. The framework significantly reduces atomic coordinate errors and improves recovery rates, demonstrating robust generalization across diverse nanoparticles while mitigating beam damage in dose-sensitive materials.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2603.16607v1",
       "title": "Efficient methods for wave propagation in electron microscopy",

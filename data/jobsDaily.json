@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-03-20T05:12:51Z",
+    "generatedAt": "2026-03-23T05:30:11Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,395 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Public Policy and Management",
+      "url": "https://www.indeed.com/viewjob?jk=0a24aafb444e1df2",
+      "date": "2026-03-22",
+      "location": "University of Southern California at Los Angeles, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Teaching Professor - Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=eb2f5cc8dd2ec91a",
+      "date": "2026-03-20",
+      "location": "University of Wisconsin-Green Bay at Green Bay, WI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Faculty - Tenure-Track, Assistant Professor - Computer Science",
+      "url": "https://www.indeed.com/viewjob?jk=cb7ee934d983714f",
+      "date": "2026-03-20",
+      "location": "Utah Valley University at Orem, UT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor in Marine Biology and Ecology - Marine Biomedical Science or Quantitative Systems Ecology",
+      "url": "https://www.indeed.com/viewjob?jk=11e019d00bbd32b4",
+      "date": "2026-03-20",
+      "location": "University of Miami at Miami, FL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Library and Information Science (Archives/Special Collections)",
+      "url": "https://www.indeed.com/viewjob?jk=e0f0c07c455ea6a7",
+      "date": "2026-03-20",
+      "location": "St. Catherine University at Saint Paul, MN, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Open Rank - Associate/Assistant Research Professor-3",
+      "url": "https://www.indeed.com/viewjob?jk=749182dab6d2b47b",
+      "date": "2026-03-20",
+      "location": "University of Maryland University College at College Park, MD, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Professor of Aviation Studies",
+      "url": "https://www.indeed.com/viewjob?jk=199b0302dc6cc15b",
+      "date": "2026-03-20",
+      "location": "SCHREINER UNIVERSITY at Kerrville, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Practice (Career-Track)",
+      "url": "https://www.indeed.com/viewjob?jk=204ebebb4de91c67",
+      "date": "2026-03-20",
+      "location": "University of Arizona at Tucson, AZ, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4387954075",
+      "title": "Advanced Professional and Special Services, Educational Leadership - Full-Time, Tenure-Track As...",
+      "url": "https://www.linkedin.com/jobs/view/4387954075",
+      "date": "2026-03-20",
+      "location": "Inside Higher Ed at Edmond, OK",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Teaching Professor - Human Development & Family Science",
+      "url": "https://www.indeed.com/viewjob?jk=7ec09fdc8c65f2d7",
+      "date": "2026-03-20",
+      "location": "Bowling Green State University at Bowling Green, OH, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor (Open Rank) - Archivist for Student Success and Strategic Engagement - R108414",
+      "url": "https://www.indeed.com/viewjob?jk=8b2f9cb73a41200c",
+      "date": "2026-03-20",
+      "location": "University of Louisville at Louisville, KY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor (Open Rank) - Workforce Competencies Librarian - R108416",
+      "url": "https://www.indeed.com/viewjob?jk=1d724ff57f39660c",
+      "date": "2026-03-20",
+      "location": "University of Louisville at Louisville, KY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Teaching Professor - Interior Design",
+      "url": "https://www.indeed.com/viewjob?jk=5fa5adab8d1c8fd2",
+      "date": "2026-03-20",
+      "location": "Bowling Green State University at Bowling Green, OH, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Music and Band Director- START FALL 2026",
+      "url": "https://www.indeed.com/viewjob?jk=7a7af165f617307b",
+      "date": "2026-03-20",
+      "location": "Cheyney University of Pennsylvania at Cheyney, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Mathematics Tenure-track, 10-month",
+      "url": "https://www.indeed.com/viewjob?jk=4b216cadc83513c5",
+      "date": "2026-03-20",
+      "location": "Harford Community College at Bel Air, MD, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate/Full Professor",
+      "url": "https://www.indeed.com/viewjob?jk=576400e59dc791b0",
+      "date": "2026-03-20",
+      "location": "Auburn University at Auburn University, AL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Psychology",
+      "url": "https://www.indeed.com/viewjob?jk=5c1bb4ebfa8ade80",
+      "date": "2026-03-20",
+      "location": "SUNY Old Westbury at Old Westbury, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4387886698",
+      "title": "Open Rank",
+      "url": "https://www.linkedin.com/jobs/view/4387886698",
+      "date": "2026-03-19",
+      "location": "Inside Higher Ed at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor of Scenic Design",
+      "url": "https://www.indeed.com/viewjob?jk=4d0f4c89226eedcb",
+      "date": "2026-03-19",
+      "location": "University of Wisconsin–Madison at Madison, WI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4387899146",
+      "title": "Faculty Affairs Admin I",
+      "url": "https://www.linkedin.com/jobs/view/4387899146",
+      "date": "2026-03-19",
+      "location": "University of Rochester at Rochester, New York Metropolitan Area",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Teaching Professor in Landscape Architecture",
+      "url": "https://www.indeed.com/viewjob?jk=da6795706847551d",
+      "date": "2026-03-19",
+      "location": "The University of Rhode Island at Kingston, RI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Research Professor",
+      "url": "https://www.indeed.com/viewjob?jk=04cee9748ef521a0",
+      "date": "2026-03-19",
+      "location": "Arizona State University at Tempe, AZ, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4387898258",
+      "title": "Head, Assessment Programs and Collection Strategy",
+      "url": "https://www.linkedin.com/jobs/view/4387898258",
+      "date": "2026-03-19",
+      "location": "Inside Higher Ed at Knoxville, TN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4387425995",
+      "title": "Head of the Ken and Mary Alice Lindquist Department of Nuclear Engineering",
+      "url": "https://www.linkedin.com/jobs/view/4387425995",
+      "date": "2026-03-18",
+      "location": "State College, PA",
+      "description": "Seeks a department head to lead research in nuclear science and materials characterization.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "nuclear engineering",
+        "nuclear materials",
+        "materials characterization"
+      ]
+    },
+    {
+      "id": "www-4386874247",
+      "title": "AST/ASO/FULL PROF in Artificial Intelligence for Quantum Chemistry",
+      "url": "https://www.linkedin.com/jobs/view/4386874247",
+      "date": "2026-03-18",
+      "location": "Gainesville, FL",
+      "description": "Tenure-track faculty position focusing on AI-accelerated modeling of molecular quantum materials.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "quantum chemistry",
+        "quantum materials",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "id": "www-4386856864",
+      "title": "Social Work, Tenure-Track Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4386856864",
+      "date": "2026-03-18",
+      "location": "Inside Higher Ed at Harrisonburg, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Teaching Professor in Ocean Futures",
+      "url": "https://www.indeed.com/viewjob?jk=7b206e2d9621cd67",
+      "date": "2026-03-16",
+      "location": "Arizona State University at Tempe, AZ, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4268576802",
+      "title": "Boas Assistant Professorship in Mathematics",
+      "url": "https://www.linkedin.com/jobs/view/4268576802",
+      "date": "2026-03-15",
+      "location": "Northwestern University at Evanston, IL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4383153017",
+      "title": "Teaching Faculty I, 12 Month Salaried (American History)",
+      "url": "https://www.linkedin.com/jobs/view/4383153017",
+      "date": "2026-03-13",
+      "location": "Florida State University at Tallahassee, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Directing & Acting Faculty",
+      "url": "https://www.indeed.com/viewjob?jk=57edf432a3e401b2",
+      "date": "2026-03-10",
+      "location": "University of North Carolina School of the Arts at Winston-Salem, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4332804412",
+      "title": "Boas Assistant Professorship in Mathematics",
+      "url": "https://www.linkedin.com/jobs/view/4332804412",
+      "date": "2026-03-07",
+      "location": "Northwestern University at Evanston, IL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4376386354",
+      "title": "Musicology/Historical Musicology/Ethnomusicology Faculty. Tenured or Tenure Track. Open Rank. N...",
+      "url": "https://www.linkedin.com/jobs/view/4376386354",
+      "date": "2026-02-22",
+      "location": "Inside Higher Ed at Knoxville, TN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4388795333",
+      "title": "Open Rank, Finance Faculty (T/TT)",
+      "url": "https://www.linkedin.com/jobs/view/4388795333",
+      "date": "",
+      "location": "Inside Higher Ed at Virginia, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4388791677",
+      "title": "PRODiG+ Postdoc in Diaspora Studies",
+      "url": "https://www.linkedin.com/jobs/view/4388791677",
+      "date": "",
+      "location": "Inside Higher Ed at Binghamton, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Faculty Tenure Track-9 Mo - Assistant Professor, Industrial and Systems Engineering",
       "url": "https://www.indeed.com/viewjob?jk=a8c3ba9a3771a427",
       "date": "2026-03-19",
       "location": "Kent, OH, US",
       "description": "Tenure-track position in industrial engineering focusing on manufacturing systems and complex engineered systems.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "industrial engineering",
         "advanced manufacturing",
@@ -33,7 +415,7 @@
       "location": "Kent, OH, US",
       "description": "Tenure-track faculty position in aerospace engineering focusing on structures, materials, and advanced manufacturing.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "aerospace engineering",
         "materials",
@@ -49,7 +431,7 @@
       "location": "University of North Carolina at Pembroke at Pembroke, NC, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -60,7 +442,7 @@
       "location": "Embry-Riddle Aeronautical University at Daytona Beach, FL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -71,7 +453,7 @@
       "location": "Indiana University at Bloomington, IN, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -82,7 +464,7 @@
       "location": "Lincoln University at Jefferson City, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -93,7 +475,7 @@
       "location": "University of Virginia at Charlottesville, VA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -104,7 +486,7 @@
       "location": "Lincoln University at Jefferson City, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -115,7 +497,7 @@
       "location": "Auburn University at Auburn University, AL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -126,7 +508,7 @@
       "location": "SUNY Maritime College at Bronx, NY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -137,29 +519,7 @@
       "location": "SUNY Maritime College at Bronx, NY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Instructor, Engineering",
-      "url": "https://www.indeed.com/viewjob?jk=56db412d802691f2",
-      "date": "2026-03-12",
-      "location": "University of North Dakota at Grand Forks, ND, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4382398897",
-      "title": "Hill Assistant Professorships and other Postdoctoral Positions",
-      "url": "https://www.linkedin.com/jobs/view/4382398897",
-      "date": "2026-03-07",
-      "location": "Rutgers University at Piscataway, NJ",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -808,6 +1168,17 @@
       "url": "https://www.indeed.com/viewjob?jk=846d71d1ec8e8087",
       "date": "2026-03-13",
       "location": "University of North Carolina at Pembroke at Pembroke, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Instructor, Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=56db412d802691f2",
+      "date": "2026-03-12",
+      "location": "University of North Dakota at Grand Forks, ND, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1575,6 +1946,17 @@
       "url": "https://www.indeed.com/viewjob?jk=65b8ca2222531fcb",
       "date": "2026-03-08",
       "location": "Delta State University at Cleveland, MS, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4382398897",
+      "title": "Hill Assistant Professorships and other Postdoctoral Positions",
+      "url": "https://www.linkedin.com/jobs/view/4382398897",
+      "date": "2026-03-07",
+      "location": "Rutgers University at Piscataway, NJ",
       "description": "",
       "fitScore": 0,
       "isNew": false,
