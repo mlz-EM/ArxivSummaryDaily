@@ -2,14 +2,78 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-03-23T05:26:28Z",
+    "generatedAt": "2026-03-24T05:19:33Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 58 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 64 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2603.21226v1",
+      "title": "Effects of fuel and soot characteristics on the inception and development of contrails",
+      "url": "https://arxiv.org/abs/2603.21226v1",
+      "date": "2026-03-22",
+      "summary": "This study develops a laboratory-scale facility and numerical models to investigate contrail inception and growth under aircraft-relevant conditions. It finds that contrail scattering propensity is more sensitive to exhaust water vapor content than soot concentrations. Additionally, higher equivalence ratios increase scattering cross-sections, and depolarization measurements reveal asphericity in ice crystal habits.",
+      "tags": [
+        "physics-flu-dyn",
+        "physics-ao-ph",
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2603.20952v1",
+      "title": "Structured Ytterbium and Erbium -doped Silica Fiber for Dual Wavelength Laser Operation",
+      "url": "https://arxiv.org/abs/2603.20952v1",
+      "date": "2026-03-21",
+      "summary": "Researchers developed a novel dual-wavelength fiber laser using a structured-core silica fiber with spatially separated ytterbium and erbium-doped regions. The study demonstrates simultaneous laser emission at 1042 nm and 1550 nm. A key finding is that the output power ratio between the two wavelengths can be effectively controlled by adjusting the length of the active fiber.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2603.20858v1",
+      "title": "From Photons to Electrons: Accelerated Materials Discovery via Random Libraries and Automated Scanning Transmission Electron Microscopy",
+      "url": "https://arxiv.org/abs/2603.20858v1",
+      "date": "2026-03-21",
+      "summary": "This paper proposes accelerating materials discovery by transitioning from photon-based to electron-based characterization using random chemical libraries and automated STEM. Simulations show this approach samples high-dimensional composition spaces orders-of-magnitude more effectively than conventional methods. The authors demonstrate autonomous discovery on a laboratory STEM platform using machine learning for iterative region selection and characterization without human intervention.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2603.20744v1",
+      "title": "Temperature-dependent vibrational EELS simulations with nuclear quantum effects",
+      "url": "https://arxiv.org/abs/2603.20744v1",
+      "date": "2026-03-21",
+      "summary": "The authors incorporate thermostatted ring polymer molecular dynamics into the TACAW framework to model low-temperature vibrational electron energy loss spectroscopy (EELS) while accounting for nuclear quantum effects. The method correctly predicts nearly temperature-independent optical phonon peak intensities in silicon. This provides a robust theoretical tool for analyzing cryogenic scanning transmission electron microscopy experiments where classical molecular dynamics predictions fail.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2603.20689v1",
+      "title": "Emerging hierarchical dislocation structures: Insights from scanning electron microscopy-electron backscatter diffraction in situ tensile testing and multifractal analysis",
+      "url": "https://arxiv.org/abs/2603.20689v1",
+      "date": "2026-03-21",
+      "summary": "This study employs in situ SEM-EBSD tensile testing and multifractal analysis to investigate dislocation structure evolution in 304L stainless steel. It finds that both nonirradiated and neutron-irradiated specimens form hierarchical dislocation arrangements with similar scaling behavior. The analysis reveals that irradiation accelerates the emergence and evolution of these structures while modifying correlation-driven organization, demonstrating multifractal analysis as a powerful mesoscale tool.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2603.20635v1",
+      "title": "Substrate-Mediated Evaporation and Stochastic Evolution of Supported Au Nanoparticles",
+      "url": "https://arxiv.org/abs/2603.20635v1",
+      "date": "2026-03-21",
+      "summary": "Using in situ TEM and automated tracking, this study investigates the high-temperature evolution of supported gold nanoparticles. It finds that average mass loss is governed by size-independent substrate-mediated evaporation. However, individual nanoparticles exhibit significant stochastic fluctuations, following random-walk trajectories. The authors develop a theory coupling evaporation with collective mass exchange and Langevin-type fluctuations to explain both ensemble-mean behavior and particle-resolved variability.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-soft",
+        "cond-mat-stat-mech"
+      ]
+    },
     {
       "id": "arxiv-2603.19943v1",
       "title": "Physics-informed Bayesian Optimization for Quantitative High-Resolution Transmission Electron Microscopy",
