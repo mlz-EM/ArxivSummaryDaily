@@ -2,14 +2,25 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-03-24T05:19:33Z",
+    "generatedAt": "2026-03-25T05:19:04Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 64 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 65 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2603.23110v1",
+      "title": "Formation of Ag and Au Plasmonic Nanoparticles by Ion Implantation in Ga$_2$O$_3$ thin films",
+      "url": "https://arxiv.org/abs/2603.23110v1",
+      "date": "2026-03-24",
+      "summary": "This study demonstrates the formation of plasmonic silver and gold nanoparticles in Ga2O3 thin films via ion implantation and thermal annealing. Key findings include the confirmation of metallic nanoparticles through TEM and RBS, with Ag showing LSPR bands as-implanted and Au requiring annealing above 500 °C. Observed LSPR shifts were primarily linked to matrix changes rather than nanoparticle size variations.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
     {
       "id": "arxiv-2603.21226v1",
       "title": "Effects of fuel and soot characteristics on the inception and development of contrails",
