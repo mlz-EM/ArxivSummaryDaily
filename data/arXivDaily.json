@@ -2,14 +2,65 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-03-25T05:19:04Z",
+    "generatedAt": "2026-03-26T05:28:13Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 65 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 70 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2603.24565v1",
+      "title": "Chiral Epitaxy: Enantioselective Growth of Chiral Nanowires on Low-Symmetry Two-Dimensional Materials",
+      "url": "https://arxiv.org/abs/2603.24565v1",
+      "date": "2026-03-25",
+      "summary": "This study demonstrates the enantioselective growth of chiral tellurium nanowires on the low-symmetry 2D material ReSe2 via vapor-phase synthesis. The researchers found that handedness is determined at nucleation by interface energy differences between Te enantiomers and the chiral substrate. This chiral epitaxy provides a solvent-free, vapor-solid route to homochiral crystals compatible with semiconductor and quantum manufacturing processes.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2603.24416v1",
+      "title": "Substrate-dependent pore formation in molybdenum disulfide monolayers under ion irradiation",
+      "url": "https://arxiv.org/abs/2603.24416v1",
+      "date": "2026-03-25",
+      "summary": "The study investigates nanopore formation in monolayer MoS2 on various substrates under highly charged and swift heavy ion irradiation. Findings reveal that pore size and formation efficiency are highly substrate-dependent, with SiO2 enhancing pore formation and gold significantly quenching it. This indicates that substrate and interface-dependent electronic dissipation pathways play a central role in the nanostructuring of ultrathin materials.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2603.24320v1",
+      "title": "Automatic LbL-LPE Spin-Coating Strategy for the Fabrication of Highly Oriented Mixed-Linker MOF Thin Films for Orientation-Dependent Applications",
+      "url": "https://arxiv.org/abs/2603.24320v1",
+      "date": "2026-03-25",
+      "summary": "This work establishes an automated spin-assisted layer-by-layer liquid-phase epitaxy protocol for the high-throughput fabrication of oriented MOF thin films. Using Zn2BDC2DABCO, the study demonstrates that the automated workflow ensures reproducible crystal alignment and film homogeneity. This approach accelerates the production of materials for orientation-dependent applications while providing key quality metrics like the Hermans orientation parameter for assessing alignment.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2603.24264v1",
+      "title": "Exploring the Structure and Chemistry of 1D and 2D Lepidocrocite TiO2 at Atomic Resolution",
+      "url": "https://arxiv.org/abs/2603.24264v1",
+      "date": "2026-03-25",
+      "summary": "Researchers investigate the structural and chemical properties of 1D and 2D lepidocrocite-type titania using advanced electron microscopy and theoretical calculations. The study finds that the 1D material's unique anisotropic growth is driven by the incorporation of light element impurities, such as carbon, during synthesis. These results offer fundamental insights into the growth and chemistry of unexplored low-dimensional titania materials.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2603.23958v1",
+      "title": "Fundamentals and applications of aberration corrected high resolution transmission electron microscopy in materials science",
+      "url": "https://arxiv.org/abs/2603.23958v1",
+      "date": "2026-03-25",
+      "summary": "This review explores the fundamentals and applications of aberration-corrected phase contrast transmission electron microscopy for atomic-scale material characterization. It covers techniques like negative Cs phase contrast and electron ptychography, providing quantitative imaging examples. The authors highlight how these advanced tools and reconstruction methods solve challenging structural and electronic problems in materials science, offering a perspective on future developments.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2603.23110v1",
       "title": "Formation of Ag and Au Plasmonic Nanoparticles by Ion Implantation in Ga$_2$O$_3$ thin films",
