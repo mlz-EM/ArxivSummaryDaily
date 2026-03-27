@@ -2,10 +2,10 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-03-26T05:28:13Z",
+    "generatedAt": "2026-03-27T05:28:56Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 70 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 71 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
@@ -57,6 +57,16 @@
       "url": "https://arxiv.org/abs/2603.23958v1",
       "date": "2026-03-25",
       "summary": "This review explores the fundamentals and applications of aberration-corrected phase contrast transmission electron microscopy for atomic-scale material characterization. It covers techniques like negative Cs phase contrast and electron ptychography, providing quantitative imaging examples. The authors highlight how these advanced tools and reconstruction methods solve challenging structural and electronic problems in materials science, offering a perspective on future developments.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2603.24776v1",
+      "title": "Visualizing Millisecond Atomic Dynamics of Nanocrystals in Liquid",
+      "url": "https://arxiv.org/abs/2603.24776v1",
+      "date": "2026-03-25",
+      "summary": "This study aims to visualize atomic-scale dynamics of gold nanocrystals in reactive liquid environments using millisecond-speed liquid cell electron microscopy and deep-learning denoising. It reveals reversible fluctuations in local crystallinity driven by nanocrystal-liquid interface interactions. These transient fluctuations are found to critically influence dissolution kinetics and grain boundary relaxation, providing insights into nanomaterial stability and reactivity.",
       "tags": [
         "cond-mat-mtrl-sci"
       ]
