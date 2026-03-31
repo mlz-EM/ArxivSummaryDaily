@@ -2,14 +2,75 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-03-30T05:54:08Z",
+    "generatedAt": "2026-03-31T05:31:17Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 71 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 77 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2603.28354v1",
+      "title": "Work-Function-Resolved Imaging of Relaxation Oscillations and Chemical Spillover in CO Oxidation over Platinum Surfaces",
+      "url": "https://arxiv.org/abs/2603.28354v1",
+      "date": "2026-03-30",
+      "summary": "This study investigates local electronic mechanisms in CO oxidation on platinum using operando SEM and FM-KPFM. It provides the first work-function-resolved imaging of reaction fronts, enabling physical assignment of CO- and oxygen-covered states. Findings reveal pronounced temporal asymmetry and spatial heterogeneity in chemical wave propagation, with rapid oxygen onset followed by gradual relaxation to the CO-covered state.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2603.28187v1",
+      "title": "Grain boundary defects induced Tc increment in MnSi",
+      "url": "https://arxiv.org/abs/2603.28187v1",
+      "date": "2026-03-30",
+      "summary": "This work investigates the microstructure and magnetic properties of MnSi thin films synthesized using magnetron sputtering and laser annealing. The study demonstrates that the Curie temperature can be increased fourfold, from 30 K to 120 K, by precisely controlling the crystal size to approximately 20 nm. This highlights laser annealing as a versatile method for fabricating miniaturized magnetic devices.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2603.28136v1",
+      "title": "Quantification of magnetic interactions in van der Waals heterostructures using Lorentz transmission electron microscopy and electron holography",
+      "url": "https://arxiv.org/abs/2603.28136v1",
+      "date": "2026-03-30",
+      "summary": "The study quantifies magnetic interactions in Fe3GeTe2/graphite/Fe3GeTe2 heterostructures using cross-sectional Lorentz transmission electron microscopy and electron holography. It identifies a dipolar coupling length scale of 34 nm, where domain misalignment emerges and the interlayer field reduces by 50%. Results also reveal magnetic moment canting near surfaces and narrow domain walls, providing guidance for designing controllable van der Waals magnetic devices.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2603.27272v1",
+      "title": "Designing dislocation-driven polar vortex networks in twisted perovskites",
+      "url": "https://arxiv.org/abs/2603.27272v1",
+      "date": "2026-03-28",
+      "summary": "This research explores the coupling between interfacial dislocation networks and topological vortices in twisted freestanding SrTiO3 layers. Using 4D-STEM and phase-field modeling, the authors demonstrate that interfacial reconstruction into screw dislocation networks, rather than geometric moire patterns, stabilizes long-range ordered polar vortex-antivortex arrays. This establishes twist-controlled dislocations as a method for designing local polar and electronic structures in oxides.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2603.27082v1",
+      "title": "Channeling-in channeling-out revisited: selected area electron channeling and electron backscatter diffraction",
+      "url": "https://arxiv.org/abs/2603.27082v1",
+      "date": "2026-03-28",
+      "summary": "This paper investigates the coupling between channeling-in and channeling-out effects in SEM by combining selected-area electron channeling patterns with EBSD. The study finds that EBSD quality metrics and signal-to-noise ratios are strongly modulated by the underlying channeling pattern. These results indicate that channeling-in significantly biases EBSD data interpretation, impacting methods like strain mapping and machine-learning-based diffraction analysis.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2603.26960v1",
+      "title": "Heterointerface-Engineered Electrochemically Exfoliated MoS2/WS2 2D-Layered Nanocomposite for Efficient Visible-Light Photocatalytic Degradation of Sorafenib",
+      "url": "https://arxiv.org/abs/2603.26960v1",
+      "date": "2026-03-27",
+      "summary": "This study aims to develop a MoS2/WS2 2D nanocomposite via electrochemical exfoliation for the visible-light-driven photocatalytic degradation of the anticancer drug sorafenib. The resulting heterostructure achieved 92% degradation within two hours. This enhanced performance is attributed to a Type-II band alignment that facilitates effective charge separation and directional transfer, providing a viable platform for removing persistent pharmaceutical pollutants.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2603.24565v1",
       "title": "Chiral Epitaxy: Enantioselective Growth of Chiral Nanowires on Low-Symmetry Two-Dimensional Materials",
