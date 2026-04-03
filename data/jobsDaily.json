@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-02T05:31:05Z",
+    "generatedAt": "2026-04-03T05:31:16Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,139 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor, Creative Writing/Poetry - 9 month appt",
+      "url": "https://www.indeed.com/viewjob?jk=e7cae5bfaea485a0",
+      "date": "2026-04-02",
+      "location": "Missouri State University at Springfield, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Academic Professional Track (Non-Tenure): Instructional Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=572c9feaa173d07e",
+      "date": "2026-04-02",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Postdoctoral Research Associate (Chemistry)",
+      "url": "https://www.indeed.com/viewjob?jk=daecdef0021fad6c",
+      "date": "2026-04-02",
+      "location": "Amherst College at Amherst, MA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Psychology Tenure Track at Fayetteville State University",
+      "url": "https://www.indeed.com/viewjob?jk=dceb6e7cbe8ac10c",
+      "date": "2026-04-02",
+      "location": "Fayetteville State University at Fayetteville, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Academic Professional Track (Non-Tenure): Instructional Assistant Professor and Internship Coordinator",
+      "url": "https://www.indeed.com/viewjob?jk=473dcdd8103b01e4",
+      "date": "2026-04-02",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Psychology and Counseling",
+      "url": "https://www.indeed.com/viewjob?jk=6e008cabad58ac2c",
+      "date": "2026-04-01",
+      "location": "University of Central Arkansas at Conway, AR, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4392018425",
+      "title": "Barksdale Fellow/Faculty Fellow",
+      "url": "https://www.linkedin.com/jobs/view/4392018425",
+      "date": "2026-03-28",
+      "location": "University of Mississippi at University, MS",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4390315488",
+      "title": "AST PROF",
+      "url": "https://www.linkedin.com/jobs/view/4390315488",
+      "date": "2026-03-25",
+      "location": "Inside Higher Ed at Gainesville, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Chemistry and Biochemistry, Teaching Assistant Professor, Non-Tenure Track",
+      "url": "https://www.indeed.com/viewjob?jk=c20655763a6d7be8",
+      "date": "2026-03-25",
+      "location": "Loyola University Chicago at Chicago, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4396060640",
+      "title": "The Grainger College of Engineering: Faculty (Open Rank) - Aerospace Engineering",
+      "url": "https://www.linkedin.com/jobs/view/4396060640",
+      "date": "2026-03-09",
+      "location": "University of Illinois Urbana-Champaign at Urbana, IL",
+      "description": "Tenure-track faculty role in aerospace engineering focusing on high-temperature physics and thermochemical materials interactions.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "aerospace engineering",
+        "high-temperature physics",
+        "hypersonics",
+        "thermochemical interactions"
+      ]
+    },
+    {
+      "id": "www-4396072240",
+      "title": "Open-Rank Teaching Faculty Position in Mechanical Engineering & Mechanics",
+      "url": "https://www.linkedin.com/jobs/view/4396072240",
+      "date": "",
+      "location": "FAMU National Alumni Association at Bethlehem, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor-Tenure System",
       "url": "https://www.indeed.com/viewjob?jk=9ecde63ecccd358b",
       "date": "2026-04-01",
       "location": "East Lansing, MI, US",
       "description": "Tenure-track position focused on civil engineering materials research and undergraduate instruction.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "civil engineering",
         "materials science",
@@ -33,7 +159,7 @@
       "location": "Allan Hancock College at Santa Maria, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -44,7 +170,7 @@
       "location": "University of Houston at Houston, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -55,7 +181,7 @@
       "location": "University of North Texas - Dallas at Dallas, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -66,7 +192,7 @@
       "location": "Hofstra University at Hempstead, NY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -77,7 +203,7 @@
       "location": "Ball State University at Muncie, IN, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -88,7 +214,7 @@
       "location": "Lamar University at Beaumont, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -99,7 +225,7 @@
       "location": "North Dakota University System at Fargo, ND, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -110,7 +236,7 @@
       "location": "University of the District of Columbia at Washington, DC, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -121,7 +247,7 @@
       "location": "University of Texas at Dallas at Richardson, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -132,7 +258,7 @@
       "location": "Missouri State University at Springfield, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -143,7 +269,7 @@
       "location": "New Mexico State University at Las Cruces, NM, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -154,7 +280,7 @@
       "location": "University of Texas at Arlington at Arlington, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -165,7 +291,7 @@
       "location": "Nevada State University at Henderson, NV, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -176,7 +302,7 @@
       "location": "University of Kentucky at Lexington, KY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -187,7 +313,7 @@
       "location": "Lamar University at Beaumont, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -198,7 +324,7 @@
       "location": "Auburn University at Auburn University, AL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -209,7 +335,7 @@
       "location": "University of Nebraska at Kearney, NE, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -220,132 +346,7 @@
       "location": "University of Nebraska at Kearney at Kearney, NE, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant/Associate Professor/Professor of Legal Writing",
-      "url": "https://www.indeed.com/viewjob?jk=f2b23c626cfbde5f",
-      "date": "2026-03-30",
-      "location": "Hofstra University at Hempstead, NY, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4391210439",
-      "title": "Tenure-Track Faculty Member In Marine Diving Technology Program",
-      "url": "https://www.linkedin.com/jobs/view/4391210439",
-      "date": "2026-03-27",
-      "location": "Santa Barbara City College at Santa Barbara, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4390315486",
-      "title": "AST/ASO/FULL PROF",
-      "url": "https://www.linkedin.com/jobs/view/4390315486",
-      "date": "2026-03-25",
-      "location": "Inside Higher Ed at Gainesville, FL",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4389777477",
-      "title": "Electrical Engineering Technology 9/10 Month Faculty (Fall 2026)",
-      "url": "https://www.linkedin.com/jobs/view/4389777477",
-      "date": "2026-03-24",
-      "location": "Tennessee Board of Regents (TBR) at Knoxville, TN",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4387782031",
-      "title": "Full Time Faculty - HVACR (Tenure Track, Fall 2026)",
-      "url": "https://www.linkedin.com/jobs/view/4387782031",
-      "date": "2026-03-20",
-      "location": "College of DuPage at Glen Ellyn, IL",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4395246199",
-      "title": "Grainger College of Engineering: Faculty (Open Rank) - Industrial & Enterprise Systems Engineering",
-      "url": "https://www.linkedin.com/jobs/view/4395246199",
-      "date": "2026-03-08",
-      "location": "Urbana, IL",
-      "description": "Tenure-track faculty role specializing in systems engineering, design innovation, and advanced manufacturing.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "systems engineering",
-        "advanced manufacturing",
-        "tenure-track"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Business (Tenure Track) (Entrepreneurship & Finance)",
-      "url": "https://www.indeed.com/viewjob?jk=141d70cba05f684c",
-      "date": "2026-03-05",
-      "location": "County College Of Morris at Randolph, NJ, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4393074862",
-      "title": "Chairperson-Agriculture",
-      "url": "https://www.linkedin.com/jobs/view/4393074862",
-      "date": "",
-      "location": "Southeast Missouri State University at Cape Girardeau, MO",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4394942423",
-      "title": "2026-2027 Faculty Associate-Success by Design",
-      "url": "https://www.linkedin.com/jobs/view/4394942423",
-      "date": "",
-      "location": "Arizona State University at Tempe, AZ",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4394359190",
-      "title": "Marketing Strategy, Emerging Technologies, Ethical Innovation",
-      "url": "https://www.linkedin.com/jobs/view/4394359190",
-      "date": "",
-      "location": "University of Redlands at Redlands, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4394948314",
-      "title": "Assoc Prof of Bus n PP",
-      "url": "https://www.linkedin.com/jobs/view/4394948314",
-      "date": "",
-      "location": "Young Harris College at Young Harris, GA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -508,6 +509,17 @@
       "url": "https://www.indeed.com/viewjob?jk=d3f73014ea826f93",
       "date": "2026-03-31",
       "location": "University of Pittsburgh at Bradford, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor/Professor of Legal Writing",
+      "url": "https://www.indeed.com/viewjob?jk=f2b23c626cfbde5f",
+      "date": "2026-03-30",
+      "location": "Hofstra University at Hempstead, NY, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -684,6 +696,17 @@
       "url": "https://www.linkedin.com/jobs/view/4391629204",
       "date": "2026-03-28",
       "location": "Utah Valley University at Orem, UT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4391210439",
+      "title": "Tenure-Track Faculty Member In Marine Diving Technology Program",
+      "url": "https://www.linkedin.com/jobs/view/4391210439",
+      "date": "2026-03-27",
+      "location": "Santa Barbara City College at Santa Barbara, CA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1031,6 +1054,17 @@
       "keywords": []
     },
     {
+      "id": "www-4390315486",
+      "title": "AST/ASO/FULL PROF",
+      "url": "https://www.linkedin.com/jobs/view/4390315486",
+      "date": "2026-03-25",
+      "location": "Inside Higher Ed at Gainesville, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4390941493",
       "title": "Computing Sciences Faculty PRODiG+ CC (FA)",
       "url": "https://www.linkedin.com/jobs/view/4390941493",
@@ -1162,6 +1196,17 @@
       "url": "https://www.indeed.com/viewjob?jk=4a30ba538373c28d",
       "date": "2026-03-25",
       "location": "nan at Worcester, MA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4389777477",
+      "title": "Electrical Engineering Technology 9/10 Month Faculty (Fall 2026)",
+      "url": "https://www.linkedin.com/jobs/view/4389777477",
+      "date": "2026-03-24",
+      "location": "Tennessee Board of Regents (TBR) at Knoxville, TN",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1745,6 +1790,17 @@
       "url": "https://www.indeed.com/viewjob?jk=0a24aafb444e1df2",
       "date": "2026-03-22",
       "location": "University of Southern California at Los Angeles, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4387782031",
+      "title": "Full Time Faculty - HVACR (Tenure Track, Fall 2026)",
+      "url": "https://www.linkedin.com/jobs/view/4387782031",
+      "date": "2026-03-20",
+      "location": "College of DuPage at Glen Ellyn, IL",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -3747,6 +3803,21 @@
       "keywords": []
     },
     {
+      "id": "www-4395246199",
+      "title": "Grainger College of Engineering: Faculty (Open Rank) - Industrial & Enterprise Systems Engineering",
+      "url": "https://www.linkedin.com/jobs/view/4395246199",
+      "date": "2026-03-08",
+      "location": "Urbana, IL",
+      "description": "Tenure-track faculty role specializing in systems engineering, design innovation, and advanced manufacturing.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "systems engineering",
+        "advanced manufacturing",
+        "tenure-track"
+      ]
+    },
+    {
       "id": "www-4382684712",
       "title": "Tenure-track faculty positions, Electrical and Computer Engineering",
       "url": "https://www.linkedin.com/jobs/view/4382684712",
@@ -4089,6 +4160,17 @@
       "url": "https://www.indeed.com/viewjob?jk=c2ca78997267f9bb",
       "date": "2026-03-06",
       "location": "University of Nebraska at Kearney at Kearney, NE, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Business (Tenure Track) (Entrepreneurship & Finance)",
+      "url": "https://www.indeed.com/viewjob?jk=141d70cba05f684c",
+      "date": "2026-03-05",
+      "location": "County College Of Morris at Randolph, NJ, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -5356,6 +5438,50 @@
       "url": "https://www.indeed.com/viewjob?jk=c47d8c55bd5bbcb4",
       "date": "2025-08-10",
       "location": "Western Illinois University at Moline, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4393074862",
+      "title": "Chairperson-Agriculture",
+      "url": "https://www.linkedin.com/jobs/view/4393074862",
+      "date": "",
+      "location": "Southeast Missouri State University at Cape Girardeau, MO",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4394942423",
+      "title": "2026-2027 Faculty Associate-Success by Design",
+      "url": "https://www.linkedin.com/jobs/view/4394942423",
+      "date": "",
+      "location": "Arizona State University at Tempe, AZ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4394359190",
+      "title": "Marketing Strategy, Emerging Technologies, Ethical Innovation",
+      "url": "https://www.linkedin.com/jobs/view/4394359190",
+      "date": "",
+      "location": "University of Redlands at Redlands, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4394948314",
+      "title": "Assoc Prof of Bus n PP",
+      "url": "https://www.linkedin.com/jobs/view/4394948314",
+      "date": "",
+      "location": "Young Harris College at Young Harris, GA",
       "description": "",
       "fitScore": 0,
       "isNew": false,

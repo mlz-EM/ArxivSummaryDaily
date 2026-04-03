@@ -2,14 +2,90 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-02T05:29:31Z",
+    "generatedAt": "2026-04-03T05:29:04Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 77 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 84 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.01784v1",
+      "title": "Understanding ultrafast x-ray 'echoes' diffracted from single crystals",
+      "url": "https://arxiv.org/abs/2604.01784v1",
+      "date": "2026-04-02",
+      "summary": "This study uses tele-ptychography to image ultrafast x-ray diffraction echoes in perfect crystals. Researchers observed ten echo maxima with a total temporal delay under 108 fs, suggesting applications for ultrafast beam splitters and monitoring rapid structural changes in single crystals.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2604.01691v1",
+      "title": "Bond-density-wave orders induced by geometric frustration in the kagome metal CeRu3Si2",
+      "url": "https://arxiv.org/abs/2604.01691v1",
+      "date": "2026-04-02",
+      "summary": "Researchers investigated geometric frustration in the kagome metal CeRu3Si2. They discovered bond-density-wave orders above room temperature, where interlayer bonds modulate to satisfy a zero-sum constraint. This finding establishes chemical bonding as a distinct pathway for frustration physics in quantum materials, expanding beyond traditional spin and charge systems.",
+      "tags": [
+        "cond-mat-str-el"
+      ]
+    },
+    {
+      "id": "arxiv-2604.00793v1",
+      "title": "Laser-generated CuPdAgPtAu High-Entropy Alloy Nanoparticles -- Thermal Segregation Threshold and Elemental Segregation",
+      "url": "https://arxiv.org/abs/2604.00793v1",
+      "date": "2026-04-01",
+      "summary": "This study investigates the elemental segregation and thermal stability of laser-generated CuPdAgPtAu high-entropy alloy nanoparticles. Findings show that rapid quenching suppresses thermodynamic segregation, while post-synthesis heating triggers Cu-Ag phase segregation, demonstrating that these nanoparticles can be stabilized under kinetic control for high-temperature catalytic applications.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.00483v1",
+      "title": "Revealing buried ferroelectric topologies by depth-resolved electron diffraction imaging",
+      "url": "https://arxiv.org/abs/2604.00483v1",
+      "date": "2026-04-01",
+      "summary": "The authors developed Depth-Resolved Electron Diffraction Imaging (DREDI) to map buried ferroelectric topologies in BiFeO3 films. DREDI revealed that surface stripes evolve into subsurface flux-closure vortices and vertices, enabling volumetric studies of buried configurations driven by strain heterogeneity and ferroelastic twinning.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2604.00359v1",
+      "title": "AI-assisted Human-in-the-Loop Web Platform for Structural Characterization in Hard drive design",
+      "url": "https://arxiv.org/abs/2604.00359v1",
+      "date": "2026-04-01",
+      "summary": "This paper presents a human-AI-assisted web platform for automated structural characterization in hard drive design. The workflow integrates peak detection with interactive correction to enable precise, scalable quantification of layer thickness and interface roughness in STEM images, bridging human insight and machine precision for semiconductor metrology.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cs-cv"
+      ]
+    },
+    {
+      "id": "arxiv-2604.00288v1",
+      "title": "Spatially modulated morphotropic phase boundaries in a compressively strained multiferroic thin film",
+      "url": "https://arxiv.org/abs/2604.00288v1",
+      "date": "2026-03-31",
+      "summary": "This study explores self-organizing structures of morphotropic phase boundaries in compressively strained BiFeO3 thin films. Researchers identified flat and zig-zag interphase boundaries with atomic-scale polarization rotation, suggesting these modulated structures can be engineered for enhanced piezoelectric and magnetic properties in potential device applications.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2603.29934v1",
+      "title": "Molecular beam epitaxy of wafer-scale O-band InAs/InGaAs quantum dots on GaAs for quantum photonics",
+      "url": "https://arxiv.org/abs/2603.29934v1",
+      "date": "2026-03-31",
+      "summary": "This research develops a scalable molecular beam epitaxy strategy to produce low-density O-band InAs/InGaAs quantum dots on GaAs. By utilizing gradient deposition, the team achieved controlled dot density and demonstrated electrically tunable single-photon emission with high purity, confirming the method's potential for large-scale quantum photonic applications.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall",
+        "physics-app-ph"
+      ]
+    },
     {
       "id": "arxiv-2603.28354v1",
       "title": "Work-Function-Resolved Imaging of Relaxation Oscillations and Chemical Spillover in CO Oxidation over Platinum Surfaces",
