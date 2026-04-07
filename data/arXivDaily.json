@@ -2,14 +2,34 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-06T05:54:32Z",
+    "generatedAt": "2026-04-07T05:45:20Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 84 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 86 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.04508v1",
+      "title": "Epitaxial MgSnN2 on 4H-SiC (0001): An Earth-Abundant Nitride for Green Optoelectronics and Photovoltaics",
+      "url": "https://arxiv.org/abs/2604.04508v1",
+      "date": "2026-04-06",
+      "summary": "This study demonstrates the epitaxial growth of MgSnN2 on 4H-SiC(0001) using magnetron sputtering for green optoelectronics. Findings reveal a wurtzite structure with high absorption coefficients and photoluminescence at ~2.4 eV. These results establish MgSnN2 as a viable, earth-abundant, and environmentally friendly alternative to III-nitrides for sustainable photovoltaic applications.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.04446v1",
+      "title": "Atomic Structure of Grain Boundaries, Dislocations and Associated Strain in Templated Co-evaporated Photoactive Halide Perovskites",
+      "url": "https://arxiv.org/abs/2604.04446v1",
+      "date": "2026-04-06",
+      "summary": "Researchers used low-dose electron microscopy to investigate atomic-level defects in templated FA0.9Cs0.1PbI3-xClx perovskite films. The study identifies a preferred <001> grain orientation and characterizes the atomic structure of grain boundaries and edge dislocations. These findings reveal how specific structural defects and associated strain fields likely act as recombination centers, influencing solar cell performance.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2604.01784v1",
       "title": "Understanding ultrafast x-ray 'echoes' diffracted from single crystals",
