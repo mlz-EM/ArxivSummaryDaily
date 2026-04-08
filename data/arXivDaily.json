@@ -2,14 +2,45 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-07T05:45:20Z",
+    "generatedAt": "2026-04-08T05:43:03Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 86 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 91 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.05989v1",
+      "title": "The 2D approximation quickly breaks down in reflection ptychography",
+      "url": "https://arxiv.org/abs/2604.05989v1",
+      "date": "2026-04-07",
+      "summary": "Develops a 3D weak-scattering description to test the 2D approximation in reflection ptychography. It finds that reflection geometries impose much stricter thickness limits than transmission due to Ewald sphere rotation. The study shows that depth-dependent propagation in the forward model resolves reconstruction artifacts and enables sample thickness recovery.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2604.05725v1",
+      "title": "The effect of Nb and O on the martensitic transformation in the Ti-Nb-O alloys",
+      "url": "https://arxiv.org/abs/2604.05725v1",
+      "date": "2026-04-07",
+      "summary": "Analyzes the effects of niobium and oxygen on phase stability and martensitic transformation in Ti-Nb-O alloys. It finds that niobium stabilizes the beta phase and governs martensite evolution. Oxygen modifies transformation pathways, suppressing omega phase at low niobium levels and inhibiting long-range transformation at higher levels due to interstitial-induced lattice distortions.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.05608v1",
+      "title": "Indication of Stochastic Photothermal Dynamics around a Topological Defect in a Chiral Magnet",
+      "url": "https://arxiv.org/abs/2604.05608v1",
+      "date": "2026-04-07",
+      "summary": "Uses pump-probe Lorentz transmission electron microscopy to study photothermally induced phase transitions in the chiral magnet Co9Zn9Mn2. It finds that magnetic order recovery is delayed and blurred near edge dislocations. This indicates that topological defects enhance stochasticity in the recovery dynamics, causing the system to follow multiple stochastic relaxation paths.",
+      "tags": [
+        "cond-mat-mes-hall",
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2604.04508v1",
       "title": "Epitaxial MgSnN2 on 4H-SiC (0001): An Earth-Abundant Nitride for Green Optoelectronics and Photovoltaics",
@@ -27,6 +58,28 @@
       "date": "2026-04-06",
       "summary": "Researchers used low-dose electron microscopy to investigate atomic-level defects in templated FA0.9Cs0.1PbI3-xClx perovskite films. The study identifies a preferred <001> grain orientation and characterizes the atomic structure of grain boundaries and edge dislocations. These findings reveal how specific structural defects and associated strain fields likely act as recombination centers, influencing solar cell performance.",
       "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.05132v1",
+      "title": "Controlled topological dilution drives cooperative glassy dynamics in artificial spin ice",
+      "url": "https://arxiv.org/abs/2604.05132v1",
+      "date": "2026-04-06",
+      "summary": "Investigates how random decimation affects magnetic dynamics in artificial square spin ice. It finds that increasing topological disorder drives the system from long-range order to a glassy state. This state exhibits cooperative dynamics, aging, and a transition from thermally activated behavior to Vogel-Fulcher-type freezing, establishing the system as a tunable platform for studying glassiness.",
+      "tags": [
+        "cond-mat-mes-hall",
+        "cond-mat-stat-mech"
+      ]
+    },
+    {
+      "id": "arxiv-2604.05106v1",
+      "title": "Temperature Dependent Characteristics of Quasi-vertical AlN Schottky Diodes on Bulk AlN Substrate",
+      "url": "https://arxiv.org/abs/2604.05106v1",
+      "date": "2026-04-06",
+      "summary": "Characterizes temperature-dependent performance of quasi-vertical AlN Schottky barrier diodes on bulk AlN substrates. The devices show stable operation up to 300°C with high on/off ratios. Findings reveal that Poole-Frenkel emission dominates leakage, and an interfacial AlNxOy layer influences transport, providing critical insights for developing high-performance AlN power electronics.",
+      "tags": [
+        "physics-app-ph",
         "cond-mat-mtrl-sci"
       ]
     },
