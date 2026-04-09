@@ -2,14 +2,34 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-08T05:43:03Z",
+    "generatedAt": "2026-04-09T05:45:01Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 91 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 95 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.07271v1",
+      "title": "Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images",
+      "url": "https://arxiv.org/abs/2604.07271v1",
+      "date": "2026-04-08",
+      "summary": "This framework reconstructs 3D atomic coordinates of free-standing graphene from single low-dose TEM images with sub-angstrom accuracy. It identifies a critical dose threshold for structural recovery and demonstrates that millisecond-scale electronic modulations are driven by sub-angstrom structural fluctuations. The findings link local geometry and strain to electron localization, providing insights for beam-sensitive 2D materials.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.07203v1",
+      "title": "Photo-Assisted Pd-Nb2O5/Carbon Nanocomposites for Enhanced Ethanol Electro-Oxidation Kinetics and CO Tolerance in Alkaline Media",
+      "url": "https://arxiv.org/abs/2604.07203v1",
+      "date": "2026-04-08",
+      "summary": "Researchers developed Pd-Nb2O5/C nanocomposites to improve ethanol electro-oxidation and CO tolerance in alkaline media. The optimized catalyst reduced onset potential by 160 mV and increased poisoning tolerance fivefold. Light irradiation further doubled current density and enhanced stability, showing that synergistic oxide-metal interactions and photoactivation significantly improve catalytic performance for fuel cells.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2604.05989v1",
       "title": "The 2D approximation quickly breaks down in reflection ptychography",
@@ -38,6 +58,26 @@
       "summary": "Uses pump-probe Lorentz transmission electron microscopy to study photothermally induced phase transitions in the chiral magnet Co9Zn9Mn2. It finds that magnetic order recovery is delayed and blurred near edge dislocations. This indicates that topological defects enhance stochasticity in the recovery dynamics, causing the system to follow multiple stochastic relaxation paths.",
       "tags": [
         "cond-mat-mes-hall",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.06517v1",
+      "title": "Quantitative 3D Analysis of Porosity and Fractal Geometry in Electrochemically Etched Macroporous Silicon",
+      "url": "https://arxiv.org/abs/2604.06517v1",
+      "date": "2026-04-07",
+      "summary": "This study uses FIB-SEM tomography for quantitative 3D analysis of porosity in electrochemically etched macroporous silicon. Findings reveal that 2D surface-based estimates systematically underestimate true volumetric porosity due to pore anisotropy and branching. The results highlight the importance of direct 3D characterization for reliable morphological quantification and provide a framework for interpreting structural trends.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.06359v1",
+      "title": "Grafted Low-Leakage Si/AlN p-n Diodes Enabled by Fluorinated AlN Interface",
+      "url": "https://arxiv.org/abs/2604.06359v1",
+      "date": "2026-04-07",
+      "summary": "This work introduces an interface engineering approach using fluorination-induced AlFx formation and SiNx passivation to suppress leakage in p-Si/n-AlN heterojunction diodes. The engineered interface reduces reverse leakage current by several orders of magnitude while maintaining forward conduction. These results establish AlFx/SiNx passivation as an effective strategy for stabilizing AlN interfaces in low-leakage power electronics.",
+      "tags": [
         "cond-mat-mtrl-sci"
       ]
     },
