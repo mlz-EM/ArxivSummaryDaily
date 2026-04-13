@@ -2,14 +2,34 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-10T05:52:16Z",
+    "generatedAt": "2026-04-13T06:08:54Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 95 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 97 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.09329v1",
+      "title": "On the origin of superlattice stacking faults nucleation via climb of Frank partial in CoNi-based superalloys",
+      "url": "https://arxiv.org/abs/2604.09329v1",
+      "date": "2026-04-10",
+      "summary": "Investigates superlattice stacking fault (SF) nucleation in CoNi-based superalloys at 850°C, demonstrating that non-conservative climb of Frank partials is a viable pathway for forming both intrinsic and extrinsic SFs. Key findings include the first experimental confirmation of negative climb-assisted extrinsic fault nucleation and the role of solute segregation in reducing fault energy to enable sustained climb.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.09223v1",
+      "title": "Favorable half-Heusler structure of synthesized TiCoSb alloy: a theoretical and experimental study",
+      "url": "https://arxiv.org/abs/2604.09223v1",
+      "date": "2026-04-10",
+      "summary": "Identifies the most favorable crystal structure of synthesized TiCoSb half-Heusler alloy for thermoelectric applications using Rietveld refinement, electron microscopy, and first-principles calculations. The study determines the most stable structure among four candidates by corroborating theoretical energy estimations with experimental data, establishing the crystallized lattice structure and providing a foundation for evaluating its thermoelectric properties.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2604.07271v1",
       "title": "Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images",
