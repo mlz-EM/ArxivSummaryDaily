@@ -2,10 +2,10 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-13T06:08:54Z",
+    "generatedAt": "2026-04-14T05:54:40Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 97 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 99 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
@@ -28,6 +28,28 @@
       "summary": "Identifies the most favorable crystal structure of synthesized TiCoSb half-Heusler alloy for thermoelectric applications using Rietveld refinement, electron microscopy, and first-principles calculations. The study determines the most stable structure among four candidates by corroborating theoretical energy estimations with experimental data, establishing the crystallized lattice structure and providing a foundation for evaluating its thermoelectric properties.",
       "tags": [
         "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.09807v1",
+      "title": "Decoding Superconductivity in La$_3$Ni$_2$O$_{7-δ}$ Thin Films via Ozone-Driven Structure and Oxidation Tuning",
+      "url": "https://arxiv.org/abs/2604.09807v1",
+      "date": "2026-04-10",
+      "summary": "This study investigates structural and electronic prerequisites for superconductivity in epitaxial La3Ni2O7-δ thin films. Using STEM and EELS to correlate stacking polymorphs with transport behavior, the researchers find that homogeneity in oxygen stoichiometry, epitaxial strain, and structural motifs are critical for stabilizing the superconducting phase. These findings offer a framework for designing ambient-pressure superconducting nickelates.",
+      "tags": [
+        "cond-mat-supr-con",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.09794v1",
+      "title": "Ferromagnetic interlayer exchange coupling in a few layers of CrSBr on a gold thin film",
+      "url": "https://arxiv.org/abs/2604.09794v1",
+      "date": "2026-04-10",
+      "summary": "This research uses spin-polarized low energy electron microscopy to image the magnetic texture of thin CrSBr on gold. It discovers a ferromagnetic ground state for thicknesses under 11 nm, stabilized by electron transfer from the gold substrate. This demonstrates that substrate engineering can effectively tune the magnetic properties and electronic band structure of two-dimensional magnets for spintronic applications.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
       ]
     },
     {
