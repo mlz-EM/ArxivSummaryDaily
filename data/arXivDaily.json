@@ -2,14 +2,46 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-14T05:54:40Z",
+    "generatedAt": "2026-04-15T05:54:58Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 99 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 102 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.12612v1",
+      "title": "Damage dose dependence of deuterium retention in high-temperature self-ion irradiated tungsten",
+      "url": "https://arxiv.org/abs/2604.12612v1",
+      "date": "2026-04-14",
+      "summary": "This study investigates deuterium (D) retention in tungsten irradiated by self-ions at 1350 K. It finds that D concentration increases with damage dose without saturation, reaching 1.7 at.% at 2.3 dpa. High-temperature irradiation induces nm-sized voids where D is trapped as both gas and surface atoms, a mechanism distinct from lower-temperature irradiation behaviors.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.12571v1",
+      "title": "Tuning Structure and Magnetism in Large-Scale 2D Ferromagnet Fe$_3$GeTe$_2$ through Ni Doping",
+      "url": "https://arxiv.org/abs/2604.12571v1",
+      "date": "2026-04-14",
+      "summary": "This research uses molecular beam epitaxy to control Ni-doping in 2D ferromagnetic Fe3GeTe2 films. Findings show that Ni substitution and intercalation shrink lattice parameters, suppress perpendicular magnetic anisotropy, and drastically reduce the Curie temperature to 50 K. Theoretical calculations confirm these effects are due to altered magnetic exchange interactions and magnetocrystalline anisotropy energies.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2604.12522v1",
+      "title": "Depth-Resolved Thermal Conductivity of HFCVD Diamond Films via Square-Pulsed Thermometry",
+      "url": "https://arxiv.org/abs/2604.12522v1",
+      "date": "2026-04-14",
+      "summary": "This study measures the depth-resolved thermal conductivity of HFCVD diamond films on SiC using square-pulsed source thermometry. It finds that thermal conductivity increases from 60 W/m·K at the nucleation interface to 200 W/m·K at the surface. This gradient directly reflects microstructural grain coarsening, offering a physically grounded model for heat transport in diamond-based thermal management layers.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-app-ph"
+      ]
+    },
     {
       "id": "arxiv-2604.09329v1",
       "title": "On the origin of superlattice stacking faults nucleation via climb of Frank partial in CoNi-based superalloys",
