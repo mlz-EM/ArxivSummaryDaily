@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-15T05:54:58Z",
+    "generatedAt": "2026-04-16T05:55:22Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 102 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 103 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.13768v1",
+      "title": "Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3",
+      "url": "https://arxiv.org/abs/2604.13768v1",
+      "date": "2026-04-15",
+      "summary": "This study investigates mixing thermodynamics and phase stability in the BaZr(S,Se)3 system using simulations and electron microscopy. It identifies a layered anion-ordered structure at 33% sulfur and maps the temperature-composition phase diagram. Findings reveal that composition, structure, and anion ordering control the optical band gap, with selenium alloying and ordering enabling tuning between 1.6 and 1.9 eV.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2604.12612v1",
       "title": "Damage dose dependence of deuterium retention in high-temperature self-ion irradiated tungsten",
