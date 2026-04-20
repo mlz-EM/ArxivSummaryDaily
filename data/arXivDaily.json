@@ -2,14 +2,36 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-17T05:57:45Z",
+    "generatedAt": "2026-04-20T06:09:05Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 103 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 105 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.15981v1",
+      "title": "Laser induced surface nitriding of niobium: phase evolution and superconducting behaviour",
+      "url": "https://arxiv.org/abs/2604.15981v1",
+      "date": "2026-04-17",
+      "summary": "This study investigates laser-induced nitriding of niobium to evaluate phase evolution and superconducting properties. It establishes a processing map for beta and gamma phases, finding that gamma-phase formation increases the critical temperature to approximately 15 K. Additionally, a uniform beta-layer quadruples surface microhardness, providing a method to engineer mechanically robust and superconducting Nb-N layers.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-supr-con"
+      ]
+    },
+    {
+      "id": "arxiv-2604.15812v1",
+      "title": "Direct Orientation Contrast Imaging of Anti-Phase Domains on III-V Materials Using Scanning Electron Microscopy",
+      "url": "https://arxiv.org/abs/2604.15812v1",
+      "date": "2026-04-17",
+      "summary": "This research examines direct orientation contrast imaging of zinc-blende III-V materials using scanning electron microscopy. By analyzing GaP on GaAs, the study quantifies anti-phase domain contrast relative to electron beam energy and tilt angles. Findings show that image processing reveals in-plane preferential anti-phase boundaries for GaP on Si, facilitating the characterization of III-V materials grown on non-polar substrates.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-app-ph"
+      ]
+    },
     {
       "id": "arxiv-2604.13768v1",
       "title": "Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3",
