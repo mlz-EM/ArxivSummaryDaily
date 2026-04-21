@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-20T06:09:05Z",
+    "generatedAt": "2026-04-21T05:57:20Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 105 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 106 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.17561v1",
+      "title": "Crystallographic Challenges in Microscopy of Multidomain Spinel Materials",
+      "url": "https://arxiv.org/abs/2604.17561v1",
+      "date": "2026-04-19",
+      "summary": "Evaluates STEM-HAADF imaging and Fourier filtering for characterizing delta-DRX spinel domains. Simulations show that interfaces between eight variants produce four Fourier filtered profiles, one of which is undetectable along the [110] axis. The results suggest that apparent disorder may be slanted domain boundaries, highlighting the need for careful interpretation of atomic-resolution micrographs in multi-domain materials.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2604.15981v1",
       "title": "Laser induced surface nitriding of niobium: phase evolution and superconducting behaviour",
