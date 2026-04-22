@@ -2,14 +2,37 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-21T05:57:20Z",
+    "generatedAt": "2026-04-22T05:55:19Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 106 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 108 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.19384v1",
+      "title": "Drift Correction of Scan Images by Snapshot Referencing",
+      "url": "https://arxiv.org/abs/2604.19384v1",
+      "date": "2026-04-21",
+      "summary": "Introduces snapshot-referencing (SSR) drift correction to eliminate spatial distortions in scanning electron microscopy. By using a fast-scan snapshot as a reference and modeling drift with Bezier and piece-wise linear functions, the method restores spatial integrity in hyperspectral data cubes. This software-based solution is applicable to various probe-based analytical techniques without requiring specialized hardware.",
+      "tags": [
+        "physics-ins-det",
+        "cond-mat-mtrl-sci",
+        "physics-comp-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2604.18935v1",
+      "title": "Proximity Magnetism in Mn(Bi,Sb)2Te4-(Bi,Sb)2Te3/MnTe Natural Heterostructures",
+      "url": "https://arxiv.org/abs/2604.18935v1",
+      "date": "2026-04-21",
+      "summary": "Investigates magnetic and topological orders in self-organized Mn(Bi,Sb)2Te4-(Bi,Sb)2Te3/MnTe natural heterostructures. The study finds that Mn(Bi,Sb)2Te4 mediates exchange fields, resulting in an anomalous Hall effect with an enhanced interfacial Neel temperature exceeding 200 K. This architecture enables robust, field-free spin-orbit torque switching at low current densities, demonstrating significant potential for practical spintronic applications.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-str-el"
+      ]
+    },
     {
       "id": "arxiv-2604.17561v1",
       "title": "Crystallographic Challenges in Microscopy of Multidomain Spinel Materials",
