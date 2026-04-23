@@ -2,14 +2,35 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-22T05:55:19Z",
+    "generatedAt": "2026-04-23T05:59:10Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 108 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 111 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.20558v1",
+      "title": "Predictive drift compensation of multi-frame STEM via live scan modification",
+      "url": "https://arxiv.org/abs/2604.20558v1",
+      "date": "2026-04-22",
+      "summary": "This paper presents a method to mitigate sample drift in STEM by analyzing past frames to predict and adjust future sampling-grid points. By offsetting the scan-grid framewise and pixelwise, the technique removes long-range drift and minimizes intra-image warping. The framework is effective for atomic-resolution and in-situ video across various scan patterns.",
+      "tags": [
+        "physics-ins-det",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.20463v1",
+      "title": "Imaging the transverse component of optical near-fields in resonant photonic structures",
+      "url": "https://arxiv.org/abs/2604.20463v1",
+      "date": "2026-04-22",
+      "summary": "This study uses ultrafast 4D scanning transmission electron microscopy to image optical near-fields in resonant photonic structures. By visualizing the transverse Lorentz force in silicon nanostructures, the authors demonstrate that these structures enable efficient transverse electron streaking at optical frequencies. The measured spatial profiles match numerical simulations, validating the use of U4DSTEM for high-resolution near-field mapping.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2604.19384v1",
       "title": "Drift Correction of Scan Images by Snapshot Referencing",
@@ -31,6 +52,18 @@
       "tags": [
         "cond-mat-mtrl-sci",
         "cond-mat-str-el"
+      ]
+    },
+    {
+      "id": "arxiv-2604.19847v1",
+      "title": "Organosilane-functionalized hydrothermal-derived coatings on titanium alloys for hydrophobization and corrosion protection",
+      "url": "https://arxiv.org/abs/2604.19847v1",
+      "date": "2026-04-21",
+      "summary": "This research examines the impact of NaOH hydrothermal treatment and hexadecyltrimethoxysilane (HDTMS) coating on Ti-6Al-4V alloy properties. While alkaline treatment initially reduces corrosion resistance, subsequent HDTMS functionalization achieves significant hydrophobicity (147° contact angle) and improves corrosion protection in NaCl solutions. The results suggest this dual treatment is ideal for enhancing titanium alloy durability in moisture-exposed applications.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-app-ph",
+        "physics-chem-ph"
       ]
     },
     {
