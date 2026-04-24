@@ -2,14 +2,25 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-23T05:59:10Z",
+    "generatedAt": "2026-04-24T06:02:49Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 111 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 112 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.21550v1",
+      "title": "Modulation of Spin Angular Momentum of Emission in Symmetric 1D Plasmonic Crystals by Cathodoluminescence",
+      "url": "https://arxiv.org/abs/2604.21550v1",
+      "date": "2026-04-23",
+      "summary": "This study investigates circularly polarized light (CPL) generation in symmetric 1D plasmonic crystals using electron beam excitation. It demonstrates that coherent interference between transition radiation and plasmonic modes produces energy- and momentum-resolved CPL. The findings reveal that CPL efficiency can be modulated by the excitation position, offering a platform for nanoscale spin angular momentum control without structural chirality.",
+      "tags": [
+        "physics-optics",
+        "cond-mat-mes-hall"
+      ]
+    },
     {
       "id": "arxiv-2604.20558v1",
       "title": "Predictive drift compensation of multi-frame STEM via live scan modification",
