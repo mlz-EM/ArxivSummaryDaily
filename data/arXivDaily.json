@@ -2,14 +2,54 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-24T06:02:49Z",
+    "generatedAt": "2026-04-27T06:22:28Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 112 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 116 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.22726v1",
+      "title": "Mechanical Scaling Laws and Deformation Behavior of Nanoporous Tantalum Microparticles",
+      "url": "https://arxiv.org/abs/2604.22726v1",
+      "date": "2026-04-24",
+      "summary": "This study investigates the mechanical scaling laws of nanoporous tantalum produced via liquid metal dealloying. It finds that stiffness and hardness scale with solid volume fraction according to Gibson-Ashby predictions, unlike nanoporous gold. This behavior is attributed to enhanced ligament connectivity enabled by solvent chemistry, with molecular dynamics simulations confirming dislocation-dominated plasticity during indentation.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.22561v1",
+      "title": "Influence of Ni Doping on the Structural, Morphological, Optical, and Electrical Properties of Nanocrystalline Cd1-xMnxS Thin Films",
+      "url": "https://arxiv.org/abs/2604.22561v1",
+      "date": "2026-04-24",
+      "summary": "Researchers investigated the effects of Ni doping on Cd1-xMnxS thin films for optoelectronic applications. They found that increasing Ni concentration improves crystallinity, increases grain size, and reduces the optical band gap from 2.72 to 2.62 eV. The doped films exhibit high optical transmittance and enhanced photoconductivity, demonstrating their potential as efficient window layers for thin-film solar cells.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.22398v1",
+      "title": "Accurate Nanoscale Mapping of Electric Fields across Random Grain Boundaries in Polycrystalline Oxides Using Precession-Assisted 4D-STEM",
+      "url": "https://arxiv.org/abs/2604.22398v1",
+      "date": "2026-04-24",
+      "summary": "This study develops a precession-assisted 4D-STEM method to accurately map electric fields across grain boundaries in polycrystalline oxides. By combining electron beam precession with advanced post-processing, the researchers achieved unbiased diffraction shift measurements. This approach successfully extracts local electric fields and charge distributions in BaTiO3 and SrTiO3, overcoming the limitations of conventional center-of-mass analysis and dynamical scattering.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.22346v1",
+      "title": "Electric-Field Control of Quantum Tunneling Regimes in Focused He-Ion-Beam-Irradiated Oxide Interfaces",
+      "url": "https://arxiv.org/abs/2604.22346v1",
+      "date": "2026-04-24",
+      "summary": "This research explores using helium focused ion beam irradiation to create gate-tunable potential barriers at oxide interfaces. The study finds that irradiation-induced lattice deformation enables the fabrication of tunnel field-effect transistors. Electrostatic backgating allows continuous tuning of the barrier profile, enabling controlled access to thermionic emission, direct tunneling, and Fowler-Nordheim tunneling regimes within a single device architecture.",
+      "tags": [
+        "cond-mat-mes-hall"
+      ]
+    },
     {
       "id": "arxiv-2604.21550v1",
       "title": "Modulation of Spin Angular Momentum of Emission in Symmetric 1D Plasmonic Crystals by Cathodoluminescence",
