@@ -2,14 +2,26 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-27T06:22:28Z",
+    "generatedAt": "2026-04-28T06:23:31Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 116 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 117 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.23569v1",
+      "title": "Quantum echo-enabled high harmonic generation using ultrafast electrons",
+      "url": "https://arxiv.org/abs/2604.23569v1",
+      "date": "2026-04-26",
+      "summary": "The study introduces a quantum echo-enabled high-harmonic generation (QEEHG) scheme to produce tunable, coherent radiation by manipulating electron wavepacket phases. By combining multiphoton PINEM scattering with dispersive chirps, the approach induces quantum interference to selectively enhance high-harmonic orders while suppressing unwanted radiation. This method establishes a new paradigm for compact coherent light sources and quantum wavefunction shaping in ultrafast electron microscopy.",
+      "tags": [
+        "physics-optics",
+        "physics-acc-ph",
+        "quant-ph"
+      ]
+    },
     {
       "id": "arxiv-2604.22726v1",
       "title": "Mechanical Scaling Laws and Deformation Behavior of Nanoporous Tantalum Microparticles",
