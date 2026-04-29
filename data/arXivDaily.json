@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-28T06:23:31Z",
+    "generatedAt": "2026-04-29T06:16:03Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 117 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 118 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.24941v1",
+      "title": "Visualizing Crystallization Dynamics and Transformation Pathways of Disordered Rocksalt Oxides During Thermally Activated Sol-Gel Synthesis",
+      "url": "https://arxiv.org/abs/2604.24941v1",
+      "date": "2026-04-27",
+      "summary": "This study investigates the crystallization dynamics of disordered rocksalt Li1.2Mn0.4Ti0.4O2 during sol-gel synthesis. Using multiscale characterization, it identifies two pathways: a multi-step transition via stable intermediates and a kinetic shortcut where intermediates dissolve into an amorphous matrix to directly precipitate the target structure. Macroscopically, transformation primarily proceeds through spinel and lithium titanite intermediates.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2604.23569v1",
       "title": "Quantum echo-enabled high harmonic generation using ultrafast electrons",
