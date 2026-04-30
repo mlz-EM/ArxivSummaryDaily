@@ -2,14 +2,48 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-29T06:16:03Z",
+    "generatedAt": "2026-04-30T06:21:27Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 118 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 121 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.26718v1",
+      "title": "Tracking visible pulsed laser annealing of Hf0.5Zr0.5O2 heterostructures with in situ transmission electron microscopy",
+      "url": "https://arxiv.org/abs/2604.26718v1",
+      "date": "2026-04-29",
+      "summary": "This study uses in situ transmission electron microscopy to monitor HZO heterostructure crystallization under visible nanosecond laser pulses. It identifies a sharp energy threshold, finding that a single 177 mJ/cm2 pulse yields 86% of the ferroelectric orthorhombic phase. Simulations show substrate melting limits temperatures to 1900 °C, supporting a kinetic crystallization pathway via the tetragonal phase.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2604.26680v1",
+      "title": "Beyond conventional skyrmions in synthetic antiferromagnets",
+      "url": "https://arxiv.org/abs/2604.26680v1",
+      "date": "2026-04-29",
+      "summary": "Researchers investigate skyrmion formation in synthetic antiferromagnets using asymmetric CoB and CoFeB sublattices. They identify two distinct skyrmion families—conventional and inverse polarity—governed by the competition between external magnetic fields and interlayer RKKY exchange. Findings demonstrate that these textures reside exclusively in the CoFeB layers, providing a method for engineering programmable 3D spin textures for skyrmion-based computing.",
+      "tags": [
+        "cond-mat-mes-hall",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.26664v1",
+      "title": "Circular Phase Representation and Geometry-Aware Optimization for Ptychographic Image Reconstruction",
+      "url": "https://arxiv.org/abs/2604.26664v1",
+      "date": "2026-04-29",
+      "summary": "This paper presents a deep learning framework for ptychographic reconstruction that models phase on a unit circle using cosine and sine components. By employing a differentiable geodesic loss, the method avoids branch-cut discontinuities and wrapping artifacts. Results demonstrate superior reconstruction, better preservation of high-frequency content, and significant speed improvements over traditional iterative solvers while maintaining physical consistency.",
+      "tags": [
+        "eess-iv",
+        "cs-cv",
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2604.24941v1",
       "title": "Visualizing Crystallization Dynamics and Transformation Pathways of Disordered Rocksalt Oxides During Thermally Activated Sol-Gel Synthesis",
