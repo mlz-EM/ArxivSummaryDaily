@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-04-30T06:21:27Z",
+    "generatedAt": "2026-05-01T06:30:40Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 121 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 122 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2604.28120v1",
+      "title": "Polar Topologies in a Ferroelastic Metal Membrane",
+      "url": "https://arxiv.org/abs/2604.28120v1",
+      "date": "2026-04-30",
+      "summary": "This study investigates polar textures in freestanding SrRuO3 membranes. By releasing epitaxial films from substrates, researchers observed ferroelastic domain refinement that generates emergent polar topologies. Key findings reveal electric polarization selectively at translation-inequivalent antiphase boundaries through Neel-like tilt interpolation and within 90-degree ferroelastic walls due to strain mismatch and rotostriction, demonstrating that metal oxide membranes can host nanoscale polar textures.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2604.26718v1",
       "title": "Tracking visible pulsed laser annealing of Hf0.5Zr0.5O2 heterostructures with in situ transmission electron microscopy",
