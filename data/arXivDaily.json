@@ -2,14 +2,45 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-01T06:30:40Z",
+    "generatedAt": "2026-05-04T06:32:46Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 122 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 125 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2605.00801v1",
+      "title": "Oxygen Vacancies at Dislocation Core Modulate Plasticity in Strontium Titanate",
+      "url": "https://arxiv.org/abs/2605.00801v1",
+      "date": "2026-05-01",
+      "summary": "Investigates the correlation between dislocation core structure, oxygen vacancy density, and mobility in SrTiO3. Using STEM and MD simulations, the study finds that oxygen vacancy evolution at the core depends on gliding distance and is intrinsically coupled with plasticity, suggesting a mechanism where vacancies modulate dislocation mobility in oxides.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.00703v1",
+      "title": "TrueEBSD in MTEX: automatic image matching for correlative microscopy applications",
+      "url": "https://arxiv.org/abs/2605.00703v1",
+      "date": "2026-05-01",
+      "summary": "Introduces TrueEBSD, an open-source MTEX add-on for automatic image alignment and spatial distortion correction in correlative microscopy. By augmenting EBSD maps with SEM data, the tool enables quantitative crystallographic measurements, such as phase fraction and grain boundary susceptibility, which are unattainable when analyzing datasets separately.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.00464v1",
+      "title": "An Advanced Epitaxial Strategy Enabling Vertical GaN Devices on Silicon Wafers",
+      "url": "https://arxiv.org/abs/2605.00464v1",
+      "date": "2026-05-01",
+      "summary": "Presents a sputtering-based strategy to grow high-quality GaN epitaxial films on silicon with low vertical resistance. By forming a sub-nanometer silicide-based template, the researchers created an amorphous-like interlayer that relaxes strain and accommodates lattice mismatch, enabling device-grade vertical performance and ohmic behavior for cost-effective power electronics and micro-LEDs.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-app-ph"
+      ]
+    },
     {
       "id": "arxiv-2604.28120v1",
       "title": "Polar Topologies in a Ferroelastic Metal Membrane",

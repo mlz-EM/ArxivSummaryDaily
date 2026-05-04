@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-01T06:32:01Z",
+    "generatedAt": "2026-05-04T06:34:45Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,363 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Social Work Professor (open rank), Tenure Stream",
+      "url": "https://www.indeed.com/viewjob?jk=89357ab01212bdd1",
+      "date": "2026-05-02",
+      "location": "University of Pittsburgh at Pittsburgh, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4408336421",
+      "title": "Computing Sciences Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4408336421",
+      "date": "2026-05-02",
+      "location": "Finger Lakes Community College at Canandaigua, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4407995463",
+      "title": "Tenure-track Accounting Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4407995463",
+      "date": "2026-05-02",
+      "location": "American Accounting Association at New Orleans, LA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track: Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=7b9d5b4ead751e70",
+      "date": "2026-05-01",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Psychology",
+      "url": "https://www.indeed.com/viewjob?jk=3daf10843ab95cf1",
+      "date": "2026-05-01",
+      "location": "Texas A&M University at Victoria, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor (Public Policy and Public Management) (0083302)",
+      "url": "https://www.indeed.com/viewjob?jk=55401a9c1ef5b3f5",
+      "date": "2026-05-01",
+      "location": "University of Hawaii system at Honolulu, HI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor (Nonprofit Management) (0083292)",
+      "url": "https://www.indeed.com/viewjob?jk=49543456416dbaab",
+      "date": "2026-05-01",
+      "location": "University of Hawaii system at Honolulu, HI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Project Engineer IV",
+      "url": "https://www.indeed.com/viewjob?jk=d4c181d5a33cb536",
+      "date": "2026-05-01",
+      "location": "University of Louisville at Louisville, KY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenured/Tenure-Track: Assistant or Associate Professor in Small Ruminants",
+      "url": "https://www.indeed.com/viewjob?jk=c3448aa9c842a6ae",
+      "date": "2026-05-01",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Social Work",
+      "url": "https://www.indeed.com/viewjob?jk=4dc24cb44f823d93",
+      "date": "2026-05-01",
+      "location": "University of Arkansas at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor of Aeronautics (NTT), Remote Role",
+      "url": "https://www.indeed.com/viewjob?jk=8f2ed104665d9789",
+      "date": "2026-05-01",
+      "location": "Embry-Riddle Aeronautical University at Remote, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, 9 Month Salaried - Geography",
+      "url": "https://www.indeed.com/viewjob?jk=c5027da8e1f9f054",
+      "date": "2026-05-01",
+      "location": "Florida State University at Tallahassee, FL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Health Promotion and Exercise Science - Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=19aeac2153c948e0",
+      "date": "2026-05-01",
+      "location": "Western Connecticut State University at Danbury, CT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Practice - Competency-Based BAAS in Criminal Justice",
+      "url": "https://www.indeed.com/viewjob?jk=7c51d907eb8ca486",
+      "date": "2026-05-01",
+      "location": "Sam Houston State University at Huntsville, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Educational Leadership, School of Education",
+      "url": "https://www.indeed.com/viewjob?jk=c1285ad0a7e31fcf",
+      "date": "2026-05-01",
+      "location": "Northwest Missouri State University at Maryville, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Educational Leadership, School of Education",
+      "url": "https://www.indeed.com/viewjob?jk=f6e91c440ed9b819",
+      "date": "2026-05-01",
+      "location": "Northwest Missouri State University at Maryville, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4407619921",
+      "title": "Postdoctoral Research Associate",
+      "url": "https://www.linkedin.com/jobs/view/4407619921",
+      "date": "2026-04-30",
+      "location": "Excel Campus Activities at Arlington, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4408580439",
+      "title": "Faculty Associate Pool – NEW 101 (The New College Experience)",
+      "url": "https://www.linkedin.com/jobs/view/4408580439",
+      "date": "2026-04-29",
+      "location": "CommLabASU at Arizona State University at Valley, WV",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4406942242",
+      "title": "Faculty Services and Instructional Design Librarian",
+      "url": "https://www.linkedin.com/jobs/view/4406942242",
+      "date": "2026-04-29",
+      "location": "University of Utah at Salt Lake City, UT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Aviation, Director of UAS & Precision Ag Center",
+      "url": "https://www.indeed.com/viewjob?jk=197e7bd0404e1e48",
+      "date": "2026-04-29",
+      "location": "University of Louisiana Monroe at Monroe, LA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4407115743",
+      "title": "Health Communication",
+      "url": "https://www.linkedin.com/jobs/view/4407115743",
+      "date": "2026-04-26",
+      "location": "Inside Higher Ed at Greensboro, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4367366809",
+      "title": "Open-Rank Career-Track Teaching Faculty AF7823",
+      "url": "https://www.linkedin.com/jobs/view/4367366809",
+      "date": "2026-04-25",
+      "location": "Oklahoma State University at Stillwater, OK",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4406863918",
+      "title": "Co-program Director, AST/ASO/FULL PROF--Department of Neurosurgery, AI Research",
+      "url": "https://www.linkedin.com/jobs/view/4406863918",
+      "date": "2026-04-25",
+      "location": "Inside Higher Ed at Gainesville, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4403774628",
+      "title": "Continuing Non-Tenure-Track Teaching Faculty Position - Mechanical Engineering",
+      "url": "https://www.linkedin.com/jobs/view/4403774628",
+      "date": "2026-04-24",
+      "location": "Villanova University at Villanova, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4405655752",
+      "title": "Environmental Science and Biology, Tenure-Track Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4405655752",
+      "date": "2026-04-23",
+      "location": "Inside Higher Ed at Harrisonburg, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4405033873",
+      "title": "Population Science/Cancer Control Investigator",
+      "url": "https://www.linkedin.com/jobs/view/4405033873",
+      "date": "2026-04-23",
+      "location": "University of Utah at Salt Lake City, UT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4374426641",
+      "title": "Open-Rank Tenured or Tenure-Track Faculty, Civil and Environmental Engineering AF7812",
+      "url": "https://www.linkedin.com/jobs/view/4374426641",
+      "date": "2026-04-22",
+      "location": "Stillwater, OK",
+      "description": "Tenure-track role in civil engineering focusing on construction materials, geotechnical engineering, and transportation systems.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "civil engineering",
+        "construction materials",
+        "geotechnical engineering"
+      ]
+    },
+    {
+      "id": "www-4403899894",
+      "title": "Acting Faculty - Sport Management",
+      "url": "https://www.linkedin.com/jobs/view/4403899894",
+      "date": "2026-04-19",
+      "location": "Rider University at Lawrenceville, NJ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4403075539",
+      "title": "Social Work, Tenure-Track Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4403075539",
+      "date": "2026-04-18",
+      "location": "Inside Higher Ed at Harrisonburg, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4289155660",
+      "title": "Postdoctoral Research Associate - Computational Biology and Bioinformatics - Qiu Lab",
+      "url": "https://www.linkedin.com/jobs/view/4289155660",
+      "date": "2026-04-13",
+      "location": "University of Illinois Chicago at Chicago, IL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4409800870",
+      "title": "The Grainger College of Engineering: Faculty (Open Rank) - Aerospace Engineering",
+      "url": "https://www.linkedin.com/jobs/view/4409800870",
+      "date": "2026-04-07",
+      "location": "Urbana, IL",
+      "description": "Tenure-track position focusing on aerothermodynamics, gas-surface interactions, and high-temperature physics for aerospace applications.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "aerospace engineering",
+        "hypersonics",
+        "thermochemical interactions",
+        "high-temperature physics"
+      ]
+    },
+    {
+      "id": "www-viewjob",
       "title": "Instructor/Assistant Professor, Agricultural Education",
       "url": "https://www.indeed.com/viewjob?jk=cd04cfa7cf11fe42",
       "date": "2026-04-30",
       "location": "Murray State University at Murray, KY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +379,7 @@
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +390,7 @@
       "location": "Texas A&M University at College Station, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +401,7 @@
       "location": "University of Wisconsin-Green Bay at Green Bay, WI, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +412,7 @@
       "location": "University of Texas at Arlington at Arlington, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +423,7 @@
       "location": "Stonehill College at Easton, MA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +434,7 @@
       "location": "University of Pittsburgh at Pittsburgh, PA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +445,7 @@
       "location": "University of Houston at Houston, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +456,7 @@
       "location": "Western Michigan University at Kalamazoo, MI, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +467,7 @@
       "location": "CommLabASU at Arizona State University at Valley, WV",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,46 +478,7 @@
       "location": "University of Louisiana Monroe at Monroe, LA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor",
-      "url": "https://www.indeed.com/viewjob?jk=b32a8389548062e6",
-      "date": "2026-04-10",
-      "location": "Marshall University at Huntington, WV, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4409015537",
-      "title": "The Grainger College of Engineering: Faculty (Open Rank) - Aerospace Engineering",
-      "url": "https://www.linkedin.com/jobs/view/4409015537",
-      "date": "2026-04-05",
-      "location": "Urbana, IL",
-      "description": "Tenure-track position in aerospace engineering focusing on aerothermodynamics and thermochemical modeling.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "aerospace engineering",
-        "aerothermodynamics",
-        "thermochemical interactions",
-        "hypersonics",
-        "modeling"
-      ]
-    },
-    {
-      "id": "www-4407627142",
-      "title": "Open Rank Tenure Track Faculty Position",
-      "url": "https://www.linkedin.com/jobs/view/4407627142",
-      "date": "",
-      "location": "Department of Physiology and Biophysics at Case Western Reserve University at Cleveland, OH",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -2327,6 +2638,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=b32a8389548062e6",
+      "date": "2026-04-10",
+      "location": "Marshall University at Huntington, WV, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor, Business Analytics (Tenure-Track)",
       "url": "https://www.indeed.com/viewjob?jk=5700febd56224afd",
       "date": "2026-04-10",
@@ -3333,6 +3655,23 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "www-4409015537",
+      "title": "The Grainger College of Engineering: Faculty (Open Rank) - Aerospace Engineering",
+      "url": "https://www.linkedin.com/jobs/view/4409015537",
+      "date": "2026-04-05",
+      "location": "Urbana, IL",
+      "description": "Tenure-track position in aerospace engineering focusing on aerothermodynamics and thermochemical modeling.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "aerospace engineering",
+        "aerothermodynamics",
+        "thermochemical interactions",
+        "hypersonics",
+        "modeling"
+      ]
     },
     {
       "id": "www-4397717573",
@@ -10016,6 +10355,17 @@
       "url": "https://www.indeed.com/viewjob?jk=f173ae58baa5fd14",
       "date": "2025-07-08",
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4407627142",
+      "title": "Open Rank Tenure Track Faculty Position",
+      "url": "https://www.linkedin.com/jobs/view/4407627142",
+      "date": "",
+      "location": "Department of Physiology and Biophysics at Case Western Reserve University at Cleveland, OH",
       "description": "",
       "fitScore": 0,
       "isNew": false,
