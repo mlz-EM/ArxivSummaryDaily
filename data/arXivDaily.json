@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-04T06:32:46Z",
+    "generatedAt": "2026-05-05T06:09:27Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 125 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 127 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2605.02788v1",
+      "title": "Structural evolution of Ti/Cu multilayers as a function of period thickness",
+      "url": "https://arxiv.org/abs/2605.02788v1",
+      "date": "2026-05-04",
+      "summary": "This study examines how period thickness affects the morphology and crystallization of Ti/Cu multilayers. It finds that period thickness dictates the balance between interfacial intermixing and crystallization. Smaller periods exhibit reduced periodicity and intermixing, while larger periods show more regular structures with progressive crystallization and texture development, particularly in fcc Cu(111) and Ti layers.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2605.00801v1",
       "title": "Oxygen Vacancies at Dislocation Core Modulate Plasticity in Strontium Titanate",
@@ -38,6 +48,16 @@
       "summary": "Presents a sputtering-based strategy to grow high-quality GaN epitaxial films on silicon with low vertical resistance. By forming a sub-nanometer silicide-based template, the researchers created an amorphous-like interlayer that relaxes strain and accommodates lattice mismatch, enabling device-grade vertical performance and ohmic behavior for cost-effective power electronics and micro-LEDs.",
       "tags": [
         "cond-mat-mtrl-sci",
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2605.01125v1",
+      "title": "Fast reduction of electron-beam-activated graphene oxide by an infrared laser pulse",
+      "url": "https://arxiv.org/abs/2605.01125v1",
+      "date": "2026-05-01",
+      "summary": "This research investigates the rapid reduction of graphene oxide using a synergistic electron-beam-assisted near-infrared laser pulse. The study finds that electron beam irradiation creates defects that enhance NIR absorption and oxygen diffusion, enabling a 90% reduction of a 46-nm film within 960 ns. This process locally restores sp2 bonding while introducing turbostatic disorder.",
+      "tags": [
         "physics-app-ph"
       ]
     },
