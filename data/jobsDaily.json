@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-05T06:10:32Z",
+    "generatedAt": "2026-05-06T06:27:41Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,161 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor Product Design",
+      "url": "https://www.indeed.com/viewjob?jk=fe237cad3499e57f",
+      "date": "2026-05-05",
+      "location": "University of Louisville at Louisville, KY, US",
+      "description": "Tenure-track position bridging product design, fabrication, and additive manufacturing in collaboration with engineering faculty.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "product design",
+        "additive manufacturing",
+        "materials",
+        "fabrication"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant /Associate Professor of Cyber Security",
+      "url": "https://www.indeed.com/viewjob?jk=1fcd77b598b2dac2",
+      "date": "2026-05-05",
+      "location": "University of the District of Columbia at Washington, DC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Instructional Assistant or Associate Professor",
+      "url": "https://www.indeed.com/viewjob?jk=8418fb99c7d5de25",
+      "date": "2026-05-05",
+      "location": "George Mason University at Fairfax, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Instructional Assistant or Associate Professor",
+      "url": "https://www.indeed.com/viewjob?jk=f988dcf50b370a2e",
+      "date": "2026-05-05",
+      "location": "George Mason University at Fairfax, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Open Rank in Finance",
+      "url": "https://www.indeed.com/viewjob?jk=7ce9b18e37e516a1",
+      "date": "2026-05-05",
+      "location": "Florida Atlantic University at Boca Raton, FL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Research Assistant Professor of Agricultural Economics",
+      "url": "https://www.indeed.com/viewjob?jk=dcb3adbe9b306aa2",
+      "date": "2026-05-05",
+      "location": "Central State University at Wilberforce, OH, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Finance",
+      "url": "https://www.indeed.com/viewjob?jk=becc5e3764fbea6b",
+      "date": "2026-05-05",
+      "location": "Concord University at Athens, WV, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Creative & Professional Writing Assistant Professor - Composition",
+      "url": "https://www.indeed.com/viewjob?jk=b94fa53a4ef7c669",
+      "date": "2026-05-05",
+      "location": "Western Connecticut State University at Danbury, CT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor; Athletic Band Director",
+      "url": "https://www.indeed.com/viewjob?jk=080f9b2273c40fb6",
+      "date": "2026-05-04",
+      "location": "University of Louisiana Monroe at Monroe, LA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Research Professor in Human Genetics - The University of Texas at El Paso",
+      "url": "https://www.indeed.com/viewjob?jk=c6b5fe06e5f88a99",
+      "date": "2026-05-04",
+      "location": "University of Texas at El Paso at El Paso, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "University of Nebraska-Lincoln – – Water Sciences Laboratory Director",
+      "url": "https://www.indeed.com/viewjob?jk=05c12469feefb675",
+      "date": "2026-04-24",
+      "location": "nan at Lincoln, NE, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4408490185",
+      "title": "Faculty - Tenure Track – Marketing",
+      "url": "https://www.linkedin.com/jobs/view/4408490185",
+      "date": "",
+      "location": "Woodbury School of Business at Fort Washington, MD",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4410746007",
+      "title": "Open Rank in Finance",
+      "url": "https://www.linkedin.com/jobs/view/4410746007",
+      "date": "",
+      "location": "Florida Atlantic University at Boca Raton, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor",
       "url": "https://www.indeed.com/viewjob?jk=a95995c8e6ed47bb",
       "date": "2026-05-04",
       "location": "East Carolina University at Greenville, NC, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +177,7 @@
       "location": "North Dakota State College of Science at Bismarck, ND, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +188,7 @@
       "location": "North Dakota State College of Science at Bismarck, ND, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +199,7 @@
       "location": "University of Minnesota at Duluth, MN, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +210,7 @@
       "location": "University of Minnesota at Duluth, MN, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +221,7 @@
       "location": "University of Louisiana at Monroe at Monroe, LA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +232,7 @@
       "location": "California State University at Fullerton, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +243,7 @@
       "location": "Rollins College at Winter Park, FL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +254,7 @@
       "location": "Western Connecticut State University at Danbury, CT, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +265,7 @@
       "location": "Michigan State University at East Lansing, MI, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,7 +276,7 @@
       "location": "SPRING ARBOR UNIVERSITY at Spring Arbor, MI, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -139,29 +287,7 @@
       "location": "University of New Orleans at New Orleans, LA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Chemistry",
-      "url": "https://www.indeed.com/viewjob?jk=e47677b28dd8c737",
-      "date": "2026-04-28",
-      "location": "Park University at Parkville, MO, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4408689876",
-      "title": "SAPS - Faculty Associate - Organizational Leadership (OGL) - AY2026 - 2027",
-      "url": "https://www.linkedin.com/jobs/view/4408689876",
-      "date": "",
-      "location": "Arizona State University at Tempe, AZ",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -665,6 +791,17 @@
       "url": "https://www.indeed.com/viewjob?jk=f22a02dd083397de",
       "date": "2026-04-29",
       "location": "University of Louisiana at Monroe at Monroe, LA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Chemistry",
+      "url": "https://www.indeed.com/viewjob?jk=e47677b28dd8c737",
+      "date": "2026-04-28",
+      "location": "Park University at Parkville, MO, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -10509,6 +10646,17 @@
       "url": "https://www.indeed.com/viewjob?jk=f173ae58baa5fd14",
       "date": "2025-07-08",
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4408689876",
+      "title": "SAPS - Faculty Associate - Organizational Leadership (OGL) - AY2026 - 2027",
+      "url": "https://www.linkedin.com/jobs/view/4408689876",
+      "date": "",
+      "location": "Arizona State University at Tempe, AZ",
       "description": "",
       "fitScore": 0,
       "isNew": false,
