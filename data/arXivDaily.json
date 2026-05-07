@@ -2,14 +2,47 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-06T06:24:18Z",
+    "generatedAt": "2026-05-07T06:29:05Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 127 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 130 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2605.04953v1",
+      "title": "Characterization of Photopolymerized Microscopic Chiral Structures Using Photonic Orbital Angular Momentum",
+      "url": "https://arxiv.org/abs/2605.04953v1",
+      "date": "2026-05-06",
+      "summary": "Demonstrates a low-cost platform for fabricating microscale chiral structures using maskless photolithography and characterizing them via helical dichroism with orbital angular momentum (OAM) vortex beams. The study achieved helical dichroism signals of ~30%, establishing OAM as a robust, spatially selective chiral probe that eliminates the need for expensive femtosecond sources or specialized plasmonic substrates.",
+      "tags": [
+        "physics-optics",
+        "cond-mat-soft"
+      ]
+    },
+    {
+      "id": "arxiv-2605.04871v1",
+      "title": "A Two-Step Chemical Vapor Deposition Process for the Synthesis of an Ir(111)/Borophene/2D-Hexagonal Boron Nitride Heterostructure by Intrinsic Segregation",
+      "url": "https://arxiv.org/abs/2605.04871v1",
+      "date": "2026-05-06",
+      "summary": "Reports a two-step chemical vapor deposition process to synthesize a vertical Ir(111)/borophene/hexagonal boron nitride heterostructure. By exploiting boron's finite solubility in iridium and intrinsic segregation during cooling, the researchers formed a borophene monolayer beneath a boron nitride overlayer. This approach offers a scalable route for producing high-quality, large-area vertical heterostructures of two-dimensional materials.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2605.04854v1",
+      "title": "Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalline Silicon",
+      "url": "https://arxiv.org/abs/2605.04854v1",
+      "date": "2026-05-06",
+      "summary": "Demonstrates that localized surface plasmon resonances can emerge in unpatterned hyperdoped polycrystalline silicon films without external nanostructuring. The study finds that mid-infrared plasmonic responses originate from metal-dielectric interfaces at grain boundaries. This universal phenomenon allows for cost-effective, microelectronics-compatible plasmonic devices by utilizing the natural grain structure of doped semiconductors to tune light-matter interactions.",
+      "tags": [
+        "physics-optics",
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2605.02788v1",
       "title": "Structural evolution of Ti/Cu multilayers as a function of period thickness",

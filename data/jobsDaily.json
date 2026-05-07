@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-06T06:27:41Z",
+    "generatedAt": "2026-05-07T06:30:19Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,220 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Tenure Track Associate Professor, Power Electronics",
+      "url": "https://www.indeed.com/viewjob?jk=f9bbf84f24dc4cbc",
+      "date": "2026-05-06",
+      "location": "Golden, CO, US",
+      "description": "Tenure-track position focused on power electronics and advanced energy systems at an R1 engineering university.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "power electronics",
+        "energy systems",
+        "electrical engineering"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Pharmaceutics",
+      "url": "https://www.indeed.com/viewjob?jk=2afc0f1899b648be",
+      "date": "2026-05-06",
+      "location": "Chicago State University at Chicago, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Theatre (9-month Tenure Track)",
+      "url": "https://www.indeed.com/viewjob?jk=3eefac6e4faca02a",
+      "date": "2026-05-06",
+      "location": "Tennessee Board of Regents at Chattanooga, TN, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant /Associate Professor - AI/Emerging Technologies Librarian",
+      "url": "https://www.indeed.com/viewjob?jk=71b38d6ed1d81ade",
+      "date": "2026-05-06",
+      "location": "University of Nebraska at Omaha at Omaha, NE, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Instructor or Assistant Professor in Equine Science - Tenure Track",
+      "url": "https://www.indeed.com/viewjob?jk=286f5517f78f5342",
+      "date": "2026-05-06",
+      "location": "SUNY Morrisville at Morrisville, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Non-tenure line Faculty of Instruction - Environmental Engineering Technology",
+      "url": "https://www.indeed.com/viewjob?jk=53c3497ee0f97689",
+      "date": "2026-05-06",
+      "location": "Texas State University at San Marcos, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Asst/Assoc Professor - Agricultural Banking and Finance",
+      "url": "https://www.indeed.com/viewjob?jk=55e944e971db26ce",
+      "date": "2026-05-06",
+      "location": "University of Nebraska at Lincoln, NE, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=e5b806405fb643ba",
+      "date": "2026-05-06",
+      "location": "Troy University at Troy, AL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Business",
+      "url": "https://www.indeed.com/viewjob?jk=2ae197ad5d6b2f1b",
+      "date": "2026-05-06",
+      "location": "North Dakota State College of Science at Mayville, ND, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4409358558",
+      "title": "FACULTY ASSOCIATE (USER EXPERIENCE)",
+      "url": "https://www.linkedin.com/jobs/view/4409358558",
+      "date": "2026-05-05",
+      "location": "Arizona State University at Mesa, AZ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Mathematical Sciences-Actuarial Emphasis",
+      "url": "https://www.indeed.com/viewjob?jk=60b62974d4959d44",
+      "date": "2026-05-05",
+      "location": "Utah Valley University at Orem, UT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Faculty - Tenure Track – Marketing",
+      "url": "https://www.indeed.com/viewjob?jk=4fcf80494fb8b02a",
+      "date": "2026-05-05",
+      "location": "Utah Valley University at Orem, UT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4410245369",
+      "title": "Academic Professional Track (Non-Tenure): Instructional - Open Rank",
+      "url": "https://www.linkedin.com/jobs/view/4410245369",
+      "date": "2026-05-04",
+      "location": "Texas A&M University at Kingsville, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, School of Accountancy",
+      "url": "https://www.indeed.com/viewjob?jk=7bd292f3eadd9be6",
+      "date": "2026-05-04",
+      "location": "California State University Fullerton at Fullerton, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4408010416",
+      "title": "Director of the Center on Drug and Alcohol Research",
+      "url": "https://www.linkedin.com/jobs/view/4408010416",
+      "date": "2026-04-28",
+      "location": "Inside Higher Ed at Lexington, KY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4406876714",
+      "title": "ESE Tenured or Tenure-track Faculty Positions, 2025 - 2026",
+      "url": "https://www.linkedin.com/jobs/view/4406876714",
+      "date": "2026-04-25",
+      "location": "Philadelphia, PA",
+      "description": "Seeking tenure-track faculty in electrical and systems engineering, with emphasis on photonics and electromagnetics.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "photonics",
+        "electromagnetics",
+        "electrical engineering",
+        "systems engineering"
+      ]
+    },
+    {
+      "id": "www-4409951188",
+      "title": "Associate Vice Provost of Faculty Affairs",
+      "url": "https://www.linkedin.com/jobs/view/4409951188",
+      "date": "",
+      "location": "Eastern Washington University at Cheney, WA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4409988707",
+      "title": "Faculty - Tenure Track  Marketing",
+      "url": "https://www.linkedin.com/jobs/view/4409988707",
+      "date": "",
+      "location": "Utah Valley University at Orem, UT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor Product Design",
       "url": "https://www.indeed.com/viewjob?jk=fe237cad3499e57f",
       "date": "2026-05-05",
       "location": "University of Louisville at Louisville, KY, US",
       "description": "Tenure-track position bridging product design, fabrication, and additive manufacturing in collaboration with engineering faculty.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "product design",
         "additive manufacturing",
@@ -34,7 +241,7 @@
       "location": "University of the District of Columbia at Washington, DC, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -45,7 +252,7 @@
       "location": "George Mason University at Fairfax, VA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -56,7 +263,7 @@
       "location": "George Mason University at Fairfax, VA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -67,7 +274,7 @@
       "location": "Florida Atlantic University at Boca Raton, FL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -78,7 +285,7 @@
       "location": "Central State University at Wilberforce, OH, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -89,7 +296,7 @@
       "location": "Concord University at Athens, WV, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -100,7 +307,7 @@
       "location": "Western Connecticut State University at Danbury, CT, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -111,7 +318,7 @@
       "location": "University of Louisiana Monroe at Monroe, LA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -122,40 +329,7 @@
       "location": "University of Texas at El Paso at El Paso, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "University of Nebraska-Lincoln – – Water Sciences Laboratory Director",
-      "url": "https://www.indeed.com/viewjob?jk=05c12469feefb675",
-      "date": "2026-04-24",
-      "location": "nan at Lincoln, NE, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4408490185",
-      "title": "Faculty - Tenure Track – Marketing",
-      "url": "https://www.linkedin.com/jobs/view/4408490185",
-      "date": "",
-      "location": "Woodbury School of Business at Fort Washington, MD",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4410746007",
-      "title": "Open Rank in Finance",
-      "url": "https://www.linkedin.com/jobs/view/4410746007",
-      "date": "",
-      "location": "Florida Atlantic University at Boca Raton, FL",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1130,6 +1304,17 @@
       "url": "https://www.linkedin.com/jobs/view/4406874785",
       "date": "2026-04-25",
       "location": "Inside Higher Ed at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "University of Nebraska-Lincoln – – Water Sciences Laboratory Director",
+      "url": "https://www.indeed.com/viewjob?jk=05c12469feefb675",
+      "date": "2026-04-24",
+      "location": "nan at Lincoln, NE, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -10646,6 +10831,28 @@
       "url": "https://www.indeed.com/viewjob?jk=f173ae58baa5fd14",
       "date": "2025-07-08",
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4408490185",
+      "title": "Faculty - Tenure Track – Marketing",
+      "url": "https://www.linkedin.com/jobs/view/4408490185",
+      "date": "",
+      "location": "Woodbury School of Business at Fort Washington, MD",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4410746007",
+      "title": "Open Rank in Finance",
+      "url": "https://www.linkedin.com/jobs/view/4410746007",
+      "date": "",
+      "location": "Florida Atlantic University at Boca Raton, FL",
       "description": "",
       "fitScore": 0,
       "isNew": false,
