@@ -2,14 +2,46 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-07T06:29:05Z",
+    "generatedAt": "2026-05-08T05:51:53Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 130 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 133 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2605.06603v1",
+      "title": "Moire based strain analysis in wurtzite GaAs -- rock-salt (Pb,Sn)Te core-shell nanowires grown by molecular beam epitaxy",
+      "url": "https://arxiv.org/abs/2605.06603v1",
+      "date": "2026-05-07",
+      "summary": "This study investigates core/shell GaAs/(Pb,Sn)Te nanowires grown by molecular beam epitaxy to estimate strain in the topological crystalline insulator shells. Using high-resolution TEM and geometric phase analysis, the authors identify misfit dislocations and moiré fringes, demonstrating that moiré pattern analysis serves as an effective alternative for quantifying strain in core-shell nanowire structures.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.06545v1",
+      "title": "Emergence of a correlated insulating state in bulk 1T-NbSe$_2$ via metal intercalation",
+      "url": "https://arxiv.org/abs/2605.06545v1",
+      "date": "2026-05-07",
+      "summary": "Researchers synthesized bulk 1T-NbSe2 using electrochemical Sn intercalation, a phase previously limited to monolayers. While DFT predicts metallic behavior, the intercalated samples exhibit an insulating state driven by electronic correlations. This work establishes electrochemical intercalation as a viable method to stabilize inaccessible bulk polytypes and provides a new platform for studying correlated electronic states.",
+      "tags": [
+        "cond-mat-str-el",
+        "cond-mat-supr-con"
+      ]
+    },
+    {
+      "id": "arxiv-2605.05956v1",
+      "title": "Local droplet etching-assisted quantum dot epitaxy for telecom C-band quantum light emitters",
+      "url": "https://arxiv.org/abs/2605.05956v1",
+      "date": "2026-05-07",
+      "summary": "The study proposes local droplet etching (LDE) to fabricate symmetric, low-density InGaAs quantum dots for telecom C-band applications. Key findings include narrow photoluminescence emission lines and confirmed single-photon emission with low g(2)(0) values. The results demonstrate that LDE is a versatile and scalable approach for creating high-quality quantum light sources with tailored emission properties.",
+      "tags": [
+        "physics-optics",
+        "cond-mat-mes-hall"
+      ]
+    },
     {
       "id": "arxiv-2605.04953v1",
       "title": "Characterization of Photopolymerized Microscopic Chiral Structures Using Photonic Orbital Angular Momentum",

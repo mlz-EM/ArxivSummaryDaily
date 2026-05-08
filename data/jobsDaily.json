@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-07T06:30:19Z",
+    "generatedAt": "2026-05-08T05:55:15Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,178 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor, Physics",
+      "url": "https://www.indeed.com/viewjob?jk=0e892c4d8bbcc1ce",
+      "date": "2026-05-07",
+      "location": "South Dakota Board of Regents at Spearfish, SD, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Product Manager II",
+      "url": "https://www.indeed.com/viewjob?jk=48d395fbd06020e6",
+      "date": "2026-05-07",
+      "location": "Juniper Systems at Logan, UT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Academic Professional Track (Non-Tenure): Open Rank- Of the Practice",
+      "url": "https://www.indeed.com/viewjob?jk=7daf81c29902310f",
+      "date": "2026-05-07",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assoc./Full Professor of Engineering Practice for Executive MS in AI Engineering Leadership Program",
+      "url": "https://www.indeed.com/viewjob?jk=5918b9637a26d8a0",
+      "date": "2026-05-07",
+      "location": "Purdue University at West Lafayette, IN, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Tenure-Track, School of Architecture (#1523)",
+      "url": "https://www.indeed.com/viewjob?jk=93059ce949dc1575",
+      "date": "2026-05-07",
+      "location": "Marywood University at Scranton, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Research Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=238b7fe038be6446",
+      "date": "2026-05-07",
+      "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Scientific Engineering Technical Manager",
+      "url": "https://www.indeed.com/viewjob?jk=e83f4a0e7a43653f",
+      "date": "2026-05-07",
+      "location": "University of Texas at Arlington at Arlington, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenured/Tenure-Track: Open Rank",
+      "url": "https://www.indeed.com/viewjob?jk=a2dd2b74063639e4",
+      "date": "2026-05-07",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor - Educational Leadership",
+      "url": "https://www.indeed.com/viewjob?jk=6b7821003d56c7fc",
+      "date": "2026-05-07",
+      "location": "University of Nebraska at Omaha at Omaha, NE, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Pro-Rata Faculty Positions, School of Social Work (#1543)",
+      "url": "https://www.indeed.com/viewjob?jk=710a3e580b17e788",
+      "date": "2026-05-07",
+      "location": "Marywood University at Scranton, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Post Doctoral Research Fellow",
+      "url": "https://www.indeed.com/viewjob?jk=39519fa3e112983e",
+      "date": "2026-05-06",
+      "location": "University of North Dakota at Grand Forks, ND, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4411281065",
+      "title": "Non-tenure line Faculty of Instruction - Environmental Engineering Technology",
+      "url": "https://www.linkedin.com/jobs/view/4411281065",
+      "date": "2026-05-06",
+      "location": "Texas State University at Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4411687388",
+      "title": "SCRD Faculty Associate/Academic Associate Pool - Tourism, Events & Hospitality AY26-27",
+      "url": "https://www.linkedin.com/jobs/view/4411687388",
+      "date": "",
+      "location": "Arizona State University at Phoenix, AZ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4411810519",
+      "title": "Academic Professional Track (Non-Tenure): Open Rank- Of the Practice",
+      "url": "https://www.linkedin.com/jobs/view/4411810519",
+      "date": "",
+      "location": "Texas A&M University at College Station, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4411489913",
+      "title": "FACULTY, (EEAS)",
+      "url": "https://www.linkedin.com/jobs/view/4411489913",
+      "date": "",
+      "location": "Inside Higher Ed at Joliet, IL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Tenure Track Associate Professor, Power Electronics",
       "url": "https://www.indeed.com/viewjob?jk=f9bbf84f24dc4cbc",
       "date": "2026-05-06",
       "location": "Golden, CO, US",
       "description": "Tenure-track position focused on power electronics and advanced energy systems at an R1 engineering university.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "power electronics",
         "energy systems",
@@ -33,7 +198,7 @@
       "location": "Chicago State University at Chicago, IL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -44,7 +209,7 @@
       "location": "Tennessee Board of Regents at Chattanooga, TN, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -55,7 +220,7 @@
       "location": "University of Nebraska at Omaha at Omaha, NE, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -66,7 +231,7 @@
       "location": "SUNY Morrisville at Morrisville, NY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -77,7 +242,7 @@
       "location": "Texas State University at San Marcos, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -88,7 +253,7 @@
       "location": "University of Nebraska at Lincoln, NE, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -99,7 +264,7 @@
       "location": "Troy University at Troy, AL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -110,7 +275,7 @@
       "location": "North Dakota State College of Science at Mayville, ND, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -121,7 +286,7 @@
       "location": "Arizona State University at Mesa, AZ",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -132,7 +297,7 @@
       "location": "Utah Valley University at Orem, UT, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -143,78 +308,7 @@
       "location": "Utah Valley University at Orem, UT, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4410245369",
-      "title": "Academic Professional Track (Non-Tenure): Instructional - Open Rank",
-      "url": "https://www.linkedin.com/jobs/view/4410245369",
-      "date": "2026-05-04",
-      "location": "Texas A&M University at Kingsville, TX",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor, School of Accountancy",
-      "url": "https://www.indeed.com/viewjob?jk=7bd292f3eadd9be6",
-      "date": "2026-05-04",
-      "location": "California State University Fullerton at Fullerton, CA, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4408010416",
-      "title": "Director of the Center on Drug and Alcohol Research",
-      "url": "https://www.linkedin.com/jobs/view/4408010416",
-      "date": "2026-04-28",
-      "location": "Inside Higher Ed at Lexington, KY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4406876714",
-      "title": "ESE Tenured or Tenure-track Faculty Positions, 2025 - 2026",
-      "url": "https://www.linkedin.com/jobs/view/4406876714",
-      "date": "2026-04-25",
-      "location": "Philadelphia, PA",
-      "description": "Seeking tenure-track faculty in electrical and systems engineering, with emphasis on photonics and electromagnetics.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "photonics",
-        "electromagnetics",
-        "electrical engineering",
-        "systems engineering"
-      ]
-    },
-    {
-      "id": "www-4409951188",
-      "title": "Associate Vice Provost of Faculty Affairs",
-      "url": "https://www.linkedin.com/jobs/view/4409951188",
-      "date": "",
-      "location": "Eastern Washington University at Cheney, WA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4409988707",
-      "title": "Faculty - Tenure Track  Marketing",
-      "url": "https://www.linkedin.com/jobs/view/4409988707",
-      "date": "",
-      "location": "Utah Valley University at Orem, UT",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -305,6 +399,28 @@
       "url": "https://www.indeed.com/viewjob?jk=b94fa53a4ef7c669",
       "date": "2026-05-05",
       "location": "Western Connecticut State University at Danbury, CT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4410245369",
+      "title": "Academic Professional Track (Non-Tenure): Instructional - Open Rank",
+      "url": "https://www.linkedin.com/jobs/view/4410245369",
+      "date": "2026-05-04",
+      "location": "Texas A&M University at Kingsville, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, School of Accountancy",
+      "url": "https://www.indeed.com/viewjob?jk=7bd292f3eadd9be6",
+      "date": "2026-05-04",
+      "location": "California State University Fullerton at Fullerton, CA, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -971,6 +1087,17 @@
       "keywords": []
     },
     {
+      "id": "www-4408010416",
+      "title": "Director of the Center on Drug and Alcohol Research",
+      "url": "https://www.linkedin.com/jobs/view/4408010416",
+      "date": "2026-04-28",
+      "location": "Inside Higher Ed at Lexington, KY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-viewjob",
       "title": "Assistant Professor of Chemistry",
       "url": "https://www.indeed.com/viewjob?jk=e47677b28dd8c737",
@@ -1248,6 +1375,22 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "www-4406876714",
+      "title": "ESE Tenured or Tenure-track Faculty Positions, 2025 - 2026",
+      "url": "https://www.linkedin.com/jobs/view/4406876714",
+      "date": "2026-04-25",
+      "location": "Philadelphia, PA",
+      "description": "Seeking tenure-track faculty in electrical and systems engineering, with emphasis on photonics and electromagnetics.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "photonics",
+        "electromagnetics",
+        "electrical engineering",
+        "systems engineering"
+      ]
     },
     {
       "id": "www-4367366809",
@@ -10831,6 +10974,28 @@
       "url": "https://www.indeed.com/viewjob?jk=f173ae58baa5fd14",
       "date": "2025-07-08",
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4409951188",
+      "title": "Associate Vice Provost of Faculty Affairs",
+      "url": "https://www.linkedin.com/jobs/view/4409951188",
+      "date": "",
+      "location": "Eastern Washington University at Cheney, WA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4409988707",
+      "title": "Faculty - Tenure Track  Marketing",
+      "url": "https://www.linkedin.com/jobs/view/4409988707",
+      "date": "",
+      "location": "Utah Valley University at Orem, UT",
       "description": "",
       "fitScore": 0,
       "isNew": false,
