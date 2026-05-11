@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-08T05:55:15Z",
+    "generatedAt": "2026-05-11T07:02:43Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,337 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor - Marketing",
+      "url": "https://www.indeed.com/viewjob?jk=c858163052ee121f",
+      "date": "2026-05-09",
+      "location": "Columbia University at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4411913595",
+      "title": "PRODiG+ Fellow, Criminal Justice",
+      "url": "https://www.linkedin.com/jobs/view/4411913595",
+      "date": "2026-05-09",
+      "location": "State University of New York at Plattsburgh at Plattsburgh, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4372178898",
+      "title": "Emergency Medicine Assistant Professor/Associate Professor/Professor",
+      "url": "https://www.linkedin.com/jobs/view/4372178898",
+      "date": "2026-05-09",
+      "location": "University of Vermont at Burlington, VT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Professor of Practice - Legal Studies",
+      "url": "https://www.indeed.com/viewjob?jk=61222f23b89c5754",
+      "date": "2026-05-09",
+      "location": "Hamline University at Saint Paul, MN, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4412485977",
+      "title": "Chairperson-Agriculture",
+      "url": "https://www.linkedin.com/jobs/view/4412485977",
+      "date": "2026-05-09",
+      "location": "Southeast Missouri State University at Cape Girardeau, MO",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor 107550",
+      "url": "https://www.indeed.com/viewjob?jk=cf8d849e316ef68b",
+      "date": "2026-05-08",
+      "location": "University of West Florida at Pensacola, FL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4411892000",
+      "title": "Faculty Associate - General Pool",
+      "url": "https://www.linkedin.com/jobs/view/4411892000",
+      "date": "2026-05-08",
+      "location": "CommLabASU at Arizona State University at Valley, WV",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4411886194",
+      "title": "Faculty Associate – First-Year Writing",
+      "url": "https://www.linkedin.com/jobs/view/4411886194",
+      "date": "2026-05-08",
+      "location": "CommLabASU at Arizona State University at Valley Center, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4412172219",
+      "title": "SCRD Faculty Associate/Academic Associate Pool - Nonprofit Leadership Management AY26-27",
+      "url": "https://www.linkedin.com/jobs/view/4412172219",
+      "date": "2026-05-08",
+      "location": "Arizona State University at Phoenix, AZ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "School of Social Work - Associate Professor (Tenure-Track)",
+      "url": "https://www.indeed.com/viewjob?jk=8ce7d81f28f1cd35",
+      "date": "2026-05-08",
+      "location": "Sacred Heart University at Remote, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4411892001",
+      "title": "Faculty Associate Pool – NEW 101 (The New College Experience)",
+      "url": "https://www.linkedin.com/jobs/view/4411892001",
+      "date": "2026-05-08",
+      "location": "CommLabASU at Arizona State University at Valley, WV",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Biochemistry",
+      "url": "https://www.indeed.com/viewjob?jk=02cfb57b6ad38d2f",
+      "date": "2026-05-08",
+      "location": "Eastern New Mexico University at Portales, NM, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Business",
+      "url": "https://www.indeed.com/viewjob?jk=1a2124871b49bb76",
+      "date": "2026-05-08",
+      "location": "OBERLIN COLLEGE at Oberlin, OH, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "RESEARCH ASSISTANT PROFESSOR CARDIOLOGY",
+      "url": "https://www.indeed.com/viewjob?jk=625ada750e82c56a",
+      "date": "2026-05-08",
+      "location": "The University of Iowa at Iowa City, IA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4411874779",
+      "title": "Faculty Associate Pool – IAS 300 (Career Strategies and Personal Resilience)",
+      "url": "https://www.linkedin.com/jobs/view/4411874779",
+      "date": "2026-05-08",
+      "location": "CommLabASU at Arizona State University at Valley, WV",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Faculty – Equine Studies",
+      "url": "https://www.indeed.com/viewjob?jk=a4c48fdbf7ec1db9",
+      "date": "2026-05-08",
+      "location": "Asbury University at Wilmore, KY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "MSW Instructor/Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=9ae3f11f38997995",
+      "date": "2026-05-08",
+      "location": "COLUMBIA COLLEGE OF MISSOURI at Remote, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "PROFESSOR OF PRACTICE",
+      "url": "https://www.indeed.com/viewjob?jk=3c95deb360129b29",
+      "date": "2026-05-08",
+      "location": "US Defense Security Cooperation Agency at Washington, DC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4408672782",
+      "title": "Adjunct Assistant Professor",
+      "url": "https://www.linkedin.com/jobs/view/4408672782",
+      "date": "2026-05-04",
+      "location": "Long Island University at Brooklyn, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4409508128",
+      "title": "University of North Carolina at Chapel Hill: Two Open Rank Positions",
+      "url": "https://www.linkedin.com/jobs/view/4409508128",
+      "date": "2026-05-01",
+      "location": "",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4407112760",
+      "title": "Tenure Track Faculty Position in Medicine - Senior ranks",
+      "url": "https://www.linkedin.com/jobs/view/4407112760",
+      "date": "2026-04-26",
+      "location": "Inside Higher Ed at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4407110870",
+      "title": "Academic Clinician Faculty Position - Senior ranks",
+      "url": "https://www.linkedin.com/jobs/view/4407110870",
+      "date": "2026-04-26",
+      "location": "Inside Higher Ed at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4405453386",
+      "title": "Surgery Clerkship (Med Clinical Prof-Med Series)",
+      "url": "https://www.linkedin.com/jobs/view/4405453386",
+      "date": "2026-04-22",
+      "location": "The City University of New York at New York, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4404286667",
+      "title": "Tenure Track Faculty Position in Medicine - Senior ranks",
+      "url": "https://www.linkedin.com/jobs/view/4404286667",
+      "date": "2026-04-22",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4400869787",
+      "title": "PA Studies Assistant Professor Full-Time Faculty Tenure Track",
+      "url": "https://www.linkedin.com/jobs/view/4400869787",
+      "date": "2026-04-18",
+      "location": "New York Institute of Technology at Old Westbury, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4412617805",
+      "title": "Grainger College of Engineering: Faculty (Open Rank) - Industrial & Enterprise Systems Engineering",
+      "url": "https://www.linkedin.com/jobs/view/4412617805",
+      "date": "2026-04-16",
+      "location": "Urbana, IL",
+      "description": "Tenure-track position in systems engineering and design with focus on advanced manufacturing and innovation.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "systems engineering",
+        "advanced manufacturing",
+        "materials research",
+        "digital twins"
+      ]
+    },
+    {
+      "id": "www-4402205154",
+      "title": "Faculty Pending",
+      "url": "https://www.linkedin.com/jobs/view/4402205154",
+      "date": "2026-04-15",
+      "location": "Albany Medical Center at Albany, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4400035205",
+      "title": "Adjunct Assistant Professor",
+      "url": "https://www.linkedin.com/jobs/view/4400035205",
+      "date": "2026-04-14",
+      "location": "The University of North Carolina at Chapel Hill at North Carolina, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4399546590",
+      "title": "Faculty.Professor.Professor - Full-Time",
+      "url": "https://www.linkedin.com/jobs/view/4399546590",
+      "date": "2026-04-13",
+      "location": "University of Pittsburgh at Pittsburgh, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor, Physics",
       "url": "https://www.indeed.com/viewjob?jk=0e892c4d8bbcc1ce",
       "date": "2026-05-07",
       "location": "South Dakota Board of Regents at Spearfish, SD, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +353,7 @@
       "location": "Juniper Systems at Logan, UT, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +364,7 @@
       "location": "Texas A&M University at College Station, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +375,7 @@
       "location": "Purdue University at West Lafayette, IN, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +386,7 @@
       "location": "Marywood University at Scranton, PA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +397,7 @@
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +408,7 @@
       "location": "University of Texas at Arlington at Arlington, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +419,7 @@
       "location": "Texas A&M University at College Station, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +430,7 @@
       "location": "University of Nebraska at Omaha at Omaha, NE, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +441,7 @@
       "location": "Marywood University at Scranton, PA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,7 +452,7 @@
       "location": "University of North Dakota at Grand Forks, ND, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -139,40 +463,7 @@
       "location": "Texas State University at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4411687388",
-      "title": "SCRD Faculty Associate/Academic Associate Pool - Tourism, Events & Hospitality AY26-27",
-      "url": "https://www.linkedin.com/jobs/view/4411687388",
-      "date": "",
-      "location": "Arizona State University at Phoenix, AZ",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4411810519",
-      "title": "Academic Professional Track (Non-Tenure): Open Rank- Of the Practice",
-      "url": "https://www.linkedin.com/jobs/view/4411810519",
-      "date": "",
-      "location": "Texas A&M University at College Station, TX",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4411489913",
-      "title": "FACULTY, (EEAS)",
-      "url": "https://www.linkedin.com/jobs/view/4411489913",
-      "date": "",
-      "location": "Inside Higher Ed at Joliet, IL",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -10974,6 +11265,39 @@
       "url": "https://www.indeed.com/viewjob?jk=f173ae58baa5fd14",
       "date": "2025-07-08",
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4411687388",
+      "title": "SCRD Faculty Associate/Academic Associate Pool - Tourism, Events & Hospitality AY26-27",
+      "url": "https://www.linkedin.com/jobs/view/4411687388",
+      "date": "",
+      "location": "Arizona State University at Phoenix, AZ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4411810519",
+      "title": "Academic Professional Track (Non-Tenure): Open Rank- Of the Practice",
+      "url": "https://www.linkedin.com/jobs/view/4411810519",
+      "date": "",
+      "location": "Texas A&M University at College Station, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4411489913",
+      "title": "FACULTY, (EEAS)",
+      "url": "https://www.linkedin.com/jobs/view/4411489913",
+      "date": "",
+      "location": "Inside Higher Ed at Joliet, IL",
       "description": "",
       "fitScore": 0,
       "isNew": false,
