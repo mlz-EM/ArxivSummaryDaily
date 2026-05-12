@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-11T07:02:43Z",
+    "generatedAt": "2026-05-12T06:34:20Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,208 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor for Agriculture & Natural Resource Management",
+      "url": "https://www.indeed.com/viewjob?jk=5eec8b6becf95579",
+      "date": "2026-05-11",
+      "location": "SCHREINER UNIVERSITY at Kerrville, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Open-Rank and Track Professor of Film and Television Production – Producing",
+      "url": "https://www.indeed.com/viewjob?jk=e0026bac95c67474",
+      "date": "2026-05-11",
+      "location": "University of Southern California at Los Angeles, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Library (E-Resource & Serials) 12-month appointment",
+      "url": "https://www.indeed.com/viewjob?jk=fc4e5066ddd2fb6f",
+      "date": "2026-05-11",
+      "location": "Missouri State University at Springfield, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Library (Student Success)12-month appt",
+      "url": "https://www.indeed.com/viewjob?jk=022dbf1b04353695",
+      "date": "2026-05-11",
+      "location": "Missouri State University at Springfield, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Illustration",
+      "url": "https://www.indeed.com/viewjob?jk=415d0dc28bfc4800",
+      "date": "2026-05-11",
+      "location": "Ball State University at Muncie, IN, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Dept. of Information Technology",
+      "url": "https://www.indeed.com/viewjob?jk=be15ccc532adba05",
+      "date": "2026-05-11",
+      "location": "Middle Georgia State University at Macon, GA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4409884494",
+      "title": "Provost and Vice Chancellor for Academic and Student Affairs",
+      "url": "https://www.linkedin.com/jobs/view/4409884494",
+      "date": "2026-05-03",
+      "location": "Inside Higher Ed at Lowell, MA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4409441771",
+      "title": "Provost and Vice President for Academic Affairs",
+      "url": "https://www.linkedin.com/jobs/view/4409441771",
+      "date": "2026-05-01",
+      "location": "Inside Higher Ed at San Angelo, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4409478440",
+      "title": "Printmaking Guest Position 2026-2027",
+      "url": "https://www.linkedin.com/jobs/view/4409478440",
+      "date": "2026-05-01",
+      "location": "Sarah Lawrence College at Bronxville, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4407113730",
+      "title": "Tenure-Track, Music Education (Open Rank)",
+      "url": "https://www.linkedin.com/jobs/view/4407113730",
+      "date": "2026-04-26",
+      "location": "Inside Higher Ed at Naperville, IL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4403773674",
+      "title": "Continuing Non Tenure-Track Faculty in Mechanics and Materials in the Department of Mechanical Engineering",
+      "url": "https://www.linkedin.com/jobs/view/4403773674",
+      "date": "2026-04-24",
+      "location": "Villanova University at Villanova, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4413252579",
+      "title": "Grainger College of Engineering: Faculty (Open Rank) - Industrial & Enterprise Systems Engineering",
+      "url": "https://www.linkedin.com/jobs/view/4413252579",
+      "date": "2026-04-17",
+      "location": "Urbana, IL, US",
+      "description": "Tenure-track faculty position in systems engineering and design with emphasis on advanced manufacturing.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "systems engineering",
+        "advanced manufacturing",
+        "digital twins"
+      ]
+    },
+    {
+      "id": "www-4402275451",
+      "title": "Hepburn/Dynasplint Endowed Professorship",
+      "url": "https://www.linkedin.com/jobs/view/4402275451",
+      "date": "2026-04-15",
+      "location": "Inside Higher Ed at Baltimore, MD",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4412788266",
+      "title": "Department Head",
+      "url": "https://www.linkedin.com/jobs/view/4412788266",
+      "date": "2026-02-13",
+      "location": "Blacksburg, VA",
+      "description": "Tenured department head position focusing on sustainable biomaterials science and engineering.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "biomaterials",
+        "sustainable manufacturing",
+        "industrial ecology"
+      ]
+    },
+    {
+      "id": "www-4410111296",
+      "title": "Graduate Business and Leadership Program Director",
+      "url": "https://www.linkedin.com/jobs/view/4410111296",
+      "date": "",
+      "location": "University of Saint Francis at Fort Wayne, IN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4413065818",
+      "title": "FACULTY POSITION FOR EXECUTIVE MS IN AI ENGINEERING LEADERSHIP PROGRAM",
+      "url": "https://www.linkedin.com/jobs/view/4413065818",
+      "date": "",
+      "location": "Purdue University at West Lafayette, IN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4412743343",
+      "title": "Psychiatric Mental Health Nursing Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4412743343",
+      "date": "",
+      "location": "American Association of Colleges of Nursing (AACN) at Pittsburgh, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor - Marketing",
       "url": "https://www.indeed.com/viewjob?jk=c858163052ee121f",
       "date": "2026-05-09",
       "location": "Columbia University at US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +224,7 @@
       "location": "State University of New York at Plattsburgh at Plattsburgh, NY",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +235,7 @@
       "location": "University of Vermont at Burlington, VT",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +246,7 @@
       "location": "Hamline University at Saint Paul, MN, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +257,7 @@
       "location": "Southeast Missouri State University at Cape Girardeau, MO",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +268,7 @@
       "location": "University of West Florida at Pensacola, FL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +279,7 @@
       "location": "CommLabASU at Arizona State University at Valley, WV",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +290,7 @@
       "location": "CommLabASU at Arizona State University at Valley Center, CA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +301,7 @@
       "location": "Arizona State University at Phoenix, AZ",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +312,7 @@
       "location": "Sacred Heart University at Remote, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,7 +323,7 @@
       "location": "CommLabASU at Arizona State University at Valley, WV",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -139,7 +334,7 @@
       "location": "Eastern New Mexico University at Portales, NM, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -150,7 +345,7 @@
       "location": "OBERLIN COLLEGE at Oberlin, OH, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -161,7 +356,7 @@
       "location": "The University of Iowa at Iowa City, IA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -172,7 +367,7 @@
       "location": "CommLabASU at Arizona State University at Valley, WV",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -183,7 +378,7 @@
       "location": "Asbury University at Wilmore, KY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -194,7 +389,7 @@
       "location": "COLUMBIA COLLEGE OF MISSOURI at Remote, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -205,133 +400,7 @@
       "location": "US Defense Security Cooperation Agency at Washington, DC, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4408672782",
-      "title": "Adjunct Assistant Professor",
-      "url": "https://www.linkedin.com/jobs/view/4408672782",
-      "date": "2026-05-04",
-      "location": "Long Island University at Brooklyn, NY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4409508128",
-      "title": "University of North Carolina at Chapel Hill: Two Open Rank Positions",
-      "url": "https://www.linkedin.com/jobs/view/4409508128",
-      "date": "2026-05-01",
-      "location": "",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4407112760",
-      "title": "Tenure Track Faculty Position in Medicine - Senior ranks",
-      "url": "https://www.linkedin.com/jobs/view/4407112760",
-      "date": "2026-04-26",
-      "location": "Inside Higher Ed at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4407110870",
-      "title": "Academic Clinician Faculty Position - Senior ranks",
-      "url": "https://www.linkedin.com/jobs/view/4407110870",
-      "date": "2026-04-26",
-      "location": "Inside Higher Ed at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4405453386",
-      "title": "Surgery Clerkship (Med Clinical Prof-Med Series)",
-      "url": "https://www.linkedin.com/jobs/view/4405453386",
-      "date": "2026-04-22",
-      "location": "The City University of New York at New York, NY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4404286667",
-      "title": "Tenure Track Faculty Position in Medicine - Senior ranks",
-      "url": "https://www.linkedin.com/jobs/view/4404286667",
-      "date": "2026-04-22",
-      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4400869787",
-      "title": "PA Studies Assistant Professor Full-Time Faculty Tenure Track",
-      "url": "https://www.linkedin.com/jobs/view/4400869787",
-      "date": "2026-04-18",
-      "location": "New York Institute of Technology at Old Westbury, NY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4412617805",
-      "title": "Grainger College of Engineering: Faculty (Open Rank) - Industrial & Enterprise Systems Engineering",
-      "url": "https://www.linkedin.com/jobs/view/4412617805",
-      "date": "2026-04-16",
-      "location": "Urbana, IL",
-      "description": "Tenure-track position in systems engineering and design with focus on advanced manufacturing and innovation.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "systems engineering",
-        "advanced manufacturing",
-        "materials research",
-        "digital twins"
-      ]
-    },
-    {
-      "id": "www-4402205154",
-      "title": "Faculty Pending",
-      "url": "https://www.linkedin.com/jobs/view/4402205154",
-      "date": "2026-04-15",
-      "location": "Albany Medical Center at Albany, NY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4400035205",
-      "title": "Adjunct Assistant Professor",
-      "url": "https://www.linkedin.com/jobs/view/4400035205",
-      "date": "2026-04-14",
-      "location": "The University of North Carolina at Chapel Hill at North Carolina, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4399546590",
-      "title": "Faculty.Professor.Professor - Full-Time",
-      "url": "https://www.linkedin.com/jobs/view/4399546590",
-      "date": "2026-04-13",
-      "location": "University of Pittsburgh at Pittsburgh, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -696,6 +765,17 @@
       "keywords": []
     },
     {
+      "id": "www-4408672782",
+      "title": "Adjunct Assistant Professor",
+      "url": "https://www.linkedin.com/jobs/view/4408672782",
+      "date": "2026-05-04",
+      "location": "Long Island University at Brooklyn, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4410245369",
       "title": "Academic Professional Track (Non-Tenure): Instructional - Open Rank",
       "url": "https://www.linkedin.com/jobs/view/4410245369",
@@ -899,6 +979,17 @@
       "url": "https://www.linkedin.com/jobs/view/4407995463",
       "date": "2026-05-02",
       "location": "American Accounting Association at New Orleans, LA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4409508128",
+      "title": "University of North Carolina at Chapel Hill: Two Open Rank Positions",
+      "url": "https://www.linkedin.com/jobs/view/4409508128",
+      "date": "2026-05-01",
+      "location": "",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1657,6 +1748,28 @@
       "keywords": []
     },
     {
+      "id": "www-4407112760",
+      "title": "Tenure Track Faculty Position in Medicine - Senior ranks",
+      "url": "https://www.linkedin.com/jobs/view/4407112760",
+      "date": "2026-04-26",
+      "location": "Inside Higher Ed at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4407110870",
+      "title": "Academic Clinician Faculty Position - Senior ranks",
+      "url": "https://www.linkedin.com/jobs/view/4407110870",
+      "date": "2026-04-26",
+      "location": "Inside Higher Ed at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4407115743",
       "title": "Health Communication",
       "url": "https://www.linkedin.com/jobs/view/4407115743",
@@ -2068,6 +2181,28 @@
       "url": "https://www.indeed.com/viewjob?jk=f2620e42783bd56b",
       "date": "2026-04-23",
       "location": "Missouri State University at Springfield, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4405453386",
+      "title": "Surgery Clerkship (Med Clinical Prof-Med Series)",
+      "url": "https://www.linkedin.com/jobs/view/4405453386",
+      "date": "2026-04-22",
+      "location": "The City University of New York at New York, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4404286667",
+      "title": "Tenure Track Faculty Position in Medicine - Senior ranks",
+      "url": "https://www.linkedin.com/jobs/view/4404286667",
+      "date": "2026-04-22",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2540,6 +2675,17 @@
       "keywords": []
     },
     {
+      "id": "www-4400869787",
+      "title": "PA Studies Assistant Professor Full-Time Faculty Tenure Track",
+      "url": "https://www.linkedin.com/jobs/view/4400869787",
+      "date": "2026-04-18",
+      "location": "New York Institute of Technology at Old Westbury, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4403075539",
       "title": "Social Work, Tenure-Track Faculty",
       "url": "https://www.linkedin.com/jobs/view/4403075539",
@@ -2813,6 +2959,22 @@
       "keywords": []
     },
     {
+      "id": "www-4412617805",
+      "title": "Grainger College of Engineering: Faculty (Open Rank) - Industrial & Enterprise Systems Engineering",
+      "url": "https://www.linkedin.com/jobs/view/4412617805",
+      "date": "2026-04-16",
+      "location": "Urbana, IL",
+      "description": "Tenure-track position in systems engineering and design with focus on advanced manufacturing and innovation.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "systems engineering",
+        "advanced manufacturing",
+        "materials research",
+        "digital twins"
+      ]
+    },
+    {
       "id": "www-4401866049",
       "title": "Multiple Open Rank Faculty Positions – Artificial Intelligence Cluster Job",
       "url": "https://www.linkedin.com/jobs/view/4401866049",
@@ -2933,6 +3095,17 @@
       "url": "https://www.linkedin.com/jobs/view/4403117245",
       "date": "2026-04-16",
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4402205154",
+      "title": "Faculty Pending",
+      "url": "https://www.linkedin.com/jobs/view/4402205154",
+      "date": "2026-04-15",
+      "location": "Albany Medical Center at Albany, NY",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -3156,6 +3329,17 @@
       "keywords": []
     },
     {
+      "id": "www-4400035205",
+      "title": "Adjunct Assistant Professor",
+      "url": "https://www.linkedin.com/jobs/view/4400035205",
+      "date": "2026-04-14",
+      "location": "The University of North Carolina at Chapel Hill at North Carolina, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4402083080",
       "title": "Faculty Associate– Biological Data Science",
       "url": "https://www.linkedin.com/jobs/view/4402083080",
@@ -3371,6 +3555,17 @@
       "url": "https://www.indeed.com/viewjob?jk=649c701a5b352b2a",
       "date": "2026-04-14",
       "location": "Gwynedd Mercy University at Gwynedd Valley, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4399546590",
+      "title": "Faculty.Professor.Professor - Full-Time",
+      "url": "https://www.linkedin.com/jobs/view/4399546590",
+      "date": "2026-04-13",
+      "location": "University of Pittsburgh at Pittsburgh, PA",
       "description": "",
       "fitScore": 0,
       "isNew": false,

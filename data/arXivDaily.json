@@ -2,14 +2,36 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-11T06:58:21Z",
+    "generatedAt": "2026-05-12T06:30:58Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 133 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 143 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2605.09398v1",
+      "title": "Characterizing Dislocation Substructures in Creep-Deformed Olivine Using Electron Channeling Contrast Imaging",
+      "url": "https://arxiv.org/abs/2605.09398v1",
+      "date": "2026-05-10",
+      "summary": "This study applies electron channeling contrast imaging (ECCI) to characterize dislocation substructures in creep-deformed olivine. It finds that ECCI reliably reveals complex subgrain boundaries and dislocation loops, providing essential constraints for modeling dislocation creep in Earth's mantle minerals.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.08264v1",
+      "title": "Indirect Detection of Lactate Through Voltammetry Using Glassy Carbon Microelectrodes",
+      "url": "https://arxiv.org/abs/2605.08264v1",
+      "date": "2026-05-08",
+      "summary": "The study aims to achieve indirect voltammetric detection of non-electroactive lactate using glassy carbon microelectrodes. By immobilizing lactate oxidase in a chitosan matrix, the researchers successfully detected lactate at concentrations as low as 10 nM through enzymatic hydrogen peroxide generation, demonstrating a robust sensing platform.",
+      "tags": [
+        "physics-bio-ph",
+        "cond-mat-mtrl-sci",
+        "physics-med-ph"
+      ]
+    },
     {
       "id": "arxiv-2605.06603v1",
       "title": "Moire based strain analysis in wurtzite GaAs -- rock-salt (Pb,Sn)Te core-shell nanowires grown by molecular beam epitaxy",
@@ -40,6 +62,16 @@
       "tags": [
         "physics-optics",
         "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2605.06603v2",
+      "title": "Moire based strain analysis in wurtzite GaAs -- rock-salt (Pb,Sn)Te core-shell nanowires grown by molecular beam epitaxy",
+      "url": "https://arxiv.org/abs/2605.06603v2",
+      "date": "2026-05-07",
+      "summary": "This research investigates strain in GaAs/(Pb,Sn)Te core-shell nanowires using transmission electron microscopy. The study finds that moiré patterns and misfit dislocations at the interface serve as an effective alternative for estimating strain in crystalline topological insulator shells, facilitating the characterization of lattice mismatch.",
+      "tags": [
+        "cond-mat-mtrl-sci"
       ]
     },
     {
@@ -137,6 +169,19 @@
       ]
     },
     {
+      "id": "arxiv-2605.02934v1",
+      "title": "Statistical analysis of virion-cell interactions mediated by peptide nanofibrils and peptide amphiphiles using STEM tomography",
+      "url": "https://arxiv.org/abs/2605.02934v1",
+      "date": "2026-04-30",
+      "summary": "The paper introduces a STEM tomography framework to statistically analyze how peptide nanofibrils and amphiphiles govern virion-cell interactions. It reveals that while all tested peptides efficiently capture virions, they employ distinct spatial organization strategies that likely determine their viral transduction-enhancing efficacy.",
+      "tags": [
+        "physics-bio-ph",
+        "cond-mat-mtrl-sci",
+        "q-bio-sc",
+        "stat-ap"
+      ]
+    },
+    {
       "id": "arxiv-2604.26718v1",
       "title": "Tracking visible pulsed laser annealing of Hf0.5Zr0.5O2 heterostructures with in situ transmission electron microscopy",
       "url": "https://arxiv.org/abs/2604.26718v1",
@@ -168,6 +213,17 @@
         "eess-iv",
         "cs-cv",
         "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2604.26718v2",
+      "title": "Tracking visible pulsed laser annealing of Hf$_{0.5}$Zr$_{0.5}$O$_2$ heterostructures with in situ transmission electron microscopy",
+      "url": "https://arxiv.org/abs/2604.26718v2",
+      "date": "2026-04-29",
+      "summary": "This study tracks the visible pulsed laser annealing of Hf0.5Zr0.5O2 (HZO) heterostructures using in situ transmission electron microscopy. The researchers identified a sharp laser energy threshold for crystallization, finding that a single 177 mJ/cm² pulse produces an 86% ferroelectric orthorhombic phase.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-app-ph"
       ]
     },
     {
@@ -342,6 +398,18 @@
       ]
     },
     {
+      "id": "arxiv-2604.24769v1",
+      "title": "SPARSE -- Efficient High-Resolution SEM Imaging of Rare Microstructural Features Across Large Areas by Selective Rescanning",
+      "url": "https://arxiv.org/abs/2604.24769v1",
+      "date": "2026-04-15",
+      "summary": "The authors developed SPARSE, an open-source Python framework for efficient high-resolution SEM imaging of rare microstructural features. By using a two-stage selective rescanning approach, the framework achieved a 95% detection rate in dual-phase steel while reducing acquisition time to just 19% of conventional methods.",
+      "tags": [
+        "physics-app-ph",
+        "cond-mat-mtrl-sci",
+        "physics-ins-det"
+      ]
+    },
+    {
       "id": "arxiv-2604.12612v1",
       "title": "Damage dose dependence of deuterium retention in high-temperature self-ion irradiated tungsten",
       "url": "https://arxiv.org/abs/2604.12612v1",
@@ -371,6 +439,17 @@
       "tags": [
         "cond-mat-mtrl-sci",
         "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2604.12571v2",
+      "title": "Tuning Structure and Magnetism in Large-Scale 2D Ferromagnet Fe$_3$GeTe$_2$ through Ni Doping",
+      "url": "https://arxiv.org/abs/2604.12571v2",
+      "date": "2026-04-14",
+      "summary": "This research investigates the effects of Ni doping on the structural and magnetic properties of epitaxial Fe3GeTe2 films grown via molecular beam epitaxy. The study finds that Ni substitution and intercalation lead to lattice shrinkage, a suppression of perpendicular magnetic anisotropy, and a drastic reduction in the Curie temperature.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
       ]
     },
     {
@@ -413,6 +492,20 @@
       "tags": [
         "cond-mat-mtrl-sci",
         "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2604.09732v1",
+      "title": "Toward Neutrino and Dark Matter Detection with Ancient Minerals: TEM Study of Heavy-Ion Tracks in Olivine",
+      "url": "https://arxiv.org/abs/2604.09732v1",
+      "date": "2026-04-09",
+      "summary": "This study evaluates olivine as a 'paleo-detector' for neutrinos and dark matter by analyzing heavy-ion tracks using STEM. The researchers found that ion irradiation produces robust, measurable tracks at the MeV scale, with continuity changes reflecting the transition between electronic and nuclear stopping powers.",
+      "tags": [
+        "physics-ins-det",
+        "astro-ph-im",
+        "hep-ex",
+        "hep-ph",
+        "nucl-ex"
       ]
     },
     {
@@ -484,6 +577,34 @@
       "summary": "This work introduces an interface engineering approach using fluorination-induced AlFx formation and SiNx passivation to suppress leakage in p-Si/n-AlN heterojunction diodes. The engineered interface reduces reverse leakage current by several orders of magnitude while maintaining forward conduction. These results establish AlFx/SiNx passivation as an effective strategy for stabilizing AlN interfaces in low-leakage power electronics.",
       "tags": [
         "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2604.16455v1",
+      "title": "Drug-delivery Ca-Mg silicate scaffolds encapsulated in PLGA",
+      "url": "https://arxiv.org/abs/2604.16455v1",
+      "date": "2026-04-07",
+      "summary": "The objective was to develop dual-functional bredigite scaffolds for bone regeneration and vancomycin delivery. The study found that while bare scaffolds showed burst release and low biocompatibility, encapsulating them in PLGA coatings modified the drug release kinetics and significantly improved cell viability.",
+      "tags": [
+        "physics-bio-ph",
+        "cond-mat-mtrl-sci",
+        "physics-app-ph",
+        "physics-chem-ph",
+        "physics-med-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2604.16454v1",
+      "title": "Competition of carrier bioresorption and drug release kinetics of vancomycin-loaded silicate macroporous microspheres to determine cell biocompatibility",
+      "url": "https://arxiv.org/abs/2604.16454v1",
+      "date": "2026-04-07",
+      "summary": "This research examines the cytocompatibility of vancomycin-loaded bredigite, akermanite, and diopside macroporous microspheres. The findings indicate that diopside exhibited the highest cell viability, leading to the conclusion that carrier bioresorption kinetics play a more dominant role than drug delivery kinetics in determining biocompatibility.",
+      "tags": [
+        "physics-bio-ph",
+        "cond-mat-mtrl-sci",
+        "physics-app-ph",
+        "physics-chem-ph",
+        "physics-med-ph"
       ]
     },
     {
