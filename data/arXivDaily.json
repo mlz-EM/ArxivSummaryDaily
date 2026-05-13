@@ -2,10 +2,10 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-12T06:30:58Z",
+    "generatedAt": "2026-05-13T06:41:12Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 143 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 144 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
@@ -18,6 +18,17 @@
       "summary": "This study applies electron channeling contrast imaging (ECCI) to characterize dislocation substructures in creep-deformed olivine. It finds that ECCI reliably reveals complex subgrain boundaries and dislocation loops, providing essential constraints for modeling dislocation creep in Earth's mantle minerals.",
       "tags": [
         "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.11018v1",
+      "title": "Correction of STEM Distortions",
+      "url": "https://arxiv.org/abs/2605.11018v1",
+      "date": "2026-05-10",
+      "summary": "This paper derives mathematical transformations to correct scanning distortions in Scanning Transmission Electron Microscopy (STEM) images. These transformations provide a technical foundation for correction algorithms implemented in the CEOS Panta Rhei and TEMDM software packages, enabling more accurate image reconstruction.",
+      "tags": [
+        "physics-ins-det",
+        "physics-data-an"
       ]
     },
     {
