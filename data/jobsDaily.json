@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-13T06:42:44Z",
+    "generatedAt": "2026-05-14T06:44:36Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,128 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor - Business",
+      "url": "https://www.indeed.com/viewjob?jk=2296640595c76660",
+      "date": "2026-05-13",
+      "location": "North Idaho College at Coeur d'Alene, ID, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor (Wildlife Conservation and Management)",
+      "url": "https://www.indeed.com/viewjob?jk=7dd196fc12b91f0e",
+      "date": "2026-05-13",
+      "location": "Southern Illinois University Carbondale at Carbondale, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Instructor or Assistant Professor, Drama",
+      "url": "https://www.indeed.com/viewjob?jk=287ce4ff49a9e8df",
+      "date": "2026-05-13",
+      "location": "DEL MAR COLLEGE at Corpus Christi, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Finance",
+      "url": "https://www.indeed.com/viewjob?jk=1579d3ed127dee4a",
+      "date": "2026-05-13",
+      "location": "University of Wisconsin at Stevens Point, WI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Biochemistry - Protein Homeostasis",
+      "url": "https://www.indeed.com/viewjob?jk=bbb3fd78809d3cd0",
+      "date": "2026-05-13",
+      "location": "University of Massachusetts Amherst at Amherst, MA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Teaching Professor, Chemistry",
+      "url": "https://www.indeed.com/viewjob?jk=5504f5b7d4f5c6dd",
+      "date": "2026-05-13",
+      "location": "Roosevelt University at Chicago, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Management – Management & Marketing (Tenure-Track)",
+      "url": "https://www.indeed.com/viewjob?jk=7cf387f609a54075",
+      "date": "2026-05-12",
+      "location": "Youngstown State University at Youngstown, OH, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor, Social/Personality Psychology and Industrial/Organizational Psychology",
+      "url": "https://www.indeed.com/viewjob?jk=1f0d08a56e4edc1b",
+      "date": "2026-05-12",
+      "location": "High Point University at High Point, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4412783422",
+      "title": "ECE Tenure-Track Faculty Position in Physical AI",
+      "url": "https://www.linkedin.com/jobs/view/4412783422",
+      "date": "2026-05-11",
+      "location": "Blacksburg, VA",
+      "description": "Tenure-track faculty role exploring Physical AI convergence with semiconductors, materials, and micro/nanofabrication.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "Physical AI",
+        "semiconductors",
+        "materials",
+        "nanofabrication"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track Faculty",
+      "url": "https://www.indeed.com/viewjob?jk=5153bf376423c557",
+      "date": "2026-04-08",
+      "location": "Rochester Institute of Technology at Rochester, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor of Management - 2 positions available",
       "url": "https://www.indeed.com/viewjob?jk=b90d176aaaeb0f03",
       "date": "2026-05-12",
       "location": "Marshall University at Huntington, WV, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +144,7 @@
       "location": "Texas Christian University at Fort Worth, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +155,7 @@
       "location": "Briar Cliff University at Sioux City, IA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +166,7 @@
       "location": "Marshall University at Huntington, WV, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +177,7 @@
       "location": "Texas State University at San Marcos, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +188,7 @@
       "location": "Louisiana State University at Baton Rouge, LA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +199,7 @@
       "location": "Southern Illinois University Carbondale at Carbondale, IL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,51 +210,7 @@
       "location": "University of Southern California at Los Angeles, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4412386004",
-      "title": "FIT NYC Full-Time Faculty Position in Animation, Interactive Media, & Game Design, School of Art and",
-      "url": "https://www.linkedin.com/jobs/view/4412386004",
-      "date": "2026-05-10",
-      "location": "BoF Careers at New York, NY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4413428076",
-      "title": "Academic General Faculty, Data Analytics and Decision Sciences (DADS)",
-      "url": "https://www.linkedin.com/jobs/view/4413428076",
-      "date": "",
-      "location": "Inside Higher Ed at Virginia, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4413401736",
-      "title": "University of North Carolina at Chapel Hill: Two Open Rank Positions",
-      "url": "https://www.linkedin.com/jobs/view/4413401736",
-      "date": "",
-      "location": "",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4410168231",
-      "title": "Director of Faculty and Leadership Development in Faculty Affairs",
-      "url": "https://www.linkedin.com/jobs/view/4410168231",
-      "date": "",
-      "location": "The University of Georgia at Athens, GA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -203,6 +274,17 @@
       "url": "https://www.indeed.com/viewjob?jk=be15ccc532adba05",
       "date": "2026-05-11",
       "location": "Middle Georgia State University at Macon, GA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4412386004",
+      "title": "FIT NYC Full-Time Faculty Position in Animation, Interactive Media, & Game Design, School of Art and",
+      "url": "https://www.linkedin.com/jobs/view/4412386004",
+      "date": "2026-05-10",
+      "location": "BoF Careers at New York, NY",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -11559,6 +11641,39 @@
       "url": "https://www.indeed.com/viewjob?jk=f173ae58baa5fd14",
       "date": "2025-07-08",
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4413428076",
+      "title": "Academic General Faculty, Data Analytics and Decision Sciences (DADS)",
+      "url": "https://www.linkedin.com/jobs/view/4413428076",
+      "date": "",
+      "location": "Inside Higher Ed at Virginia, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4413401736",
+      "title": "University of North Carolina at Chapel Hill: Two Open Rank Positions",
+      "url": "https://www.linkedin.com/jobs/view/4413401736",
+      "date": "",
+      "location": "",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4410168231",
+      "title": "Director of Faculty and Leadership Development in Faculty Affairs",
+      "url": "https://www.linkedin.com/jobs/view/4410168231",
+      "date": "",
+      "location": "The University of Georgia at Athens, GA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
