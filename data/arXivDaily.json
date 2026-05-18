@@ -2,14 +2,56 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-15T06:49:31Z",
+    "generatedAt": "2026-05-18T07:53:39Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 144 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 148 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2605.14673v1",
+      "title": "Compositional and Magnetic Characterisation of Oblique Co and Fe Nanowire Structures Fabricated Using Focused Electron Beam Induced Deposition",
+      "url": "https://arxiv.org/abs/2605.14673v1",
+      "date": "2026-05-14",
+      "summary": "This study investigates the elemental composition and magnetic induction of 3D Co and Fe nanowires fabricated via FEBID at varying growth angles. It finds that metal content decreases as the oblique growth angle increases. Optimizing electron beam parameters—specifically using lower voltage and higher current—mitigates this reduction, maintaining uniform metal content for growth angles up to 60°.",
+      "tags": [
+        "cond-mat-mes-hall",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.13611v1",
+      "title": "Magnetocaloric Effect in Nanostructured $La_{0.6}Sr_{0.4}Fe_{1-x}Co_{x}O_3$",
+      "url": "https://arxiv.org/abs/2605.13611v1",
+      "date": "2026-05-13",
+      "summary": "This research examines the magnetocaloric effect in nanostructured La0.6Sr0.4Fe1-xCoxO3 perovskites. It finds that substituting iron with cobalt enhances ferromagnetic coupling, increasing saturation magnetization and the Curie temperature. The cobalt-rich sample achieved the highest entropy change, demonstrating that combining cobalt doping with controlled nanostructuring effectively optimizes the material's magnetocaloric response.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.13528v1",
+      "title": "High-temperature behavior of amorphous alumina coatings: Insights from in-situ nanoindentation and X-ray diffraction studies",
+      "url": "https://arxiv.org/abs/2605.13528v1",
+      "date": "2026-05-13",
+      "summary": "This study evaluates the high-temperature mechanical properties and structural stability of amorphous Al2O3 coatings. Findings show that hardness decreases with temperature while the Young's modulus remains constant, reflecting increased plasticity. In-situ X-ray diffraction revealed crystallization begins at 700°C, with the material transitioning to a stable alpha-Al2O3 phase above 950°C, defining the coating's thermal application limits.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.12889v1",
+      "title": "Topological and morphological signatures of disorder in a self-assembled, soft matter sponge network",
+      "url": "https://arxiv.org/abs/2605.12889v1",
+      "date": "2026-05-13",
+      "summary": "This paper analyzes topological and morphological differences between ordered double-gyroid and disordered sponge networks in block copolymers. It reveals the sponge network is primarily trivalent but lacks the intercatenated loops of the double-gyroid. This suggests the sponge is a disordered single-gyroid variant, offering a topological method to distinguish and map the boundary between ordered and disordered phases.",
+      "tags": [
+        "cond-mat-soft",
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2605.09398v1",
       "title": "Characterizing Dislocation Substructures in Creep-Deformed Olivine Using Electron Channeling Contrast Imaging",
