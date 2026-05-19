@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-18T07:57:22Z",
+    "generatedAt": "2026-05-19T07:39:31Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,101 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Dr. Jon D. Fricker Memorial Transit Internship",
+      "url": "https://www.indeed.com/viewjob?jk=9bcfdf35068e462a",
+      "date": "2026-05-18",
+      "location": "CityBus at Lafayette, IN, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Accounting",
+      "url": "https://www.indeed.com/viewjob?jk=8aeb9469fadff3f3",
+      "date": "2026-05-18",
+      "location": "University of Nebraska at Omaha at Omaha, NE, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assoc Prof of Theatre",
+      "url": "https://www.indeed.com/viewjob?jk=4211c19befb0704c",
+      "date": "2026-05-18",
+      "location": "Young Harris College at Young Harris, GA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor of Health Care Management",
+      "url": "https://www.indeed.com/viewjob?jk=5f25b2e5bdce9ad3",
+      "date": "2026-05-18",
+      "location": "Clayton State University at Morrow, GA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Assistant Professor - Department of Accountancy",
+      "url": "https://www.indeed.com/viewjob?jk=2b7bb2a718205491",
+      "date": "2026-05-18",
+      "location": "University of Illinois at Urbana, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4415886680",
+      "title": "SCRD Faculty Associate/Academic Associate Pool - Parks, Recreation & Sport Management AY26-27",
+      "url": "https://www.linkedin.com/jobs/view/4415886680",
+      "date": "2026-05-16",
+      "location": "Arizona State University at Phoenix, AZ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4415309423",
+      "title": "Librarian- Collection Management",
+      "url": "https://www.linkedin.com/jobs/view/4415309423",
+      "date": "2026-05-15",
+      "location": "The City University of New York at New York, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4415654920",
+      "title": "Principal Research Scientist - AI & Machine Learning",
+      "url": "https://www.linkedin.com/jobs/view/4415654920",
+      "date": "",
+      "location": "Novateur Research Solutions at Ashburn, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor of Social Work",
       "url": "https://www.indeed.com/viewjob?jk=d327fcbef680e3c4",
       "date": "2026-05-17",
       "location": "Buena Vista University at Storm Lake, IA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +117,7 @@
       "location": "Inside Higher Ed at Hamden, CT",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +128,7 @@
       "location": "Inside Higher Ed at Baltimore, MD",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +139,7 @@
       "location": "Atlanta Metropolitan College at Atlanta, GA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +150,7 @@
       "location": "Park University at Parkville, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +161,7 @@
       "location": "Arizona State University at Yuma, AZ",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +172,7 @@
       "location": "California State University at Pomona, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +183,7 @@
       "location": "William Jewell College at Liberty, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +194,7 @@
       "location": "University of Illinois at Chicago, IL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +205,7 @@
       "location": "Western Illinois University at Macomb, IL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,7 +216,7 @@
       "location": "Old Dominion University at Norfolk, VA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -139,7 +227,7 @@
       "location": "Wilmington College at Wilmington, OH, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -150,7 +238,7 @@
       "location": "Columbia University at US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -161,7 +249,7 @@
       "location": "Columbia University at US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -172,7 +260,7 @@
       "location": "Lycia Therapeutics at South San Francisco, CA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -183,172 +271,7 @@
       "location": "Texas A&M University at Fort Worth, TX",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4413848494",
-      "title": "Adjunct Assistant Professor",
-      "url": "https://www.linkedin.com/jobs/view/4413848494",
-      "date": "2026-05-13",
-      "location": "The University of North Carolina at Chapel Hill at North Carolina, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4412770968",
-      "title": "Executive Director, Institute for Society, Culture, and Environment",
-      "url": "https://www.linkedin.com/jobs/view/4412770968",
-      "date": "2026-05-11",
-      "location": "Virginia Tech at Blacksburg, VA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4412771935",
-      "title": "Director of Research and Development, Center for Geospatial Information Technology",
-      "url": "https://www.linkedin.com/jobs/view/4412771935",
-      "date": "2026-05-11",
-      "location": "Virginia Tech at Arlington, VA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant / Associate Professor-NTTA",
-      "url": "https://www.indeed.com/viewjob?jk=4015f2f62e173b1f",
-      "date": "2026-05-11",
-      "location": "Long Island University at Brookville, NY, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor Design and Game Development - NTTA",
-      "url": "https://www.indeed.com/viewjob?jk=16fe4e26e9006bdc",
-      "date": "2026-05-11",
-      "location": "Long Island University at Brookville, NY, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Oregon State University – Applied Economics – Assistant Professor of Practice",
-      "url": "https://www.indeed.com/viewjob?jk=7c3d8333fd473245",
-      "date": "2026-05-11",
-      "location": "nan at Corvallis, OR, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4411687960",
-      "title": "Professional Track Teaching Faculty Positions in Architectural Engineering",
-      "url": "https://www.linkedin.com/jobs/view/4411687960",
-      "date": "2026-05-07",
-      "location": "Penn State College of Engineering at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4410747248",
-      "title": "Hematology Research Faculty",
-      "url": "https://www.linkedin.com/jobs/view/4410747248",
-      "date": "2026-05-05",
-      "location": "Inside Higher Ed at Lexington, KY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4408686724",
-      "title": "Assistant / Associate / Full Professor Non-Tenure Track (NTTA) or Tenure Track",
-      "url": "https://www.linkedin.com/jobs/view/4408686724",
-      "date": "2026-05-04",
-      "location": "Long Island University at Brookville, NY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4406880656",
-      "title": "AST/ASO/FULL PROF",
-      "url": "https://www.linkedin.com/jobs/view/4406880656",
-      "date": "2026-04-25",
-      "location": "Inside Higher Ed at Gainesville, FL",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant / Associate / Full Professor Non-Tenure Track (NTTA) or Tenure Track",
-      "url": "https://www.indeed.com/viewjob?jk=b3dd9544711e960f",
-      "date": "2026-04-17",
-      "location": "Long Island University at Brookville, NY, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Associate Professor Non-Tenure Track (NTTA)",
-      "url": "https://www.indeed.com/viewjob?jk=01f52fdaf28ddb7f",
-      "date": "2026-04-17",
-      "location": "Long Island University at Brookville, NY, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant/Associate Professor Non-tenure Track (NTTA)",
-      "url": "https://www.indeed.com/viewjob?jk=96f9afa265abd628",
-      "date": "2026-03-31",
-      "location": "Long Island University at Brookville, NY, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4412260111",
-      "title": "Associate Dean Rural and Head of Rural Clinical Campuses, Faculty of Medicine & Health",
-      "url": "https://www.linkedin.com/jobs/view/4412260111",
-      "date": "",
-      "location": "UNSW at New York, NY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4412245471",
-      "title": "Associate Dean Rural and Head of Rural Clinical Campuses, Faculty of Medicine & Health",
-      "url": "https://www.linkedin.com/jobs/view/4412245471",
-      "date": "",
-      "location": "UNSW at New Haven, CT",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -522,6 +445,17 @@
       "url": "https://www.indeed.com/viewjob?jk=6a4dab72a25e9d54",
       "date": "2026-05-14",
       "location": "City University of New York at New York, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4413848494",
+      "title": "Adjunct Assistant Professor",
+      "url": "https://www.linkedin.com/jobs/view/4413848494",
+      "date": "2026-05-13",
+      "location": "The University of North Carolina at Chapel Hill at North Carolina, United States",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -753,6 +687,61 @@
       "url": "https://www.indeed.com/viewjob?jk=154eebfea0d58bed",
       "date": "2026-05-12",
       "location": "Southern Illinois University Carbondale at Carbondale, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4412770968",
+      "title": "Executive Director, Institute for Society, Culture, and Environment",
+      "url": "https://www.linkedin.com/jobs/view/4412770968",
+      "date": "2026-05-11",
+      "location": "Virginia Tech at Blacksburg, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4412771935",
+      "title": "Director of Research and Development, Center for Geospatial Information Technology",
+      "url": "https://www.linkedin.com/jobs/view/4412771935",
+      "date": "2026-05-11",
+      "location": "Virginia Tech at Arlington, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant / Associate Professor-NTTA",
+      "url": "https://www.indeed.com/viewjob?jk=4015f2f62e173b1f",
+      "date": "2026-05-11",
+      "location": "Long Island University at Brookville, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor Design and Game Development - NTTA",
+      "url": "https://www.indeed.com/viewjob?jk=16fe4e26e9006bdc",
+      "date": "2026-05-11",
+      "location": "Long Island University at Brookville, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Oregon State University – Applied Economics – Assistant Professor of Practice",
+      "url": "https://www.indeed.com/viewjob?jk=7c3d8333fd473245",
+      "date": "2026-05-11",
+      "location": "nan at Corvallis, OR, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1072,6 +1061,17 @@
       "keywords": []
     },
     {
+      "id": "www-4411687960",
+      "title": "Professional Track Teaching Faculty Positions in Architectural Engineering",
+      "url": "https://www.linkedin.com/jobs/view/4411687960",
+      "date": "2026-05-07",
+      "location": "Penn State College of Engineering at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-viewjob",
       "title": "Assistant Professor, Physics",
       "url": "https://www.indeed.com/viewjob?jk=0e892c4d8bbcc1ce",
@@ -1307,6 +1307,17 @@
       "keywords": []
     },
     {
+      "id": "www-4410747248",
+      "title": "Hematology Research Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4410747248",
+      "date": "2026-05-05",
+      "location": "Inside Higher Ed at Lexington, KY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4409358558",
       "title": "FACULTY ASSOCIATE (USER EXPERIENCE)",
       "url": "https://www.linkedin.com/jobs/view/4409358558",
@@ -1427,6 +1438,17 @@
       "url": "https://www.indeed.com/viewjob?jk=b94fa53a4ef7c669",
       "date": "2026-05-05",
       "location": "Western Connecticut State University at Danbury, CT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4408686724",
+      "title": "Assistant / Associate / Full Professor Non-Tenure Track (NTTA) or Tenure Track",
+      "url": "https://www.linkedin.com/jobs/view/4408686724",
+      "date": "2026-05-04",
+      "location": "Long Island University at Brookville, NY",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2493,6 +2515,17 @@
       "keywords": []
     },
     {
+      "id": "www-4406880656",
+      "title": "AST/ASO/FULL PROF",
+      "url": "https://www.linkedin.com/jobs/view/4406880656",
+      "date": "2026-04-25",
+      "location": "Inside Higher Ed at Gainesville, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4406876714",
       "title": "ESE Tenured or Tenure-track Faculty Positions, 2025 - 2026",
       "url": "https://www.linkedin.com/jobs/view/4406876714",
@@ -3523,6 +3556,28 @@
       "url": "https://www.indeed.com/viewjob?jk=35319c0dee7b2a3d",
       "date": "2026-04-18",
       "location": "Missouri State University at Springfield, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant / Associate / Full Professor Non-Tenure Track (NTTA) or Tenure Track",
+      "url": "https://www.indeed.com/viewjob?jk=b3dd9544711e960f",
+      "date": "2026-04-17",
+      "location": "Long Island University at Brookville, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate Professor Non-Tenure Track (NTTA)",
+      "url": "https://www.indeed.com/viewjob?jk=01f52fdaf28ddb7f",
+      "date": "2026-04-17",
+      "location": "Long Island University at Brookville, NY, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -6283,6 +6338,17 @@
       "url": "https://www.indeed.com/viewjob?jk=3bbd6ed28bb23341",
       "date": "2026-04-01",
       "location": "Auburn University at Auburn University, AL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor Non-tenure Track (NTTA)",
+      "url": "https://www.indeed.com/viewjob?jk=96f9afa265abd628",
+      "date": "2026-03-31",
+      "location": "Long Island University at Brookville, NY, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -12273,6 +12339,28 @@
       "url": "https://www.indeed.com/viewjob?jk=f173ae58baa5fd14",
       "date": "2025-07-08",
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4412260111",
+      "title": "Associate Dean Rural and Head of Rural Clinical Campuses, Faculty of Medicine & Health",
+      "url": "https://www.linkedin.com/jobs/view/4412260111",
+      "date": "",
+      "location": "UNSW at New York, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4412245471",
+      "title": "Associate Dean Rural and Head of Rural Clinical Campuses, Faculty of Medicine & Health",
+      "url": "https://www.linkedin.com/jobs/view/4412245471",
+      "date": "",
+      "location": "UNSW at New Haven, CT",
       "description": "",
       "fitScore": 0,
       "isNew": false,

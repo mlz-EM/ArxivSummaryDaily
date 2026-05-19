@@ -2,14 +2,34 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-18T07:53:39Z",
+    "generatedAt": "2026-05-19T07:37:58Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 148 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 150 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2605.17576v1",
+      "title": "Microstructure evolution during rapid solidification of hypoeutectic Al-Ag alloys near absolute stability",
+      "url": "https://arxiv.org/abs/2605.17576v1",
+      "date": "2026-05-17",
+      "summary": "Microsegregation-free microstructures can form by solidifying at velocities beyond the absolute stability limit ($V_{\\text{abs}}$), where solute partitioning is suppressed by a stable, planar solid-liquid interface. Producing such microstru",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.16583v1",
+      "title": "Crystal growth and characterization of the ultra-high temperature substrate $\\mathrm{Ta_{1-x}Hf_{x}C_{0.5}}$",
+      "url": "https://arxiv.org/abs/2605.16583v1",
+      "date": "2026-05-15",
+      "summary": "Incorporation of $\\mathrm{Al_{y}Ga_{1-y}N}$ (AGN) semiconductors into high power electronics offers efficiency improvements in power transmission, generation, and use, if approaches to eliminate the defects arising from film-lattice mismatc",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2605.14673v1",
       "title": "Compositional and Magnetic Characterisation of Oblique Co and Fe Nanowire Structures Fabricated Using Focused Electron Beam Induced Deposition",
