@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-19T07:39:31Z",
+    "generatedAt": "2026-05-20T07:38:11Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,133 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Tenured/Tenure-Track: Open Rank & Title",
+      "url": "https://www.indeed.com/viewjob?jk=d9d459027262c1ac",
+      "date": "2026-05-19",
+      "location": "College Station, TX, US",
+      "description": "Tenure-track faculty position focusing on advanced characterization and mechanical behavior of powder-based materials.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "mechanical engineering",
+        "advanced characterization",
+        "powder-based materials",
+        "electron microscopy"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Urban and Regional Planning, Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=2c1959fd31d61e1f",
+      "date": "2026-05-19",
+      "location": "California State University at Pomona, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Finance - Instructor/Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=6e53cab8f3369b68",
+      "date": "2026-05-19",
+      "location": "Western Connecticut State University at Danbury, CT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Accounting - Instructor/Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=e5830fcc7fbf7e08",
+      "date": "2026-05-19",
+      "location": "Western Connecticut State University at Danbury, CT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Marine Science, Marine Geologist, tenure-track",
+      "url": "https://www.indeed.com/viewjob?jk=52eb2a99d5b74918",
+      "date": "2026-05-19",
+      "location": "Eckerd College at Saint Petersburg, FL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Urban and Regional Planning, Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=8e075555c88bad92",
+      "date": "2026-05-19",
+      "location": "California State Polytechnic University Pomona at Pomona, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4415351774",
+      "title": "Director of Faculty and Leadership Development in Faculty Affairs",
+      "url": "https://www.linkedin.com/jobs/view/4415351774",
+      "date": "2026-05-15",
+      "location": "Inside Higher Ed at Athens, GA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4412782532",
+      "title": "Faculty Position in Computer Systems and Networking",
+      "url": "https://www.linkedin.com/jobs/view/4412782532",
+      "date": "2026-05-11",
+      "location": "Virginia Tech at Blacksburg, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4416990603",
+      "title": "AST/ASO/FULL PROF in Artificial Intelligence for Quantum Chemistry",
+      "url": "https://www.linkedin.com/jobs/view/4416990603",
+      "date": "2026-01-15",
+      "location": "Gainesville, FL",
+      "description": "Tenure-track position for artificial intelligence and quantum chemistry research in molecular quantum materials.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "artificial intelligence",
+        "quantum chemistry",
+        "molecular materials",
+        "machine learning"
+      ]
+    },
+    {
+      "id": "www-4416919277",
+      "title": "Aviation Faculty - Non-Tenure Track",
+      "url": "https://www.linkedin.com/jobs/view/4416919277",
+      "date": "",
+      "location": "Kansas State University at Manhattan, KS",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Dr. Jon D. Fricker Memorial Transit Internship",
       "url": "https://www.indeed.com/viewjob?jk=9bcfdf35068e462a",
       "date": "2026-05-18",
       "location": "CityBus at Lafayette, IN, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +149,7 @@
       "location": "University of Nebraska at Omaha at Omaha, NE, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +160,7 @@
       "location": "Young Harris College at Young Harris, GA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +171,7 @@
       "location": "Clayton State University at Morrow, GA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,40 +182,7 @@
       "location": "University of Illinois at Urbana, IL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4415886680",
-      "title": "SCRD Faculty Associate/Academic Associate Pool - Parks, Recreation & Sport Management AY26-27",
-      "url": "https://www.linkedin.com/jobs/view/4415886680",
-      "date": "2026-05-16",
-      "location": "Arizona State University at Phoenix, AZ",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4415309423",
-      "title": "Librarian- Collection Management",
-      "url": "https://www.linkedin.com/jobs/view/4415309423",
-      "date": "2026-05-15",
-      "location": "The City University of New York at New York, NY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4415654920",
-      "title": "Principal Research Scientist - AI & Machine Learning",
-      "url": "https://www.linkedin.com/jobs/view/4415654920",
-      "date": "",
-      "location": "Novateur Research Solutions at Ashburn, VA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -121,11 +208,33 @@
       "keywords": []
     },
     {
+      "id": "www-4415886680",
+      "title": "SCRD Faculty Associate/Academic Associate Pool - Parks, Recreation & Sport Management AY26-27",
+      "url": "https://www.linkedin.com/jobs/view/4415886680",
+      "date": "2026-05-16",
+      "location": "Arizona State University at Phoenix, AZ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4415846882",
       "title": "Hepburn/Dynasplint Endowed Professorship",
       "url": "https://www.linkedin.com/jobs/view/4415846882",
       "date": "2026-05-16",
       "location": "Inside Higher Ed at Baltimore, MD",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4415309423",
+      "title": "Librarian- Collection Management",
+      "url": "https://www.linkedin.com/jobs/view/4415309423",
+      "date": "2026-05-15",
+      "location": "The City University of New York at New York, NY",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -12339,6 +12448,17 @@
       "url": "https://www.indeed.com/viewjob?jk=f173ae58baa5fd14",
       "date": "2025-07-08",
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4415654920",
+      "title": "Principal Research Scientist - AI & Machine Learning",
+      "url": "https://www.linkedin.com/jobs/view/4415654920",
+      "date": "",
+      "location": "Novateur Research Solutions at Ashburn, VA",
       "description": "",
       "fitScore": 0,
       "isNew": false,

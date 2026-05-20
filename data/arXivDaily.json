@@ -2,14 +2,59 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-19T07:37:58Z",
+    "generatedAt": "2026-05-20T07:34:53Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 150 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 154 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2605.19590v1",
+      "title": "Photolithography-Only Fabrication of Transmons Using Double-Oblique Evaporation",
+      "url": "https://arxiv.org/abs/2605.19590v1",
+      "date": "2026-05-19",
+      "summary": "This study investigates a photolithography-only fabrication process for transmon Josephson junctions using double-oblique evaporation. The researchers successfully fabricated functional transmon devices with a T1 of approximately 9 microseconds. These results demonstrate the feasibility of realizing functional superconducting qubits without electron-beam lithography, simplifying the production of transmon junctions while maintaining relevant performance metrics.",
+      "tags": [
+        "quant-ph",
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2605.19496v1",
+      "title": "Nanoscale Thermal Imaging of Dislocation-Mediated Heat Transport",
+      "url": "https://arxiv.org/abs/2605.19496v1",
+      "date": "2026-05-19",
+      "summary": "This research maps nanoscale temperature distributions across individual dislocations in SrTiO3 using in situ electron microscopy. The study reveals a 47 K temperature drop across a dislocation array, identifying core-dominated and inter-core heat transport effects. These findings quantitatively resolve the spatial heterogeneity of dislocation-mediated thermal resistance, providing a microscopic basis for defect engineering in functional materials.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.19387v1",
+      "title": "Prebiotic magnetite enables chirality-magnetic surface feedback",
+      "url": "https://arxiv.org/abs/2605.19387v1",
+      "date": "2026-05-19",
+      "summary": "This study explores the magnetic properties of magnetite synthesized under prebiotic conditions to understand its role in biomolecular homochirality. Researchers found that prebiotic magnetite particles exhibit single-vortex and multi-vortex states. Simulations demonstrate that these grains undergo irreversible re-magnetization when interacting with homochiral compounds, suggesting a robust mechanism for storing and reinforcing chiral bias on the early Earth.",
+      "tags": [
+        "physics-chem-ph",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2605.19160v1",
+      "title": "An evaluation framework for sparse 4D (3D + time) imaging reconstruction via bootstrapped cross-validation",
+      "url": "https://arxiv.org/abs/2605.19160v1",
+      "date": "2026-05-18",
+      "summary": "This paper presents a bootstrapped cross-validation framework to evaluate the performance of sparse 4D imaging reconstructions in the absence of a ground truth reference. By quantifying correlations between reconstructions from independently sampled data subsets, the method enables qualitative and quantitative assessment. Validated on simulated X-ray datasets, this approach provides a reference-free strategy for optimizing ultrafast imaging experiments.",
+      "tags": [
+        "eess-iv",
+        "physics-comp-ph",
+        "physics-data-an",
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2605.17576v1",
       "title": "Microstructure evolution during rapid solidification of hypoeutectic Al-Ag alloys near absolute stability",
