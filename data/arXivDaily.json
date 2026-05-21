@@ -2,14 +2,54 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-20T07:34:53Z",
+    "generatedAt": "2026-05-21T07:40:23Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 154 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 158 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2605.21233v1",
+      "title": "Stacking-order-dependent electronic properties of MoTe2/WSe2 moiré bilayers",
+      "url": "https://arxiv.org/abs/2605.21233v1",
+      "date": "2026-05-20",
+      "summary": "This study calibrates optical second harmonic generation for MoTe2/WSe2 moiré bilayers using scanning transmission electron microscopy to evaluate stacking-order-dependent properties. By comparing transport and magnetic data across distinct stacking orders, the authors clarify the nature of the Chern insulator and the mechanisms of electric-field-tuned metal-insulator transitions, establishing a consistent relationship between stacking order and the electronic phase diagram.",
+      "tags": [
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2605.21176v1",
+      "title": "Oxygen-Pressure-Limited Recovery of the Hematite α-Fe$_2$O$_3$(0001) Surface from a Reduced Fe$_3$O$_4$(111)-Like Layer",
+      "url": "https://arxiv.org/abs/2605.21176v1",
+      "date": "2026-05-20",
+      "summary": "Using real-time microscopy, this study investigates the oxidation kinetics of hematite surfaces from a reduced magnetite-like layer. It finds that complete surface recovery is linked to the nucleation and lateral growth of a two-dimensional honeycomb phase. Crucially, the oxidation rate is limited by oxygen availability, with growth slowing significantly below a specific oxygen partial pressure threshold, highlighting the role of oxygen supply.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.20986v1",
+      "title": "Multiferroic Properties of Electrospun CFO-BCTSn Nanocomposites for Magnetoelectric and Magnetic Field Sensing Applications",
+      "url": "https://arxiv.org/abs/2605.20986v1",
+      "date": "2026-05-20",
+      "summary": "This research synthesizes lead-free CFO-BCTSn multiferroic composite nanofibers using sol-gel electrospinning to evaluate their potential for magnetoelectric sensing. Characterization confirms the coexistence of spinel and perovskite phases. The nanofibers exhibit both magnetic and piezoelectric properties, with magnetoelectric coupling evidenced by differences in magnetic hysteresis loops between electrically poled and unpoled samples, supporting their application in nanoscale magnetoelectric devices.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.20582v1",
+      "title": "Gold Bipyramids as a Promising Alternative to Gold Nanorods for Analytical and Biomedical Applications",
+      "url": "https://arxiv.org/abs/2605.20582v1",
+      "date": "2026-05-20",
+      "summary": "This study compares gold bipyramids and gold nanorods for analytical and biomedical applications. Findings show that bipyramids offer significantly higher spectral quality factors, a threefold increase in SERS enhancement, and greater sensitivity to refractive index changes compared to nanorods. Furthermore, bipyramids demonstrate high efficiency as thermosensitizers for photothermal therapy, as evidenced by the effective photothermal killing of E. coli under laser irradiation.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2605.19590v1",
       "title": "Photolithography-Only Fabrication of Transmons Using Double-Oblique Evaporation",

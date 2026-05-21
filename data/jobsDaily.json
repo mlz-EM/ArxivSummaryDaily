@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-20T07:38:11Z",
+    "generatedAt": "2026-05-21T07:42:13Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,266 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Psychology",
+      "url": "https://www.indeed.com/viewjob?jk=5936057fe6d3ef77",
+      "date": "2026-05-20",
+      "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Education Program Specialist, GS-1720-13 FPL GS-13 (DE Indian Preference)",
+      "url": "https://www.indeed.com/viewjob?jk=44868ee635e2adbd",
+      "date": "2026-05-20",
+      "location": "nan at Washington, DC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Teaching Assistant Professor - Psychology",
+      "url": "https://www.indeed.com/viewjob?jk=991d9108841df48f",
+      "date": "2026-05-20",
+      "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4416977740",
+      "title": "Social Work, Tenure-Track Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4416977740",
+      "date": "2026-05-20",
+      "location": "Inside Higher Ed at Harrisonburg, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Business (Management and Human Resources) - Full-time faculty",
+      "url": "https://www.indeed.com/viewjob?jk=c1424296ba3bed21",
+      "date": "2026-05-20",
+      "location": "Bethel University at Saint Paul, MN, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Education Program Specialist, GS-1720-13 FPL GS-13 (MP Indian Preference)",
+      "url": "https://www.indeed.com/viewjob?jk=81a70dfa103b2897",
+      "date": "2026-05-20",
+      "location": "nan at Washington, DC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Educational Leadership",
+      "url": "https://www.indeed.com/viewjob?jk=736f12309d96560b",
+      "date": "2026-05-20",
+      "location": "University of Illinois Springfield at Springfield, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Special Education",
+      "url": "https://www.indeed.com/viewjob?jk=bc239f8ab6dc0879",
+      "date": "2026-05-20",
+      "location": "Murray State University at Murray, KY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - New Testament (1000545)",
+      "url": "https://www.indeed.com/viewjob?jk=8737157e36ebcb4b",
+      "date": "2026-05-20",
+      "location": "Wheaton College at Wheaton, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Practice - Companion Animal",
+      "url": "https://www.indeed.com/viewjob?jk=dae3fddc6a213304",
+      "date": "2026-05-20",
+      "location": "University of Nebraska at Lincoln, NE, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Artifical Intelligence",
+      "url": "https://www.indeed.com/viewjob?jk=93c2700a2269bd00",
+      "date": "2026-05-20",
+      "location": "North Dakota State College of Science at Bismarck, ND, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Theatre - NTTA",
+      "url": "https://www.indeed.com/viewjob?jk=3b4adb494ca68c3e",
+      "date": "2026-05-19",
+      "location": "Long Island University at Brookville, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Digital Filmmaking",
+      "url": "https://www.indeed.com/viewjob?jk=a047f1b20f4032a1",
+      "date": "2026-05-19",
+      "location": "Eastern New Mexico University at Portales, NM, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4415815828",
+      "title": "Open Rank",
+      "url": "https://www.linkedin.com/jobs/view/4415815828",
+      "date": "2026-05-16",
+      "location": "Inside Higher Ed at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-3691743208",
+      "title": "Open Rank Faculty - College of Medicine",
+      "url": "https://www.linkedin.com/jobs/view/3691743208",
+      "date": "2026-05-12",
+      "location": "Charles R. Drew University of Medicine and Science at Los Angeles, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4374384039",
+      "title": "Assistant Professor Term",
+      "url": "https://www.linkedin.com/jobs/view/4374384039",
+      "date": "2026-05-12",
+      "location": "University of Louisville at Louisville, KY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4411358089",
+      "title": "Associate Professor or Professor of Medicine and Associate Dean for Students",
+      "url": "https://www.linkedin.com/jobs/view/4411358089",
+      "date": "2026-05-08",
+      "location": "",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4389262430",
+      "title": "Academic Professional Track (Non-Tenure): Clinical Associate/Professor or Instructional Associate/Professor & Assistant Dean of Clerkship Education",
+      "url": "https://www.linkedin.com/jobs/view/4389262430",
+      "date": "2026-05-06",
+      "location": "Texas A&M University at Houston, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4409985568",
+      "title": "Assistant or Associate Professor",
+      "url": "https://www.linkedin.com/jobs/view/4409985568",
+      "date": "2026-05-06",
+      "location": "Western University of Health Sciences at Pomona, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4407122701",
+      "title": "Instructor",
+      "url": "https://www.linkedin.com/jobs/view/4407122701",
+      "date": "2026-04-26",
+      "location": "Inside Higher Ed at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4404750289",
+      "title": "Instructor",
+      "url": "https://www.linkedin.com/jobs/view/4404750289",
+      "date": "2026-04-23",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4417383049",
+      "title": "SCRD Faculty Associate/Academic Associate Pool - Recreational Therapy AY26-27",
+      "url": "https://www.linkedin.com/jobs/view/4417383049",
+      "date": "",
+      "location": "Arizona State University at Phoenix, AZ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4413138186",
+      "title": "Associate Professor of Practice, Medical Humanities",
+      "url": "https://www.linkedin.com/jobs/view/4413138186",
+      "date": "",
+      "location": "The University of Texas at San Antonio at San Antonio, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Tenured/Tenure-Track: Open Rank & Title",
       "url": "https://www.indeed.com/viewjob?jk=d9d459027262c1ac",
       "date": "2026-05-19",
       "location": "College Station, TX, US",
       "description": "Tenure-track faculty position focusing on advanced characterization and mechanical behavior of powder-based materials.",
       "fitScore": 3,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "mechanical engineering",
         "advanced characterization",
@@ -34,7 +287,7 @@
       "location": "California State University at Pomona, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -45,7 +298,7 @@
       "location": "Western Connecticut State University at Danbury, CT, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -56,7 +309,7 @@
       "location": "Western Connecticut State University at Danbury, CT, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -67,7 +320,7 @@
       "location": "Eckerd College at Saint Petersburg, FL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -78,56 +331,7 @@
       "location": "California State Polytechnic University Pomona at Pomona, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4415351774",
-      "title": "Director of Faculty and Leadership Development in Faculty Affairs",
-      "url": "https://www.linkedin.com/jobs/view/4415351774",
-      "date": "2026-05-15",
-      "location": "Inside Higher Ed at Athens, GA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4412782532",
-      "title": "Faculty Position in Computer Systems and Networking",
-      "url": "https://www.linkedin.com/jobs/view/4412782532",
-      "date": "2026-05-11",
-      "location": "Virginia Tech at Blacksburg, VA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4416990603",
-      "title": "AST/ASO/FULL PROF in Artificial Intelligence for Quantum Chemistry",
-      "url": "https://www.linkedin.com/jobs/view/4416990603",
-      "date": "2026-01-15",
-      "location": "Gainesville, FL",
-      "description": "Tenure-track position for artificial intelligence and quantum chemistry research in molecular quantum materials.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "artificial intelligence",
-        "quantum chemistry",
-        "molecular materials",
-        "machine learning"
-      ]
-    },
-    {
-      "id": "www-4416919277",
-      "title": "Aviation Faculty - Non-Tenure Track",
-      "url": "https://www.linkedin.com/jobs/view/4416919277",
-      "date": "",
-      "location": "Kansas State University at Manhattan, KS",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -224,6 +428,17 @@
       "url": "https://www.linkedin.com/jobs/view/4415846882",
       "date": "2026-05-16",
       "location": "Inside Higher Ed at Baltimore, MD",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4415351774",
+      "title": "Director of Faculty and Leadership Development in Faculty Affairs",
+      "url": "https://www.linkedin.com/jobs/view/4415351774",
+      "date": "2026-05-15",
+      "location": "Inside Higher Ed at Athens, GA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -796,6 +1011,17 @@
       "url": "https://www.indeed.com/viewjob?jk=154eebfea0d58bed",
       "date": "2026-05-12",
       "location": "Southern Illinois University Carbondale at Carbondale, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4412782532",
+      "title": "Faculty Position in Computer Systems and Networking",
+      "url": "https://www.linkedin.com/jobs/view/4412782532",
+      "date": "2026-05-11",
+      "location": "Virginia Tech at Blacksburg, VA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -11797,6 +12023,22 @@
       "keywords": []
     },
     {
+      "id": "www-4416990603",
+      "title": "AST/ASO/FULL PROF in Artificial Intelligence for Quantum Chemistry",
+      "url": "https://www.linkedin.com/jobs/view/4416990603",
+      "date": "2026-01-15",
+      "location": "Gainesville, FL",
+      "description": "Tenure-track position for artificial intelligence and quantum chemistry research in molecular quantum materials.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "artificial intelligence",
+        "quantum chemistry",
+        "molecular materials",
+        "machine learning"
+      ]
+    },
+    {
       "id": "www-4403429506",
       "title": "Open Rank Faculty - Translational Metabolic Engineering & Neurotherapeutics",
       "url": "https://www.linkedin.com/jobs/view/4403429506",
@@ -12448,6 +12690,17 @@
       "url": "https://www.indeed.com/viewjob?jk=f173ae58baa5fd14",
       "date": "2025-07-08",
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4416919277",
+      "title": "Aviation Faculty - Non-Tenure Track",
+      "url": "https://www.linkedin.com/jobs/view/4416919277",
+      "date": "",
+      "location": "Kansas State University at Manhattan, KS",
       "description": "",
       "fitScore": 0,
       "isNew": false,
