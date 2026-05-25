@@ -2,14 +2,55 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-22T07:35:02Z",
+    "generatedAt": "2026-05-25T08:09:59Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 158 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 164 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2605.23357v1",
+      "title": "Cathodoluminescence Analysis of Defects and Grain Boundaries in Zn3P2 Thin Films Grown on Graphene by MOVPE and MBE",
+      "url": "https://arxiv.org/abs/2605.23357v1",
+      "date": "2026-05-22",
+      "summary": "This study investigates defects and grain boundaries in Zn3P2 thin films grown on graphene using MOVPE and MBE. The researchers linked antiphase boundaries to optical emission modulation and found that grain boundaries act as non-radiative sinks for charge carriers. MOVPE-grown films showed larger grains and improved material quality compared to MBE, highlighting grain-size control as essential for optimizing photovoltaic absorbers.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.22943v1",
+      "title": "A new method to probe conducting filaments in MoS$_2$-based memristors",
+      "url": "https://arxiv.org/abs/2605.22943v1",
+      "date": "2026-05-21",
+      "summary": "The authors develop a novel mechanical exfoliation technique to investigate conducting filaments in MoS2-based memristors. By selectively removing the top electrode, they used KPFM and Raman mapping to reveal that filament formation occurs through metallic atom migration into the MoS2 layer. The study demonstrates that the choice of metallic electrode significantly influences switching behavior due to differences in adsorption and diffusion energies.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.22626v1",
+      "title": "A Local Probe Mass Spectrometer for Localized and Sensitive Product Detection in Environmental Electron Microscopy",
+      "url": "https://arxiv.org/abs/2605.22626v1",
+      "date": "2026-05-21",
+      "summary": "This research develops a Local Probe Mass Spectrometer (LPMS) integrated with environmental transmission electron microscopy to correlate atomic-scale structural changes with reaction products. By sampling gas locally via a micro-capillary, the system overcomes dilution issues in open-cell setups. Validation using Co3O4 nanoplates demonstrates simultaneous detection of reaction products and atomic-scale dynamics, establishing a framework for quantitative structure-reactivity correlation in catalysis.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.22152v1",
+      "title": "Electron modulation and ultrafast near-field imaging with vectorial laser fields",
+      "url": "https://arxiv.org/abs/2605.22152v1",
+      "date": "2026-05-21",
+      "summary": "This study explores the direct coupling of laser light with electron beams using vectorial laser fields. The researchers demonstrate that longitudinally polarized light can modulate electron beams coherently and linearly without nanostructured materials. Furthermore, vectorial polarizations were used to image three-dimensional nanophotonic near-fields in metallic mesocrystals, enabling the tilt-free generation of attosecond electron pulses and novel imaging modes for metamaterial tomography.",
+      "tags": [
+        "physics-optics",
+        "quant-ph"
+      ]
+    },
     {
       "id": "arxiv-2605.21233v1",
       "title": "Stacking-order-dependent electronic properties of MoTe2/WSe2 moiré bilayers",
@@ -48,6 +89,26 @@
       "summary": "This study compares gold bipyramids and gold nanorods for analytical and biomedical applications. Findings show that bipyramids offer significantly higher spectral quality factors, a threefold increase in SERS enhancement, and greater sensitivity to refractive index changes compared to nanorods. Furthermore, bipyramids demonstrate high efficiency as thermosensitizers for photothermal therapy, as evidenced by the effective photothermal killing of E. coli under laser irradiation.",
       "tags": [
         "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2605.21697v1",
+      "title": "Enhancement in Magnetic and Magnetocaloric Properties of CoFe2O4 Nanofibers at Lower Temperatures",
+      "url": "https://arxiv.org/abs/2605.21697v1",
+      "date": "2026-05-20",
+      "summary": "This paper investigates the magnetic and magnetocaloric properties of CoFe2O4 nanofibers synthesized via sol-gel electrospinning. The nanofibers exhibited a pure cubic spinel structure and ferromagnetic behavior, with a saturation magnetization of 75.87 emu/g. Significant magnetocaloric effects were observed at low temperatures, including a maximum magnetic entropy change of 1.71 J/K at 32 K, indicating potential for low-temperature electronic applications.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.21612v1",
+      "title": "Quantifying the coupling between strain and cation valence in high entropy oxide thin films using electron microscopy",
+      "url": "https://arxiv.org/abs/2605.21612v1",
+      "date": "2026-05-20",
+      "summary": "This study employs advanced S/TEM techniques to quantify the relationship between nanoscale strain and cobalt valence in high entropy oxide thin films. The researchers found that substrate temperature significantly influences local structural modulations and defect states, even in films with identical nominal compositions. These findings establish a framework for tailoring the functional properties of high entropy oxides through precise control of synthesis conditions.",
+      "tags": [
+        "cond-mat-mtrl-sci"
       ]
     },
     {
