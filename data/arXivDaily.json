@@ -2,14 +2,66 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-25T08:09:59Z",
+    "generatedAt": "2026-05-26T07:34:39Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 164 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 169 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2605.25722v1",
+      "title": "kikuchipy: an open-source toolbox for analysis of EBSD patterns",
+      "url": "https://arxiv.org/abs/2605.25722v1",
+      "date": "2026-05-25",
+      "summary": "Introduces kikuchipy, an open-source Python toolbox for analyzing electron backscatter diffraction patterns. The software supports Hough and dictionary indexing, orientation refinement, and result validation. It demonstrates effective phase differentiation and orientation analysis in various alloys, providing a flexible, community-driven resource for advanced electron microscopy workflows and improving indexing results through fast iteration.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.25433v1",
+      "title": "Local Structural Signatures of Shear Bands in Metallic Glasses via Electron Nanodiffraction",
+      "url": "https://arxiv.org/abs/2605.25433v1",
+      "date": "2026-05-25",
+      "summary": "Investigates structural changes in metallic glass shear bands using electron nanodiffraction and cryogenic ion polishing. The study identifies nanoscale, stripe-like regions oriented at 45 degrees to applied strain. These regions exhibit reduced centrosymmetry and increased shear and normal strain, demonstrating that plastic deformation in metallic glasses is driven by coordinated nanoscale structural transformations.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.25410v1",
+      "title": "Three-Dimensional Atomic-Scale Structural Transformation in a SrTiO3 Grain Boundary",
+      "url": "https://arxiv.org/abs/2605.25410v1",
+      "date": "2026-05-25",
+      "summary": "Employs multislice electron ptychography to resolve the three-dimensional atomic structure of a SrTiO3 grain boundary. The study reveals a transition from symmetric to asymmetric configurations hidden in 2D projections. Findings link these 3D structures to distinct local chemical environments, vacancy distributions, and oxygen octahedral rotations, highlighting the importance of depth-resolved characterization for engineering complex oxide functionalities.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.25000v1",
+      "title": "Processing-Controlled Structural Uniformity and Oxide-Ion Conduction in Na0.52Bi0.47TiO3 Ceramics Probed by Eu3+ Photoluminescence",
+      "url": "https://arxiv.org/abs/2605.25000v1",
+      "date": "2026-05-24",
+      "summary": "Evaluates how precursor mixing methods influence the structural uniformity and oxide-ion conduction of Na0.52Bi0.47TiO3 ceramics using Eu3+ photoluminescence. The study finds a processing-driven trade-off between bulk defect generation and grain-boundary blocking. Dry-ground samples exhibit higher bulk conductivity, while wet-ground samples show lower grain-boundary resistance, with Ca-doping further improving conductivity to 18.98 mS cm-1 at 600 °C.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2605.24800v1",
+      "title": "Photoluminescence Identification of Multiple Local Eu3+ Environments in BaTiO3 Ceramics",
+      "url": "https://arxiv.org/abs/2605.24800v1",
+      "date": "2026-05-24",
+      "summary": "Utilizes Eu3+ photoluminescence as a sensitive probe to identify multiple local environments in BaTiO3 ceramics sintered at various temperatures. While conventional diffraction shows a standard tetragonal phase, photoluminescence spectra and decay analysis reveal two distinct Eu-related local configurations. The results demonstrate that optical probing can track local structural heterogeneity and processing-dependent changes inaccessible to average lattice techniques.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2605.23357v1",
       "title": "Cathodoluminescence Analysis of Defects and Grain Boundaries in Zn3P2 Thin Films Grown on Graphene by MOVPE and MBE",
