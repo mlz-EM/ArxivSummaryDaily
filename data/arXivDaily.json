@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-26T07:34:39Z",
+    "generatedAt": "2026-05-27T07:58:10Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 169 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 171 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2605.26464v1",
+      "title": "Mid-infrared Fourier ptychographic upconversion imaging",
+      "url": "https://arxiv.org/abs/2605.26464v1",
+      "date": "2026-05-26",
+      "summary": "This study implements a high-resolution mid-infrared upconversion imaging system using elliptical pumping and Fourier ptychography to overcome aperture restrictions. By combining synthetic aperture and phase retrieval, it achieves a 39 μm resolution and a space-bandwidth product tenfold larger than previous benchmarks. The system demonstrates single-photon sensitivity, enabling high-throughput infrared imaging for industrial and biomedical applications.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2605.25722v1",
       "title": "kikuchipy: an open-source toolbox for analysis of EBSD patterns",
@@ -38,6 +48,17 @@
       "summary": "Employs multislice electron ptychography to resolve the three-dimensional atomic structure of a SrTiO3 grain boundary. The study reveals a transition from symmetric to asymmetric configurations hidden in 2D projections. Findings link these 3D structures to distinct local chemical environments, vacancy distributions, and oxygen octahedral rotations, highlighting the importance of depth-resolved characterization for engineering complex oxide functionalities.",
       "tags": [
         "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.26311v1",
+      "title": "Resilience of the physicochemical properties of graphene-based materials for applications in harsh radiation environments",
+      "url": "https://arxiv.org/abs/2605.26311v1",
+      "date": "2026-05-25",
+      "summary": "This research investigates the effects of 60 MeV 35Cl ion irradiation on graphite (HOPG) and multilayer reduced graphene oxide (ML-rGO) for use in harsh environments. Findings reveal that while HOPG suffers from reduced crystallinity and electrical performance, ML-rGO undergoes partial structural reorganization and forms more ordered sp2 domains. This suggests that initial material order significantly influences radiation tolerance in carbon-based devices.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "nucl-ex"
       ]
     },
     {
