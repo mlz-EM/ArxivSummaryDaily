@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-05-27T07:59:41Z",
+    "generatedAt": "2026-05-28T07:51:24Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,150 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Professor of Practice - Finance",
+      "url": "https://www.indeed.com/viewjob?jk=9bd98ca13c1e6014",
+      "date": "2026-05-27",
+      "location": "University of Houston at Houston, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Architecture and Interior Design",
+      "url": "https://www.indeed.com/viewjob?jk=4af46bc3fdf01e96",
+      "date": "2026-05-27",
+      "location": "Adrian College at Adrian, MI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4419400574",
+      "title": "ESE Tenured or Tenure-track Faculty Positions, 2025 - 2026",
+      "url": "https://www.linkedin.com/jobs/view/4419400574",
+      "date": "2026-05-26",
+      "location": "Philadelphia, PA",
+      "description": "Tenure-track faculty positions in electrical engineering focusing on photonics, electromagnetics, and multidisciplinary research collaborations.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "electrical engineering",
+        "photonics",
+        "electromagnetics",
+        "tenure-track"
+      ]
+    },
+    {
+      "id": "www-4419540694",
+      "title": "Faculty Associate - General Pool",
+      "url": "https://www.linkedin.com/jobs/view/4419540694",
+      "date": "2026-05-26",
+      "location": "CommLabASU at Arizona State University at Valley, WV",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4419552625",
+      "title": "Faculty Associate – First-Year Writing",
+      "url": "https://www.linkedin.com/jobs/view/4419552625",
+      "date": "2026-05-26",
+      "location": "CommLabASU at Arizona State University at Valley Center, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Theology - Immaculata University",
+      "url": "https://www.indeed.com/viewjob?jk=936b3e4fb511d928",
+      "date": "2026-05-26",
+      "location": "Immaculata University at Malvern, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "University of Nebraska-Lincoln – – Assistant Professor of Practice – Companion Animal",
+      "url": "https://www.indeed.com/viewjob?jk=872da8a089af1821",
+      "date": "2026-05-22",
+      "location": "nan at Lincoln, NE, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=61ac6456fdc9204d",
+      "date": "2025-12-17",
+      "location": "UNC Charlotte at Charlotte, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4419013327",
+      "title": "Business, Entrepreneurship, and Culinary Management Full-time Tenure Track Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4419013327",
+      "date": "",
+      "location": "Patelco Credit Union at Syracuse, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4420283034",
+      "title": "Director of Faculty Affairs & Academic Personnel",
+      "url": "https://www.linkedin.com/jobs/view/4420283034",
+      "date": "",
+      "location": "Career Center at Portland State University at Portland, OR",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4419999182",
+      "title": "Tenure-Track, Music Education (Open Rank)",
+      "url": "https://www.linkedin.com/jobs/view/4419999182",
+      "date": "",
+      "location": "Inside Higher Ed at Naperville, IL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4419989712",
+      "title": "Instructor",
+      "url": "https://www.linkedin.com/jobs/view/4419989712",
+      "date": "",
+      "location": "Inside Higher Ed at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor of Accounting",
       "url": "https://www.indeed.com/viewjob?jk=401b9939306a7c2b",
       "date": "2026-05-26",
       "location": "University of Nebraska at Omaha at Omaha, NE, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +166,7 @@
       "location": "Texas State University at San Marcos, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +177,7 @@
       "location": "Texas A&M University at College Station, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +188,7 @@
       "location": "Texas A&M University at College Station, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +199,7 @@
       "location": "Ball State University at Muncie, IN, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +210,7 @@
       "location": "Mississippi Valley State University at Itta Bena, MS, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,84 +221,7 @@
       "location": "University of Utah at Salt Lake City, UT",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4405166965",
-      "title": "Faculty.Lecturer.Visiting",
-      "url": "https://www.linkedin.com/jobs/view/4405166965",
-      "date": "2026-04-27",
-      "location": "University of Pittsburgh at Pittsburgh, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor",
-      "url": "https://www.indeed.com/viewjob?jk=0871fd14721917b6",
-      "date": "2025-12-17",
-      "location": "UNC Charlotte at Charlotte, NC, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4418523360",
-      "title": "Instructor",
-      "url": "https://www.linkedin.com/jobs/view/4418523360",
-      "date": "",
-      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4419551646",
-      "title": "Faculty Associate Pool - Disability Studies",
-      "url": "https://www.linkedin.com/jobs/view/4419551646",
-      "date": "",
-      "location": "",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4419539744",
-      "title": "Faculty Associate Pool – IAS 300 (Career Strategies and Personal Resilience)",
-      "url": "https://www.linkedin.com/jobs/view/4419539744",
-      "date": "",
-      "location": "CommLabASU at Arizona State University at Valley, WV",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4419492106",
-      "title": "Aviation Technology 9/10 Month Tenure Track Faculty (Fall 2026)",
-      "url": "https://www.linkedin.com/jobs/view/4419492106",
-      "date": "",
-      "location": "Tennessee Board of Regents (TBR) at Friendsville, TN",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4419187744",
-      "title": "AST/ASO/FULL PROF",
-      "url": "https://www.linkedin.com/jobs/view/4419187744",
-      "date": "",
-      "location": "Inside Higher Ed at Gainesville, FL",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -3084,6 +3144,17 @@
       "url": "https://www.indeed.com/viewjob?jk=7d5968701b2ee9a7",
       "date": "2026-04-28",
       "location": "University of Nebraska at Omaha at Omaha, NE, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4405166965",
+      "title": "Faculty.Lecturer.Visiting",
+      "url": "https://www.linkedin.com/jobs/view/4405166965",
+      "date": "2026-04-27",
+      "location": "University of Pittsburgh at Pittsburgh, PA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -12605,6 +12676,17 @@
     {
       "id": "www-viewjob",
       "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=0871fd14721917b6",
+      "date": "2025-12-17",
+      "location": "UNC Charlotte at Charlotte, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
       "url": "https://www.indeed.com/viewjob?jk=90602831dcfca22c",
       "date": "2025-12-17",
       "location": "UNC Charlotte at Charlotte, NC, US",
@@ -13182,6 +13264,61 @@
       "url": "https://www.indeed.com/viewjob?jk=f173ae58baa5fd14",
       "date": "2025-07-08",
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4418523360",
+      "title": "Instructor",
+      "url": "https://www.linkedin.com/jobs/view/4418523360",
+      "date": "",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4419551646",
+      "title": "Faculty Associate Pool - Disability Studies",
+      "url": "https://www.linkedin.com/jobs/view/4419551646",
+      "date": "",
+      "location": "",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4419539744",
+      "title": "Faculty Associate Pool – IAS 300 (Career Strategies and Personal Resilience)",
+      "url": "https://www.linkedin.com/jobs/view/4419539744",
+      "date": "",
+      "location": "CommLabASU at Arizona State University at Valley, WV",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4419492106",
+      "title": "Aviation Technology 9/10 Month Tenure Track Faculty (Fall 2026)",
+      "url": "https://www.linkedin.com/jobs/view/4419492106",
+      "date": "",
+      "location": "Tennessee Board of Regents (TBR) at Friendsville, TN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4419187744",
+      "title": "AST/ASO/FULL PROF",
+      "url": "https://www.linkedin.com/jobs/view/4419187744",
+      "date": "",
+      "location": "Inside Higher Ed at Gainesville, FL",
       "description": "",
       "fitScore": 0,
       "isNew": false,
