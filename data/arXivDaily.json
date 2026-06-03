@@ -2,14 +2,150 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-02T08:18:49Z",
+    "generatedAt": "2026-06-03T08:48:34Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 171 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 185 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.03625v1",
+      "title": "X-ray Fractional Orbital Angular Momentum from Coherent Magnetic Scattering",
+      "url": "https://arxiv.org/abs/2606.03625v1",
+      "date": "2026-06-02",
+      "summary": "Investigates if odd-charge topological defects in artificial spin ice generate fractional orbital angular momentum in X-ray beams. The study confirms antiferromagnetic ground states with superdomain walls and observes integer OAM at structural peaks alongside fractional OAM at magnetic peaks. In thermally active samples, the fractional OAM beam exhibits dynamic rotation due to phase discontinuity fluctuations.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2606.03563v1",
+      "title": "Reversible Superdense Ordering of Tetragonal Lithium in a Layered Material",
+      "url": "https://arxiv.org/abs/2606.03563v1",
+      "date": "2026-06-02",
+      "summary": "Employs multimodal scanning transmission electron microscopy to map lithium intercalation and dynamics in layered LaTe3. The study identifies three ordered phases and discovers a reversible, superdense three-layer lithium phase with tetragonal symmetry occupying the van der Waals gap at high concentrations. This approach provides a complete tracking of lithium ordering, which is crucial for advancing next-generation energy storage applications.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2606.02466v1",
+      "title": "Hydrothermally-Assisted Sintering of Calcium Hydroxide Sputtering Targets: A Route to Quantum-Grade CaO Thin Films",
+      "url": "https://arxiv.org/abs/2606.02466v1",
+      "date": "2026-06-01",
+      "summary": "Demonstrates the production of high-purity calcium hydroxide sputtering targets using hydrothermally-assisted sintering at low temperatures. The resulting targets achieve 98% theoretical density while preserving the brucite phase. These targets were successfully used to deposit (002) oriented epitaxial calcium oxide thin films on sapphire substrates, providing a scalable route to quantum-grade materials for thin-film applications.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2606.00742v1",
+      "title": "Impact of Cu-Mn ratio on Structure and Defects in Layered Multiferroic Cu1-xMn1+ySiTe3",
+      "url": "https://arxiv.org/abs/2606.00742v1",
+      "date": "2026-05-30",
+      "summary": "Investigates the influence of Cu-to-Mn ratios and nanoscale defects on the properties of multiferroic Cu1-xMn1+ySiTe3. Scanning transmission electron microscopy reveals that Cu-deficient crystals exhibit extensive stacking faults and chemical inhomogeneity, whereas Cu-rich crystals show fewer stacking faults but contain needle-shaped precipitates. Calculations confirm the Cu-rich structure is more polar, offering guidance for designing multiferroic materials with tailored performance.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.31358v1",
+      "title": "Sharp periodic Ge concentration modulations beyond the conduction band valley wavevector $k_0$ in nuclear spin-free Si quantum wells",
+      "url": "https://arxiv.org/abs/2605.31358v1",
+      "date": "2026-05-29",
+      "summary": "Aims to enhance conduction-band valley splitting in Si quantum wells through periodic Ge modulations. Using molecular beam epitaxy, the study demonstrates laterally homogeneous modulations with periods down to 0.49 nm. Simulations suggest that steep trapezoidal 2k0/3 heterostructures significantly enhance valley splitting, whereas k0-type modulations show a much weaker effect, providing a route for scalable spin-qubit development.",
+      "tags": [
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2605.31252v1",
+      "title": "Magnetic domains reconfiguration on the Fe3O4(110) surface across the Verwey transition by Spin-Polarized Low-Energy Electron Microscopy",
+      "url": "https://arxiv.org/abs/2605.31252v1",
+      "date": "2026-05-29",
+      "summary": "Uses spin-polarized low-energy electron microscopy to map the vector magnetization of the Fe3O4(110) surface across the Verwey transition. At room temperature, magnetic domains align with bulk <111> easy axes. Below the transition, magnetization reconfigures toward in-plane [100] and [001] directions, reflecting monoclinic symmetry changes. The findings confirm that magnetization remains within the surface plane throughout the transition.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.29798v1",
+      "title": "Low-Magnification SEM May Suffice: Interpretable Deep Learning for Multi-Scale Fracture-Cause Classification in Zirconia-Toughened Alumina",
+      "url": "https://arxiv.org/abs/2605.29798v1",
+      "date": "2026-05-28",
+      "summary": "Develops an interpretable vision-transformer workflow to automate the classification of fracture causes in alumina matrix composite implants. The model achieves high accuracy by identifying diagnostic signals like mirror geometry and hackle lines. Crucially, performance at low magnification (50x) is comparable to high-magnification inspection, suggesting that macro-scale features provide sufficient data for reliable quality assurance and pre-screening.",
+      "tags": [
+        "cs-cv",
+        "cond-mat-mtrl-sci",
+        "eess-iv"
+      ]
+    },
+    {
+      "id": "arxiv-2605.29433v1",
+      "title": "Spatiotemporal Electron Microscopy of Phonon Polaritons in MoO3",
+      "url": "https://arxiv.org/abs/2605.29433v1",
+      "date": "2026-05-28",
+      "summary": "Investigates the spatiotemporal dynamics of phonon polaritons in anisotropic α-MoO3 by extending the bandwidth of photon-induced near-field electron microscopy deeper into the infrared. The study visualizes the spatial distribution and wavelength-dependent lifetimes of polaritons within cavity-like flakes. These advancements demonstrate the potential of PINEM for probing the complex polaritonic properties of van der Waals materials in hard-to-access spectral ranges.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2605.29040v1",
+      "title": "Self-Assembly of Lipid-Biopolymer Periodic Nanostructures on Photonic Length Scales",
+      "url": "https://arxiv.org/abs/2605.29040v1",
+      "date": "2026-05-27",
+      "summary": "Investigates how lipids and biopolymers co-assemble to produce structural color in insects. By using lipid vesicles as templates for biopolymers, the study demonstrates the self-assembly of periodic nanostructures with periodicities up to 1.2 micrometers. These results provide a methodology for recreating the physicochemical mechanisms underlying biophotonic structural colour and overcoming periodicity limits in synthetic lipid-based systems.",
+      "tags": [
+        "cond-mat-soft",
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2605.28799v1",
+      "title": "Synthesis and properties of bulk Mg$_3$WN$_4$ in a wurtzite-derived structure",
+      "url": "https://arxiv.org/abs/2605.28799v1",
+      "date": "2026-05-27",
+      "summary": "Reports the first bulk synthesis of Mg3WN4 in a wurtzite-derived crystal structure via solid-state metathesis. In situ X-ray diffraction tracked the reaction progress, while second harmonic generation measurements confirmed the material's polar symmetry. The study reveals that bulk wurtzite Mg3WN4 is prone to defect formation and demonstrates that carefully controlling the thermal budget allows for the selective synthesis of phase-pure ternary nitrides.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.28790v1",
+      "title": "Multiscale Vectorial Determination of Magnetic Order Parameters using Electron Magnetic Linear Dichroism",
+      "url": "https://arxiv.org/abs/2605.28790v1",
+      "date": "2026-05-27",
+      "summary": "Demonstrates electron magnetic linear dichroism as a quantitative tool for mapping vectorial magnetic order parameters with nanometer resolution. By combining EELS with dynamical diffraction simulations, the study reconstructs the magnetic spin axis in antiferromagnetic and ferromagnetic FeRh. The method is robust at the atomic scale and effectively separates magnetic signals from nonmagnetic anisotropy, providing a new pathway for imaging altermagnets and antiferromagnets.",
+      "tags": [
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2605.28564v1",
+      "title": "Electron-beam induced methane decomposition for in-situ carbon doping of hexagonal boron nitride",
+      "url": "https://arxiv.org/abs/2605.28564v1",
+      "date": "2026-05-27",
+      "summary": "Presents a method for nanoscale carbon doping of hexagonal boron nitride using electron-beam irradiation in a methane atmosphere. The beam simultaneously generates vacancies and decomposes methane, leading to progressive carbon incorporation into the lattice. EELS mapping shows that carbon forms hexagonal patches approximately 1 nm in size, primarily confined to the irradiated area, which modifies the local electronic environment for defect engineering.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2605.27830v1",
+      "title": "Magneto-Optical Detection of Anisotropic Spin Currents in Altermagnetic RuO2",
+      "url": "https://arxiv.org/abs/2605.27830v1",
+      "date": "2026-05-27",
+      "summary": "Investigates charge-to-spin conversion in 12-nm-thick altermagnetic RuO2 films using optical probes. The study detects directionally anisotropic spin polarization that aligns with altermagnetic symmetry and is strongly suppressed along specific crystallographic directions. Scanning transmission electron microscopy reveals persistent strain in the films, which may support the observed magnetic behavior, establishing RuO2 as an efficient spin source for field-free spintronic devices.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall",
+        "physics-app-ph"
+      ]
+    },
     {
       "id": "arxiv-2605.26464v1",
       "title": "Mid-infrared Fourier ptychographic upconversion imaging",
@@ -18,6 +154,16 @@
       "summary": "This study implements a high-resolution mid-infrared upconversion imaging system using elliptical pumping and Fourier ptychography to overcome aperture restrictions. By combining synthetic aperture and phase retrieval, it achieves a 39 μm resolution and a space-bandwidth product tenfold larger than previous benchmarks. The system demonstrates single-photon sensitivity, enabling high-throughput infrared imaging for industrial and biomedical applications.",
       "tags": [
         "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2605.27543v2",
+      "title": "Atomic-Scale Observation of Symmetry Breaking in Altermagnetic MnTe",
+      "url": "https://arxiv.org/abs/2605.27543v2",
+      "date": "2026-05-26",
+      "summary": "Provides direct atomic-scale evidence of coexisting polar distortions and altermagnetic order in MnTe using STEM and electron magnetic chiral dichroism. The study reveals that MnTe is not a uniform g-wave altermagnet but hosts inversion-symmetry-breaking distortions. These distortions lower the symmetry to admit d-wave and s-wave spin splitting, suggesting that local lattice symmetry can be used to control altermagnetic properties.",
+      "tags": [
+        "cond-mat-mtrl-sci"
       ]
     },
     {
