@@ -2,14 +2,25 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-04T08:12:11Z",
+    "generatedAt": "2026-06-05T07:58:04Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 185 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 186 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.06289v1",
+      "title": "Optical Signature of Moiré Superlattices Formed by Twisted SrTiO$_3$ Membranes",
+      "url": "https://arxiv.org/abs/2606.06289v1",
+      "date": "2026-06-04",
+      "summary": "This study investigates the structural and optical properties of millimeter-scale moiré superlattices formed by twisted SrTiO3 membranes at a 36-degree angle. The researchers discovered new low-frequency Raman-active vibrational modes and strong second harmonic generation at the interface, indicating an asymmetric, twisted interface. These findings demonstrate enhanced interlayer coupling and provide a method for tuning phononic and nonlinear optical properties in twisted oxides.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
     {
       "id": "arxiv-2606.03625v1",
       "title": "X-ray Fractional Orbital Angular Momentum from Coherent Magnetic Scattering",
