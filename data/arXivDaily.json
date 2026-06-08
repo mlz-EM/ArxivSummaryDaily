@@ -2,14 +2,35 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-05T07:58:04Z",
+    "generatedAt": "2026-06-08T08:43:29Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 186 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 188 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.07204v1",
+      "title": "Ptychographic Algorithms for Phase Recovery in 4D Scanning Transmission Electron Microscopy",
+      "url": "https://arxiv.org/abs/2606.07204v1",
+      "date": "2026-06-05",
+      "summary": "This thesis examines ptychographic algorithms for phase recovery in 4D STEM, specifically ePIE, WDD, and SSB. It successfully implements an SSB reconstruction script on simulated MoS2 data and records experimental 4D STEM data. The results provide a mathematical framework for these methods and demonstrate the practical application of SSB for specimen imaging.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-ins-det"
+      ]
+    },
+    {
+      "id": "arxiv-2606.07042v1",
+      "title": "Unravelling the Role of Stacking Disorder on the Optoelectronic Properties of Zn3P2",
+      "url": "https://arxiv.org/abs/2606.07042v1",
+      "date": "2026-06-05",
+      "summary": "This study uses electron microscopy and DFT to investigate planar defects in Zn3P2 thin films. It identifies defects arising from Zn sublattice vacancy ordering with very low formation energy. While these defects do not introduce mid-gap states and are electronically benign, they likely degrade performance by acting as preferential segregation sites for optically active point defects.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2606.06289v1",
       "title": "Optical Signature of Moiré Superlattices Formed by Twisted SrTiO$_3$ Membranes",
