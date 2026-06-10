@@ -2,14 +2,103 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-09T07:35:51Z",
+    "generatedAt": "2026-06-10T07:58:57Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 188 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 197 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.10893v1",
+      "title": "Low-Dose 3D Bonding Mapping Through \"Soft\" Core-Loss EELS Tomography and Unsupervised Deep Learning",
+      "url": "https://arxiv.org/abs/2606.10893v1",
+      "date": "2026-06-09",
+      "summary": "This study aims to achieve dose-efficient 3D bonding mapping of beam-sensitive nanomaterials using STEM-EELS. By combining shallow Fe-M2,3 edges with an unsupervised deep learning method (DIPm-TV), the researchers achieved 1 nm isotropic resolution and 50x higher dose efficiency, successfully resolving the core-shell structure and internal voids of FeO/Fe3O4 nanocubes.",
+      "tags": [
+        "eess-iv",
+        "cond-mat-mtrl-sci",
+        "physics-ins-det"
+      ]
+    },
+    {
+      "id": "arxiv-2606.10570v1",
+      "title": "Extending Field Limits in Nanoscale Magnetic Imaging with Metamaterial-inspired Magnetic Flux Concentrators",
+      "url": "https://arxiv.org/abs/2606.10570v1",
+      "date": "2026-06-09",
+      "summary": "The paper aims to extend magnetic field limits in nanoscale imaging using sample-integrated magnetic flux concentrators (MFCs). Experiments demonstrate that MFCs locally amplify magnetic fields by a factor of five, enabling the observation of magnetization reversal and domain evolution in magnetite nanoparticles and magnetofossils that were previously inaccessible due to instrumental constraints.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2606.10547v1",
+      "title": "Unsupervised Deep Learning for Limited-Angle STEM-EDX Tomography -- Application to 3D Chemical Analysis of Phase-Change Memory Devices",
+      "url": "https://arxiv.org/abs/2606.10547v1",
+      "date": "2026-06-09",
+      "summary": "This research develops an unsupervised deep learning framework, DIPm-TV, to improve 3D chemical mapping in limited-angle STEM-EDX tomography. The method successfully compensates for severe missing-wedge artifacts, enabling near-isotropic 3D elemental reconstruction of Ge-Sb-Te memory devices without requiring external structural priors, even under low-dose conditions.",
+      "tags": [
+        "eess-iv",
+        "cond-mat-mtrl-sci",
+        "cs-lg",
+        "physics-ins-det"
+      ]
+    },
+    {
+      "id": "arxiv-2606.10397v1",
+      "title": "Improved selector behavior in ultrathin chromium-doped V$_2$O$_3$ films",
+      "url": "https://arxiv.org/abs/2606.10397v1",
+      "date": "2026-06-09",
+      "summary": "This study investigates the electrical and structural properties of ultrathin chromium-doped V2O3 films for use as selector elements. Findings show that switching effects persist down to 5 nm thickness with improved leakage and transition abruptness. TEM analysis attributes these improvements to a thin amorphous interface layer and titanium diffusion from the electrodes.",
+      "tags": [
+        "cond-mat-str-el",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2606.09423v1",
+      "title": "Design and electron optics performance of a MEMS electrostatic electron monochromator",
+      "url": "https://arxiv.org/abs/2606.09423v1",
+      "date": "2026-06-08",
+      "summary": "The authors design a compact, MEMS-fabricated electrostatic electron monochromator to improve energy resolution in electron microscopy. Simulations show the design achieves 19 meV resolution while maintaining a 128 pA beam current. This fringe-field-based approach offers a cost-effective alternative to complex state-of-the-art monochromators, potentially bringing high-resolution energy filtering to standard scanning electron microscopes.",
+      "tags": [
+        "physics-ins-det"
+      ]
+    },
+    {
+      "id": "arxiv-2606.09419v1",
+      "title": "Context-Aware Deep Learning for Defect Classification in Atomic-Resolution STEM",
+      "url": "https://arxiv.org/abs/2606.09419v1",
+      "date": "2026-06-08",
+      "summary": "This work introduces a context-aware deep learning framework to improve defect classification in atomic-resolution STEM. By integrating image contrast with experimental metadata like composition and beam energy, the model achieves over 98% accuracy on simulations. This approach transforms ambiguous image-only tasks into physically grounded problems, significantly reducing classification entropy and matching human-level performance on experimental data.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cs-ai"
+      ]
+    },
+    {
+      "id": "arxiv-2606.09281v1",
+      "title": "Unconventional incommensurate epitaxy of superconducting FeSe films on SrTiO$_3$",
+      "url": "https://arxiv.org/abs/2606.09281v1",
+      "date": "2026-06-08",
+      "summary": "This study examines the epitaxial relationship between superconducting FeSe films and SrTiO3 substrates using XRD and STEM. The researchers discovered an unconventional growth regime where FeSe maintains directional alignment with the substrate but lacks atomic registry, retaining its own lattice spacing without forming misfit dislocations. This suggests that crystallographic orientation can be preserved without atomic matching at the interface.",
+      "tags": [
+        "cond-mat-mes-hall",
+        "cond-mat-mtrl-sci",
+        "cond-mat-supr-con"
+      ]
+    },
+    {
+      "id": "arxiv-2606.08298v1",
+      "title": "High-resolution TEM imaging on 3D nanocrystals with tilt illuminations",
+      "url": "https://arxiv.org/abs/2606.08298v1",
+      "date": "2026-06-06",
+      "summary": "This paper proposes a method to obtain high-resolution projected images of 3D nanocrystals by mitigating contrast transfer function (CTF) mixing in TEM. By employing tilted illumination and a ring slit filter, the technique produces images comparable to STEM. This approach is particularly useful for imaging complex structures like MOFs and perovskites where small molecules or ions are critical.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2606.07204v1",
       "title": "Ptychographic Algorithms for Phase Recovery in 4D Scanning Transmission Electron Microscopy",
@@ -29,6 +118,17 @@
       "summary": "This study uses electron microscopy and DFT to investigate planar defects in Zn3P2 thin films. It identifies defects arising from Zn sublattice vacancy ordering with very low formation energy. While these defects do not introduce mid-gap states and are electronically benign, they likely degrade performance by acting as preferential segregation sites for optically active point defects.",
       "tags": [
         "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2606.07862v1",
+      "title": "Crystallizing Substrates Drag Supported Nanoparticles",
+      "url": "https://arxiv.org/abs/2606.07862v1",
+      "date": "2026-06-05",
+      "summary": "This research investigates how substrate crystallization influences the migration of supported nanoparticles using in situ TEM and 4D-STEM. The study finds that advancing amorphous-to-crystalline fronts in AlOx films actively drag Pt nanoparticles over long distances. Phase-field simulations confirm that this deterministic transport is driven by asymmetric interfacial energy contrast across the moving boundary.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
       ]
     },
     {
