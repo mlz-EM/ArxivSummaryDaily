@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-10T07:58:57Z",
+    "generatedAt": "2026-06-11T08:26:21Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 197 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 198 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.12150v1",
+      "title": "Tracking atomic-scale interdiffusion in immiscible bimetallic nanoparticles via four-dimensional electron tomography",
+      "url": "https://arxiv.org/abs/2606.12150v1",
+      "date": "2026-06-10",
+      "summary": "This study uses 4D atomic resolution electron tomography and in situ STEM to track interdiffusion in immiscible PdIr nanoparticles. It reveals a temperature-driven miscible transition pathway involving surface reconstruction at 200°C, Ir interfacial diffusion at 400°C, and collective inward diffusion at 900°C. These findings provide quantitative atomic-scale insights into how metastable nanostructures evolve into thermodynamically stable configurations at the nanoscale.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2606.10893v1",
       "title": "Low-Dose 3D Bonding Mapping Through \"Soft\" Core-Loss EELS Tomography and Unsupervised Deep Learning",

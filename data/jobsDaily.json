@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-10T08:07:13Z",
+    "generatedAt": "2026-06-11T08:29:10Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,151 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Faculty.Professor.Research Assistant - Full-Time",
+      "url": "https://www.indeed.com/viewjob?jk=048aa53d2c5341e1",
+      "date": "2026-06-10",
+      "location": "University of Pittsburgh at Pittsburgh, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track Assistant/Associate Professor, Finance",
+      "url": "https://www.indeed.com/viewjob?jk=241e5a4e5652ba3f",
+      "date": "2026-06-10",
+      "location": "Bentley University at Waltham, MA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Faculty Tenure Track-9 Mo",
+      "url": "https://www.indeed.com/viewjob?jk=d2643ed5ae79c23b",
+      "date": "2026-06-10",
+      "location": "Kent State University at Kent, OH, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, College of Engineering and Science",
+      "url": "https://www.indeed.com/viewjob?jk=3e4dc0a6b0b84171",
+      "date": "2026-06-10",
+      "location": "Louisiana Tech University at Ruston, LA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Criminal Justice",
+      "url": "https://www.indeed.com/viewjob?jk=fea2fa79c1f17f95",
+      "date": "2026-06-10",
+      "location": "Eureka College at Eureka, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Cybersecurity/Computer Science Faculty FT Tenure Track at SUNY Onondaga Community College",
+      "url": "https://www.indeed.com/viewjob?jk=7420816694ebb472",
+      "date": "2026-06-09",
+      "location": "nan at Syracuse, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4425624804",
+      "title": "Assistant Professor",
+      "url": "https://www.linkedin.com/jobs/view/4425624804",
+      "date": "2026-06-08",
+      "location": "UNT Health Fort Worth at Fort Worth, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4414685128",
+      "title": "Safety and Occupational Health Applied Sciences (Tenure-Track) Faculty Position",
+      "url": "https://www.linkedin.com/jobs/view/4414685128",
+      "date": "2026-06-05",
+      "location": "Keene State College at Keene, NH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4421315234",
+      "title": "ESE Tenured or Tenure-track Faculty Positions, 2025 - 2026",
+      "url": "https://www.linkedin.com/jobs/view/4421315234",
+      "date": "2026-05-30",
+      "location": "University of Pennsylvania at Philadelphia, PA",
+      "description": "Tenure-track faculty position in electrical and systems engineering with research focus in photonics and electromagnetics.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "electrical engineering",
+        "systems engineering",
+        "photonics",
+        "electromagnetics",
+        "computer engineering"
+      ]
+    },
+    {
+      "id": "www-4421329212",
+      "title": "CIS Tenured or Tenure-track Positions 2026",
+      "url": "https://www.linkedin.com/jobs/view/4421329212",
+      "date": "2026-05-30",
+      "location": "Inside Higher Ed at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4420922972",
+      "title": "Aircraft Fabrication &amp; Assembly (Aeronautical Non-Destructive Inspection) - Full-time Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4420922972",
+      "date": "2026-05-29",
+      "location": "Inside Higher Ed at Lancaster, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4423129948",
+      "title": "Faculty.Professor.Assistant - Full-Time",
+      "url": "https://www.linkedin.com/jobs/view/4423129948",
+      "date": "",
+      "location": "University of Pittsburgh at Pittsburgh, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor of Management",
       "url": "https://www.indeed.com/viewjob?jk=fb64327cf98305c5",
       "date": "2026-06-09",
       "location": "Eastern Kentucky University at Richmond, KY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +167,7 @@
       "location": "Texas A&M University at College Station, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +178,7 @@
       "location": "Wright State University at Dayton, OH, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +189,7 @@
       "location": "Valdosta State University at Valdosta, GA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +200,7 @@
       "location": "Saint Louis University at St. Louis, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +211,7 @@
       "location": "College of Coastal Georgia at Brunswick, GA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +222,7 @@
       "location": "University of Illinois at Chicago, IL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +233,7 @@
       "location": "Alabama A&M University at Normal, AL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +244,7 @@
       "location": "Salt Lake Community College at UT, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +255,7 @@
       "location": "Indiana University at Bloomington, IN",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,117 +266,7 @@
       "location": "Indiana University at Bloomington, IN",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4130644463",
-      "title": "Family Medicine Faculty",
-      "url": "https://www.linkedin.com/jobs/view/4130644463",
-      "date": "2026-06-05",
-      "location": "Provider Solutions & Development at Spokane, WA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4420987753",
-      "title": "Research Faculty",
-      "url": "https://www.linkedin.com/jobs/view/4420987753",
-      "date": "2026-05-29",
-      "location": "Inside Higher Ed at Lexington, KY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4406594039",
-      "title": "Ranked ASSOCIATE or ASSISTANT TEACHING PROFESSOR/ PHYSICIAN ASSISTANT PROGRAM / UMKC School of Medicine/ Graduate Health Professions",
-      "url": "https://www.linkedin.com/jobs/view/4406594039",
-      "date": "2026-05-20",
-      "location": "University of Missouri-Kansas City at Kansas City, MO",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4245636442",
-      "title": "ASSISTANT or ASSOCIATE TEACHING PROFESSOR / Physician Assistant, Prinicipal Faculty (Ranked) - Columbia MO Program / UMKC School of Medicine",
-      "url": "https://www.linkedin.com/jobs/view/4245636442",
-      "date": "2026-05-19",
-      "location": "University of Missouri-Kansas City at Columbia, MO",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4414735809",
-      "title": "Teaching Professor, Division Chair of Family Medicine",
-      "url": "https://www.linkedin.com/jobs/view/4414735809",
-      "date": "2026-05-14",
-      "location": "Xavier University at Cincinnati, OH",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4414755394",
-      "title": "Teaching Professor, Division Chair of Internal Medicine",
-      "url": "https://www.linkedin.com/jobs/view/4414755394",
-      "date": "2026-05-14",
-      "location": "Xavier University at Cincinnati, OH",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4426381690",
-      "title": "Director of Undergraduate Studies",
-      "url": "https://www.linkedin.com/jobs/view/4426381690",
-      "date": "",
-      "location": "University of Notre Dame at Notre Dame, IN",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4422706093",
-      "title": "Executive Assistant",
-      "url": "https://www.linkedin.com/jobs/view/4422706093",
-      "date": "",
-      "location": "Lycia Therapeutics at Emeryville, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4425895814",
-      "title": "Adjunct Faculty",
-      "url": "https://www.linkedin.com/jobs/view/4425895814",
-      "date": "",
-      "location": "Jefferson Health at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4426023927",
-      "title": "Lecturer - Health Sciences",
-      "url": "https://www.linkedin.com/jobs/view/4426023927",
-      "date": "",
-      "location": "Utah Valley University at Orem, UT",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -357,6 +385,17 @@
       "url": "https://www.indeed.com/viewjob?jk=bcabaa2b48277595",
       "date": "2026-06-06",
       "location": "Jacksonville State University at Jacksonville, AL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4130644463",
+      "title": "Family Medicine Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4130644463",
+      "date": "2026-06-05",
+      "location": "Provider Solutions & Development at Spokane, WA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1204,6 +1243,17 @@
       "url": "https://www.linkedin.com/jobs/view/4421314473",
       "date": "2026-05-30",
       "location": "Bethel University at St Paul, MN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4420987753",
+      "title": "Research Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4420987753",
+      "date": "2026-05-29",
+      "location": "Inside Higher Ed at Lexington, KY",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2220,6 +2270,17 @@
       "keywords": []
     },
     {
+      "id": "www-4406594039",
+      "title": "Ranked ASSOCIATE or ASSISTANT TEACHING PROFESSOR/ PHYSICIAN ASSISTANT PROGRAM / UMKC School of Medicine/ Graduate Health Professions",
+      "url": "https://www.linkedin.com/jobs/view/4406594039",
+      "date": "2026-05-20",
+      "location": "University of Missouri-Kansas City at Kansas City, MO",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4416308952",
       "title": "Assistant Professor",
       "url": "https://www.linkedin.com/jobs/view/4416308952",
@@ -2379,6 +2440,17 @@
       "url": "https://www.indeed.com/viewjob?jk=93c2700a2269bd00",
       "date": "2026-05-20",
       "location": "North Dakota State College of Science at Bismarck, ND, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4245636442",
+      "title": "ASSISTANT or ASSOCIATE TEACHING PROFESSOR / Physician Assistant, Prinicipal Faculty (Ranked) - Columbia MO Program / UMKC School of Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4245636442",
+      "date": "2026-05-19",
+      "location": "University of Missouri-Kansas City at Columbia, MO",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2950,6 +3022,28 @@
       "url": "https://www.indeed.com/viewjob?jk=64cf4f8959d4e8ad",
       "date": "2026-05-15",
       "location": "Columbia University at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4414735809",
+      "title": "Teaching Professor, Division Chair of Family Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4414735809",
+      "date": "2026-05-14",
+      "location": "Xavier University at Cincinnati, OH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4414755394",
+      "title": "Teaching Professor, Division Chair of Internal Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4414755394",
+      "date": "2026-05-14",
+      "location": "Xavier University at Cincinnati, OH",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -15574,6 +15668,50 @@
       "url": "https://www.indeed.com/viewjob?jk=f173ae58baa5fd14",
       "date": "2025-07-08",
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4426381690",
+      "title": "Director of Undergraduate Studies",
+      "url": "https://www.linkedin.com/jobs/view/4426381690",
+      "date": "",
+      "location": "University of Notre Dame at Notre Dame, IN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4422706093",
+      "title": "Executive Assistant",
+      "url": "https://www.linkedin.com/jobs/view/4422706093",
+      "date": "",
+      "location": "Lycia Therapeutics at Emeryville, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4425895814",
+      "title": "Adjunct Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4425895814",
+      "date": "",
+      "location": "Jefferson Health at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4426023927",
+      "title": "Lecturer - Health Sciences",
+      "url": "https://www.linkedin.com/jobs/view/4426023927",
+      "date": "",
+      "location": "Utah Valley University at Orem, UT",
       "description": "",
       "fitScore": 0,
       "isNew": false,
