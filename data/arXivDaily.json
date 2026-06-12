@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-11T08:26:21Z",
+    "generatedAt": "2026-06-12T08:15:39Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 198 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 200 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.13130v1",
+      "title": "Sub-8-nm resolution AKB-mirror-based hard X-ray ptychography via generalized Wirtinger projections",
+      "url": "https://arxiv.org/abs/2606.13130v1",
+      "date": "2026-06-11",
+      "summary": "This study aims to achieve high-resolution hard X-ray ptychography using achromatic AKB mirror optics. By developing the Generalized Wirtinger Projections (GWP) algorithm, the researchers achieved sub-8-nm resolution. GWP improves spatial resolution and partial-coherence reconstruction while enhancing GPU memory efficiency, facilitating advanced 3D spectroscopic imaging at the nanoscale.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2606.12150v1",
       "title": "Tracking atomic-scale interdiffusion in immiscible bimetallic nanoparticles via four-dimensional electron tomography",
@@ -18,6 +28,17 @@
       "summary": "This study uses 4D atomic resolution electron tomography and in situ STEM to track interdiffusion in immiscible PdIr nanoparticles. It reveals a temperature-driven miscible transition pathway involving surface reconstruction at 200°C, Ir interfacial diffusion at 400°C, and collective inward diffusion at 900°C. These findings provide quantitative atomic-scale insights into how metastable nanostructures evolve into thermodynamically stable configurations at the nanoscale.",
       "tags": [
         "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2606.12727v1",
+      "title": "Extending the La Solubility Limit in Sr$_3$Ir$_2$O$_7$ through High-Pressure High-Temperature Synthesis",
+      "url": "https://arxiv.org/abs/2606.12727v1",
+      "date": "2026-06-10",
+      "summary": "This research aims to extend the La solubility limit in bilayer iridates using high-pressure high-temperature synthesis. The authors successfully increased La incorporation up to x=0.23, observing a transition from a localized magnetic insulating state to metal-like electronic behavior. These findings demonstrate that high-pressure synthesis reveals electronic and magnetic states inaccessible through conventional ambient-pressure methods.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-str-el"
       ]
     },
     {
