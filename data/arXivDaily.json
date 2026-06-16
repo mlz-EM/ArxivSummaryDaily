@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-15T09:50:13Z",
+    "generatedAt": "2026-06-16T09:16:32Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 200 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 201 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.16958v1",
+      "title": "Transverse Modulation of Continuous Electron Beams by a Structured Optical Cavity",
+      "url": "https://arxiv.org/abs/2606.16958v1",
+      "date": "2026-06-15",
+      "summary": "This study proposes a phase plate for continuous electron beams using ponderomotive interaction within a Fabry-Pérot resonator to achieve compact aberration correction. The researchers demonstrate that a Laguerre-Gaussian mode can fully compensate for third-order spherical aberration in a 5 keV beam, reducing the focal probe width to 1.4 Å.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2606.13130v1",
       "title": "Sub-8-nm resolution AKB-mirror-based hard X-ray ptychography via generalized Wirtinger projections",
