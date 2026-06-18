@@ -2,14 +2,36 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-17T08:53:39Z",
+    "generatedAt": "2026-06-18T08:30:14Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 202 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 204 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.19142v1",
+      "title": "Controllable Growth and Characterization of α- and β-phase MnSe by Chemical Vapor Deposition",
+      "url": "https://arxiv.org/abs/2606.19142v1",
+      "date": "2026-06-17",
+      "summary": "This study demonstrates the controllable growth of phase-pure α- and β-phase MnSe on sapphire using chemical vapor deposition. Key findings show that precursor vapor pressure controls flake size and β-phase films exhibit antiferromagnetism with a Néel temperature of 53 K. These results establish MnSe as a tunable platform for 2D spintronic and optoelectronic applications.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2606.18477v1",
+      "title": "Hydration-controlled twist forms a moiré glass in charge-frustrated layered silicates",
+      "url": "https://arxiv.org/abs/2606.18477v1",
+      "date": "2026-06-16",
+      "summary": "This research investigates the natural formation of moiré superlattices in montmorillonite clay. The authors discovered that hydration-controlled processes create a 'moiré glass' state with preferred low-angle twists stabilized by lattice-charge disorder. The study establishes dynamic hydration as a macroscopic handle for programming twist in layered materials, where dehydration arrests specific configurations in discrete steps.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-soft"
+      ]
+    },
     {
       "id": "arxiv-2606.16958v1",
       "title": "Transverse Modulation of Continuous Electron Beams by a Structured Optical Cavity",
