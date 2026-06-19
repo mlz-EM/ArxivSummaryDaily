@@ -2,10 +2,10 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-18T08:30:14Z",
+    "generatedAt": "2026-06-19T08:56:36Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 204 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 205 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
@@ -19,6 +19,16 @@
       "tags": [
         "cond-mat-mtrl-sci",
         "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2606.19653v1",
+      "title": "Coordination-Sensitive Nanoscale Analysis of Defect-Driven Phase Transformation in Si-Doped (AlXGa1-X)2O3",
+      "url": "https://arxiv.org/abs/2606.19653v1",
+      "date": "2026-06-17",
+      "summary": "This study introduces a coordination-sensitive atom probe tomography framework to quantify local cation coordination and link it to defect-driven phase transformations in Si-doped (AlxGa1-x)2O3. It reveals that gamma-phase inclusions emerge under high Al content and heavy Si doping, characterized by significant coordination loss. DFT results confirm that Al incorporation and donor-induced vacancies facilitate this coordination collapse and phase instability.",
+      "tags": [
+        "cond-mat-mtrl-sci"
       ]
     },
     {
