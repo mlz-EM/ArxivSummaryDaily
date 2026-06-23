@@ -2,14 +2,59 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-22T09:37:04Z",
+    "generatedAt": "2026-06-23T07:37:34Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 205 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 209 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.23490v1",
+      "title": "Anomalous charge density wave in a two-dimensional superatomic superconductor",
+      "url": "https://arxiv.org/abs/2606.23490v1",
+      "date": "2026-06-22",
+      "summary": "This study investigates charge density wave (CDW) behaviors in the 2D superatomic superconductor Au6Te12Se8. The authors identify an anomalous CDW governed by transverse phonons with a massive 4 Å displacement. Findings reveal that the CDW transition temperature increases significantly as the material approaches the superatomic limit, where it competes with superconductivity, offering new insights into electron-phonon interactions.",
+      "tags": [
+        "cond-mat-supr-con"
+      ]
+    },
+    {
+      "id": "arxiv-2606.22112v1",
+      "title": "Accurate identification and measurement of the precipitate area by two-stage deep neural networks in novel chromium-based alloys",
+      "url": "https://arxiv.org/abs/2606.22112v1",
+      "date": "2026-06-20",
+      "summary": "This paper introduces DT-SegNet, a two-stage deep learning framework combining YOLOv5 and SegFormer, to automate precipitate measurement in chromium-based superalloys. The objective is to improve upon manual microstructural analysis. Results show that DT-SegNet significantly outperforms existing tools like Weka and ilastik in segmentation accuracy, providing a robust solution for high-throughput alloy development and microstructural characterization.",
+      "tags": [
+        "cs-cv",
+        "cond-mat-mtrl-sci",
+        "cs-lg",
+        "physics-chem-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2606.21149v1",
+      "title": "Room-Temperature Noncolinear Ferroelectricity in van der Waals WO$_2$Cl$_2$ with a Wide Bandgap",
+      "url": "https://arxiv.org/abs/2606.21149v1",
+      "date": "2026-06-19",
+      "summary": "This study demonstrates room-temperature ferroelectricity in the van der Waals material WO2Cl2. Researchers found that the material possesses a wide 2.80 eV bandgap and a large dipole. Crucially, they directly observed an exotic noncollinear dipole order at the atomic level, proving that WO2Cl2 overcomes common weaknesses in low-dimensional ferroelectrics, such as small bandgaps or weak polarization.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2606.20941v1",
+      "title": "Persistent structural distortions and absent superconductivity in trilayer nickelate thin films",
+      "url": "https://arxiv.org/abs/2606.20941v1",
+      "date": "2026-06-18",
+      "summary": "This research investigates the absence of strain-induced superconductivity in trilayer (n=3) La4Ni3O10 nickelate thin films. While compressive strain suppresses density waves, superconductivity remains absent. The authors identify persistent, layer-inequivalent octahedral rotations around the c-axis as a unique structural distortion that likely inhibits superconductivity, suggesting that epitaxial strain alone is insufficient for inducing superconductivity in this specific system.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-supr-con"
+      ]
+    },
     {
       "id": "arxiv-2606.19142v1",
       "title": "Controllable Growth and Characterization of α- and β-phase MnSe by Chemical Vapor Deposition",
