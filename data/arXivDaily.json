@@ -2,14 +2,35 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-23T07:37:34Z",
+    "generatedAt": "2026-06-24T07:30:45Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 209 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 211 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.24524v1",
+      "title": "Hydrofluoric acid-free titanium etching for rare-event searches",
+      "url": "https://arxiv.org/abs/2606.24524v1",
+      "date": "2026-06-23",
+      "summary": "This study investigates sulphuric acid as a safer, hydrofluoric acid-free alternative for etching titanium in rare-event search experiments. Results show that 40% sulphuric acid at 40°C effectively removes surface material (up to 3.5 mg/cm²), providing a viable method for reducing radiopurity-limiting surface contamination in sensitive underground laboratory environments.",
+      "tags": [
+        "physics-ins-det",
+        "hep-ex"
+      ]
+    },
+    {
+      "id": "arxiv-2606.24239v1",
+      "title": "One-dimensional self-organization of water molecules in proton conducting Andersson-Wadsley titanates",
+      "url": "https://arxiv.org/abs/2606.24239v1",
+      "date": "2026-06-23",
+      "summary": "This research explores the hydration and proton conductivity of Andersson-Wadsley titanates. It finds that water molecules self-organize into one-dimensional double chains along the b-axis, facilitating highly anisotropic superionic conductivity of 3 mS/cm at room temperature. This suggests that these ordered water chains enable fast proton transport through a Grotthuss-like mechanism.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2606.23490v1",
       "title": "Anomalous charge density wave in a two-dimensional superatomic superconductor",

@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-23T07:51:29Z",
+    "generatedAt": "2026-06-24T07:33:15Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,211 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Swedish – Assistant Professor of Instruction",
+      "url": "https://www.indeed.com/viewjob?jk=d3c76d0a74b17405",
+      "date": "2026-06-23",
+      "location": "University of Texas at Austin at Austin, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Academic Professional Track (Non-Tenure): Instructional Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=4cf5ed29706889d4",
+      "date": "2026-06-23",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor- Sport & Exercise Psychology",
+      "url": "https://www.indeed.com/viewjob?jk=36b2bcea66180936",
+      "date": "2026-06-23",
+      "location": "Bridgewater: A Legacy Retirement Community at Bridgewater, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Academic Professional Track (Non-Tenure): Open Rank-Instructional",
+      "url": "https://www.indeed.com/viewjob?jk=cc5c9fabc2112c8f",
+      "date": "2026-06-23",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate/Full Professor positions, Kelley School of Business (Operations and Decision Technologies, Operations Management)",
+      "url": "https://www.indeed.com/viewjob?jk=68ac979173aa9d0a",
+      "date": "2026-06-23",
+      "location": "Indiana University at Bloomington, IN, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Academic Professional Track (Non-Tenure) Instructional Assistant Professor for Technical Art",
+      "url": "https://www.indeed.com/viewjob?jk=8305fab2183cba17",
+      "date": "2026-06-23",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Research Assistant or Associate Professor - Hobby School of Public Affairs",
+      "url": "https://www.indeed.com/viewjob?jk=560f1a7760ba6b8a",
+      "date": "2026-06-23",
+      "location": "University of Houston at Houston, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Research Professor",
+      "url": "https://www.indeed.com/viewjob?jk=9ff3bdb564fff5b4",
+      "date": "2026-06-23",
+      "location": "South Dakota Board of Regents at Rapid City, SD, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Professor of Church History",
+      "url": "https://www.indeed.com/viewjob?jk=9917ef923f2d8cac",
+      "date": "2026-06-23",
+      "location": "PROTESTANT EPISCOPAL THEOLOGICAL SE at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4430813108",
+      "title": "AST/ASO PROF",
+      "url": "https://www.linkedin.com/jobs/view/4430813108",
+      "date": "2026-06-22",
+      "location": "University of Florida at Gainesville, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4431356508",
+      "title": "Faculty Associate Pool – NEW 101 (The New College Experience)",
+      "url": "https://www.linkedin.com/jobs/view/4431356508",
+      "date": "2026-06-20",
+      "location": "CommLabASU at Arizona State University at Valley, WV",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4429754251",
+      "title": "Junior Group Leader in Computational Chemistry",
+      "url": "https://www.linkedin.com/jobs/view/4429754251",
+      "date": "2026-06-17",
+      "location": "VědaVýzkum.cz at Praha, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Welding Instructor",
+      "url": "https://www.indeed.com/viewjob?jk=25609047afb58604",
+      "date": "2026-05-21",
+      "location": "Niagara County Community College at Sanborn, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Criminal Justice",
+      "url": "https://www.indeed.com/viewjob?jk=5c6d1bed4376da9b",
+      "date": "2026-05-08",
+      "location": "Clemson University at Clemson, SC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Computer Science",
+      "url": "https://www.indeed.com/viewjob?jk=630171d2874a1a04",
+      "date": "2026-04-22",
+      "location": "University of La Verne at La Verne, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - School of Accountancy",
+      "url": "https://www.indeed.com/viewjob?jk=96b47ba76ce79bcf",
+      "date": "2025-10-21",
+      "location": "Arizona State University at Tempe, AZ, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Editor of William and Mary Quarterly",
+      "url": "https://www.indeed.com/viewjob?jk=f5af5cea79007667",
+      "date": "2025-10-17",
+      "location": "William & Mary at VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4432282183",
+      "title": "Faculty.Instructor.Research - Full-Time",
+      "url": "https://www.linkedin.com/jobs/view/4432282183",
+      "date": "",
+      "location": "University of Pittsburgh at Pittsburgh, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor",
       "url": "https://www.indeed.com/viewjob?jk=ac468833d0ec24ea",
       "date": "2026-06-22",
       "location": "Prairie View A&M University at Prairie View, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +227,7 @@
       "location": "The University of Iowa at Iowa City, IA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +238,7 @@
       "location": "University of North Dakota at Grand Forks, ND, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +249,7 @@
       "location": "New Mexico State University at Las Cruces, NM, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +260,7 @@
       "location": "University of Florida at Gainesville, FL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +271,7 @@
       "location": "Wesleyan University at Middletown, CT, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +282,7 @@
       "location": "Wilkes University at Wilkes-Barre, PA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +293,7 @@
       "location": "University of Arkansas at Harrisburg, PA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +304,7 @@
       "location": "The University of Iowa at Iowa City, IA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +315,7 @@
       "location": "Missouri State University at Springfield, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,7 +326,7 @@
       "location": "Missouri State University at Springfield, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -139,7 +337,7 @@
       "location": "Villanova University at Villanova, PA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -150,7 +348,7 @@
       "location": "Sacred Heart University at Fairfield, CT, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -161,7 +359,7 @@
       "location": "CommLabASU at Arizona State University at Valley, WV",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -172,7 +370,7 @@
       "location": "",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -183,7 +381,7 @@
       "location": "CommLabASU at Arizona State University at Valley Center, CA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -194,7 +392,7 @@
       "location": "CommLabASU at Arizona State University at Valley, WV",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -205,7 +403,7 @@
       "location": "Women Who Design at Rochester, NY",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -216,73 +414,7 @@
       "location": "Inside Higher Ed at Greensboro, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor in Experimental Biochemistry",
-      "url": "https://www.indeed.com/viewjob?jk=2c07c2d0f3cd0f74",
-      "date": "2026-06-18",
-      "location": "California State University Fullerton at Fullerton, CA, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Professor and Head of the Department of Mechanical Engineering.",
-      "url": "https://www.indeed.com/viewjob?jk=d88dbcad739eff9f",
-      "date": "2026-06-15",
-      "location": "Carnegie Mellon University at Pittsburgh, PA, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4430849688",
-      "title": "Director, Center for Intellectual Freedom, University of Iowa",
-      "url": "https://www.linkedin.com/jobs/view/4430849688",
-      "date": "",
-      "location": "University of Iowa at Iowa City, IA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4431665094",
-      "title": "Film Faculty Associate",
-      "url": "https://www.linkedin.com/jobs/view/4431665094",
-      "date": "",
-      "location": "Endless Games and Learning Lab at Sidney, NY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4430589476",
-      "title": "Tenure Track Assistant Professors in Biology",
-      "url": "https://www.linkedin.com/jobs/view/4430589476",
-      "date": "",
-      "location": "Villanova University at Villanova, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4431762074",
-      "title": "Multiple Faculty Searches - Department of Physics",
-      "url": "https://www.linkedin.com/jobs/view/4431762074",
-      "date": "",
-      "location": "Inside Higher Ed at Berkeley, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -335,6 +467,17 @@
       "url": "https://www.indeed.com/viewjob?jk=0d141be96d741604",
       "date": "2026-06-19",
       "location": "Iowa State University at Iowa City, IA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor in Experimental Biochemistry",
+      "url": "https://www.indeed.com/viewjob?jk=2c07c2d0f3cd0f74",
+      "date": "2026-06-18",
+      "location": "California State University Fullerton at Fullerton, CA, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -731,6 +874,17 @@
       "url": "https://www.indeed.com/viewjob?jk=2e85abc70859eb27",
       "date": "2026-06-16",
       "location": "University of Wisconsin–Madison at Madison, WI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Professor and Head of the Department of Mechanical Engineering.",
+      "url": "https://www.indeed.com/viewjob?jk=d88dbcad739eff9f",
+      "date": "2026-06-15",
+      "location": "Carnegie Mellon University at Pittsburgh, PA, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -17164,6 +17318,50 @@
       "url": "https://www.indeed.com/viewjob?jk=f173ae58baa5fd14",
       "date": "2025-07-08",
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4430849688",
+      "title": "Director, Center for Intellectual Freedom, University of Iowa",
+      "url": "https://www.linkedin.com/jobs/view/4430849688",
+      "date": "",
+      "location": "University of Iowa at Iowa City, IA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4431665094",
+      "title": "Film Faculty Associate",
+      "url": "https://www.linkedin.com/jobs/view/4431665094",
+      "date": "",
+      "location": "Endless Games and Learning Lab at Sidney, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4430589476",
+      "title": "Tenure Track Assistant Professors in Biology",
+      "url": "https://www.linkedin.com/jobs/view/4430589476",
+      "date": "",
+      "location": "Villanova University at Villanova, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4431762074",
+      "title": "Multiple Faculty Searches - Department of Physics",
+      "url": "https://www.linkedin.com/jobs/view/4431762074",
+      "date": "",
+      "location": "Inside Higher Ed at Berkeley, CA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
