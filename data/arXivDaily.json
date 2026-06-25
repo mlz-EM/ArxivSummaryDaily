@@ -2,14 +2,46 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-24T07:30:45Z",
+    "generatedAt": "2026-06-25T07:32:29Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 211 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 215 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.25911v1",
+      "title": "Orientation Mapping via Dictionary Indexing of AC-STEM Kikuchi patterns using Open-source Software",
+      "url": "https://arxiv.org/abs/2606.25911v1",
+      "date": "2026-06-24",
+      "summary": "This study develops an open-source template-matching approach for orientation mapping using aberration-corrected STEM transmission Kikuchi diffraction. By employing dynamical simulations and geometric indexing, the authors demonstrate the method on fuel-cell and battery materials. The results show that simulated patterns align closely with experimental data, providing high orientation sensitivity and spatial resolution for nanoscale characterization of polycrystalline materials.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-ins-det"
+      ]
+    },
+    {
+      "id": "arxiv-2606.25617v1",
+      "title": "Valence-change-driven reduction of antiphase boundaries in spinel ferrite epitaxial films",
+      "url": "https://arxiv.org/abs/2606.25617v1",
+      "date": "2026-06-24",
+      "summary": "This research investigates the effect of post-oxidation annealing on antiphase boundaries (APBs) in spinel ferrite epitaxial films. The study finds that post-oxidation significantly reduces APB density through a topotactic solid-state reaction where Fe ions are oxidized. This process increases antiphase domain size and enhances magnetic properties, such as saturation magnetization, while preserving the film's crystal structure and epitaxial strain.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2606.25397v1",
+      "title": "Quantum tomography of free electrons",
+      "url": "https://arxiv.org/abs/2606.25397v1",
+      "date": "2026-06-24",
+      "summary": "The authors present a universal approach for quantum-state tomography of free electrons in continuous variables. By using interfering quantum paths from spectrally shifted laser waves, the method reveals the density matrix and essential properties of electron wavepackets. The study demonstrates how many-body Coulomb interactions modify a single electron's state, providing a tool for optimizing quantum states in free-electron optics and microscopy.",
+      "tags": [
+        "quant-ph",
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2606.24524v1",
       "title": "Hydrofluoric acid-free titanium etching for rare-event searches",
@@ -27,6 +59,16 @@
       "url": "https://arxiv.org/abs/2606.24239v1",
       "date": "2026-06-23",
       "summary": "This research explores the hydration and proton conductivity of Andersson-Wadsley titanates. It finds that water molecules self-organize into one-dimensional double chains along the b-axis, facilitating highly anisotropic superionic conductivity of 3 mS/cm at room temperature. This suggests that these ordered water chains enable fast proton transport through a Grotthuss-like mechanism.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2606.25175v1",
+      "title": "Operando spectro-ptychography reveals dynamical charge-storage and degradation pathways in redox-active electrodes",
+      "url": "https://arxiv.org/abs/2606.25175v1",
+      "date": "2026-06-23",
+      "summary": "This work develops an operando soft X-ray spectro-ptychography platform to track chemical and morphological changes in redox-active electrodes. Applied to an alkaline Fe anode, the study identifies that reversible charge storage via rapid hydroxide insertion competes with a slower dissolution-redeposition process that causes degradation. This approach enables the separation of fast charge-storage and slow degradation pathways at the nanoscale.",
       "tags": [
         "cond-mat-mtrl-sci"
       ]
