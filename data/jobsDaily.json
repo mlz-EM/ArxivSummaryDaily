@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-25T07:36:51Z",
+    "generatedAt": "2026-06-26T05:21:31Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,139 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant / Associate Professor of Accounting",
+      "url": "https://www.indeed.com/viewjob?jk=d3308148cdc1c2dd",
+      "date": "2026-06-25",
+      "location": "The University of Texas at Tyler at Tyler, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Faculty Tenure Track-9 Mo - TENURE-TRACK ASSISTANT PROFESSOR EARLY CHILDHOOD EDUCATION (GENERALIST)",
+      "url": "https://www.indeed.com/viewjob?jk=d426daf1e0e8b5a3",
+      "date": "2026-06-25",
+      "location": "Kent State University at Kent, OH, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Philosophy (RISE",
+      "url": "https://www.indeed.com/viewjob?jk=80619e336daebe0a",
+      "date": "2026-06-25",
+      "location": "University of Wisconsin–Madison at Madison, WI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Social Work Practicum Education",
+      "url": "https://www.indeed.com/viewjob?jk=f5e47189940ac6ef",
+      "date": "2026-06-25",
+      "location": "University of Pittsburgh at Pittsburgh, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor in the areas of Motor Control, Motor Learning",
+      "url": "https://www.indeed.com/viewjob?jk=e2993e864598052b",
+      "date": "2026-06-25",
+      "location": "California State University at Fullerton, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4429895063",
+      "title": "Academisch personeel",
+      "url": "https://www.linkedin.com/jobs/view/4429895063",
+      "date": "2026-06-24",
+      "location": "SADL -Spatial Applications Division (KU) Leuven at Earth, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate/Full Professor- Plant Ecology, Evolution and Systematics- Integrative Biology, and Director- University of California Berkeley Herbaria",
+      "url": "https://www.indeed.com/viewjob?jk=cec321d8426f0d7f",
+      "date": "2026-06-24",
+      "location": "University of California Berkeley at Berkeley, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4431235401",
+      "title": "Open Rank Faculty - Translational Metabolic Engineering & Neurotherapeutics",
+      "url": "https://www.linkedin.com/jobs/view/4431235401",
+      "date": "2026-06-23",
+      "location": "University of Georgia at Athens, GA",
+      "description": "Tenure-track position in metabolic engineering and neurotherapeutics within the School of Chemical, Materials, and Biomedical Engineering.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "metabolic engineering",
+        "synthetic biology",
+        "neurotherapeutics",
+        "biomedical engineering"
+      ]
+    },
+    {
+      "id": "www-4431619213",
+      "title": "Faculty Associate - General Pool",
+      "url": "https://www.linkedin.com/jobs/view/4431619213",
+      "date": "2026-06-21",
+      "location": "CommLabASU at Arizona State University at Valley, WV",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4432694636",
+      "title": "Population Science/Cancer Control Investigator",
+      "url": "https://www.linkedin.com/jobs/view/4432694636",
+      "date": "",
+      "location": "University of Utah at Salt Lake City, UT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4432901474",
+      "title": "Laboratory-Translational Faculty in Hematology",
+      "url": "https://www.linkedin.com/jobs/view/4432901474",
+      "date": "",
+      "location": "University of Utah at Salt Lake City, UT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "TENURE-TRACK FACULTY: EXPERIMENTAL SPACE PHYSICS",
       "url": "https://www.indeed.com/viewjob?jk=76f2143a4ac78a51",
       "date": "2026-06-24",
       "location": "Iowa City, IA, US",
       "description": "Tenure-track role leading research in experimental space physics and the development of spaceflight hardware.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "space physics",
         "experimental physics",
@@ -33,7 +159,7 @@
       "location": "Texas A&M University at College Station, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -44,7 +170,7 @@
       "location": "PROTESTANT EPISCOPAL THEOLOGICAL SE at Alexandria, VA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -55,7 +181,7 @@
       "location": "University of Hawaii system at Honolulu, HI, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -66,7 +192,7 @@
       "location": "Marquette University at Milwaukee, WI, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -77,7 +203,7 @@
       "location": "Texas A&M University at Bryan, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -88,7 +214,7 @@
       "location": "Texas A&M University at College Station, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -99,7 +225,7 @@
       "location": "California State Polytechnic University Pomona at Pomona, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -110,7 +236,7 @@
       "location": "California State University at Pomona, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -121,7 +247,7 @@
       "location": "University of Texas at Dallas at Richardson, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -132,7 +258,7 @@
       "location": "The University of Iowa at Iowa City, IA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -143,7 +269,7 @@
       "location": "PROTESTANT EPISCOPAL THEOLOGICAL SE at Alexandria, VA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -154,7 +280,7 @@
       "location": "University of Louisville at Louisville, KY",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -165,88 +291,7 @@
       "location": "Arizona State University at Phoenix, AZ, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4431123077",
-      "title": "Director, Center for Intellectual Freedom, University of Iowa",
-      "url": "https://www.linkedin.com/jobs/view/4431123077",
-      "date": "2026-06-22",
-      "location": "Iowa State University at Iowa City, IA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4428840100",
-      "title": "Tenure-Track, Data Science-Focused Faculty (PhD or MD)",
-      "url": "https://www.linkedin.com/jobs/view/4428840100",
-      "date": "2026-06-15",
-      "location": "Inside Higher Ed at Baltimore, MD",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant/Associate/Full Professor",
-      "url": "https://www.indeed.com/viewjob?jk=eda827e8b98c5239",
-      "date": "2026-06-04",
-      "location": "Auburn University, AL, US",
-      "description": "Tenure-track faculty position in construction engineering focusing on project management and infrastructure materials research.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "construction engineering",
-        "civil engineering",
-        "infrastructure"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor - Kinesiology",
-      "url": "https://www.indeed.com/viewjob?jk=01cbcdee86b54b5f",
-      "date": "2026-06-04",
-      "location": "Auburn University at Auburn University, AL, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4431457196",
-      "title": "Open Rank",
-      "url": "https://www.linkedin.com/jobs/view/4431457196",
-      "date": "2026-05-30",
-      "location": "The University of North Carolina at Chapel Hill at North Carolina, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant or Associate Professor in Accounting",
-      "url": "https://www.indeed.com/viewjob?jk=45fcd87bbb83c7a1",
-      "date": "2026-05-28",
-      "location": "Auburn University Montgomery at Montgomery, AL, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4432882383",
-      "title": "Faculty of Practice or of Instruction - Concrete Industry Management",
-      "url": "https://www.linkedin.com/jobs/view/4432882383",
-      "date": "",
-      "location": "Texas State University at Texas, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -343,6 +388,17 @@
       "url": "https://www.indeed.com/viewjob?jk=9917ef923f2d8cac",
       "date": "2026-06-23",
       "location": "PROTESTANT EPISCOPAL THEOLOGICAL SE at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4431123077",
+      "title": "Director, Center for Intellectual Freedom, University of Iowa",
+      "url": "https://www.linkedin.com/jobs/view/4431123077",
+      "date": "2026-06-22",
+      "location": "Iowa State University at Iowa City, IA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1047,6 +1103,17 @@
       "url": "https://www.indeed.com/viewjob?jk=2e85abc70859eb27",
       "date": "2026-06-16",
       "location": "University of Wisconsin–Madison at Madison, WI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4428840100",
+      "title": "Tenure-Track, Data Science-Focused Faculty (PhD or MD)",
+      "url": "https://www.linkedin.com/jobs/view/4428840100",
+      "date": "2026-06-15",
+      "location": "Inside Higher Ed at Baltimore, MD",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2098,6 +2165,32 @@
       "keywords": []
     },
     {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate/Full Professor",
+      "url": "https://www.indeed.com/viewjob?jk=eda827e8b98c5239",
+      "date": "2026-06-04",
+      "location": "Auburn University, AL, US",
+      "description": "Tenure-track faculty position in construction engineering focusing on project management and infrastructure materials research.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "construction engineering",
+        "civil engineering",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Kinesiology",
+      "url": "https://www.indeed.com/viewjob?jk=01cbcdee86b54b5f",
+      "date": "2026-06-04",
+      "location": "Auburn University at Auburn University, AL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4387928942",
       "title": "Assistant Dean for Clinical Curriculum (Assistant/Associate Professor)",
       "url": "https://www.linkedin.com/jobs/view/4387928942",
@@ -2824,6 +2917,17 @@
       "keywords": []
     },
     {
+      "id": "www-4431457196",
+      "title": "Open Rank",
+      "url": "https://www.linkedin.com/jobs/view/4431457196",
+      "date": "2026-05-30",
+      "location": "The University of North Carolina at Chapel Hill at North Carolina, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4421316009",
       "title": "Assistant, Associate or Full Professor (HS Clinical, Clinical X, In-Residence, Adjunct) Neurosciences Faculty - Basic, Translational and/or Clinical",
       "url": "https://www.linkedin.com/jobs/view/4421316009",
@@ -3110,6 +3214,17 @@
       "url": "https://www.indeed.com/viewjob?jk=a0a01afdb0e30fb5",
       "date": "2026-05-29",
       "location": "Charleston Southern University at North Charleston, SC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor in Accounting",
+      "url": "https://www.indeed.com/viewjob?jk=45fcd87bbb83c7a1",
+      "date": "2026-05-28",
+      "location": "Auburn University Montgomery at Montgomery, AL, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -17546,6 +17661,17 @@
       "url": "https://www.indeed.com/viewjob?jk=f173ae58baa5fd14",
       "date": "2025-07-08",
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4432882383",
+      "title": "Faculty of Practice or of Instruction - Concrete Industry Management",
+      "url": "https://www.linkedin.com/jobs/view/4432882383",
+      "date": "",
+      "location": "Texas State University at Texas, United States",
       "description": "",
       "fitScore": 0,
       "isNew": false,

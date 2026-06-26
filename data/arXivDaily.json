@@ -2,14 +2,25 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-25T07:32:29Z",
+    "generatedAt": "2026-06-26T05:16:51Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 215 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 216 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.27040v1",
+      "title": "High temperature transitions in Ruddlesden-Popper nickelates La$_{n+1}$Ni$_{n}$O$_{3n+1}$",
+      "url": "https://arxiv.org/abs/2606.27040v1",
+      "date": "2026-06-25",
+      "summary": "Investigates the complete series of bulk-stable Ruddlesden-Popper nickelates La$_{n+1}$Ni$_n$O$_{3n+1}$ using a comprehensive suite of experimental techniques from 2 to 1000 K. The study identifies a previously underappreciated high-temperature phase transition distinct from the known transition to a tetragonal phase, clarifying the structural properties of these superconducting-related materials.",
+      "tags": [
+        "cond-mat-supr-con",
+        "cond-mat-str-el"
+      ]
+    },
     {
       "id": "arxiv-2606.25911v1",
       "title": "Orientation Mapping via Dictionary Indexing of AC-STEM Kikuchi patterns using Open-source Software",
