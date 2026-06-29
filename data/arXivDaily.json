@@ -2,14 +2,36 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-26T05:16:51Z",
+    "generatedAt": "2026-06-29T05:58:42Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 216 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 219 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.28056v1",
+      "title": "Determining Electron Beam Lateral Coherence in a Scanning Electron Microscope Using Electron Diffraction",
+      "url": "https://arxiv.org/abs/2606.28056v1",
+      "date": "2026-06-26",
+      "summary": "This study develops STEM capabilities within an SEM to measure electron beam lateral coherence. By analyzing interference patterns from Au flakes and graphene at 30 keV, the authors extract a lateral coherence lower limit of approximately 60% over 5% of the beam diameter. These findings confirm the system's potential for quantum-coherent electron-light-matter interaction experiments.",
+      "tags": [
+        "cond-mat-mes-hall",
+        "physics-atm-clus"
+      ]
+    },
+    {
+      "id": "arxiv-2606.27891v1",
+      "title": "Vibrational high-harmonics and period-doubling bifurcation probed by time-resolved electron diffraction",
+      "url": "https://arxiv.org/abs/2606.27891v1",
+      "date": "2026-06-26",
+      "summary": "This research introduces event-based convergent beam electron diffraction to map the spatio-temporal dynamics of nanoscale mechanical resonators. Probing an optically driven silicon membrane, the authors successfully capture nonlinear phenomena including Duffing behavior and period-doubling bifurcations. The approach achieves 5 ns temporal resolution and nanometer spatial resolution, offering a route toward probing nonlinear nanomechanics at the atomic scale.",
+      "tags": [
+        "physics-optics",
+        "physics-ins-det"
+      ]
+    },
     {
       "id": "arxiv-2606.27040v1",
       "title": "High temperature transitions in Ruddlesden-Popper nickelates La$_{n+1}$Ni$_{n}$O$_{3n+1}$",
@@ -19,6 +41,16 @@
       "tags": [
         "cond-mat-supr-con",
         "cond-mat-str-el"
+      ]
+    },
+    {
+      "id": "arxiv-2606.27587v1",
+      "title": "PtyRANNOSAUR: Ptychography with Robust Artificial Neural Networks Optimized for Sub-Angstrom Accuracy and Ultrafast Reconstruction",
+      "url": "https://arxiv.org/abs/2606.27587v1",
+      "date": "2026-06-25",
+      "summary": "The authors present PtyRANNOSAUR, a neural network framework for ultrafast reconstruction of atomic-resolution electron ptychography data. By mapping 4D-STEM data to 2D phase images, the system achieves sub-0.5 Å resolution 10-100x faster than standard iterative methods. The model robustly handles spatial coherence and multiple scattering, enabling near-live, state-of-the-art imaging across diverse material systems.",
+      "tags": [
+        "cond-mat-mtrl-sci"
       ]
     },
     {
