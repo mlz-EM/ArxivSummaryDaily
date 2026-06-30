@@ -2,14 +2,59 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-29T05:58:42Z",
+    "generatedAt": "2026-06-30T05:13:42Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 219 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 223 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.29935v1",
+      "title": "Consistent transition model for Bi0.5Na0.5TiO3 from temperature-dependent structural and electrical properties",
+      "url": "https://arxiv.org/abs/2606.29935v1",
+      "date": "2026-06-29",
+      "summary": "This study combines multi-modal characterization to establish a unified structural and dielectric model for Bi0.5Na0.5TiO3 (BNT). The researchers propose a consistent transition model that reconciles previously conflicting interpretations of BNT's phase evolution and symmetry. These findings provide a theoretical basis for developing high-performance, lead-free energy storage materials and dielectric capacitors.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2606.29592v1",
+      "title": "STEMGym: Benchmarking Sequential Decision-Making under Dose Budgets in Autonomous Electron Microscopy",
+      "url": "https://arxiv.org/abs/2606.29592v1",
+      "date": "2026-06-28",
+      "summary": "This paper introduces STEMGym to benchmark autonomous electron microscopy under dose budgets. The study finds that the perception pipeline, rather than navigation strategy, is the primary driver of dose efficiency. Specifically, pairing a CNN analyst with simple raster scanning significantly outperforms advanced navigation methods, which offer no statistically significant gains, reframing priorities for machine learning efforts in the field.",
+      "tags": [
+        "cs-lg",
+        "cond-mat-mtrl-sci",
+        "physics-atom-ph",
+        "physics-optics",
+        "quant-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2606.29551v1",
+      "title": "Nanometric voids as optical antennas for rewritable momentum-engineered photonics in silicon",
+      "url": "https://arxiv.org/abs/2606.29551v1",
+      "date": "2026-06-28",
+      "summary": "This research explores nanometric voids in crystalline silicon as optical antennas for extreme electromagnetic field localization. The study demonstrates that these voids enable momentum-assisted optical transitions, resulting in intense, rewritable broadband luminescence. The findings establish that dielectric discontinuity, rather than material composition, governs the observed optical response, allowing photonic functionality to be reconfigured directly within bulk silicon.",
+      "tags": [
+        "physics-optics",
+        "quant-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2606.28983v1",
+      "title": "Structural properties of one-dimensional $\\mathrm{Cs}_2\\mathrm{CoCl}_4$ confined within single-walled carbon nanotubes",
+      "url": "https://arxiv.org/abs/2606.28983v1",
+      "date": "2026-06-27",
+      "summary": "This study investigates the structural properties of Cs2CoCl4 confined within single-walled carbon nanotubes. Using electron microscopy and simulations, researchers identified two unconventional one-dimensional polymorphs that emerge under radial compression. Despite these structural changes, magnetic measurements indicate that the confined material topologically preserves its core magnetic properties, highlighting one-dimensional confinement as a unique tool for manipulating crystal structures.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2606.28056v1",
       "title": "Determining Electron Beam Lateral Coherence in a Scanning Electron Microscope Using Electron Diffraction",
