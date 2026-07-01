@@ -2,20 +2,51 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-06-30T05:13:42Z",
+    "generatedAt": "2026-07-01T05:47:04Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 223 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 226 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2606.31934v1",
+      "title": "Untangling 3D atomic reconstruction in twisted bilayer 2D crystals via dark field transmission electron microscopy",
+      "url": "https://arxiv.org/abs/2606.31934v1",
+      "date": "2026-06-30",
+      "summary": "Expands dark field transmission electron microscopy to provide a full 3D description of reconstructed atomic systems in twisted 2D materials. It establishes quantitative relations between local stacking and image intensity, enabling the extraction of local 3D atomic displacements and interlayer distances from a single image.",
+      "tags": [
+        "cond-mat-mes-hall",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2606.31669v1",
+      "title": "Optimizing Ti substitution for the enhanced densification, ionic conductivity, and microstructure of garnet-type Li$_7$La$_3$Zr$_2$O$_{12}$ solid electrolytes",
+      "url": "https://arxiv.org/abs/2606.31669v1",
+      "date": "2026-06-30",
+      "summary": "Investigates titanium doping in garnet-type Li7La3Zr2O12 to improve ionic conductivity and structural stability for solid-state batteries. Findings show that the Li7La3Zr1.9Ti0.1O12 composition achieves a one-order-of-magnitude increase in room temperature ionic conductivity (8.08 x 10^-5 Scm^-1) and the lowest activation energy (0.37 eV).",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2606.29935v1",
       "title": "Consistent transition model for Bi0.5Na0.5TiO3 from temperature-dependent structural and electrical properties",
       "url": "https://arxiv.org/abs/2606.29935v1",
       "date": "2026-06-29",
       "summary": "This study combines multi-modal characterization to establish a unified structural and dielectric model for Bi0.5Na0.5TiO3 (BNT). The researchers propose a consistent transition model that reconciles previously conflicting interpretations of BNT's phase evolution and symmetry. These findings provide a theoretical basis for developing high-performance, lead-free energy storage materials and dielectric capacitors.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2606.30859v1",
+      "title": "Atomic-Scale Characterization of Oxide Interfaces and Superlattices Using Scanning Transmission Electron Microscopy",
+      "url": "https://arxiv.org/abs/2606.30859v1",
+      "date": "2026-06-29",
+      "summary": "Reviews the use of scanning transmission electron microscopy (STEM) and spectroscopy to characterize oxide interfaces and superlattices at the atomic scale. It highlights how integrating STEM with AI-guided approaches and theoretical calculations provides insights into interfacial conductivity and charge screening, enabling more predictive modeling of functional oxide behavior.",
       "tags": [
         "cond-mat-mtrl-sci"
       ]
