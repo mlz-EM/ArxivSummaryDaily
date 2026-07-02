@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-01T05:47:04Z",
+    "generatedAt": "2026-07-02T05:04:25Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 226 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 227 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.00903v1",
+      "title": "Characterization of Hydroxyls in Surface Oxide of Superconducting Tantalum and Their Mitigation in Quantum Circuits",
+      "url": "https://arxiv.org/abs/2607.00903v1",
+      "date": "2026-07-01",
+      "summary": "This study characterizes hydroxyl accumulation in the surface oxide of superconducting tantalum to identify sources of microwave loss. Researchers found that hydroxyls concentrate in the suboxide region and can be mitigated through chemical mechanical planarization or plasma nitridization. These findings suggest hydroxyls are a molecular origin of TLS defects and offer surface engineering methods to improve quantum circuit coherence.",
+      "tags": [
+        "cond-mat-supr-con"
+      ]
+    },
     {
       "id": "arxiv-2606.31934v1",
       "title": "Untangling 3D atomic reconstruction in twisted bilayer 2D crystals via dark field transmission electron microscopy",
