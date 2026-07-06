@@ -2,14 +2,25 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-03T04:51:19Z",
+    "generatedAt": "2026-07-06T05:19:43Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 227 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 228 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.02256v1",
+      "title": "From Bloch to Néel: Anisotropy-dependent Domain-Wall Character in FePd Thin Films",
+      "url": "https://arxiv.org/abs/2607.02256v1",
+      "date": "2026-07-02",
+      "summary": "This study investigates depth-dependent domain wall formation in L10-FePd thin films using circular dichroism X-ray resonant magnetic scattering. It finds that high magnetocrystalline anisotropy induces a transition from hybrid Bloch-Néel to purely Néel-type structures at the lower interface. Conversely, films with lower anisotropy exhibit purely Néel-type walls, demonstrating that long-range structural order significantly influences magnetic spin textures.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-str-el"
+      ]
+    },
     {
       "id": "arxiv-2607.00903v1",
       "title": "Characterization of Hydroxyls in Surface Oxide of Superconducting Tantalum and Their Mitigation in Quantum Circuits",
