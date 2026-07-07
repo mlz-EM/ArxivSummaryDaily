@@ -2,14 +2,46 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-06T05:19:43Z",
+    "generatedAt": "2026-07-07T04:59:52Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 228 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 231 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.03465v1",
+      "title": "From Stacking Disorder to Cubic Order: Ice Crystallization from Deeply Supercooled Water",
+      "url": "https://arxiv.org/abs/2607.03465v1",
+      "date": "2026-07-03",
+      "summary": "This study uses in situ cryogenic TEM to visualize the freezing of deeply supercooled water at molecular resolution. It finds that homogeneous nucleation produces stacking-disordered ice where the thickening of cubic layers governs crystallization. This process generates eight-branched dendrites with global cubic symmetry, which is remarkably retained even after the ice transitions to the thermodynamically favored hexagonal phase.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2607.03268v1",
+      "title": "Enhanced hydrogen response of copper-doped TiO$_2$ synthesised by helium-assisted magnetron sputtering",
+      "url": "https://arxiv.org/abs/2607.03268v1",
+      "date": "2026-07-03",
+      "summary": "Researchers investigated the impact of helium-assisted magnetron sputtering on the microstructure and hydrogen sensing performance of Cu-doped TiO2 thin films. They found that helium promotes nanostructuring and increased porosity, significantly enhancing the reactive surface area. This structural modification improved the hydrogen sensing response of normal-angle deposition films from 1.4 to 6.0 at 300°C, offering a physical route for tailoring gas-sensing oxides.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2607.03137v1",
+      "title": "Self-Driven Atomic Dispersion in Graphitic Layers",
+      "url": "https://arxiv.org/abs/2607.03137v1",
+      "date": "2026-07-03",
+      "summary": "This study investigates how metal nanoparticles transform into single-atom catalysts within carbon matrices during hydrocarbon oxidation. Using operando microscopy, the authors discovered a self-driven dispersion process where graphitic carbon growth and CO accumulation facilitate atom release and migration. These liberated atoms are trapped by defective carbon layers, resulting in catalysts with electrocatalytic hydrogen production activity that exceeds standard commercial benchmarks.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-chem-ph"
+      ]
+    },
     {
       "id": "arxiv-2607.02256v1",
       "title": "From Bloch to Néel: Anisotropy-dependent Domain-Wall Character in FePd Thin Films",
