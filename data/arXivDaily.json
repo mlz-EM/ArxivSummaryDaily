@@ -2,14 +2,34 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-07T04:59:52Z",
+    "generatedAt": "2026-07-08T04:20:58Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 231 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 233 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.06304v1",
+      "title": "Decoupling Josephson Coupling and Supercurrent Nonreciprocity in Twisted NbSe2/NbSe2 van der Waals Junctions",
+      "url": "https://arxiv.org/abs/2607.06304v1",
+      "date": "2026-07-07",
+      "summary": "This study investigates supercurrent nonreciprocity in twisted NbSe2/NbSe2 Josephson junctions. It finds that while Josephson coupling strength depends on the twist angle, the supercurrent diode efficiency is negligible in clean junctions. Instead, nonreciprocity is primarily driven by interface disorder rather than twist-angle-controlled momentum matching, establishing a clear decoupling between Josephson coupling and the diode effect.",
+      "tags": [
+        "cond-mat-supr-con"
+      ]
+    },
+    {
+      "id": "arxiv-2607.05881v1",
+      "title": "Chiral-Structured Superconductors TrX4 (Tr = Rh, Ir; X = Ge, Si): A Platform for Mixed-Parity Pairing and Topological States",
+      "url": "https://arxiv.org/abs/2607.05881v1",
+      "date": "2026-07-07",
+      "summary": "This research identifies three new chiral-structured superconductors—RhGe4, IrGe4, and IrSi4—synthesized under high pressure. Using atomic-resolution STEM, the authors confirm their chiral structures. These materials exhibit type-II superconductivity with mixed-parity pairing and symmetry-protected Weyl points. The findings establish these compounds as a platform for studying the interplay between structural chirality, spin-orbit coupling, and topological quantum phenomena.",
+      "tags": [
+        "cond-mat-supr-con"
+      ]
+    },
     {
       "id": "arxiv-2607.03465v1",
       "title": "From Stacking Disorder to Cubic Order: Ice Crystallization from Deeply Supercooled Water",
