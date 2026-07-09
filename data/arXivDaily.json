@@ -2,14 +2,26 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-08T04:20:58Z",
+    "generatedAt": "2026-07-09T05:00:09Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 233 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 234 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.07186v1",
+      "title": "Enhanced sampling and cryo-EM data resolve magnesium binding to RNA",
+      "url": "https://arxiv.org/abs/2607.07186v1",
+      "date": "2026-07-08",
+      "summary": "This study introduces an enhanced-sampling strategy using barrier-flattening and Hamiltonian replica exchange to accelerate Mg2+ inner-shell binding to RNA. Validated with cryo-EM data, the findings reveal that insufficient sampling of inner-shell binding is the primary factor limiting agreement with experimental density. This highlights sampling as a more critical challenge than force field differences in modeling divalent ion binding.",
+      "tags": [
+        "q-bio-bm",
+        "physics-bio-ph",
+        "physics-comp-ph"
+      ]
+    },
     {
       "id": "arxiv-2607.06304v1",
       "title": "Decoupling Josephson Coupling and Supercurrent Nonreciprocity in Twisted NbSe2/NbSe2 van der Waals Junctions",
