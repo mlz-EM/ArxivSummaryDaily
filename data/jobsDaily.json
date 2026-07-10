@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-09T05:07:13Z",
+    "generatedAt": "2026-07-10T05:02:31Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,244 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor, Department of Criminal Justice (COURTS)",
+      "url": "https://www.indeed.com/viewjob?jk=d363cffa0097835d",
+      "date": "2026-07-09",
+      "location": "California State University at Fullerton, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Practice of Construction Management",
+      "url": "https://www.indeed.com/viewjob?jk=431aa86f5b38038c",
+      "date": "2026-07-09",
+      "location": "Western New England University at Springfield, MA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Management",
+      "url": "https://www.indeed.com/viewjob?jk=eb8721d3ddc61f2d",
+      "date": "2026-07-09",
+      "location": "University of Arkansas at Fort Smith, AR, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Psychology and Counseling",
+      "url": "https://www.indeed.com/viewjob?jk=b596534561940ca6",
+      "date": "2026-07-09",
+      "location": "Chicago State University at Chicago, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate Professor of English",
+      "url": "https://www.indeed.com/viewjob?jk=f7b656b1fabc08d0",
+      "date": "2026-07-09",
+      "location": "Independence Community College at Independence, KS, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Practice of Construction Management",
+      "url": "https://www.indeed.com/viewjob?jk=132c58455e6f6610",
+      "date": "2026-07-09",
+      "location": "Western New England University at Springfield, MA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Department of Criminal Justice (RACE & INEQUALITY)",
+      "url": "https://www.indeed.com/viewjob?jk=f1e18dda7f245dda",
+      "date": "2026-07-09",
+      "location": "California State University at Fullerton, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Agronomist (State Extension Specialist – Row Crop Systems)",
+      "url": "https://www.indeed.com/viewjob?jk=40770d8bd6f299a1",
+      "date": "2026-07-08",
+      "location": "Lincoln University at Jefferson City, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=ee36c7fd62fabdaa",
+      "date": "2026-07-08",
+      "location": "Lincoln University at Jefferson City, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Agricultural Communication",
+      "url": "https://www.indeed.com/viewjob?jk=8a5b683576451d7b",
+      "date": "2026-07-08",
+      "location": "California State University at San Luis Obispo, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor of Research Stem Cell and Regenerative Medicine (Cardiovascular)",
+      "url": "https://www.indeed.com/viewjob?jk=4b15263b7f603169",
+      "date": "2026-07-08",
+      "location": "University of Southern California at Los Angeles, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Practice in Digital Drawing and Graphic Design (UX/UI) - The University of Texas at El Paso",
+      "url": "https://www.indeed.com/viewjob?jk=f672e60fedfeb248",
+      "date": "2026-07-08",
+      "location": "University of Texas at El Paso at El Paso, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4436169713",
+      "title": "Assistant Project Scientist - ECE - 25/26",
+      "url": "https://www.linkedin.com/jobs/view/4436169713",
+      "date": "2026-07-02",
+      "location": "UC San Diego Academic Jobs at San Diego, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4426532283",
+      "title": "Postdoctoral Research Associate in AI for Computational Biology and/or Bioinformatics - Qiu Lab",
+      "url": "https://www.linkedin.com/jobs/view/4426532283",
+      "date": "2026-07-01",
+      "location": "University of Illinois Chicago at Chicago, IL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4432906180",
+      "title": "Procurement Surgeon - Rank Dependent of Qualifications",
+      "url": "https://www.linkedin.com/jobs/view/4432906180",
+      "date": "2026-06-25",
+      "location": "University of Utah at Salt Lake City, UT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4432836393",
+      "title": "ASSOCIATE DIRECTOR OF FACULTY AFFAIRS",
+      "url": "https://www.linkedin.com/jobs/view/4432836393",
+      "date": "2026-06-24",
+      "location": "University of Alabama at Birmingham at Greater Birmingham, Alabama Area",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4431693211",
+      "title": "Tenured and Tenure-Track Position in Marketing",
+      "url": "https://www.linkedin.com/jobs/view/4431693211",
+      "date": "2026-06-22",
+      "location": "University of Notre Dame at Notre Dame, IN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4430907068",
+      "title": "Biology Education Postdoctoral Fellowship Focused on Equity and Inclusion",
+      "url": "https://www.linkedin.com/jobs/view/4430907068",
+      "date": "2026-06-19",
+      "location": "Science Literacy Program at Fellowship, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4438571634",
+      "title": "Internal Medicine Core Faculty Opportunities",
+      "url": "https://www.linkedin.com/jobs/view/4438571634",
+      "date": "2026-06-14",
+      "location": "North Carolina Academy of Family Physicians at Newport News, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4426393014",
+      "title": "Director of Faculty Mentoring",
+      "url": "https://www.linkedin.com/jobs/view/4426393014",
+      "date": "2026-06-13",
+      "location": "University of Virginia at Charlottesville, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4423172417",
+      "title": "Director of Faculty and Leadership Development in Faculty Affairs",
+      "url": "https://www.linkedin.com/jobs/view/4423172417",
+      "date": "2026-06-10",
+      "location": "The University of Georgia at Athens, GA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor of Biology (Environmental Science)",
       "url": "https://www.indeed.com/viewjob?jk=90d142820e380490",
       "date": "2026-07-08",
       "location": "Claflin University at Orangeburg, SC, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +260,7 @@
       "location": "Indiana University at Bloomington, IN, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +271,7 @@
       "location": "Wellesley College at Wellesley, MA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +282,7 @@
       "location": "University of Southern California at Los Angeles, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +293,7 @@
       "location": "Villanova University at Villanova, PA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +304,7 @@
       "location": "Prairie View A&M University at Prairie View, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +315,7 @@
       "location": "Prairie View A&M University at Prairie View, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +326,7 @@
       "location": "nan at CT, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +337,7 @@
       "location": "Bowdoin College at Brunswick, ME, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +348,7 @@
       "location": "Jacksonville State University at Jacksonville, AL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,7 +359,7 @@
       "location": "Eastern Virginia Medical School at Norfolk, VA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -139,84 +370,7 @@
       "location": "Texas Christian University at Fort Worth, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4435784460",
-      "title": "Instructor Position - Division of Pulmonary, Allergy & Critical Care Medicine",
-      "url": "https://www.linkedin.com/jobs/view/4435784460",
-      "date": "2026-07-04",
-      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4435778742",
-      "title": "Tenure Track Faculty Position in Medicine - Junior rank",
-      "url": "https://www.linkedin.com/jobs/view/4435778742",
-      "date": "2026-07-04",
-      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4436167755",
-      "title": "Assistant, Associate or Full Professor (HS Clinical, Clinical X, In-Residence, Adjunct) Obesity Medicine",
-      "url": "https://www.linkedin.com/jobs/view/4436167755",
-      "date": "2026-07-02",
-      "location": "UC San Diego Academic Jobs at San Diego, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4436174269",
-      "title": "Assistant, Associate, or Full Professor (HS Clin, Adjunct, Clin X, In-Res) Lower GI Motility",
-      "url": "https://www.linkedin.com/jobs/view/4436174269",
-      "date": "2026-07-02",
-      "location": "UC San Diego Academic Jobs at San Diego, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4436180062",
-      "title": "Assistant, Associate, or Full Professor (HS Clin, Adjunct, Clin X, In-Res) Hepatology",
-      "url": "https://www.linkedin.com/jobs/view/4436180062",
-      "date": "2026-07-02",
-      "location": "UC San Diego Academic Jobs at San Diego, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4435829407",
-      "title": "Visiting Assistant Professor, Health Administration",
-      "url": "https://www.linkedin.com/jobs/view/4435829407",
-      "date": "2026-07-01",
-      "location": "University of North Florida at Jacksonville, FL",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant, Associate or Full Professor (Tenured or Tenure Track)",
-      "url": "https://www.indeed.com/viewjob?jk=00991ce2dc925eae",
-      "date": "2026-06-26",
-      "location": "University of Wisconsin–Madison at Madison, WI, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -451,6 +605,28 @@
       "keywords": []
     },
     {
+      "id": "www-4435784460",
+      "title": "Instructor Position - Division of Pulmonary, Allergy & Critical Care Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4435784460",
+      "date": "2026-07-04",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4435778742",
+      "title": "Tenure Track Faculty Position in Medicine - Junior rank",
+      "url": "https://www.linkedin.com/jobs/view/4435778742",
+      "date": "2026-07-04",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4435788236",
       "title": "Instructor at the Center for the Treatment and Study of Anxiety",
       "url": "https://www.linkedin.com/jobs/view/4435788236",
@@ -627,6 +803,39 @@
       "keywords": []
     },
     {
+      "id": "www-4436167755",
+      "title": "Assistant, Associate or Full Professor (HS Clinical, Clinical X, In-Residence, Adjunct) Obesity Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4436167755",
+      "date": "2026-07-02",
+      "location": "UC San Diego Academic Jobs at San Diego, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4436174269",
+      "title": "Assistant, Associate, or Full Professor (HS Clin, Adjunct, Clin X, In-Res) Lower GI Motility",
+      "url": "https://www.linkedin.com/jobs/view/4436174269",
+      "date": "2026-07-02",
+      "location": "UC San Diego Academic Jobs at San Diego, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4436180062",
+      "title": "Assistant, Associate, or Full Professor (HS Clin, Adjunct, Clin X, In-Res) Hepatology",
+      "url": "https://www.linkedin.com/jobs/view/4436180062",
+      "date": "2026-07-02",
+      "location": "UC San Diego Academic Jobs at San Diego, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4435067009",
       "title": "Academic Clinician Faculty Position - Senior ranks",
       "url": "https://www.linkedin.com/jobs/view/4435067009",
@@ -797,6 +1006,17 @@
       "url": "https://www.indeed.com/viewjob?jk=2ca98bcb4acda955",
       "date": "2026-07-02",
       "location": "University of Illinois at Urbana, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4435829407",
+      "title": "Visiting Assistant Professor, Health Administration",
+      "url": "https://www.linkedin.com/jobs/view/4435829407",
+      "date": "2026-07-01",
+      "location": "University of North Florida at Jacksonville, FL",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1462,6 +1682,17 @@
       "url": "https://www.linkedin.com/jobs/view/4434209995",
       "date": "2026-06-27",
       "location": "University of Pennsylvania at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant, Associate or Full Professor (Tenured or Tenure Track)",
+      "url": "https://www.indeed.com/viewjob?jk=00991ce2dc925eae",
+      "date": "2026-06-26",
+      "location": "University of Wisconsin–Madison at Madison, WI, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,

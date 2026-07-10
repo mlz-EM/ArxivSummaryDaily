@@ -2,14 +2,25 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-09T05:00:09Z",
+    "generatedAt": "2026-07-10T05:00:18Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 234 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 236 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.08683v1",
+      "title": "Complex polar superstructure controlled thermal conductivity in ferroelectric PbTiO3/SrTiO3 superlattices",
+      "url": "https://arxiv.org/abs/2607.08683v1",
+      "date": "2026-07-09",
+      "summary": "This study investigates the impact of 3D polar superstructures on thermal conductivity in PbTiO3/SrTiO3 superlattices. It finds that the 3D arrangement of polar vortices suppresses thermal conductivity more effectively than standard interfacial scattering. Additionally, an unexpected reduction in thermal conductivity with increased thickness suggests phonon-wave Anderson localization, highlighting these superstructures as active elements for heat transport modulation.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
     {
       "id": "arxiv-2607.07186v1",
       "title": "Enhanced sampling and cryo-EM data resolve magnesium binding to RNA",
@@ -20,6 +31,16 @@
         "q-bio-bm",
         "physics-bio-ph",
         "physics-comp-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2607.07965v1",
+      "title": "NSF Future Manufacturing Data Challenge: A Multimodal DED Dataset for Probabilistic Local Geometry Prediction in Laser Tracks",
+      "url": "https://arxiv.org/abs/2607.07965v1",
+      "date": "2026-07-08",
+      "summary": "This paper introduces a multimodal directed energy deposition (DED) dataset to predict probabilistic local geometric variations in laser tracks. The dataset integrates in-situ thermal images, SEM images, and 3D height maps from stainless-steel 316L scans. It provides a unified coordinate system and starter tools to facilitate research in the NSF Future Manufacturing Data Challenge.",
+      "tags": [
+        "physics-app-ph"
       ]
     },
     {
