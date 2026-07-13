@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-10T05:00:18Z",
+    "generatedAt": "2026-07-13T04:35:46Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 236 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 237 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.09466v1",
+      "title": "Unraveling atomic-resolution valence electron energy-loss spectroscopic imaging in a single-crystal CaNb2O6",
+      "url": "https://arxiv.org/abs/2607.09466v1",
+      "date": "2026-07-10",
+      "summary": "Uses aberration-corrected STEM-EELS to achieve atomic-resolution imaging of valence electron excitations in CaNb2O6. The study identifies volume plasmons and plexcitons, observing contrast reversal relative to HAADF images. Key findings reveal that [NbO6] octahedra contribute to interband transition maps, demonstrating the technique's ability to visualize electronic properties and bonding at individual atomic sites in complex crystalline nanostructures.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2607.08683v1",
       "title": "Complex polar superstructure controlled thermal conductivity in ferroelectric PbTiO3/SrTiO3 superlattices",
