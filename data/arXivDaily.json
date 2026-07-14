@@ -2,20 +2,62 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-13T04:35:46Z",
+    "generatedAt": "2026-07-14T04:09:05Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 237 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 241 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.11550v1",
+      "title": "Synthesis of Ti2B2Clx MBenes in molten salts from theoretical and experimental perspectives",
+      "url": "https://arxiv.org/abs/2607.11550v1",
+      "date": "2026-07-13",
+      "summary": "This study synthesizes Ti2B2Clx MBenes by selectively etching Ti2InB2 in molten ZnCl2. Characterization and DFT calculations confirm a direct transformation to multilayer MBenes with chlorine terminations. The material demonstrates stable Li-ion battery performance, providing a general framework for expanding the 2D material family.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-comp-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2607.10440v1",
+      "title": "Connecting Diffuse Scattering to Atomic-Site-Resolved Occupancy and Displacement Fields through Fourier Filtering",
+      "url": "https://arxiv.org/abs/2607.10440v1",
+      "date": "2026-07-11",
+      "summary": "This paper introduces MOSAIC, a computational framework to identify atomic motifs responsible for specific diffuse scattering features. By applying Fourier filtering to phase-bearing scattering amplitudes, the method generates maps of atomic displacements and site occupancies. It effectively interrogates interatomic correlations in large-scale structural models derived from experimental data or simulations.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2607.10388v1",
+      "title": "The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy",
+      "url": "https://arxiv.org/abs/2607.10388v1",
+      "date": "2026-07-11",
+      "summary": "This review examines the evolution of AI in nanoparticle electron microscopy from image interpretation to scientific inference. It evaluates methodologies like deep learning and foundation models for structural characterization. The study highlights how integrating AI with autonomous experimentation and simulations accelerates materials discovery by linking nanoparticle structure and synthesis to functional properties.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cs-ai"
+      ]
+    },
     {
       "id": "arxiv-2607.09466v1",
       "title": "Unraveling atomic-resolution valence electron energy-loss spectroscopic imaging in a single-crystal CaNb2O6",
       "url": "https://arxiv.org/abs/2607.09466v1",
       "date": "2026-07-10",
       "summary": "Uses aberration-corrected STEM-EELS to achieve atomic-resolution imaging of valence electron excitations in CaNb2O6. The study identifies volume plasmons and plexcitons, observing contrast reversal relative to HAADF images. Key findings reveal that [NbO6] octahedra contribute to interband transition maps, demonstrating the technique's ability to visualize electronic properties and bonding at individual atomic sites in complex crystalline nanostructures.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2607.09901v1",
+      "title": "Bragg Interferometry of Moiré Superlattices: From Geometric Phase Principles to Atomic Reconstruction",
+      "url": "https://arxiv.org/abs/2607.09901v1",
+      "date": "2026-07-10",
+      "summary": "This review explores methodologies for mapping sub-angstrom atomic reconstruction in moiré superlattices, focusing on Bragg interferometry. It compares techniques like dark-field interferometry and ptychography for measuring interlayer displacement and strain. The authors demonstrate these methods on graphene and transition metal dichalcogenide systems, highlighting their effectiveness in probing buried interfaces and encapsulated heterostructures.",
       "tags": [
         "cond-mat-mtrl-sci"
       ]
