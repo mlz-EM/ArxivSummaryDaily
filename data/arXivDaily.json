@@ -2,14 +2,34 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-15T04:10:40Z",
+    "generatedAt": "2026-07-16T04:14:26Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 241 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 243 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.13896v1",
+      "title": "Chemical short-range order controls deformation pathways in a complex concentrated alloy",
+      "url": "https://arxiv.org/abs/2607.13896v1",
+      "date": "2026-07-15",
+      "summary": "This study investigates how chemical short-range order (CSRO) influences deformation mechanisms in a Co30Cr40Ni30 alloy. Experimental and computational results reveal that CSRO acts as a thermodynamic state variable that increases stacking-fault energies. This suppresses deformation-induced fcc-hcp martensitic transformation, establishing CSRO as a key degree of freedom for tuning stacking-fault energetics and controlling deformation pathways in complex concentrated alloys.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2607.13364v1",
+      "title": "Direct Imaging of Temperature Evolution of Polar Nanoregions and Chemically Ordered Regions in PMN Relaxor: Evidence for Polar Phase Percolation",
+      "url": "https://arxiv.org/abs/2607.13364v1",
+      "date": "2026-07-15",
+      "summary": "This research uses 4D-STEM and convergent-beam electron diffraction to map the temperature evolution of polar nanoregions (PNRs) and chemically ordered regions (CORs) in Pb(Mg1/3Nb2/3)O3. It finds that static CORs suppress PNR growth, while PNRs undergo a percolation transition at low temperatures, evolving into interconnected structures. These findings provide direct real-space evidence supporting the random-field model in relaxor ferroelectrics.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2607.11550v1",
       "title": "Synthesis of Ti2B2Clx MBenes in molten salts from theoretical and experimental perspectives",
