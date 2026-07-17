@@ -2,14 +2,38 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-16T04:14:26Z",
+    "generatedAt": "2026-07-17T04:14:03Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 243 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 245 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.15046v1",
+      "title": "Analysis of the Topology of a Plasmonic Target-Skyrmion Texture",
+      "url": "https://arxiv.org/abs/2607.15046v1",
+      "date": "2026-07-16",
+      "summary": "This study investigates the topology of a plasmonic nano-focus exhibiting alternating skyrmion and antiskyrmion textures using photoemission electron microscopy and vector polarimetry. The experiments confirm oscillatory skyrmion numbers and demonstrate that a global skyrmion number cannot be assigned to such non-compact optical fields, highlighting the limitations of topological descriptions in extended manifolds.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2607.14567v1",
+      "title": "Phase coherence control of a programmable high-Tc superconductor created by light",
+      "url": "https://arxiv.org/abs/2607.14567v1",
+      "date": "2026-07-16",
+      "summary": "Researchers created and controlled a light-programmable superconducting (LiPS) state at an aluminum-silicon heterojunction using femtosecond laser pulses. The study demonstrates a zero-resistance state with tunable critical temperatures between 1.8 and 8.5 K. The effect is attributed to light-pulse control of the Moiré-like superlattice of misfit dislocations at the interface, enabling metastable long-range phase coherence.",
+      "tags": [
+        "cond-mat-supr-con",
+        "cond-mat-mes-hall",
+        "cond-mat-str-el",
+        "physics-optics",
+        "quant-ph"
+      ]
+    },
     {
       "id": "arxiv-2607.13896v1",
       "title": "Chemical short-range order controls deformation pathways in a complex concentrated alloy",

@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-16T04:16:36Z",
+    "generatedAt": "2026-07-17T04:16:32Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,208 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Tenure-Track Assistant Professor - Chemistry",
+      "url": "https://www.indeed.com/viewjob?jk=fd99c554fbaa69c6",
+      "date": "2026-07-16",
+      "location": "UMass Lowell at Lowell, MA, US",
+      "description": "Assistant Professor position in materials chemistry, polymers, and data-driven discovery at an R1 university.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "materials chemistry",
+        "polymer science",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "id": "www-4441475464",
+      "title": "Open rank",
+      "url": "https://www.linkedin.com/jobs/view/4441475464",
+      "date": "2026-07-16",
+      "location": "ScienceCast at Santa Maria, CA",
+      "description": "Tenure-track role in experimental condensed matter physics with emphasis on cross-disciplinary materials collaborations.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "condensed matter physics",
+        "quantum information",
+        "experimental physics"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Chemistry, Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=51d8d34185d37f3e",
+      "date": "2026-07-16",
+      "location": "California State University at Pomona, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Finance, Real Estate, and Law, Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=f974d28b40800654",
+      "date": "2026-07-16",
+      "location": "California State University at Pomona, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Social Work",
+      "url": "https://www.indeed.com/viewjob?jk=7bdb3d8f3e2fb52f",
+      "date": "2026-07-16",
+      "location": "University of the District of Columbia at Washington, DC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=03cbdae8763f641c",
+      "date": "2026-07-16",
+      "location": "Marshall University at Huntington, WV, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Assistant Professor of Management",
+      "url": "https://www.indeed.com/viewjob?jk=74b316e6169ef5f3",
+      "date": "2026-07-16",
+      "location": "York College of Pennsylvania at York, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor-Tenure System",
+      "url": "https://www.indeed.com/viewjob?jk=bbc27e5e75e0e363",
+      "date": "2026-07-16",
+      "location": "Michigan State University at East Lansing, MI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Finance, Real Estate, and Law, Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=8d2fe2b606dcdf2a",
+      "date": "2026-07-16",
+      "location": "California State Polytechnic University Pomona at Pomona, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track Assistant Professor Positions in Neuroscience",
+      "url": "https://www.indeed.com/viewjob?jk=b755c8dfa6f17d4a",
+      "date": "2026-07-16",
+      "location": "Villanova University at Villanova, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Professor of Practice",
+      "url": "https://www.indeed.com/viewjob?jk=c930fe61e75e2912",
+      "date": "2026-07-16",
+      "location": "New Mexico State University at Las Cruces, NM, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Journalism Program, Media and Communication Arts",
+      "url": "https://www.indeed.com/viewjob?jk=6754e8413ee20f12",
+      "date": "2026-07-16",
+      "location": "City University of New York at New York, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Asssociate/Professor of Accounting",
+      "url": "https://www.indeed.com/viewjob?jk=2890f3a1e60ba161",
+      "date": "2026-07-16",
+      "location": "Philander Smith College at Little Rock, AR, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Chemistry, Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=40c30dca552041cc",
+      "date": "2026-07-16",
+      "location": "California State Polytechnic University Pomona at Pomona, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant, Associate, or Full Professor",
+      "url": "https://www.indeed.com/viewjob?jk=d17c3a6f1e98e252",
+      "date": "2026-07-16",
+      "location": "Tulane University at New Orleans, LA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4427860942",
+      "title": "Faculty.Professor.Assistant - Full-Time",
+      "url": "https://www.linkedin.com/jobs/view/4427860942",
+      "date": "2026-06-18",
+      "location": "University of Pittsburgh at Pittsburgh, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4441657107",
+      "title": "Agronomist (State Extension Specialist – Row Crop Systems)",
+      "url": "https://www.linkedin.com/jobs/view/4441657107",
+      "date": "",
+      "location": "Lincoln University of Missouri at Jefferson City, MO",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Sociology, Assistant Professor",
       "url": "https://www.indeed.com/viewjob?jk=4323e9562be3e7a3",
       "date": "2026-07-15",
       "location": "California State University at Pomona, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +224,7 @@
       "location": "Indiana University at Bloomington, IN, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +235,7 @@
       "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +246,7 @@
       "location": "California State Polytechnic University Pomona at Pomona, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +257,7 @@
       "location": "St. Bonaventure University at Saint Bonaventure, NY",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +268,7 @@
       "location": "Alabama A&M University at Normal, AL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +279,7 @@
       "location": "Salisbury University at Salisbury, MD, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +290,7 @@
       "location": "The University of North Carolina at Chapel Hill at North Carolina, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +301,7 @@
       "location": "South Dakota Board of Regents at Aberdeen, SD, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +312,7 @@
       "location": "University of Utah at Salt Lake City, UT, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,7 +323,7 @@
       "location": "Fort Valley State University at Fort Valley, GA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -139,7 +334,7 @@
       "location": "Augustana University at Sioux Falls, SD, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -150,7 +345,7 @@
       "location": "University of Utah at Salt Lake City, UT, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -161,7 +356,7 @@
       "location": "Penn Medicine, University of Pennsylvania Health System at Philadelphia, PA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -172,7 +367,7 @@
       "location": "University of California Berkeley at Berkeley, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -183,7 +378,7 @@
       "location": "University of California Berkeley at Berkeley, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -194,143 +389,7 @@
       "location": "Yeshiva University at New York, NY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4439464845",
-      "title": "*Tenure-Track Faculty: Marketing, Gabelli School of Business",
-      "url": "https://www.linkedin.com/jobs/view/4439464845",
-      "date": "2026-07-13",
-      "location": "Fordham University Office of Military and Veterans' Services at Rose Hill, AR",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4336614546",
-      "title": "Academic Professional Track (Non-Tenure): Clinical Open Rank and Associate Department Head for Education and Psychiatry Residency Program Director",
-      "url": "https://www.linkedin.com/jobs/view/4336614546",
-      "date": "2026-07-12",
-      "location": "",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4081499371",
-      "title": "Academic Professional Track (Non-Tenure): Open Rank- Clinical - Acute Care",
-      "url": "https://www.linkedin.com/jobs/view/4081499371",
-      "date": "2026-07-11",
-      "location": "Texas A&M University at Bryan, TX",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Arizona State University – Knowledge Enterprise – Vice President of Research",
-      "url": "https://www.indeed.com/viewjob?jk=107a4c9c47a7442e",
-      "date": "2026-07-10",
-      "location": "nan at Tempe, AZ, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4438274566",
-      "title": "Tenured/Tenure-Track Faculty",
-      "url": "https://www.linkedin.com/jobs/view/4438274566",
-      "date": "2026-07-08",
-      "location": "University of Notre Dame at Notre Dame, IN",
-      "description": "Seeks tenure-track faculty in bioengineering focusing on tissue engineering and biotechnology at the biology-engineering intersection.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "bioengineering",
-        "tissue engineering",
-        "biotechnology"
-      ]
-    },
-    {
-      "id": "www-4438257511",
-      "title": "Assistant, Associate, or Full Professor (HS Clinical, Clinical X, In-Residence, Adjunct) Breast Imaging",
-      "url": "https://www.linkedin.com/jobs/view/4438257511",
-      "date": "2026-07-08",
-      "location": "UC San Diego Academic Jobs at San Diego, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4435779707",
-      "title": "Tenure Track Faculty Position, Gastroenterology - Associate or Full Professor",
-      "url": "https://www.linkedin.com/jobs/view/4435779707",
-      "date": "2026-07-04",
-      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4436702088",
-      "title": "Faculty Associate in Theatre",
-      "url": "https://www.linkedin.com/jobs/view/4436702088",
-      "date": "2026-07-03",
-      "location": "Endless Games and Learning Lab at Nashville, TN",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4430221670",
-      "title": "Faculty Professor - Full-Time",
-      "url": "https://www.linkedin.com/jobs/view/4430221670",
-      "date": "2026-06-25",
-      "location": "University of Pittsburgh at Pittsburgh, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4430091719",
-      "title": "Academic Data Science Alliance Jobs",
-      "url": "https://www.linkedin.com/jobs/view/4430091719",
-      "date": "2026-06-20",
-      "location": "US Research Software Engineer Association at Village of Dorseys Search, MD",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4439971046",
-      "title": "Physician Educator",
-      "url": "https://www.linkedin.com/jobs/view/4439971046",
-      "date": "2026-06-20",
-      "location": "University of California, San Francisco at San Francisco, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4440299344",
-      "title": "Instructor of Neurology",
-      "url": "https://www.linkedin.com/jobs/view/4440299344",
-      "date": "",
-      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -476,6 +535,17 @@
       "url": "https://www.indeed.com/viewjob?jk=62e7cc63c5a07421",
       "date": "2026-07-14",
       "location": "University of North Texas - Dallas at Dallas, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4439464845",
+      "title": "*Tenure-Track Faculty: Marketing, Gabelli School of Business",
+      "url": "https://www.linkedin.com/jobs/view/4439464845",
+      "date": "2026-07-13",
+      "location": "Fordham University Office of Military and Veterans' Services at Rose Hill, AR",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -658,6 +728,17 @@
       "keywords": []
     },
     {
+      "id": "www-4336614546",
+      "title": "Academic Professional Track (Non-Tenure): Clinical Open Rank and Associate Department Head for Education and Psychiatry Residency Program Director",
+      "url": "https://www.linkedin.com/jobs/view/4336614546",
+      "date": "2026-07-12",
+      "location": "",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4439592688",
       "title": "CALL FOR 2 ASSISTANT RESEARCHERS",
       "url": "https://www.linkedin.com/jobs/view/4439592688",
@@ -674,6 +755,17 @@
       "url": "https://www.linkedin.com/jobs/view/4439747445",
       "date": "2026-07-12",
       "location": "Kansas State University at Manhattan, KS",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4081499371",
+      "title": "Academic Professional Track (Non-Tenure): Open Rank- Clinical - Acute Care",
+      "url": "https://www.linkedin.com/jobs/view/4081499371",
+      "date": "2026-07-11",
+      "location": "Texas A&M University at Bryan, TX",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -723,6 +815,17 @@
       "url": "https://www.indeed.com/viewjob?jk=9d06e2b0412254c5",
       "date": "2026-07-11",
       "location": "California State University at San Luis Obispo, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Arizona State University – Knowledge Enterprise – Vice President of Research",
+      "url": "https://www.indeed.com/viewjob?jk=107a4c9c47a7442e",
+      "date": "2026-07-10",
+      "location": "nan at Tempe, AZ, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1075,6 +1178,32 @@
       "url": "https://www.indeed.com/viewjob?jk=f1e18dda7f245dda",
       "date": "2026-07-09",
       "location": "California State University at Fullerton, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4438274566",
+      "title": "Tenured/Tenure-Track Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4438274566",
+      "date": "2026-07-08",
+      "location": "University of Notre Dame at Notre Dame, IN",
+      "description": "Seeks tenure-track faculty in bioengineering focusing on tissue engineering and biotechnology at the biology-engineering intersection.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "bioengineering",
+        "tissue engineering",
+        "biotechnology"
+      ]
+    },
+    {
+      "id": "www-4438257511",
+      "title": "Assistant, Associate, or Full Professor (HS Clinical, Clinical X, In-Residence, Adjunct) Breast Imaging",
+      "url": "https://www.linkedin.com/jobs/view/4438257511",
+      "date": "2026-07-08",
+      "location": "UC San Diego Academic Jobs at San Diego, CA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1543,6 +1672,17 @@
       "keywords": []
     },
     {
+      "id": "www-4435779707",
+      "title": "Tenure Track Faculty Position, Gastroenterology - Associate or Full Professor",
+      "url": "https://www.linkedin.com/jobs/view/4435779707",
+      "date": "2026-07-04",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4435792152",
       "title": "Instructor",
       "url": "https://www.linkedin.com/jobs/view/4435792152",
@@ -1724,6 +1864,17 @@
       "url": "https://www.linkedin.com/jobs/view/4435778717",
       "date": "2026-07-04",
       "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4436702088",
+      "title": "Faculty Associate in Theatre",
+      "url": "https://www.linkedin.com/jobs/view/4436702088",
+      "date": "2026-07-03",
+      "location": "Endless Games and Learning Lab at Nashville, TN",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -3037,6 +3188,17 @@
       "keywords": []
     },
     {
+      "id": "www-4430221670",
+      "title": "Faculty Professor - Full-Time",
+      "url": "https://www.linkedin.com/jobs/view/4430221670",
+      "date": "2026-06-25",
+      "location": "University of Pittsburgh at Pittsburgh, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4432696655",
       "title": "Instructor, Assistant Professor, Associate Professor or Professor (DOQ)",
       "url": "https://www.linkedin.com/jobs/view/4432696655",
@@ -4036,6 +4198,28 @@
       "url": "https://www.linkedin.com/jobs/view/4431621199",
       "date": "2026-06-21",
       "location": "",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4430091719",
+      "title": "Academic Data Science Alliance Jobs",
+      "url": "https://www.linkedin.com/jobs/view/4430091719",
+      "date": "2026-06-20",
+      "location": "US Research Software Engineer Association at Village of Dorseys Search, MD",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4439971046",
+      "title": "Physician Educator",
+      "url": "https://www.linkedin.com/jobs/view/4439971046",
+      "date": "2026-06-20",
+      "location": "University of California, San Francisco at San Francisco, CA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -21831,6 +22015,17 @@
       "url": "https://www.indeed.com/viewjob?jk=a5009a4521fe2d24",
       "date": "2025-07-30",
       "location": "University of Utah at Salt Lake City, UT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4440299344",
+      "title": "Instructor of Neurology",
+      "url": "https://www.linkedin.com/jobs/view/4440299344",
+      "date": "",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
