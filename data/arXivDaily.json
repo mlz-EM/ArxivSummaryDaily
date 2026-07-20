@@ -2,10 +2,10 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-17T04:14:03Z",
+    "generatedAt": "2026-07-20T04:41:28Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 245 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 246 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
@@ -32,6 +32,16 @@
         "cond-mat-str-el",
         "physics-optics",
         "quant-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2607.15332v1",
+      "title": "Spontaneous Nanopatterning and Strain Relaxation in SiGe Layers Grown by Oxidative Solid Phase Epitaxy",
+      "url": "https://arxiv.org/abs/2607.15332v1",
+      "date": "2026-07-16",
+      "summary": "This study explores oxidative solid phase epitaxy of Ge+ implanted Si(111) to create thin strain-relieving SiGe buffer layers for III-V integration. It reveals spontaneous Ge nanopatterning caused by a hexagonal network of Shockley partial dislocations. SEM analysis of this pattern spacing provides a non-destructive method for determining the local strain state of the SiGe layers.",
+      "tags": [
+        "cond-mat-mtrl-sci"
       ]
     },
     {

@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-17T04:16:32Z",
+    "generatedAt": "2026-07-20T04:43:03Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,472 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Tenure Track Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=f4a7e93ad13e0159",
+      "date": "2026-07-18",
+      "location": "George Mason University at Fairfax, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenured/Tenure Track Faculty | Aerospace and Mechanical Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=e352cb455c9cbca9",
+      "date": "2026-07-17",
+      "location": "Notre Dame, IN, US",
+      "description": "Tenure-track position in bioengineering focusing on tissue engineering and diagnostic tools at the intersection of biology and engineering.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "bioengineering",
+        "tissue engineering",
+        "diagnostic tools"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant, Associate, or Full Professor of Accounting",
+      "url": "https://www.indeed.com/viewjob?jk=8c47a7626b973bf1",
+      "date": "2026-07-17",
+      "location": "Belmont University at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4439206990",
+      "title": "Faculty of Practice, Additive Manufacturing",
+      "url": "https://www.linkedin.com/jobs/view/4439206990",
+      "date": "2026-07-17",
+      "location": "Top 2 Percent Scientists at Wilkes-Barre, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4440558736",
+      "title": "Mechanical Engineering Graduate Program Director",
+      "url": "https://www.linkedin.com/jobs/view/4440558736",
+      "date": "2026-07-17",
+      "location": "University of Michigan at Flint, MI",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4442146272",
+      "title": "Assistant Professor, Clinician Educator",
+      "url": "https://www.linkedin.com/jobs/view/4442146272",
+      "date": "2026-07-17",
+      "location": "University of Pennsylvania at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "BCAS - Assistant Professor of American Studies, American Culture & Society",
+      "url": "https://www.indeed.com/viewjob?jk=faea6959307eb151",
+      "date": "2026-07-17",
+      "location": "University of Alabama at Tuscaloosa, AL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor Term",
+      "url": "https://www.indeed.com/viewjob?jk=ef401f1703781bd3",
+      "date": "2026-07-17",
+      "location": "University of Louisville at Louisville, KY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=aa948fbec770eb37",
+      "date": "2026-07-17",
+      "location": "Marshall University at Huntington, WV, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate Collegiate Professor",
+      "url": "https://www.indeed.com/viewjob?jk=8b13013b16f81c30",
+      "date": "2026-07-17",
+      "location": "Virginia Tech at Blacksburg, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor (RT) - Department of Physiology and Biophysics",
+      "url": "https://www.indeed.com/viewjob?jk=aaf4323e254047cc",
+      "date": "2026-07-17",
+      "location": "University of Illinois at Chicago, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate Collegiate Professor",
+      "url": "https://www.indeed.com/viewjob?jk=d07722d02e539a70",
+      "date": "2026-07-17",
+      "location": "Virginia Tech at Blacksburg, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=71228a5ab52092c2",
+      "date": "2026-07-17",
+      "location": "George Mason University at Fairfax, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor of Actuarial Science or Computer Science (Tenure-Track)",
+      "url": "https://www.indeed.com/viewjob?jk=45ae17cd8eb28183",
+      "date": "2026-07-17",
+      "location": "Maryville University at St. Louis, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Accounting",
+      "url": "https://www.indeed.com/viewjob?jk=de4c188b6266f847",
+      "date": "2026-07-17",
+      "location": "Belmont University at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Forensic Science, Digital Forensics - Full-Time, Non-Tenure Track Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=9f67c1e062a214aa",
+      "date": "2026-07-17",
+      "location": "University of Central Oklahoma at Edmond, OK, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Political Science (Fall 2027)",
+      "url": "https://www.indeed.com/viewjob?jk=e4235ca88520df4c",
+      "date": "2026-07-17",
+      "location": "Aquinas College at Grand Rapids, MI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "ASSOCIATE PROFESSOR OR PROFESSOR",
+      "url": "https://www.indeed.com/viewjob?jk=dd9733803bbcad3b",
+      "date": "2026-07-17",
+      "location": "The University of Iowa at Iowa City, IA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate/Full Professor of Supply Chain Management",
+      "url": "https://www.indeed.com/viewjob?jk=a61da7c53ae3fe2d",
+      "date": "2026-07-17",
+      "location": "Belmont University at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Supply Chain Management",
+      "url": "https://www.indeed.com/viewjob?jk=bebacae81f95d68c",
+      "date": "2026-07-17",
+      "location": "Belmont University at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Business Systems & Analytics",
+      "url": "https://www.indeed.com/viewjob?jk=b8dc981dda0edc67",
+      "date": "2026-07-17",
+      "location": "Belmont University at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate/Full Professor of Business Systems & Analytics",
+      "url": "https://www.indeed.com/viewjob?jk=9263803529d1ff69",
+      "date": "2026-07-17",
+      "location": "Belmont University at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor-Tenure System",
+      "url": "https://www.indeed.com/viewjob?jk=545bd18b59252776",
+      "date": "2026-07-17",
+      "location": "Michigan State University at East Lansing, MI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "ASSOCIATE PROFESSOR OR PROFESSOR",
+      "url": "https://www.indeed.com/viewjob?jk=156dae9895a32d02",
+      "date": "2026-07-17",
+      "location": "The University of Iowa at Iowa City, IA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "ASSOCIATE PROFESSOR OR PROFESSOR",
+      "url": "https://www.indeed.com/viewjob?jk=424c14c640a3d9e8",
+      "date": "2026-07-17",
+      "location": "The University of Iowa at Iowa City, IA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Instructor of Chemistry",
+      "url": "https://www.indeed.com/viewjob?jk=eb1937693eecced8",
+      "date": "2026-07-17",
+      "location": "Louisiana State University at Alexandria, LA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Instructor, Assistant Professor, Associate Professor of Music & Director of Vocal Music",
+      "url": "https://www.indeed.com/viewjob?jk=9fe0be020c35379d",
+      "date": "2026-07-17",
+      "location": "Freed-Hardeman University at Henderson, TN, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Faculty, Criminal Justice (Security Management), Full-Time, Tenure-Track",
+      "url": "https://www.indeed.com/viewjob?jk=3f0f63850c4390c5",
+      "date": "2026-07-17",
+      "location": "Salem State University at Salem, MA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Faculty: Biology (Cell Biology and Biochemistry), Full-Time, Tenure-Track",
+      "url": "https://www.indeed.com/viewjob?jk=508af0e0eed3fff9",
+      "date": "2026-07-17",
+      "location": "Salem State University at Salem, MA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "BCAS - Assistant Professor of American Studies, American Culture & Society",
+      "url": "https://www.indeed.com/viewjob?jk=838d83726f9e3bb9",
+      "date": "2026-07-17",
+      "location": "University of Alabama at Tuscaloosa, AL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4441462960",
+      "title": "tenure-track faculty position",
+      "url": "https://www.linkedin.com/jobs/view/4441462960",
+      "date": "2026-07-16",
+      "location": "Los Angeles, CA",
+      "description": "Tenure-track assistant professor position in condensed matter theory within the Department of Physics and Astronomy.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "condensed matter theory",
+        "physics",
+        "quantum materials"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Impacts of Global Environmental Change - Department of Geography",
+      "url": "https://www.indeed.com/viewjob?jk=8163afef82367bcb",
+      "date": "2026-07-16",
+      "location": "University of California Berkeley at Berkeley, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Mathematics",
+      "url": "https://www.indeed.com/viewjob?jk=378fa166f2c3e6cd",
+      "date": "2026-07-15",
+      "location": "Glenville State University at Glenville, WV, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4438024506",
+      "title": "Smart Manufacturing Graduate Program Director",
+      "url": "https://www.linkedin.com/jobs/view/4438024506",
+      "date": "2026-07-14",
+      "location": "University of Michigan-Flint School of Management at Flint, MI",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4439495688",
+      "title": "Tenure Track Position - Statistics/Data Science",
+      "url": "https://www.linkedin.com/jobs/view/4439495688",
+      "date": "2026-07-14",
+      "location": "",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4411658200",
+      "title": "Construction Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4411658200",
+      "date": "2026-07-10",
+      "location": "Seminole State College of Florida at Heathrow, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4432733135",
+      "title": "'26-'27 Part Time Faculty Pool - Aviation Maintenance Technology",
+      "url": "https://www.linkedin.com/jobs/view/4432733135",
+      "date": "2026-07-01",
+      "location": "Seattle Colleges at Seattle, WA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Instructor/Assistant/Associate/Professor of Professional Practice: Real Estate and Property Management",
+      "url": "https://www.indeed.com/viewjob?jk=5b7747df486cba51",
+      "date": "2026-06-10",
+      "location": "Oklahoma State University at Stillwater, OK, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Professional Practice",
+      "url": "https://www.indeed.com/viewjob?jk=fff8bd2d002082e8",
+      "date": "2026-06-01",
+      "location": "Oklahoma State University at OK, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate Professor (Organizational Behavior or Strategic Management)",
+      "url": "https://www.indeed.com/viewjob?jk=2e3a6dc878fafa7a",
+      "date": "2026-02-19",
+      "location": "Oklahoma State University at Stillwater, OK, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor (Management Science & Information Systems)",
+      "url": "https://www.indeed.com/viewjob?jk=98a905fedb8eb83c",
+      "date": "2025-07-29",
+      "location": "Oklahoma State University at Stillwater, OK, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Tenure-Track Assistant Professor - Chemistry",
       "url": "https://www.indeed.com/viewjob?jk=fd99c554fbaa69c6",
       "date": "2026-07-16",
       "location": "UMass Lowell at Lowell, MA, US",
       "description": "Assistant Professor position in materials chemistry, polymers, and data-driven discovery at an R1 university.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "materials chemistry",
         "polymer science",
@@ -33,7 +492,7 @@
       "location": "ScienceCast at Santa Maria, CA",
       "description": "Tenure-track role in experimental condensed matter physics with emphasis on cross-disciplinary materials collaborations.",
       "fitScore": 3,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "condensed matter physics",
         "quantum information",
@@ -48,7 +507,7 @@
       "location": "California State University at Pomona, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -59,7 +518,7 @@
       "location": "California State University at Pomona, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -70,7 +529,7 @@
       "location": "University of the District of Columbia at Washington, DC, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -81,7 +540,7 @@
       "location": "Marshall University at Huntington, WV, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -92,7 +551,7 @@
       "location": "York College of Pennsylvania at York, PA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -103,7 +562,7 @@
       "location": "Michigan State University at East Lansing, MI, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -114,7 +573,7 @@
       "location": "California State Polytechnic University Pomona at Pomona, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -125,7 +584,7 @@
       "location": "Villanova University at Villanova, PA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -136,7 +595,7 @@
       "location": "New Mexico State University at Las Cruces, NM, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -147,7 +606,7 @@
       "location": "City University of New York at New York, NY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -158,7 +617,7 @@
       "location": "Philander Smith College at Little Rock, AR, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -169,7 +628,7 @@
       "location": "California State Polytechnic University Pomona at Pomona, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -180,29 +639,7 @@
       "location": "Tulane University at New Orleans, LA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4427860942",
-      "title": "Faculty.Professor.Assistant - Full-Time",
-      "url": "https://www.linkedin.com/jobs/view/4427860942",
-      "date": "2026-06-18",
-      "location": "University of Pittsburgh at Pittsburgh, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4441657107",
-      "title": "Agronomist (State Extension Specialist – Row Crop Systems)",
-      "url": "https://www.linkedin.com/jobs/view/4441657107",
-      "date": "",
-      "location": "Lincoln University of Missouri at Jefferson City, MO",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -4484,6 +4921,17 @@
       "url": "https://www.indeed.com/viewjob?jk=0d141be96d741604",
       "date": "2026-06-19",
       "location": "Iowa State University at Iowa City, IA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4427860942",
+      "title": "Faculty.Professor.Assistant - Full-Time",
+      "url": "https://www.linkedin.com/jobs/view/4427860942",
+      "date": "2026-06-18",
+      "location": "University of Pittsburgh at Pittsburgh, PA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -22015,6 +22463,17 @@
       "url": "https://www.indeed.com/viewjob?jk=a5009a4521fe2d24",
       "date": "2025-07-30",
       "location": "University of Utah at Salt Lake City, UT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4441657107",
+      "title": "Agronomist (State Extension Specialist – Row Crop Systems)",
+      "url": "https://www.linkedin.com/jobs/view/4441657107",
+      "date": "",
+      "location": "Lincoln University of Missouri at Jefferson City, MO",
       "description": "",
       "fitScore": 0,
       "isNew": false,
