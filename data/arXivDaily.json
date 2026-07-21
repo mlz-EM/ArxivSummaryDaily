@@ -2,14 +2,56 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-20T04:41:28Z",
+    "generatedAt": "2026-07-21T04:20:23Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 246 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 250 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.17796v1",
+      "title": "Real-time THz ptychography using an optically modulated aperture",
+      "url": "https://arxiv.org/abs/2607.17796v1",
+      "date": "2026-07-20",
+      "summary": "This study introduces optically modulated aperture ptychography using a silicon photomodulator to achieve real-time terahertz imaging without moving parts. The researchers demonstrate that a multiplexed probe strategy improves signal-to-noise ratios and increases information content, enabling the capture of fluid dynamics at 16 fps. This approach facilitates high-throughput imaging for non-destructive evaluation and biomedical applications.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2607.17594v1",
+      "title": "CuCrZr heat-sink irradiation performance reveals new challenges for thermonuclear fusion reactors",
+      "url": "https://arxiv.org/abs/2607.17594v1",
+      "date": "2026-07-20",
+      "summary": "This research investigates the irradiation performance of CuCrZr heat-sink alloys for fusion reactors using ion irradiation and thermodynamic modeling. It finds that hardening precipitates dissolve under ballistic and thermal regimes, while transmutation irreversibly shifts alloy chemistry. These findings reveal that current precipitation-hardening strategies may fail under prolonged neutron exposure, highlighting the need for new radiation-resistant copper-based alloys.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-plasm-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2607.16570v1",
+      "title": "Mapping Order in Semicrystalline Polymers using Machine Learning of Nanobeam Electron Diffraction",
+      "url": "https://arxiv.org/abs/2607.16570v1",
+      "date": "2026-07-18",
+      "summary": "The authors developed a machine learning model to analyze complex 4DSTEM nanobeam electron diffraction data from semicrystalline polymers. The model, trained on synthetic data, significantly outperforms conventional correlative peak detection algorithms in both speed and accuracy. This advancement enables near-live visualization of polymer structures, helping to elucidate the relationship between microstructure and charge carrier mobility in organic electronic materials.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cs-lg"
+      ]
+    },
+    {
+      "id": "arxiv-2607.16567v1",
+      "title": "Determination of the roles of strain and tearing in single photon emission from nanoindented WSe$_2$",
+      "url": "https://arxiv.org/abs/2607.16567v1",
+      "date": "2026-07-18",
+      "summary": "This study investigates the effects of nanoindentation-induced strain and structural tearing on single-photon emission in single-layer WSe2. The researchers found that single-photon-emitting states form even in torn regions, specifically at tear extremities. In intact indents, increased strain reduces the spatial density of emitters, indicating that an optimal strain level is necessary for deterministic quantum light source engineering.",
+      "tags": [
+        "physics-app-ph"
+      ]
+    },
     {
       "id": "arxiv-2607.15046v1",
       "title": "Analysis of the Topology of a Plasmonic Target-Skyrmion Texture",
