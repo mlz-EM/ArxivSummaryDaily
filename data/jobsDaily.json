@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-21T04:23:32Z",
+    "generatedAt": "2026-07-22T04:23:37Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,209 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Tenured/Tenure-Track: Open Rank & Title",
+      "url": "https://www.indeed.com/viewjob?jk=8fd6897ba34aafc6",
+      "date": "2026-07-21",
+      "location": "College Station, TX, US",
+      "description": "Tenure-track faculty position in electrical engineering focusing on quantum materials and semiconductor manufacturing.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "quantum",
+        "chip design",
+        "semiconductors",
+        "bioimaging"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Faculty in Public Law - Framingham State University",
+      "url": "https://www.indeed.com/viewjob?jk=d06724b6271fd6f9",
+      "date": "2026-07-21",
+      "location": "Framingham State University at Framingham, MA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Sport Management",
+      "url": "https://www.indeed.com/viewjob?jk=8472b57da3747cfa",
+      "date": "2026-07-21",
+      "location": "Texas Tech University at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Agricultural Science",
+      "url": "https://www.indeed.com/viewjob?jk=b1e6d6a89dfdb46a",
+      "date": "2026-07-21",
+      "location": "California State University at San Luis Obispo, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Interior Architecture – Tenure Track",
+      "url": "https://www.indeed.com/viewjob?jk=ae1e80b7f33b52bc",
+      "date": "2026-07-21",
+      "location": "University of Wisconsin at Stevens Point, WI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of History-Tenure Track",
+      "url": "https://www.indeed.com/viewjob?jk=567a91238f4832b6",
+      "date": "2026-07-21",
+      "location": "Fisk University at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Academic Professional Track (Non-Tenure): Instructional Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=17219d7aeccbe669",
+      "date": "2026-07-21",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Kinesiology and Sport Management",
+      "url": "https://www.indeed.com/viewjob?jk=6bd66d4efe55a7ad",
+      "date": "2026-07-21",
+      "location": "Texas Tech University at TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate Professor of Chemistry",
+      "url": "https://www.indeed.com/viewjob?jk=dec586d8123ea848",
+      "date": "2026-07-21",
+      "location": "Wesleyan University at Middletown, CT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Critical/Experimental Film and Video Production - Department of Film & Media",
+      "url": "https://www.indeed.com/viewjob?jk=4b4e5592bb91acd3",
+      "date": "2026-07-20",
+      "location": "University of California Berkeley at Berkeley, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Faculty in Public Law",
+      "url": "https://www.indeed.com/viewjob?jk=af7d87164b38fdb5",
+      "date": "2026-07-20",
+      "location": "Framingham State University at Framingham, MA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4441946223",
+      "title": "Lecturer of Medical Education",
+      "url": "https://www.linkedin.com/jobs/view/4441946223",
+      "date": "2026-07-17",
+      "location": "University of Sharjah - Telemedicine Center (TMC) at Medicine, MO",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4441472572",
+      "title": "Junior Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4441472572",
+      "date": "2026-07-16",
+      "location": "Ann Arbor, MI, US",
+      "description": "Tenure-track faculty position in quantum science with potential appointment in Materials Science and Engineering.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "quantum science",
+        "materials science",
+        "nanotechnology"
+      ]
+    },
+    {
+      "id": "www-4441462959",
+      "title": "Business-Economics Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4441462959",
+      "date": "2026-07-16",
+      "location": "Center for Innovation and Leadership at Mather, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Eastern Christian Theology & Culture",
+      "url": "https://www.indeed.com/viewjob?jk=99fc38f05e575934",
+      "date": "2026-06-30",
+      "location": "Villanova University at Villanova, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4442903230",
+      "title": "Non-Tenure Track Faculty Position in Business Analytics",
+      "url": "https://www.linkedin.com/jobs/view/4442903230",
+      "date": "2026-06-26",
+      "location": "",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Radiologist - FFT",
+      "url": "https://www.indeed.com/viewjob?jk=019490bf9c53e9da",
+      "date": "2026-06-23",
+      "location": "University of Rochester at Rochester, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Civil, Construction and Environmental Engineering - Associate Professor",
       "url": "https://www.indeed.com/viewjob?jk=832d037d5895bf2b",
       "date": "2026-07-20",
       "location": "University of Alabama at Tuscaloosa, AL, US",
       "description": "Tenure-track faculty role in structural engineering focusing on high-performance materials and innovative structural systems.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "structural engineering",
         "high-performance materials",
@@ -35,7 +231,7 @@
       "location": "University of Alabama at Tuscaloosa, AL, US",
       "description": "Tenure-track faculty role in structural engineering focusing on high-performance materials and innovative structural systems.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "structural engineering",
         "high-performance materials",
@@ -52,7 +248,7 @@
       "location": "University of Alabama at Tuscaloosa, AL, US",
       "description": "Tenure-track faculty role in structural engineering focusing on high-performance materials and innovative structural systems.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "structural engineering",
         "high-performance materials",
@@ -69,7 +265,7 @@
       "location": "University of Alabama at Tuscaloosa, AL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -80,7 +276,7 @@
       "location": "Furman University at Greenville, SC, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -91,7 +287,7 @@
       "location": "Texas A&M University Central Texas at Killeen, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -102,7 +298,7 @@
       "location": "University of Houston at Houston, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -113,7 +309,7 @@
       "location": "Tennessee Board of Regents at Oak Ridge, TN, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -124,7 +320,7 @@
       "location": "City University of New York at New York, NY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -135,7 +331,7 @@
       "location": "New York University at New York, NY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -146,7 +342,7 @@
       "location": "New York University at New York, NY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -157,7 +353,7 @@
       "location": "Villanova University at Villanova, PA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -168,7 +364,7 @@
       "location": "University of Minnesota at Minneapolis, MN, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -179,29 +375,7 @@
       "location": "Hudson Valley Community College at Troy, NY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4439215559",
-      "title": "Aerospace, Tenure-Track Faculty",
-      "url": "https://www.linkedin.com/jobs/view/4439215559",
-      "date": "2026-07-17",
-      "location": "",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4439011680",
-      "title": "Urban Planning and Design Faculty Positions at Harvard Graduate School of Design",
-      "url": "https://www.linkedin.com/jobs/view/4439011680",
-      "date": "2026-07-10",
-      "location": "American Planning Association - Wisconsin Chapter at Cambridge, MA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -210,6 +384,17 @@
       "url": "https://www.indeed.com/viewjob?jk=f4a7e93ad13e0159",
       "date": "2026-07-18",
       "location": "George Mason University at Fairfax, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4439215559",
+      "title": "Aerospace, Tenure-Track Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4439215559",
+      "date": "2026-07-17",
+      "location": "",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1380,6 +1565,17 @@
       "url": "https://www.indeed.com/viewjob?jk=9d06e2b0412254c5",
       "date": "2026-07-11",
       "location": "California State University at San Luis Obispo, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4439011680",
+      "title": "Urban Planning and Design Faculty Positions at Harvard Graduate School of Design",
+      "url": "https://www.linkedin.com/jobs/view/4439011680",
+      "date": "2026-07-10",
+      "location": "American Planning Association - Wisconsin Chapter at Cambridge, MA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
