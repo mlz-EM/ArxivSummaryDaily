@@ -2,14 +2,46 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-22T04:22:23Z",
+    "generatedAt": "2026-07-23T04:21:30Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 250 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 253 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.20297v1",
+      "title": "Proximity-induced charge transfer, strain and magnetic exchange in graphene/CrSBr heterostructure",
+      "url": "https://arxiv.org/abs/2607.20297v1",
+      "date": "2026-07-22",
+      "summary": "This study uses ARPES, LEEM, and DFT to characterize the electronic landscape of graphene/CrSBr heterostructures. It reveals massive interfacial charge transfer that hole-dopes graphene and triggers an insulator-to-metal transition in CrSBr. Findings also include momentum-dependent renormalization, compressive strain, and evidence of magnetic proximity coupling through spin degeneracy lifting in graphene's Dirac cone.",
+      "tags": [
+        "cond-mat-str-el",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2607.20096v1",
+      "title": "Power-Law Suppression of Superfluid Stiffness in High-Kinetic-Inductance NbN Films",
+      "url": "https://arxiv.org/abs/2607.20096v1",
+      "date": "2026-07-22",
+      "summary": "Researchers investigated the superconducting response of high-kinetic-inductance NbN films using microwave resonators. They discovered a power-law suppression of superfluid stiffness in ultrathin films, indicating a departure from Mattis-Bardeen theory. This anomalous behavior, linked to nanocrystalline disorder, transitions to conventional electrodynamics as film thickness increases, determined by the ratio of superfluid stiffness to pairing energy.",
+      "tags": [
+        "cond-mat-supr-con",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2607.19979v1",
+      "title": "Interface-resolved structural properties of epitaxial Y$_3$Fe$_5$O$_{12}$/ Gd$_3$Fe$_5$O$_{12}$ bilayers grown on GGG(111) by pulsed laser deposition",
+      "url": "https://arxiv.org/abs/2607.19979v1",
+      "date": "2026-07-22",
+      "summary": "This study examines the structural properties and strain relaxation of epitaxial YIG/GdIG bilayers grown on GGG(111) substrates. Using XRD and TEM, researchers found that the GGG/YIG/GdIG stacking sequence provides superior crystalline quality and lower defect density. The results demonstrate that growth sequence significantly influences strain and interfacial structure, with relaxation facilitated by columnar microstructures and antiphase boundaries.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2607.17796v1",
       "title": "Real-time THz ptychography using an optically modulated aperture",
