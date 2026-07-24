@@ -2,14 +2,46 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-23T04:21:30Z",
+    "generatedAt": "2026-07-24T04:20:59Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 253 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 256 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.21234v1",
+      "title": "Direct Measurement of Exciton Dispersion in the Long-Wavelength Limit",
+      "url": "https://arxiv.org/abs/2607.21234v1",
+      "date": "2026-07-23",
+      "summary": "The study employs defocus-engineered momentum-resolved electron energy-loss spectroscopy to directly measure exciton dispersion in hBN. It quantifies layer-dependent evolution in the long-wavelength limit, finding that nonanalytic linear dispersion in thin layers transitions toward bulk-like parabolic behavior as thickness increases. This reveals how dimensionality and screening modulate exciton transport and group velocity in layered quantum materials.",
+      "tags": [
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2607.20964v1",
+      "title": "Monolithic Magneto-Optical Mach-Zehnder Isolator Using Laser-Annealed Iron Garnet on a Silicon Waveguide",
+      "url": "https://arxiv.org/abs/2607.20964v1",
+      "date": "2026-07-23",
+      "summary": "To integrate magneto-optical isolators without damaging silicon waveguides, researchers used local laser annealing to crystallize iron garnet directly on a Mach-Zehnder interferometer. The device achieved a 13.6 dB isolation ratio at 1540 nm. This approach demonstrates a high-throughput, mass-production-compatible method for combining high-temperature magneto-optical films with thermally sensitive silicon photonic circuits.",
+      "tags": [
+        "physics-optics",
+        "cond-mat-mtrl-sci",
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2607.20904v1",
+      "title": "Visualizing Microwave-Driven Dynamics of Antiskyrmions and Surface Skyrmions",
+      "url": "https://arxiv.org/abs/2607.20904v1",
+      "date": "2026-07-23",
+      "summary": "This research uses time-resolved Lorentz transmission electron microscopy to visualize the microwave-driven picosecond dynamics of antiskyrmions and surface skyrmions. It identifies nonlinear responses and distinct core trajectories sharing a common rotational sense. The findings link these dynamic modes to thickness-dependent core profile modulations, establishing a real-space approach for probing high-frequency dynamics in topological magnetic solitons.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2607.20297v1",
       "title": "Proximity-induced charge transfer, strain and magnetic exchange in graphene/CrSBr heterostructure",
