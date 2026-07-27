@@ -2,14 +2,57 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-24T04:20:59Z",
+    "generatedAt": "2026-07-27T04:43:32Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 256 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 261 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.22294v1",
+      "title": "Substrate-metal interface engineering enhances TaN/Ta thin film superconducting resonator performance",
+      "url": "https://arxiv.org/abs/2607.22294v1",
+      "date": "2026-07-24",
+      "summary": "Investigates TaN/Ta thin film superconducting resonators on silicon. It finds that adding a thin Ta buffer layer between the Si substrate and TaN seed layer significantly enhances the internal quality factor by suppressing nitrogen accumulation and structural disorder at the interface, thereby reducing interface-related two-level system losses.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-supr-con",
+        "quant-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2607.22089v1",
+      "title": "Quantitative Analysis of Composition and Contamination of Atomically Thin Materials by Recoil-Projectile Coincidence in Ion Transmission",
+      "url": "https://arxiv.org/abs/2607.22089v1",
+      "date": "2026-07-24",
+      "summary": "Introduces a recoil-projectile coincidence method to quantify surface contamination on atomically thin materials. The study finds that PMMA-free graphene transfer yields lower contamination than PMMA-based methods. After thermal annealing, PMMA-free graphene achieves near-atomic cleanliness and remains stable under ultra-high vacuum, while PMMA-transferred samples recontaminate quickly.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2607.21894v1",
+      "title": "Ferrimagnetic Skyrmions in a Tetragonal Mn1.9Co0.1Sb Single Crystal at Room Temperature",
+      "url": "https://arxiv.org/abs/2607.21894v1",
+      "date": "2026-07-24",
+      "summary": "Explores magnetic spin textures in Mn1.9Co0.1Sb crystals at room temperature. Using Lorentz transmission electron microscopy, the study identifies dipolar skyrmion behavior and establishes a stable phase diagram. Key findings reveal ferrimagnetic skyrmions with THz-regime intrinsic frequencies driven by strong interlayer antiparallel exchange interactions, facilitating the development of high-speed topological spintronic devices.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2607.21889v1",
+      "title": "Current-induced creation and dynamics of embedded magnetic skyrmion bags",
+      "url": "https://arxiv.org/abs/2607.21889v1",
+      "date": "2026-07-24",
+      "summary": "Demonstrates the direct electrical generation and manipulation of magnetic skyrmion bags in FeGe nanoplates. Using nanosecond current pulses, the study achieves transitions between different topological charges via spin-transfer-torque-induced fracture of the helical state. This enables the stabilization of complex 3D topological structures, including magnetic monopoles and bobbers, under zero magnetic field.",
+      "tags": [
+        "cond-mat-mes-hall",
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2607.21234v1",
       "title": "Direct Measurement of Exciton Dispersion in the Long-Wavelength Limit",
@@ -40,6 +83,17 @@
       "summary": "This research uses time-resolved Lorentz transmission electron microscopy to visualize the microwave-driven picosecond dynamics of antiskyrmions and surface skyrmions. It identifies nonlinear responses and distinct core trajectories sharing a common rotational sense. The findings link these dynamic modes to thickness-dependent core profile modulations, establishing a real-space approach for probing high-frequency dynamics in topological magnetic solitons.",
       "tags": [
         "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2607.21870v1",
+      "title": "Effect of Al-Zn alloy wafer grain boundary diffusion on the magnetism and microstructure of sintered NdFeB magnets",
+      "url": "https://arxiv.org/abs/2607.21870v1",
+      "date": "2026-07-23",
+      "summary": "Investigates Al-Zn grain boundary diffusion in sintered NdFeB magnets to increase coercivity. The 900°C treatment enhances coercivity by 21.7% by forming a continuous grain boundary phase and a core-shell structure. Al enrichment in the shell strengthens domain-wall pinning, while Zn improves intergranular phase fluidity, providing a non-heavy-rare-earth pathway for high-temperature applications.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-comp-ph"
       ]
     },
     {
