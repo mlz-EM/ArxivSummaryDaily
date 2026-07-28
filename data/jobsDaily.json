@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-27T04:44:47Z",
+    "generatedAt": "2026-07-28T04:18:40Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,211 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Electrical Computer Engineering, Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=5d1fe7af5fc9bdc0",
+      "date": "2026-07-27",
+      "location": "California State University at Pomona, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "J. Ramsey Martin Professorship in Philosophy, Philosophy Department",
+      "url": "https://www.indeed.com/viewjob?jk=2b783d5c21bf2f00",
+      "date": "2026-07-27",
+      "location": "Washington and Lee University at Lexington, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track: Assistant Professor - Biological Oceanography",
+      "url": "https://www.indeed.com/viewjob?jk=1d66527a44fde193",
+      "date": "2026-07-27",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Animal Science - 9 month appointment",
+      "url": "https://www.indeed.com/viewjob?jk=7a27f59f821b9b6a",
+      "date": "2026-07-27",
+      "location": "Missouri State University at Springfield, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate Professor, Animal Science - 9 month appointment",
+      "url": "https://www.indeed.com/viewjob?jk=2190332af2b19a74",
+      "date": "2026-07-27",
+      "location": "Missouri State University at Springfield, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Principal Economist, Crop Insurance Strategy and Industry Engagement",
+      "url": "https://www.indeed.com/viewjob?jk=68611ae68e15b133",
+      "date": "2026-07-27",
+      "location": "North Dakota State College of Science at Fargo, ND, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Junior Research Economist/ Research Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=4ed51cf8d661a207",
+      "date": "2026-07-27",
+      "location": "North Dakota State College of Science at Fargo, ND, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Public Administration",
+      "url": "https://www.indeed.com/viewjob?jk=46fa68f777a83b0e",
+      "date": "2026-07-27",
+      "location": "Texas Tech University at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Research",
+      "url": "https://www.indeed.com/viewjob?jk=81a03f6cbe1169f2",
+      "date": "2026-07-27",
+      "location": "Louisiana State University at Baton Rouge, LA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Professor of Japanese (Assistant/Associate/Full)",
+      "url": "https://www.indeed.com/viewjob?jk=84120601ccbeec94",
+      "date": "2026-07-27",
+      "location": "Furman University at Greenville, SC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4444252225",
+      "title": "Ft Faculty - Manufacturing (Tenture Track)",
+      "url": "https://www.linkedin.com/jobs/view/4444252225",
+      "date": "2026-07-23",
+      "location": "City Colleges of Chicago at Chicago, IL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Assistant Professor of Political Science",
+      "url": "https://www.indeed.com/viewjob?jk=d9c5fd84177cba18",
+      "date": "2026-07-22",
+      "location": "Haverford College at Haverford, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Assistant Professor of Statistics",
+      "url": "https://www.indeed.com/viewjob?jk=6fa06639924119f0",
+      "date": "2026-07-21",
+      "location": "Haverford College at Haverford, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4440798617",
+      "title": "FT Faculty - Manufacturing (Tenure Track)",
+      "url": "https://www.linkedin.com/jobs/view/4440798617",
+      "date": "2026-07-16",
+      "location": "City Colleges of Chicago at Chicago, IL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4439981105",
+      "title": "New York University Grossman School of Medicine: Department of Cell Biology and Regenerative Medicine Institute",
+      "url": "https://www.linkedin.com/jobs/view/4439981105",
+      "date": "2026-07-15",
+      "location": "NYU Langone Health at New York, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4440864319",
+      "title": "VICE PRESIDENT OF RESEARCH",
+      "url": "https://www.linkedin.com/jobs/view/4440864319",
+      "date": "2026-07-14",
+      "location": "Arizona State University at Tempe, AZ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor of Education",
+      "url": "https://www.indeed.com/viewjob?jk=e6ba07d12d25dbfa",
+      "date": "2026-07-08",
+      "location": "Bowdoin College at Brunswick, ME, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4442891289",
+      "title": "Faculty.Instructor.Instructor - Part-Time",
+      "url": "https://www.linkedin.com/jobs/view/4442891289",
+      "date": "",
+      "location": "University of Pittsburgh at Pittsburgh, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Open Rank Faculty Position: Assistant Professor / Associate Professor / Professor of Population and Family Health",
       "url": "https://www.indeed.com/viewjob?jk=227d0f15f2ce2e60",
       "date": "2026-07-25",
       "location": "Columbia University at US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +227,7 @@
       "location": "Missouri State University at Springfield, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +238,7 @@
       "location": "Missouri State University at Springfield, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +249,7 @@
       "location": "Tuscaloosa, AL, US",
       "description": "Senior faculty role in micro/nanoscale systems, intelligent materials, and experimental characterization.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "micro/nanoscale systems",
         "intelligent materials",
@@ -67,7 +265,7 @@
       "location": "Tuscaloosa, AL, US",
       "description": "Tenure-track position focusing on micro/nanoscale systems, intelligent materials, and advanced manufacturing characterization.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "micro/nanoscale systems",
         "intelligent materials",
@@ -83,7 +281,7 @@
       "location": "Tuscaloosa, AL, US",
       "description": "Assistant professor role investigating micro/nanoscale systems, intelligent materials, and experimental characterization methods.",
       "fitScore": 3,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "micro/nanoscale systems",
         "intelligent materials",
@@ -99,7 +297,7 @@
       "location": "Tuscaloosa, AL, US",
       "description": "Senior faculty role in micro/nanoscale systems, intelligent materials, and experimental characterization.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "micro/nanoscale systems",
         "intelligent materials",
@@ -115,7 +313,7 @@
       "location": "Tuscaloosa, AL, US",
       "description": "Assistant professor role investigating micro/nanoscale systems, intelligent materials, and experimental characterization methods.",
       "fitScore": 3,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "micro/nanoscale systems",
         "intelligent materials",
@@ -131,7 +329,7 @@
       "location": "Berkeley, CA, US",
       "description": "Tenure-track role for biophysical research in structural biology, emphasizing mechanistic enzymology and imaging.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "structural biology",
         "biophysics",
@@ -147,7 +345,7 @@
       "location": "University of Alabama at Tuscaloosa, AL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -158,7 +356,7 @@
       "location": "Clemson University MBA Programs at Center, IN",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -169,7 +367,7 @@
       "location": "Michigan State University at East Lansing, MI, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -180,7 +378,7 @@
       "location": "Shepherd University at Shepherdstown, WV, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -191,7 +389,7 @@
       "location": "University of Nebraska at Omaha at Omaha, NE, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -202,7 +400,7 @@
       "location": "Misericordia University at Dallas, PA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -213,7 +411,7 @@
       "location": "Clemson University at Clemson, SC, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -224,7 +422,7 @@
       "location": "Briar Cliff University at Sioux City, IA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -235,7 +433,7 @@
       "location": "University of Alabama at AL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -246,7 +444,7 @@
       "location": "University of Alabama at AL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -257,7 +455,7 @@
       "location": "University of Alabama at Tuscaloosa, AL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -268,7 +466,7 @@
       "location": "Tulane University at New Orleans, LA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -279,7 +477,7 @@
       "location": "West Virginia University at Keyser, WV, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -290,7 +488,7 @@
       "location": "The University of Iowa at Iowa City, IA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -301,7 +499,7 @@
       "location": "Carlow College at Pittsburgh, PA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -312,84 +510,8 @@
       "location": "University of California Berkeley at Berkeley, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
-    },
-    {
-      "id": "www-4443137069",
-      "title": "Assistant or Associate Professor",
-      "url": "https://www.linkedin.com/jobs/view/4443137069",
-      "date": "2026-07-22",
-      "location": "Western University of Health Sciences at Pomona, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4442986407",
-      "title": "Assistant/Associate Professor",
-      "url": "https://www.linkedin.com/jobs/view/4442986407",
-      "date": "2026-07-22",
-      "location": "Western University of Health Sciences at Pomona, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4443575426",
-      "title": "Tenured/Tenure-Track: Open Rank & Title",
-      "url": "https://www.linkedin.com/jobs/view/4443575426",
-      "date": "2026-07-21",
-      "location": "College Station, TX",
-      "description": "Faculty position emphasizing chip manufacturing, semiconductor research, and advanced bioimaging technologies.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "semiconductors",
-        "chip manufacturing",
-        "bioimaging",
-        "electrical engineering"
-      ]
-    },
-    {
-      "id": "www-4441746527",
-      "title": "*Tenure-Track Faculty: Marketing, Gabelli School of Business",
-      "url": "https://www.linkedin.com/jobs/view/4441746527",
-      "date": "2026-07-18",
-      "location": "Fordham University Office of Military and Veterans' Services at Rose Hill, AR",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4442195134",
-      "title": "Faculty Associate– Biological Data Science",
-      "url": "https://www.linkedin.com/jobs/view/4442195134",
-      "date": "2026-07-17",
-      "location": "CommLabASU at Arizona State University at Valley, WV",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4439973984",
-      "title": "ECE Tenure-Track Faculty Position in Physical AI",
-      "url": "https://www.linkedin.com/jobs/view/4439973984",
-      "date": "2026-07-15",
-      "location": "Blacksburg, VA",
-      "description": "Tenure-track position focusing on physical AI, semiconductor fabrication, and micro/nanoscale system characterization.",
-      "fitScore": 3,
-      "isNew": true,
-      "keywords": [
-        "physical AI",
-        "semiconductors",
-        "nanofabrication",
-        "characterization"
-      ]
     },
     {
       "id": "www-viewjob",
@@ -507,6 +629,28 @@
       "url": "https://www.indeed.com/viewjob?jk=2b7c02c26fcf4a91",
       "date": "2026-07-23",
       "location": "Valdosta State University at Valdosta, GA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4443137069",
+      "title": "Assistant or Associate Professor",
+      "url": "https://www.linkedin.com/jobs/view/4443137069",
+      "date": "2026-07-22",
+      "location": "Western University of Health Sciences at Pomona, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4442986407",
+      "title": "Assistant/Associate Professor",
+      "url": "https://www.linkedin.com/jobs/view/4442986407",
+      "date": "2026-07-22",
+      "location": "Western University of Health Sciences at Pomona, CA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -720,6 +864,22 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "www-4443575426",
+      "title": "Tenured/Tenure-Track: Open Rank & Title",
+      "url": "https://www.linkedin.com/jobs/view/4443575426",
+      "date": "2026-07-21",
+      "location": "College Station, TX",
+      "description": "Faculty position emphasizing chip manufacturing, semiconductor research, and advanced bioimaging technologies.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "semiconductors",
+        "chip manufacturing",
+        "bioimaging",
+        "electrical engineering"
+      ]
     },
     {
       "id": "www-viewjob",
@@ -1042,11 +1202,33 @@
       "keywords": []
     },
     {
+      "id": "www-4441746527",
+      "title": "*Tenure-Track Faculty: Marketing, Gabelli School of Business",
+      "url": "https://www.linkedin.com/jobs/view/4441746527",
+      "date": "2026-07-18",
+      "location": "Fordham University Office of Military and Veterans' Services at Rose Hill, AR",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-viewjob",
       "title": "Tenure Track Assistant Professor",
       "url": "https://www.indeed.com/viewjob?jk=f4a7e93ad13e0159",
       "date": "2026-07-18",
       "location": "George Mason University at Fairfax, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4442195134",
+      "title": "Faculty Associate– Biological Data Science",
+      "url": "https://www.linkedin.com/jobs/view/4442195134",
+      "date": "2026-07-17",
+      "location": "CommLabASU at Arizona State University at Valley, WV",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1695,6 +1877,22 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "www-4439973984",
+      "title": "ECE Tenure-Track Faculty Position in Physical AI",
+      "url": "https://www.linkedin.com/jobs/view/4439973984",
+      "date": "2026-07-15",
+      "location": "Blacksburg, VA",
+      "description": "Tenure-track position focusing on physical AI, semiconductor fabrication, and micro/nanoscale system characterization.",
+      "fitScore": 3,
+      "isNew": false,
+      "keywords": [
+        "physical AI",
+        "semiconductors",
+        "nanofabrication",
+        "characterization"
+      ]
     },
     {
       "id": "www-viewjob",

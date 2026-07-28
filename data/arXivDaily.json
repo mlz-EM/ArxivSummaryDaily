@@ -2,14 +2,66 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-27T04:43:32Z",
+    "generatedAt": "2026-07-28T04:17:01Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 261 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 271 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.24685v1",
+      "title": "Growth and characterization of planar hexagonal Ge on CdS",
+      "url": "https://arxiv.org/abs/2607.24685v1",
+      "date": "2026-07-27",
+      "summary": "This study demonstrates the epitaxial growth of planar hexagonal germanium on m-plane CdS substrates. It finds that growth temperature and strain relaxation mechanisms, including specific dislocation types and I3-type stacking faults, govern the stabilization of the hexagonal phase. The results establish CdS as a promising template for hexagonal Ge, despite the progressive loss of order at greater distances from the interface.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2607.24340v1",
+      "title": "Lead nanoparticles, the deep-ultraviolet to near-infrared plasmonic platform",
+      "url": "https://arxiv.org/abs/2607.24340v1",
+      "date": "2026-07-27",
+      "summary": "This research evaluates the plasmonic performance of chemically synthesized lead nanoparticles using STEM and EELS. It finds that lead nanoparticles support localized surface plasmon resonances across an exceptionally broad range from near-infrared to deep-ultraviolet (below 200 nm). This identifies lead as a versatile multispectral plasmonic platform with the most extensive wavelength coverage among elemental metals.",
+      "tags": [
+        "physics-optics",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2607.24085v1",
+      "title": "Recrystallisation phenomena in an ultrafine-grained Al-Mg-Si alloy revealed by correlative in situ EBSD and TEM heating",
+      "url": "https://arxiv.org/abs/2607.24085v1",
+      "date": "2026-07-27",
+      "summary": "This study investigates the thermal stability of an ultrafine-grained Al-Mg-Si alloy using correlative in situ EBSD and TEM heating. It identifies the onset of microstructural instability at ~198 °C and reveals that grain refinement suppresses GP-zone formation. The findings establish in situ EBSD as a robust method for determining bulk-representative recrystallization behavior and demonstrate the collapse of grain-boundary sink strength.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-space-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2607.23995v1",
+      "title": "Nature of Cr Segregation in FCC to BCC quenched Fe-12Cr Alloy, with Post-Quenching Heat Treatment: A Positron Annihilation Study",
+      "url": "https://arxiv.org/abs/2607.23995v1",
+      "date": "2026-07-27",
+      "summary": "This study investigates Cr segregation in quenched Fe-12Cr alloys using positron lifetime and Mössbauer spectroscopy. It finds that post-quenching heat treatment induces the precipitation of tetragonal intermetallic σ-phase at dislocations and sub-grain structures, rather than the commonly reported α'-phase. Compared to Fe-9Cr, the Fe-12Cr alloy exhibits higher precipitation kinetics, larger average precipitate sizes, and lower number densities.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2607.23073v1",
+      "title": "Imaging of van der Waals Materials via Standing-Wave Photoemission Microscopy: Depth-Resolved Electronic Structure of WS2",
+      "url": "https://arxiv.org/abs/2607.23073v1",
+      "date": "2026-07-25",
+      "summary": "This work demonstrates standing-wave photoemission electron microscopy (SW-PEEM) for depth-resolved characterization of monolayer WS2. It reveals an ~0.2 eV shift in sulfur-derived valence-band spectral weight between the top and bottom sulfur layers. This shift is attributed to sulfur-related surface species rather than direct substrate hybridization, establishing SW-PEEM as a non-destructive probe for interfacial coupling and chemical reconstruction in van der Waals materials.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2607.22294v1",
       "title": "Substrate-metal interface engineering enhances TaN/Ta thin film superconducting resonator performance",
@@ -51,6 +103,18 @@
       "tags": [
         "cond-mat-mes-hall",
         "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2607.22294v2",
+      "title": "Substrate-metal interface engineering enhances TaN/Ta thin film superconducting resonator performance",
+      "url": "https://arxiv.org/abs/2607.22294v2",
+      "date": "2026-07-24",
+      "summary": "This study explores enhancing the performance of superconducting TaN/Ta thin film resonators on silicon. It finds that inserting a thin Ta buffer layer between the Si substrate and the TaN seed layer significantly increases the internal quality factor to 5.9x10^5. TEM analysis reveals this improvement stems from suppressing nitrogen accumulation and structural disorder at the interface, reducing two-level system losses.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-supr-con",
+        "quant-ph"
       ]
     },
     {
@@ -310,6 +374,16 @@
       ]
     },
     {
+      "id": "arxiv-2607.07965v2",
+      "title": "NSF Future Manufacturing Data Challenge: A Multimodal DED Dataset for Probabilistic Representation and Prediction of Laser-Track Geometry",
+      "url": "https://arxiv.org/abs/2607.07965v2",
+      "date": "2026-07-08",
+      "summary": "This paper introduces a multimodal directed energy deposition (DED) dataset designed for predicting local geometric variations in single laser tracks on stainless-steel 316L. The dataset integrates in-situ thermal sequences, SEM images, and 3D height maps. It provides a common coordinate convention across these modalities, facilitating probabilistic representation and prediction of laser-track geometry for advanced manufacturing research.",
+      "tags": [
+        "physics-app-ph"
+      ]
+    },
+    {
       "id": "arxiv-2607.06304v1",
       "title": "Decoupling Josephson Coupling and Supercurrent Nonreciprocity in Twisted NbSe2/NbSe2 van der Waals Junctions",
       "url": "https://arxiv.org/abs/2607.06304v1",
@@ -325,6 +399,16 @@
       "url": "https://arxiv.org/abs/2607.05881v1",
       "date": "2026-07-07",
       "summary": "This research identifies three new chiral-structured superconductors—RhGe4, IrGe4, and IrSi4—synthesized under high pressure. Using atomic-resolution STEM, the authors confirm their chiral structures. These materials exhibit type-II superconductivity with mixed-parity pairing and symmetry-protected Weyl points. The findings establish these compounds as a platform for studying the interplay between structural chirality, spin-orbit coupling, and topological quantum phenomena.",
+      "tags": [
+        "cond-mat-supr-con"
+      ]
+    },
+    {
+      "id": "arxiv-2607.06304v2",
+      "title": "Decoupling Josephson Coupling and Supercurrent Nonreciprocity in Twisted NbSe2/NbSe2 van der Waals Junctions",
+      "url": "https://arxiv.org/abs/2607.06304v2",
+      "date": "2026-07-07",
+      "summary": "This study investigates supercurrent nonreciprocity in twisted NbSe2/NbSe2 vertical Josephson junctions. It finds that while Josephson coupling strength depends on the twist angle, the supercurrent diode effect is negligible in clean junctions. Instead, significant nonreciprocity arises from interfacial disorder and reduced transparency. These results decouple Josephson coupling from nonreciprocity, identifying interface quality as the primary driver of diode responses.",
       "tags": [
         "cond-mat-supr-con"
       ]
@@ -370,6 +454,16 @@
       "tags": [
         "cond-mat-mtrl-sci",
         "cond-mat-str-el"
+      ]
+    },
+    {
+      "id": "arxiv-2607.02629v1",
+      "title": "High-Entropy Nitride Photocatalysts for Visible-Light Antibiotic Degradation: Structural Stability, In Situ Interfacial Visualization, and Molecular-Level Mechanistic Insights",
+      "url": "https://arxiv.org/abs/2607.02629v1",
+      "date": "2026-07-02",
+      "summary": "This research develops (MnFeCoNiCu)N high-entropy nitride nanoparticles as visible-light photocatalysts for degrading antibiotics. The catalyst achieved over 94% degradation of sulfamethoxazole and tetracycline within two hours. In situ liquid-cell TEM and molecular simulations revealed high structural stability and distinct interaction modes. The findings establish these nitrides as durable, efficient photocatalysts for removing complex pollutants from aqueous environments with minimal metal leaching.",
+      "tags": [
+        "cond-mat-mtrl-sci"
       ]
     },
     {
@@ -419,6 +513,16 @@
       "url": "https://arxiv.org/abs/2606.30859v1",
       "date": "2026-06-29",
       "summary": "Reviews the use of scanning transmission electron microscopy (STEM) and spectroscopy to characterize oxide interfaces and superlattices at the atomic scale. It highlights how integrating STEM with AI-guided approaches and theoretical calculations provides insights into interfacial conductivity and charge screening, enabling more predictive modeling of functional oxide behavior.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2606.30859v2",
+      "title": "Atomic-Scale Characterization of Oxide Interfaces and Superlattices Using Scanning Transmission Electron Microscopy",
+      "url": "https://arxiv.org/abs/2606.30859v2",
+      "date": "2026-06-29",
+      "summary": "This chapter reviews atomic-scale characterization of oxide interfaces and superlattices using scanning transmission electron microscopy (STEM). It highlights how STEM imaging and spectroscopy provide critical insights into interfacial conductivity, charge screening, and chemical mapping. The authors discuss the integration of AI-guided approaches and plasma preparation, demonstrating how STEM characterization enables predictive modeling of functional oxide behavior across various material systems.",
       "tags": [
         "cond-mat-mtrl-sci"
       ]
