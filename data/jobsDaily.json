@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-28T04:18:40Z",
+    "generatedAt": "2026-07-29T04:21:31Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,402 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Open-Rank Faculty: Biosystems Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=a28019de577f8e38",
+      "date": "2026-07-28",
+      "location": "Texas Tech University at TX, US",
+      "description": "Tenure-track open-rank faculty position in biosystems engineering within the electrical and computer engineering department.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "biosystems engineering",
+        "electrical engineering",
+        "engineering"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate Professor, Animal Science - 9 month appointment",
+      "url": "https://www.indeed.com/viewjob?jk=1c2a383463443e4a",
+      "date": "2026-07-28",
+      "location": "Missouri State University at Springfield, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Dance",
+      "url": "https://www.indeed.com/viewjob?jk=afc55d4ed883f47e",
+      "date": "2026-07-28",
+      "location": "Bowdoin College at Brunswick, ME, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Assistant Professor of Computer Science",
+      "url": "https://www.indeed.com/viewjob?jk=81d29cce9da756ea",
+      "date": "2026-07-28",
+      "location": "Haverford College at Haverford, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate/Full Professor (tenured or tenure track) - Law",
+      "url": "https://www.indeed.com/viewjob?jk=d7f36d922f261246",
+      "date": "2026-07-28",
+      "location": "Marquette University at Milwaukee, WI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "LC Faculty TT/TN 12m",
+      "url": "https://www.indeed.com/viewjob?jk=b82f894668e7c22f",
+      "date": "2026-07-28",
+      "location": "New Mexico State University at Las Cruces, NM, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor- Real Estate",
+      "url": "https://www.indeed.com/viewjob?jk=1dc672b621f328aa",
+      "date": "2026-07-28",
+      "location": "City University of New York at New York, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Practical Theology - Ashland Theological Seminary",
+      "url": "https://www.indeed.com/viewjob?jk=bd242ed9f2ac9a59",
+      "date": "2026-07-28",
+      "location": "Ashland University at Ashland, OH, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Earth and Oceanographic Science",
+      "url": "https://www.indeed.com/viewjob?jk=1ddc3fca734f2aff",
+      "date": "2026-07-28",
+      "location": "Bowdoin College at Brunswick, ME, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Cinema Studies",
+      "url": "https://www.indeed.com/viewjob?jk=676bb732ca272637",
+      "date": "2026-07-28",
+      "location": "Bowdoin College at Brunswick, ME, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of English (Creative Writing)",
+      "url": "https://www.indeed.com/viewjob?jk=7588aa417cbb2e1f",
+      "date": "2026-07-28",
+      "location": "Bowdoin College at Brunswick, ME, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Philosophy",
+      "url": "https://www.indeed.com/viewjob?jk=2c30352581fbd55c",
+      "date": "2026-07-28",
+      "location": "Bowdoin College at Brunswick, ME, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Mathematics and Statistics, Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=d85737c652e0b5d9",
+      "date": "2026-07-28",
+      "location": "California State University at Pomona, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Computer Science",
+      "url": "https://www.indeed.com/viewjob?jk=3be6cf81b981de20",
+      "date": "2026-07-28",
+      "location": "Bowdoin College at Brunswick, ME, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Environmental Studies",
+      "url": "https://www.indeed.com/viewjob?jk=58a5aa34b7848b02",
+      "date": "2026-07-28",
+      "location": "Bowdoin College at Brunswick, ME, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor in K-12 Leadership",
+      "url": "https://www.indeed.com/viewjob?jk=91d86c44089166ca",
+      "date": "2026-07-28",
+      "location": "University of Wisconsin–Madison at Madison, WI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor Tenure System",
+      "url": "https://www.indeed.com/viewjob?jk=04fa2639ddc9d784",
+      "date": "2026-07-28",
+      "location": "Michigan State University at East Lansing, MI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Asst/Assoc Professor, Tenure Track - Department of Design",
+      "url": "https://www.indeed.com/viewjob?jk=d81bf4c90511c486",
+      "date": "2026-07-28",
+      "location": "Texas Tech University at TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Classics",
+      "url": "https://www.indeed.com/viewjob?jk=493e1909d16d556a",
+      "date": "2026-07-28",
+      "location": "Bowdoin College at Brunswick, ME, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor Food Microbiology and Safety",
+      "url": "https://www.indeed.com/viewjob?jk=39f12eba8c76e335",
+      "date": "2026-07-28",
+      "location": "Delaware State University at Dover, DE, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Mathematics and Statistics, Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=c2f48249a5a3a12b",
+      "date": "2026-07-28",
+      "location": "California State Polytechnic University Pomona at Pomona, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Economics",
+      "url": "https://www.indeed.com/viewjob?jk=18bb8daf68c20f3b",
+      "date": "2026-07-28",
+      "location": "St. Mary's College of Maryland at St. Mary's City, MD, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Biology (tenure-track)",
+      "url": "https://www.indeed.com/viewjob?jk=3b07076a16e3e8ce",
+      "date": "2026-07-28",
+      "location": "Alcorn State University at Lorman, MS, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor of Latin American, Caribbean, and Latinx Studies",
+      "url": "https://www.indeed.com/viewjob?jk=df544ccf63a760aa",
+      "date": "2026-07-28",
+      "location": "Bowdoin College at Brunswick, ME, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Finance - Haas School of Business",
+      "url": "https://www.indeed.com/viewjob?jk=9c12f3ebea559b5a",
+      "date": "2026-07-27",
+      "location": "University of California Berkeley at Berkeley, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor -Genetics, Genomics, Evolution, and Development - Molecular and Cell Biology",
+      "url": "https://www.indeed.com/viewjob?jk=5b7f68e2fb389ea6",
+      "date": "2026-07-27",
+      "location": "University of California Berkeley at Berkeley, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Asian Studies",
+      "url": "https://www.indeed.com/viewjob?jk=43ea3fadcf896141",
+      "date": "2026-07-27",
+      "location": "Bowdoin College at Brunswick, ME, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Electrical Computer Engineering, Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=0ddfa895c969feee",
+      "date": "2026-07-27",
+      "location": "California State Polytechnic University Pomona at Pomona, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4441818315",
+      "title": "Faculty Professor - Full-Time",
+      "url": "https://www.linkedin.com/jobs/view/4441818315",
+      "date": "2026-07-24",
+      "location": "University of Pittsburgh at Pittsburgh, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4444325731",
+      "title": "Tenure-Track Position in Astrophysics",
+      "url": "https://www.linkedin.com/jobs/view/4444325731",
+      "date": "2026-07-24",
+      "location": "",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Faculty Position in Organizational Behavior & Theory",
+      "url": "https://www.indeed.com/viewjob?jk=30442e9a5e92d298",
+      "date": "2026-07-22",
+      "location": "Carnegie Mellon University at Pittsburgh, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4441099008",
+      "title": "Finance and Business Analytics - Real Estate (Open Rank)",
+      "url": "https://www.linkedin.com/jobs/view/4441099008",
+      "date": "2026-07-22",
+      "location": "Trinity University at San Antonio, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4439269761",
+      "title": "Faculty and Staff Dining Room Attendant (Casual Position)",
+      "url": "https://www.linkedin.com/jobs/view/4439269761",
+      "date": "2026-07-17",
+      "location": "Amherst College at Amherst, MA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4446378423",
+      "title": "Senior HR Consultant for Faculty Relations",
+      "url": "https://www.linkedin.com/jobs/view/4446378423",
+      "date": "",
+      "location": "University of Michigan at Flint, MI",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4445749157",
+      "title": "Studentische(r) Mitarbeiter(in) Raumentwicklung und Mobilität",
+      "url": "https://www.linkedin.com/jobs/view/4445749157",
+      "date": "",
+      "location": "Geochronology Summer School at Indiana, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Electrical Computer Engineering, Assistant Professor",
       "url": "https://www.indeed.com/viewjob?jk=5d1fe7af5fc9bdc0",
       "date": "2026-07-27",
       "location": "California State University at Pomona, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +418,7 @@
       "location": "Washington and Lee University at Lexington, VA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +429,7 @@
       "location": "Texas A&M University at College Station, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +440,7 @@
       "location": "Missouri State University at Springfield, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +451,7 @@
       "location": "Missouri State University at Springfield, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +462,7 @@
       "location": "North Dakota State College of Science at Fargo, ND, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +473,7 @@
       "location": "North Dakota State College of Science at Fargo, ND, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +484,7 @@
       "location": "Texas Tech University at US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +495,7 @@
       "location": "Louisiana State University at Baton Rouge, LA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,95 +506,7 @@
       "location": "Furman University at Greenville, SC, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4444252225",
-      "title": "Ft Faculty - Manufacturing (Tenture Track)",
-      "url": "https://www.linkedin.com/jobs/view/4444252225",
-      "date": "2026-07-23",
-      "location": "City Colleges of Chicago at Chicago, IL",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Tenure-Track Assistant Professor of Political Science",
-      "url": "https://www.indeed.com/viewjob?jk=d9c5fd84177cba18",
-      "date": "2026-07-22",
-      "location": "Haverford College at Haverford, PA, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Tenure-Track Assistant Professor of Statistics",
-      "url": "https://www.indeed.com/viewjob?jk=6fa06639924119f0",
-      "date": "2026-07-21",
-      "location": "Haverford College at Haverford, PA, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4440798617",
-      "title": "FT Faculty - Manufacturing (Tenure Track)",
-      "url": "https://www.linkedin.com/jobs/view/4440798617",
-      "date": "2026-07-16",
-      "location": "City Colleges of Chicago at Chicago, IL",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4439981105",
-      "title": "New York University Grossman School of Medicine: Department of Cell Biology and Regenerative Medicine Institute",
-      "url": "https://www.linkedin.com/jobs/view/4439981105",
-      "date": "2026-07-15",
-      "location": "NYU Langone Health at New York, NY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4440864319",
-      "title": "VICE PRESIDENT OF RESEARCH",
-      "url": "https://www.linkedin.com/jobs/view/4440864319",
-      "date": "2026-07-14",
-      "location": "Arizona State University at Tempe, AZ",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant or Associate Professor of Education",
-      "url": "https://www.indeed.com/viewjob?jk=e6ba07d12d25dbfa",
-      "date": "2026-07-08",
-      "location": "Bowdoin College at Brunswick, ME, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4442891289",
-      "title": "Faculty.Instructor.Instructor - Part-Time",
-      "url": "https://www.linkedin.com/jobs/view/4442891289",
-      "date": "",
-      "location": "University of Pittsburgh at Pittsburgh, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -503,6 +804,17 @@
       "keywords": []
     },
     {
+      "id": "www-4444252225",
+      "title": "Ft Faculty - Manufacturing (Tenture Track)",
+      "url": "https://www.linkedin.com/jobs/view/4444252225",
+      "date": "2026-07-23",
+      "location": "City Colleges of Chicago at Chicago, IL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-viewjob",
       "title": "Assistant Professor - Accounting - Haas School of Business",
       "url": "https://www.indeed.com/viewjob?jk=c1dd1e7ca5c3fe51",
@@ -629,6 +941,17 @@
       "url": "https://www.indeed.com/viewjob?jk=2b7c02c26fcf4a91",
       "date": "2026-07-23",
       "location": "Valdosta State University at Valdosta, GA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Assistant Professor of Political Science",
+      "url": "https://www.indeed.com/viewjob?jk=d9c5fd84177cba18",
+      "date": "2026-07-22",
+      "location": "Haverford College at Haverford, PA, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -860,6 +1183,17 @@
       "url": "https://www.indeed.com/viewjob?jk=90fc46d18bc74110",
       "date": "2026-07-22",
       "location": "Texas Woman's University at Denton, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Assistant Professor of Statistics",
+      "url": "https://www.indeed.com/viewjob?jk=6fa06639924119f0",
+      "date": "2026-07-21",
+      "location": "Haverford College at Haverford, PA, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1624,6 +1958,17 @@
       "keywords": []
     },
     {
+      "id": "www-4440798617",
+      "title": "FT Faculty - Manufacturing (Tenure Track)",
+      "url": "https://www.linkedin.com/jobs/view/4440798617",
+      "date": "2026-07-16",
+      "location": "City Colleges of Chicago at Chicago, IL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4443368695",
       "title": "Quick Links",
       "url": "https://www.linkedin.com/jobs/view/4443368695",
@@ -1879,6 +2224,17 @@
       "keywords": []
     },
     {
+      "id": "www-4439981105",
+      "title": "New York University Grossman School of Medicine: Department of Cell Biology and Regenerative Medicine Institute",
+      "url": "https://www.linkedin.com/jobs/view/4439981105",
+      "date": "2026-07-15",
+      "location": "NYU Langone Health at New York, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4439973984",
       "title": "ECE Tenure-Track Faculty Position in Physical AI",
       "url": "https://www.linkedin.com/jobs/view/4439973984",
@@ -2043,6 +2399,17 @@
       "url": "https://www.indeed.com/viewjob?jk=41811ccc581c8271",
       "date": "2026-07-15",
       "location": "University of Utah at Salt Lake City, UT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4440864319",
+      "title": "VICE PRESIDENT OF RESEARCH",
+      "url": "https://www.linkedin.com/jobs/view/4440864319",
+      "date": "2026-07-14",
+      "location": "Arizona State University at Tempe, AZ",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2971,6 +3338,17 @@
       "url": "https://www.indeed.com/viewjob?jk=f1e18dda7f245dda",
       "date": "2026-07-09",
       "location": "California State University at Fullerton, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor of Education",
+      "url": "https://www.indeed.com/viewjob?jk=e6ba07d12d25dbfa",
+      "date": "2026-07-08",
+      "location": "Bowdoin College at Brunswick, ME, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -23918,6 +24296,17 @@
       "url": "https://www.indeed.com/viewjob?jk=98a905fedb8eb83c",
       "date": "2025-07-29",
       "location": "Oklahoma State University at Stillwater, OK, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4442891289",
+      "title": "Faculty.Instructor.Instructor - Part-Time",
+      "url": "https://www.linkedin.com/jobs/view/4442891289",
+      "date": "",
+      "location": "University of Pittsburgh at Pittsburgh, PA",
       "description": "",
       "fitScore": 0,
       "isNew": false,

@@ -2,14 +2,36 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-28T04:17:01Z",
+    "generatedAt": "2026-07-29T04:18:23Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 271 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 273 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.26003v1",
+      "title": "Element-Specific Visualization of Layer-Parity and Twist-Dependent Magnetism in CrSBr",
+      "url": "https://arxiv.org/abs/2607.26003v1",
+      "date": "2026-07-28",
+      "summary": "This study uses X-ray magnetic dichroism and photoemission electron microscopy to resolve the magnetic order in atomically thin CrSBr. It finds that magnetic structure depends on layer parity and temperature. Notably, orthogonally twisted bilayers exhibit a unique magnetic easy axis distinct from individual monolayers, providing a new pathway for moiré magnetism.",
+      "tags": [
+        "cond-mat-mes-hall",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2607.25768v1",
+      "title": "Synergistic Role of Electron and Photon Dose in Stepwise Laser-Induced Complete Deoxygenation of Graphene Oxide Revealed by In-situ TEM",
+      "url": "https://arxiv.org/abs/2607.25768v1",
+      "date": "2026-07-28",
+      "summary": "This research employs in-situ dynamic transmission electron microscopy to study laser-induced reduction of graphene oxide. It demonstrates that combining electron beam exposure with pulsed laser irradiation achieves complete deoxygenation and restores the graphitic network. The electron dose synergistically lowers the energy barrier for laser-driven reduction, though excessive exposure risks film integrity.",
+      "tags": [
+        "physics-app-ph",
+        "physics-chem-ph"
+      ]
+    },
     {
       "id": "arxiv-2607.24685v1",
       "title": "Growth and characterization of planar hexagonal Ge on CdS",
