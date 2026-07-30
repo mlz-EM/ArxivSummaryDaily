@@ -2,10 +2,10 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-29T04:18:23Z",
+    "generatedAt": "2026-07-30T04:11:35Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 273 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 274 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
@@ -30,6 +30,18 @@
       "tags": [
         "physics-app-ph",
         "physics-chem-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2607.26329v1",
+      "title": "Nanoscale Storage of Incompatible Elements at Olivine Grain Boundaries in Natural Basalts",
+      "url": "https://arxiv.org/abs/2607.26329v1",
+      "date": "2026-07-28",
+      "summary": "This study characterizes the structure and trace-element chemistry of grain boundaries in natural basaltic olivine aggregates. Using EBSD, TEM, and atom probe tomography, it identifies crystalline boundaries enriched in Ca, Al, P, Na, and Ti. Broader chemical segregation halos compared to the structural core establish these boundaries as a significant nanoscale reservoir for incompatible elements in olivine-rich rocks.",
+      "tags": [
+        "astro-ph-ep",
+        "cond-mat-mtrl-sci",
+        "physics-geo-ph"
       ]
     },
     {
