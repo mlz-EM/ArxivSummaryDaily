@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3-flash-preview",
-    "generatedAt": "2026-07-30T04:13:37Z",
+    "generatedAt": "2026-07-31T04:31:16Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,358 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Associate Professor - Mechanical and Aerospace Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=f2aedff563a36e29",
+      "date": "2026-07-30",
+      "location": "TX, US",
+      "description": "Tenure-track position focusing on hypersonic materials characterization and high-speed aerodynamic phenomena.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "materials characterization",
+        "hypersonics",
+        "aerospace engineering"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Physical Geography",
+      "url": "https://www.indeed.com/viewjob?jk=a024ec229a002c90",
+      "date": "2026-07-30",
+      "location": "California State University at Fullerton, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor (Business Administration)",
+      "url": "https://www.indeed.com/viewjob?jk=02c7af3c012eb055",
+      "date": "2026-07-30",
+      "location": "Central State University at Wilberforce, OH, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4446883965",
+      "title": "Professor, 12 Months Salaried (Department of Clinical Sciences - College of Medicine)",
+      "url": "https://www.linkedin.com/jobs/view/4446883965",
+      "date": "2026-07-30",
+      "location": "",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor/Associate Professor",
+      "url": "https://www.indeed.com/viewjob?jk=aa2559b1a9beee16",
+      "date": "2026-07-30",
+      "location": "University of Minnesota at Minneapolis, MN, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant / Associate Professor of Mechanical Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=c7c9740c66f1c575",
+      "date": "2026-07-30",
+      "location": "Alabama A&M University at Normal, AL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=5ec9083cf44de1af",
+      "date": "2026-07-30",
+      "location": "George Mason University at Fairfax, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Neuroscience",
+      "url": "https://www.indeed.com/viewjob?jk=adf54801ab31bd2b",
+      "date": "2026-07-30",
+      "location": "Belmont University at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track Assistant Professor in Criminology, Criminal Justice, Homeland Security, Security Studies, or a related field (Remote - United States)",
+      "url": "https://www.indeed.com/viewjob?jk=e7bc0b48691b3973",
+      "date": "2026-07-30",
+      "location": "Embry-Riddle Aeronautical University at Remote, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate Professor of Law",
+      "url": "https://www.indeed.com/viewjob?jk=7c9bf83d5754619b",
+      "date": "2026-07-30",
+      "location": "George Washington University at Foggy Bottom, DC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Landscape and Eco-Technology - Department of Landscape Architecture & Environmental Planning",
+      "url": "https://www.indeed.com/viewjob?jk=bcbb37bb67eb004f",
+      "date": "2026-07-29",
+      "location": "University of California Berkeley at Berkeley, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Computational Neuroscience - Department of Neuroscience",
+      "url": "https://www.indeed.com/viewjob?jk=138a36769b1ac534",
+      "date": "2026-07-29",
+      "location": "University of California Berkeley at Berkeley, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Music and Band Director- START SPRING 2027",
+      "url": "https://www.indeed.com/viewjob?jk=3a78981d2e67b333",
+      "date": "2026-07-29",
+      "location": "Cheyney University of Pennsylvania at Cheyney, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Organic Chemistry- START SPRING 2027",
+      "url": "https://www.indeed.com/viewjob?jk=ec5232c951c3056d",
+      "date": "2026-07-29",
+      "location": "Cheyney University of Pennsylvania at Cheyney, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "English Position Announcement 2- START SPRING 2027",
+      "url": "https://www.indeed.com/viewjob?jk=97d71f10836d100b",
+      "date": "2026-07-29",
+      "location": "Cheyney University of Pennsylvania at Cheyney, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Business- Accounting Emphasis- START SPRING 2027",
+      "url": "https://www.indeed.com/viewjob?jk=528c060dfa00a3a1",
+      "date": "2026-07-29",
+      "location": "Cheyney University of Pennsylvania at Cheyney, PA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4446505353",
+      "title": "OMM Open Rank Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4446505353",
+      "date": "2026-07-28",
+      "location": "Philadelphia College of Osteopathic Medicine at Moultrie, GA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4444602725",
+      "title": "Associate Dean, Delaware Regional Campus of the Sidney Kimmel Medical College (SKMC)",
+      "url": "https://www.linkedin.com/jobs/view/4444602725",
+      "date": "2026-07-24",
+      "location": "Jefferson Health at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4444725923",
+      "title": "Full-time Faculty- PA Program",
+      "url": "https://www.linkedin.com/jobs/view/4444725923",
+      "date": "2026-07-23",
+      "location": "Touro University at Middletown, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4442645871",
+      "title": "Vice Chair of Education – Emergency Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4442645871",
+      "date": "2026-07-21",
+      "location": "Penn State Health at Hershey, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4442082376",
+      "title": "Associate Dean, Medical Education (Associate Professor or Professor)",
+      "url": "https://www.linkedin.com/jobs/view/4442082376",
+      "date": "2026-07-20",
+      "location": "Wright State University at Dayton, OH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4441719463",
+      "title": "Adjunct Associate Professor",
+      "url": "https://www.linkedin.com/jobs/view/4441719463",
+      "date": "2026-07-18",
+      "location": "Western University of Health Sciences at Pomona, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4438740824",
+      "title": "UCI Assistant/Associate/ Full Clinical Professor & Occupational Medicine Residency Director",
+      "url": "https://www.linkedin.com/jobs/view/4438740824",
+      "date": "2026-07-17",
+      "location": "UC Irvine at Irvine, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor (Commensurate with experience)",
+      "url": "https://www.indeed.com/viewjob?jk=bdfeee15736a2e3b",
+      "date": "2026-07-15",
+      "location": "University of Utah at Salt Lake City, UT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor (Commensurate with experience)",
+      "url": "https://www.indeed.com/viewjob?jk=4dc0de8f5631226f",
+      "date": "2026-07-15",
+      "location": "University of Utah at Salt Lake City, UT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4440817551",
+      "title": "Instructor/Assistant Professor",
+      "url": "https://www.linkedin.com/jobs/view/4440817551",
+      "date": "2026-07-14",
+      "location": "Drexel University at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4439359198",
+      "title": "Assistant Professor - Dean of Health Professions",
+      "url": "https://www.linkedin.com/jobs/view/4439359198",
+      "date": "2026-07-10",
+      "location": "The University of Texas Medical Branch at Galveston, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4446943994",
+      "title": "Open Rank",
+      "url": "https://www.linkedin.com/jobs/view/4446943994",
+      "date": "2026-07-06",
+      "location": "The University of North Carolina at Chapel Hill at North Carolina, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4447200671",
+      "title": "AST/ASO PROF",
+      "url": "https://www.linkedin.com/jobs/view/4447200671",
+      "date": "",
+      "location": "University of Florida - Chemical Engineering Masters Program at Gainesville, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4446963812",
+      "title": "Faculty - Tenure Track - Strategic Foresight & Business",
+      "url": "https://www.linkedin.com/jobs/view/4446963812",
+      "date": "",
+      "location": "Utah Valley University at Orem, UT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4444194590",
+      "title": "DOCS Lead Coach",
+      "url": "https://www.linkedin.com/jobs/view/4444194590",
+      "date": "",
+      "location": "University of Colorado at Aurora, CO",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Head Coach - Women's Tennis, Athletics",
       "url": "https://www.indeed.com/viewjob?jk=ef519941b1ca543d",
       "date": "2026-07-29",
       "location": "Washington and Lee University at Lexington, VA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +374,7 @@
       "location": "Missouri State University at Springfield, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +385,7 @@
       "location": "Missouri State University at Springfield, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +396,7 @@
       "location": "Western New England University at Springfield, MA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +407,7 @@
       "location": "University of Wisconsin–Madison at Madison, WI, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +418,7 @@
       "location": "Western New England University at Springfield, MA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +429,7 @@
       "location": "Hofstra University at Hempstead, NY, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +440,7 @@
       "location": "University of Texas at Austin at Austin, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +451,7 @@
       "location": "University of Wisconsin-Eau Claire at Eau Claire, WI, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +462,7 @@
       "location": "University of Wisconsin-Eau Claire at Eau Claire, WI, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,7 +473,7 @@
       "location": "College of Coastal Georgia at Brunswick, GA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -139,79 +484,7 @@
       "location": "University of California Berkeley at Berkeley, CA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4444648688",
-      "title": "Assistant/Associate/Full Adjunct or In Residence Professor",
-      "url": "https://www.linkedin.com/jobs/view/4444648688",
-      "date": "2026-07-24",
-      "location": "University of California, San Francisco at San Francisco, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Educational Leadership and Administration",
-      "url": "https://www.indeed.com/viewjob?jk=f043383ccf31d0c6",
-      "date": "2026-07-20",
-      "location": "Chicago State University at Chicago, IL, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4439230053",
-      "title": "Tenure-track Faculty Positions in Electrical and Computer Engineering, Fall 2026",
-      "url": "https://www.linkedin.com/jobs/view/4439230053",
-      "date": "2026-07-17",
-      "location": "University of Texas at Austin Department of Radio–Television–Film, TX",
-      "description": "Tenure-track faculty position for exceptional candidates in all areas of electrical and computer engineering at an R1 institution.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "artificial intelligence",
-        "machine learning",
-        "semiconductors",
-        "computer architecture",
-        "software engineering"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor - Information Technology and Software Engineering",
-      "url": "https://www.indeed.com/viewjob?jk=3592206d27488e68",
-      "date": "2026-07-15",
-      "location": "nan at Williston, VT, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant/Associate Professor of Practice (Open Rank) - Engineering Technology",
-      "url": "https://www.indeed.com/viewjob?jk=48d9ab3b185ec1fa",
-      "date": "2025-10-01",
-      "location": "The University of Texas Rio Grande Valley at Brownsville, TX, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4444169637",
-      "title": "Faculty Professor - Full-Time",
-      "url": "https://www.linkedin.com/jobs/view/4444169637",
-      "date": "",
-      "location": "University of Pittsburgh at Pittsburgh, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -664,6 +937,17 @@
       "url": "https://www.indeed.com/viewjob?jk=40d3273ea3c45113",
       "date": "2026-07-25",
       "location": "Missouri State University at Springfield, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4444648688",
+      "title": "Assistant/Associate/Full Adjunct or In Residence Professor",
+      "url": "https://www.linkedin.com/jobs/view/4444648688",
+      "date": "2026-07-24",
+      "location": "University of California, San Francisco at San Francisco, CA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1514,6 +1798,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Educational Leadership and Administration",
+      "url": "https://www.indeed.com/viewjob?jk=f043383ccf31d0c6",
+      "date": "2026-07-20",
+      "location": "Chicago State University at Chicago, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor - Critical/Experimental Film and Video Production - Department of Film & Media",
       "url": "https://www.indeed.com/viewjob?jk=4b4e5592bb91acd3",
       "date": "2026-07-20",
@@ -1727,6 +2022,23 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "www-4439230053",
+      "title": "Tenure-track Faculty Positions in Electrical and Computer Engineering, Fall 2026",
+      "url": "https://www.linkedin.com/jobs/view/4439230053",
+      "date": "2026-07-17",
+      "location": "University of Texas at Austin Department of Radio–Television–Film, TX",
+      "description": "Tenure-track faculty position for exceptional candidates in all areas of electrical and computer engineering at an R1 institution.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "artificial intelligence",
+        "machine learning",
+        "semiconductors",
+        "computer architecture",
+        "software engineering"
+      ]
     },
     {
       "id": "www-4439269761",
@@ -2400,6 +2712,17 @@
       "url": "https://www.indeed.com/viewjob?jk=d17c3a6f1e98e252",
       "date": "2026-07-16",
       "location": "Tulane University at New Orleans, LA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Information Technology and Software Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=3592206d27488e68",
+      "date": "2026-07-15",
+      "location": "nan at Williston, VT, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -24257,6 +24580,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Practice (Open Rank) - Engineering Technology",
+      "url": "https://www.indeed.com/viewjob?jk=48d9ab3b185ec1fa",
+      "date": "2025-10-01",
+      "location": "The University of Texas Rio Grande Valley at Brownsville, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant/Associate/Professor in Accounting",
       "url": "https://www.indeed.com/viewjob?jk=6a9ebb8e98029cbb",
       "date": "2025-10-01",
@@ -24451,22 +24785,11 @@
       "keywords": []
     },
     {
-      "id": "www-viewjob",
-      "title": "Microbiology & Immunology, Assistant, Associate or Full Professor",
-      "url": "https://www.indeed.com/viewjob?jk=ea4ffb774b25b91c",
-      "date": "2025-07-30",
-      "location": "University of Utah at Salt Lake City, UT, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": false,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Microbiology & Immunology, Assistant, Associate or Full Professor",
-      "url": "https://www.indeed.com/viewjob?jk=a5009a4521fe2d24",
-      "date": "2025-07-30",
-      "location": "University of Utah at Salt Lake City, UT, US",
+      "id": "www-4444169637",
+      "title": "Faculty Professor - Full-Time",
+      "url": "https://www.linkedin.com/jobs/view/4444169637",
+      "date": "",
+      "location": "University of Pittsburgh at Pittsburgh, PA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
