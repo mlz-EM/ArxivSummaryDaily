@@ -2,6 +2,8 @@
 ArXiv API configuration.
 """
 
+import os
+
 # arXiv API search settings
 SEARCH_CONFIG = {
     'max_total_results': 50,         # Max total number of papers to fetch
@@ -35,8 +37,8 @@ QUERY = '(all:"ptychography" OR all:"electron microscopy")'     # Papers in CATE
 
 # LLM API settings
 LLM_CONFIG = {
-    'api_key': "YOUR_API_HERE",                                             # Set your API key here
-    'model': 'gemini-3-flash-preview',                                      # Model name
+    'api_key': os.getenv("LLM_API_KEY", "YOUR_API_HERE"),                  # API key from the environment
+    'model': os.getenv("LLM_MODEL", "gemini-3.5-flash"),                  # Stable free-tier Gemini model
     'api_url': "https://generativelanguage.googleapis.com/v1beta/models",   # API base URL
     'temperature': 0.5,                                                     # Temperature
     'max_output_tokens': 32648,                                             # Max output tokens

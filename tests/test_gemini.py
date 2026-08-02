@@ -8,14 +8,15 @@ import requests
 from typing import Dict, Any, List, Optional
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from config.settings import GEMINI_API_KEY
+from config.settings import LLM_CONFIG
 
 class GeminiClient:
     """使用 OpenAI 风格的 API 格式调用 Gemini"""
     
-    def __init__(self, api_key: str):
+    def __init__(self, api_key: str, model: Optional[str] = None):
         self.api_key = api_key
-        self.api_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
+        selected_model = model or LLM_CONFIG["model"]
+        self.api_url = f"{LLM_CONFIG['api_url']}/{selected_model}:generateContent"
         
     def _create_headers(self) -> Dict[str, str]:
         """创建请求头"""
@@ -100,7 +101,7 @@ def test_gemini_connection():
     
     try:
         # 创建客户端
-        client = GeminiClient(GEMINI_API_KEY)
+        client = GeminiClient(LLM_CONFIG["api_key"], LLM_CONFIG["model"])
         
         # 准备测试消息
         messages = [{

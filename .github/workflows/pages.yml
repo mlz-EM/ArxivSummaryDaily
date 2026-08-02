@@ -8,6 +8,8 @@ on:
   
 jobs:
   build:
+    env:
+      LLM_MODEL: gemini-3.5-flash
     concurrency:
       group: arxivsummary-data-main
       cancel-in-progress: false
@@ -70,10 +72,7 @@ jobs:
         run: pip install -e .
 
       - name: Make Configuration
-        run: |
-          cp ./config/settings.example.py ./config/settings.py
-          sed -i '1i import os' ./config/settings.py
-          sed -i 's/"YOUR_API_HERE"/os.getenv("LLM_API_KEY")/' ./config/settings.py
+        run: cp ./config/settings.example.py ./config/settings.py
       
       - name: Build the arXiv data
         env:
