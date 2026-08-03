@@ -2,14 +2,68 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.5-flash",
-    "generatedAt": "2026-08-02T15:45:23Z",
+    "generatedAt": "2026-08-03T04:36:08Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 274 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 279 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2607.29471v1",
+      "title": "Tomographic Phase Imaging with Randomized Probe Imaging",
+      "url": "https://arxiv.org/abs/2607.29471v1",
+      "date": "2026-07-31",
+      "summary": "Demonstrates tomographic phase imaging of cubic gold nanoparticles using randomized probe imaging (RPI) to speed up data collection. The method reconstructs 3D volumes from a single diffraction pattern per projection, yielding results highly consistent with traditional, slower ptychography-tomography.",
+      "tags": [
+        "physics-optics",
+        "physics-data-an"
+      ]
+    },
+    {
+      "id": "arxiv-2607.29411v1",
+      "title": "A versatile generalized digital twin for Electron Microscopy",
+      "url": "https://arxiv.org/abs/2607.29411v1",
+      "date": "2026-07-31",
+      "summary": "Develops a versatile digital twin code package to simulate electron beam trajectories in electron microscopes. The tool successfully models the microscope column and calibrates lens models, enabling predictive determination of correct lens values for setting up new condenser or projector modes.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2607.29346v1",
+      "title": "Resolving competing distortions in Ca0.4Sr0.6TiO3 using complementary electron and X-ray techniques",
+      "url": "https://arxiv.org/abs/2607.29346v1",
+      "date": "2026-07-31",
+      "summary": "Investigates structural distortions in the perovskite Ca0.4Sr0.6TiO3 using variable temperature TEM and powder X-ray diffraction. It reveals that the phase transition proceeds via a loss of coherence in TiO6 octahedral tilting, forming nanoscale platelets with distinct local symmetry that persist well above the transition temperature.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2607.29022v1",
+      "title": "One-Step Epitaxial Access to Rhombohedral Graphene Flat-Band States on Step-Bunched SiC",
+      "url": "https://arxiv.org/abs/2607.29022v1",
+      "date": "2026-07-31",
+      "summary": "Develops a one-step epitaxial graphitization route on off-axis SiC to access thickness-tunable rhombohedral graphene multilayers. The method successfully controls thickness via annealing temperature, with spectroscopic analysis revealing pronounced near-Fermi-level flat-band states and microscopic signatures of an intervalley-mixed electronic texture.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall",
+        "cond-mat-str-el"
+      ]
+    },
+    {
+      "id": "arxiv-2607.28909v1",
+      "title": "Molecular beam epitaxy synthesis of ternary nitride PrTaN$_2$ and its crystal structure determination",
+      "url": "https://arxiv.org/abs/2607.28909v1",
+      "date": "2026-07-31",
+      "summary": "Synthesizes a novel ternary nitride, PrTaN2, as a thin film using molecular beam epitaxy and determines its crystal structure. The study successfully identifies the space group as P222 and determines atomic coordinates using a newly developed fitting procedure based on structure factors.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-other"
+      ]
+    },
     {
       "id": "arxiv-2607.26003v1",
       "title": "Element-Specific Visualization of Layer-Parity and Twist-Dependent Magnetism in CrSBr",
