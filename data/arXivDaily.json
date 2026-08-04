@@ -2,14 +2,45 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.5-flash",
-    "generatedAt": "2026-08-03T04:36:08Z",
+    "generatedAt": "2026-08-04T04:18:36Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 279 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 282 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.02029v1",
+      "title": "Emission dynamics in zincblende InAsxP1-x quantum dots in InP nanowires: influence of quantum dot size, composition and nanowire geometry",
+      "url": "https://arxiv.org/abs/2608.02029v1",
+      "date": "2026-08-03",
+      "summary": "This study investigates emission dynamics in zincblende InAsxP1-x quantum dots within InP nanowires. It finds that exciton lifetimes depend on quantum dot size, composition, and shell thickness, with thin InP shells causing spontaneous emission inhibition due to the Purcell effect.",
+      "tags": [
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2608.01601v1",
+      "title": "Physics-Informed Neural Networks for Sparse Strain-Field Reconstruction in 4D-STEM",
+      "url": "https://arxiv.org/abs/2608.01601v1",
+      "date": "2026-08-03",
+      "summary": "This study develops a physics-informed neural network (PINN) for sparse 4D-STEM strain-field reconstruction to minimize beam damage. The PINN successfully recovers strain morphology at just 10% sampling, outperforming compressed sensing and Gaussian-process regression while improving physical self-consistency.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-ins-det"
+      ]
+    },
+    {
+      "id": "arxiv-2608.01210v1",
+      "title": "EBSD and Subtle Crystallographic Differences - A Study of Resolving Interlayer Spacings in Nb-Ni and Nb-Co mu-phases",
+      "url": "https://arxiv.org/abs/2608.01210v1",
+      "date": "2026-08-02",
+      "summary": "This study evaluates the capability of electron backscatter diffraction (EBSD) to resolve subtle crystallographic features in mu-phase intermetallics. By combining pattern matching with dynamical simulations, the authors successfully resolve interlayer spacings in Nb-Co and Nb-Ni mu-phases, aligning with XRD and HR-TEM benchmarks.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2607.29471v1",
       "title": "Tomographic Phase Imaging with Randomized Probe Imaging",
