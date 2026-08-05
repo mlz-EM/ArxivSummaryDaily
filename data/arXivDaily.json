@@ -2,14 +2,38 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.5-flash",
-    "generatedAt": "2026-08-04T04:18:36Z",
+    "generatedAt": "2026-08-05T04:17:06Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 282 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 285 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.03513v1",
+      "title": "Vector-field control and emergent basal-plane anisotropy of magnetic textures in noncentrosymmetric (Fe$_{0.63}$Ni$_{0.3}$Pd$_{0.07}$)$_3$P",
+      "url": "https://arxiv.org/abs/2608.03513v1",
+      "date": "2026-08-04",
+      "summary": "This study investigates magnetic textures in (Fe0.63Ni0.3Pd0.07)3P under vector magnetic fields across temperatures. The authors demonstrate deterministic vector-field control of magnetic stripe domains and reveal a temperature-driven evolution of the effective Dzyaloshinskii-Moriya interaction landscape and anisotropic interactions below 50 K.",
+      "tags": [
+        "cond-mat-mes-hall",
+        "cond-mat-mtrl-sci",
+        "cond-mat-str-el"
+      ]
+    },
+    {
+      "id": "arxiv-2608.03344v1",
+      "title": "Picometre-scale real-time drift correction in TEM and STEM by dynamic control of the specimen stage for atomic-resolution imaging",
+      "url": "https://arxiv.org/abs/2608.03344v1",
+      "date": "2026-08-04",
+      "summary": "This work aims to actively compensate for specimen drift in TEM and STEM using a real-time feedback framework that dynamically controls the specimen stage. The authors successfully achieve picometre-scale stabilization with piezoelectric stages, enabling drift-corrected atomic-resolution imaging and improving long-exposure and in situ experiments without requiring hardware modifications.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-app-ph",
+        "physics-ins-det"
+      ]
+    },
     {
       "id": "arxiv-2608.02029v1",
       "title": "Emission dynamics in zincblende InAsxP1-x quantum dots in InP nanowires: influence of quantum dot size, composition and nanowire geometry",
@@ -29,6 +53,17 @@
       "tags": [
         "cond-mat-mtrl-sci",
         "physics-ins-det"
+      ]
+    },
+    {
+      "id": "arxiv-2608.02782v1",
+      "title": "QuScope: An Open-Source Python Framework for Quantum-Circuit Simulation of Transmission Electron Microscopy",
+      "url": "https://arxiv.org/abs/2608.02782v1",
+      "date": "2026-08-03",
+      "summary": "This paper introduces QuScope, an open-source Python framework designed to simulate the complete transmission electron microscopy image-formation pipeline using quantum circuits. The authors successfully validate the quantum-circuit implementations against classical simulations, achieving unit fidelity for exit waves in conventional and multislice imaging modes.",
+      "tags": [
+        "quant-ph",
+        "cond-mat-mtrl-sci"
       ]
     },
     {

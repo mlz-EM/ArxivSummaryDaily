@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.5-flash",
-    "generatedAt": "2026-08-04T04:20:13Z",
+    "generatedAt": "2026-08-05T04:18:30Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,563 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Instructor Business, Statistics HV-FAC-Stats F27",
+      "url": "https://www.indeed.com/viewjob?jk=dd66618729800867",
+      "date": "2026-08-04",
+      "location": "Hudson Valley Community College at Troy, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Research Assistant Professor - Isotope Geochemistry",
+      "url": "https://www.indeed.com/viewjob?jk=502e936abfbd9a15",
+      "date": "2026-08-04",
+      "location": "University of Houston at Houston, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor of Actuarial Science",
+      "url": "https://www.indeed.com/viewjob?jk=679e6d5afd32926f",
+      "date": "2026-08-04",
+      "location": "Purdue University at Indianapolis, IN, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Assistant/Associate Professor of Digital Art",
+      "url": "https://www.indeed.com/viewjob?jk=e227e146f29823f8",
+      "date": "2026-08-04",
+      "location": "Indiana University at Bloomington, IN, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=be8ea03a90de3c95",
+      "date": "2026-08-04",
+      "location": "New Mexico State University at Las Cruces, NM, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track/Tenured: Assistant or Associate Professor, AI for Autonomous Agricultural Systems-Robotics & Sensing",
+      "url": "https://www.indeed.com/viewjob?jk=c5ffc76399c2422b",
+      "date": "2026-08-04",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Faculty - Tenure-Track, Assistant Professor- Architecture Technology",
+      "url": "https://www.indeed.com/viewjob?jk=7da3c80cca8b4d53",
+      "date": "2026-08-04",
+      "location": "Utah Valley University at Orem, UT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate Professor/Professor",
+      "url": "https://www.indeed.com/viewjob?jk=ab6c6bacd8ebe77f",
+      "date": "2026-08-04",
+      "location": "University of Kansas at Lawrence, KS, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Sociology and Criminal Justice - 3419",
+      "url": "https://www.indeed.com/viewjob?jk=9f1039f7f6bc3d59",
+      "date": "2026-08-04",
+      "location": "University of North Carolina at Pembroke at Pembroke, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Criminal Justice - 3505",
+      "url": "https://www.indeed.com/viewjob?jk=d9442c79f581afb6",
+      "date": "2026-08-04",
+      "location": "University of North Carolina at Pembroke at Pembroke, NC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Operations Management",
+      "url": "https://www.indeed.com/viewjob?jk=e13e205ab81db0f4",
+      "date": "2026-08-04",
+      "location": "University of Kansas at Lawrence, KS, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Political Science",
+      "url": "https://www.indeed.com/viewjob?jk=cdb6e3b3fc38d2ef",
+      "date": "2026-08-04",
+      "location": "Barnard College at New York, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant, Associate or Full Professor of Chemistry",
+      "url": "https://www.indeed.com/viewjob?jk=01feb16a0ffd78cf",
+      "date": "2026-08-04",
+      "location": "Furman University at Greenville, SC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor (TT), Industrial and Organizational Psychology",
+      "url": "https://www.indeed.com/viewjob?jk=4c1c5d72077c9c22",
+      "date": "2026-08-04",
+      "location": "The University of Akron at Akron, OH, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Marketing",
+      "url": "https://www.indeed.com/viewjob?jk=f85881df76de43e8",
+      "date": "2026-08-04",
+      "location": "St. John Fisher University at Rochester, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Practice in Management and Marketing",
+      "url": "https://www.indeed.com/viewjob?jk=3f4ddb31a9c25381",
+      "date": "2026-08-04",
+      "location": "St. John Fisher University at Rochester, NY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor in Biotechnology",
+      "url": "https://www.indeed.com/viewjob?jk=d01f50dd52289328",
+      "date": "2026-08-04",
+      "location": "American University at Washington, DC, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Accounting",
+      "url": "https://www.indeed.com/viewjob?jk=c5a45395661492e1",
+      "date": "2026-08-04",
+      "location": "Dillard University at New Orleans, LA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Applied Health Science",
+      "url": "https://www.indeed.com/viewjob?jk=ce90468517d63ae7",
+      "date": "2026-08-04",
+      "location": "Northwest Missouri State University at Maryville, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4448169067",
+      "title": "Co-program Director, AST/ASO/FULL PROF--Department of Neurosurgery, AI Research",
+      "url": "https://www.linkedin.com/jobs/view/4448169067",
+      "date": "2026-08-03",
+      "location": "University of Florida - Chemical Engineering Masters Program at Gainesville, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Open Field - Demography",
+      "url": "https://www.indeed.com/viewjob?jk=23852fd57ba449c0",
+      "date": "2026-08-03",
+      "location": "University of California Berkeley at Berkeley, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor Sport Management",
+      "url": "https://www.indeed.com/viewjob?jk=eebdae9d606db537",
+      "date": "2026-08-03",
+      "location": "Midway University at Midway, KY, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track Nonmarket Strategy/Political Economy Position",
+      "url": "https://www.indeed.com/viewjob?jk=b78f6704df2fcf57",
+      "date": "2026-08-03",
+      "location": "University of Texas at Austin at Austin, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Department of Political Science - International Relations",
+      "url": "https://www.indeed.com/viewjob?jk=d22eb33c235672d7",
+      "date": "2026-08-03",
+      "location": "Bridgewater State University at Bridgewater, MA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4438337191",
+      "title": "Faculty-Clinician Educator",
+      "url": "https://www.linkedin.com/jobs/view/4438337191",
+      "date": "2026-08-01",
+      "location": "NYU Langone Health at Brooklyn, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4447574599",
+      "title": "Faculty Associate in Theatre",
+      "url": "https://www.linkedin.com/jobs/view/4447574599",
+      "date": "2026-07-31",
+      "location": "Arizona State University at Tempe, AZ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4446863545",
+      "title": "Open Rank - Clinical Faculty - Assistant Director for the Longitudinal Integrated Clerkship",
+      "url": "https://www.linkedin.com/jobs/view/4446863545",
+      "date": "2026-07-30",
+      "location": "University of Houston at Houston, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-3725136987",
+      "title": "Professor",
+      "url": "https://www.linkedin.com/jobs/view/3725136987",
+      "date": "2026-07-30",
+      "location": "Oregon Health & Science University at Portland, Oregon Metropolitan Area",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4447090894",
+      "title": "Faculty of Practice or of Instruction - Concrete Industry Management",
+      "url": "https://www.linkedin.com/jobs/view/4447090894",
+      "date": "2026-07-30",
+      "location": "Texas State University at Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4443625557",
+      "title": "Educational Faculty - Boise Program",
+      "url": "https://www.linkedin.com/jobs/view/4443625557",
+      "date": "2026-07-30",
+      "location": "Full Circle Health at Boise, ID",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4446823086",
+      "title": "OMM/Primary Care Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4446823086",
+      "date": "2026-07-29",
+      "location": "Touro University at Great Falls, MT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4444698261",
+      "title": "Instructor Position - Division of Geriatric Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4444698261",
+      "date": "2026-07-25",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4444499543",
+      "title": "Inpatient Geriatric Faculty Position - Associate/Full Professor, Academic Clinician Track",
+      "url": "https://www.linkedin.com/jobs/view/4444499543",
+      "date": "2026-07-25",
+      "location": "University of Pennsylvania at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4441585023",
+      "title": "Assistant/Associate/Full Professor and Program Director, Master of Science in Physician Associate Studies",
+      "url": "https://www.linkedin.com/jobs/view/4441585023",
+      "date": "2026-07-23",
+      "location": "Keck Graduate Institute at Claremont, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4442648771",
+      "title": "Vice Chair of Education – Emergency Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4442648771",
+      "date": "2026-07-21",
+      "location": "Penn State Health at Hershey, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4442555548",
+      "title": "Generalist\nClinician Educator Academic Line",
+      "url": "https://www.linkedin.com/jobs/view/4442555548",
+      "date": "2026-07-20",
+      "location": "Stanford Menopause & Healthy Aging at State Line City, IN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4441310699",
+      "title": "Physician Faculty (full time)",
+      "url": "https://www.linkedin.com/jobs/view/4441310699",
+      "date": "2026-07-17",
+      "location": "Lake Erie College of Osteopathic Medicine (LECOM) at Erie, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4438488975",
+      "title": "Open-Rank Faculty Position in Biology",
+      "url": "https://www.linkedin.com/jobs/view/4438488975",
+      "date": "2026-07-16",
+      "location": "Top 2 Percent Scientists at Lakeland, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4440758903",
+      "title": "Assistant Professor",
+      "url": "https://www.linkedin.com/jobs/view/4440758903",
+      "date": "2026-07-16",
+      "location": "UAB Medicine at Birmingham, AL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4432864005",
+      "title": "Clinical Assistant/Associate Professor & Director of Clinical Education - Master of Medical Science Physician Assistant Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4432864005",
+      "date": "2026-07-16",
+      "location": "Tarleton State University at Stephenville, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4440284962",
+      "title": "Instructor at the Center for the Treatment and Study of Anxiety",
+      "url": "https://www.linkedin.com/jobs/view/4440284962",
+      "date": "2026-07-15",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4440818986",
+      "title": "CLINICAL INSTRUCTOR/CLINICAL ASST PROFESSOR/CLINICAL ASSOC PROFESSOR/CLINICAL PROFESSOR",
+      "url": "https://www.linkedin.com/jobs/view/4440818986",
+      "date": "2026-07-15",
+      "location": "Michigan Medicine at Ann Arbor, MI",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4440311088",
+      "title": "Physician Training Director (Longevity Medicine)",
+      "url": "https://www.linkedin.com/jobs/view/4440311088",
+      "date": "2026-07-13",
+      "location": "Hone Health at New York, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4438398836",
+      "title": "Visiting Assistant Clinical Professor",
+      "url": "https://www.linkedin.com/jobs/view/4438398836",
+      "date": "2026-07-11",
+      "location": "University of the Pacific at Sacramento, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4439514027",
+      "title": "LEO Lecturer I - N481 Leadership for Professional Practice Improvement",
+      "url": "https://www.linkedin.com/jobs/view/4439514027",
+      "date": "2026-07-11",
+      "location": "University of Michigan at Ann Arbor, MI",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4449004697",
+      "title": "Assistant, Associate or Full Professor (HS Clinical, Clinical X, In-Residence, Adjunct) Epilepsy",
+      "url": "https://www.linkedin.com/jobs/view/4449004697",
+      "date": "",
+      "location": "UC San Diego Academic Jobs at San Diego, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4447324306",
+      "title": "Generalist Open Rank– Senior Instructor-Professor",
+      "url": "https://www.linkedin.com/jobs/view/4447324306",
+      "date": "",
+      "location": "University of Colorado at Aurora, CO",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4448576425",
+      "title": "Post Doctoral Research Associate",
+      "url": "https://www.linkedin.com/jobs/view/4448576425",
+      "date": "",
+      "location": "Excel Campus Activities at Arlington, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4449094594",
+      "title": "CLINICAL ASSOCIATE PROFESSOR",
+      "url": "https://www.linkedin.com/jobs/view/4449094594",
+      "date": "",
+      "location": "H1B Metrics at Iowa City, IA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4449090644",
+      "title": "ASSISTANT PROFESSOR OF CLINICAL MEDICINE",
+      "url": "https://www.linkedin.com/jobs/view/4449090644",
+      "date": "",
+      "location": "H1B Metrics at Avon, IN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Faculty: Politics, Policy and International Relations, (Public Policy; Policy Lab), Full-Time, Tenure-Track",
       "url": "https://www.indeed.com/viewjob?jk=9f2285b3e95b2f11",
       "date": "2026-08-03",
       "location": "Salem State University at Salem, MA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +579,7 @@
       "location": "University of North Texas - Dallas at Dallas, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +590,7 @@
       "location": "Fort Valley State University at Fort Valley, GA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +601,7 @@
       "location": "University of Florida at Gainesville, FL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +612,7 @@
       "location": "U.S. Citizenship and Immigration Services at AL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +623,7 @@
       "location": "Community College of Rhode Island at Warwick, RI, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +634,7 @@
       "location": "University of Pittsburgh at Pittsburgh, PA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +645,7 @@
       "location": "Prairie View A&M University at Prairie View, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +656,7 @@
       "location": "Saint Louis University at St. Louis, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +667,7 @@
       "location": "Salem State University at Salem, MA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,7 +678,7 @@
       "location": "Missouri State University at Springfield, MO, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -139,7 +689,7 @@
       "location": "Texas A&M University at College Station, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -150,7 +700,7 @@
       "location": "Texas A&M University at College Station, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -161,7 +711,7 @@
       "location": "University of Texas at Arlington at Arlington, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -172,7 +722,7 @@
       "location": "Salem State University at Salem, MA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -183,7 +733,7 @@
       "location": "University Of Washington at Seattle, WA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -194,7 +744,7 @@
       "location": "Monroe Community College at Rochester, NY",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -205,61 +755,8 @@
       "location": "Washington and Lee University at Lexington, VA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
-    },
-    {
-      "id": "www-4444560232",
-      "title": "LC Faculty TT/TN 12m",
-      "url": "https://www.linkedin.com/jobs/view/4444560232",
-      "date": "2026-07-30",
-      "location": "NMSU Conference Services at Las Cruces, NM",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Professor of Accounting (Assistant or Associate)",
-      "url": "https://www.indeed.com/viewjob?jk=af046eb9d9376d7a",
-      "date": "2026-07-30",
-      "location": "University of Texas at Austin at Austin, TX, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4439255086",
-      "title": "Tenured/Tenure Track Faculty | Aerospace and Mechanical Engineering",
-      "url": "https://www.linkedin.com/jobs/view/4439255086",
-      "date": "2026-07-17",
-      "location": "Notre Dame, IN",
-      "description": "Tenure-track bioengineering faculty position focusing on the intersection of engineering and biology.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "bioengineering",
-        "aerospace engineering",
-        "mechanical engineering"
-      ]
-    },
-    {
-      "id": "www-4448161587",
-      "title": "AST/ASO/FULL PROF in Artificial Intelligence for Quantum Chemistry",
-      "url": "https://www.linkedin.com/jobs/view/4448161587",
-      "date": "2026-07-16",
-      "location": "Gainesville, FL",
-      "description": "Tenure-track faculty position in artificial intelligence for quantum chemistry of molecular quantum materials.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "quantum chemistry",
-        "artificial intelligence",
-        "quantum materials",
-        "materials science"
-      ]
     },
     {
       "id": "www-viewjob",
@@ -531,6 +1028,28 @@
       "url": "https://www.indeed.com/viewjob?jk=910a9d6d4c7b2269",
       "date": "2026-07-31",
       "location": "Columbia University at US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4444560232",
+      "title": "LC Faculty TT/TN 12m",
+      "url": "https://www.linkedin.com/jobs/view/4444560232",
+      "date": "2026-07-30",
+      "location": "NMSU Conference Services at Las Cruces, NM",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Professor of Accounting (Assistant or Associate)",
+      "url": "https://www.indeed.com/viewjob?jk=af046eb9d9376d7a",
+      "date": "2026-07-30",
+      "location": "University of Texas at Austin at Austin, TX, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2660,6 +3179,21 @@
       "keywords": []
     },
     {
+      "id": "www-4439255086",
+      "title": "Tenured/Tenure Track Faculty | Aerospace and Mechanical Engineering",
+      "url": "https://www.linkedin.com/jobs/view/4439255086",
+      "date": "2026-07-17",
+      "location": "Notre Dame, IN",
+      "description": "Tenure-track bioengineering faculty position focusing on the intersection of engineering and biology.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "bioengineering",
+        "aerospace engineering",
+        "mechanical engineering"
+      ]
+    },
+    {
       "id": "www-4439229132",
       "title": "The Grainger College of Engineering: Faculty (Open Rank) - Aerospace Engineering",
       "url": "https://www.linkedin.com/jobs/view/4439229132",
@@ -3135,6 +3669,22 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "www-4448161587",
+      "title": "AST/ASO/FULL PROF in Artificial Intelligence for Quantum Chemistry",
+      "url": "https://www.linkedin.com/jobs/view/4448161587",
+      "date": "2026-07-16",
+      "location": "Gainesville, FL",
+      "description": "Tenure-track faculty position in artificial intelligence for quantum chemistry of molecular quantum materials.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "quantum chemistry",
+        "artificial intelligence",
+        "quantum materials",
+        "materials science"
+      ]
     },
     {
       "id": "www-4440798617",
