@@ -2,14 +2,45 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.5-flash",
-    "generatedAt": "2026-08-05T04:17:06Z",
+    "generatedAt": "2026-08-06T04:20:05Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 285 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 289 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.04813v1",
+      "title": "Growth and characterization of GaN/Ga2O3 Nanowire Heterostructures for Ultraviolet Optoelectronics",
+      "url": "https://arxiv.org/abs/2608.04813v1",
+      "date": "2026-08-05",
+      "summary": "This study aims to fabricate and characterize GaN/beta-Ga2O3 heterostructures for ultraviolet optoelectronics. The researchers successfully developed planar and core/shell nanowire geometries, finding that the planar heterojunction diodes exhibit pronounced rectifying behavior and a self-powered, visible-blind ultraviolet photoresponse under zero external bias.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2608.04725v1",
+      "title": "Nanomechanics of MXene flakes at gold interfaces",
+      "url": "https://arxiv.org/abs/2608.04725v1",
+      "date": "2026-08-05",
+      "summary": "This study investigates the nanomechanical properties of self-assembled titanium carbide MXene flakes against a gold interface. Using atomic force microscopy, the authors determined an interfacial shear stress of 399 MPa and observed localized nano-wear in the flake center, while finding that the MXene flakes successfully retained their crystallinity within the tribofilms.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2608.04490v1",
+      "title": "Nano-scale visualization of magnetic vortices in metal nanoparticles",
+      "url": "https://arxiv.org/abs/2608.04490v1",
+      "date": "2026-08-05",
+      "summary": "The study aims to achieve direct, quantitative visualization of magnetic vortex structures in individual cobalt nanoparticles. By combining a time-reversal methodology with differential phase contrast scanning transmission electron microscopy, the authors successfully imaged the complete vortex structure, revealed how particle geometry correlates with internal demagnetizing fields, and determined the out-of-plane core polarity.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2608.03513v1",
       "title": "Vector-field control and emergent basal-plane anisotropy of magnetic textures in noncentrosymmetric (Fe$_{0.63}$Ni$_{0.3}$Pd$_{0.07}$)$_3$P",
@@ -32,6 +63,17 @@
         "cond-mat-mtrl-sci",
         "physics-app-ph",
         "physics-ins-det"
+      ]
+    },
+    {
+      "id": "arxiv-2608.04216v1",
+      "title": "Computational Microstructure Analysis of Sintered Ceramics",
+      "url": "https://arxiv.org/abs/2608.04216v1",
+      "date": "2026-08-04",
+      "summary": "The objective is to develop an automated pipeline for extracting microstructural properties from SEM images of sintered ceramics. The authors found that combining topological filtering with Sauvola thresholding successfully segments the images, achieving high validation Intersection over Union (IoU) scores of up to 99.85% compared to manual analysis.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cs-ce"
       ]
     },
     {
