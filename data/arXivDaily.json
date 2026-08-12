@@ -2,14 +2,34 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.5-flash",
-    "generatedAt": "2026-08-11T03:06:53Z",
+    "generatedAt": "2026-08-12T03:25:38Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 293 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 295 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.11165v1",
+      "title": "Structural, Optical and Magnetic Properties of Superparamagnetic Fe3O4@TiO2 and Fe3O4@SiO2@TiO2 CoreShell Nanostructures",
+      "url": "https://arxiv.org/abs/2608.11165v1",
+      "date": "2026-08-11",
+      "summary": "This work synthesizes and characterizes core-shell Fe3O4@TiO2 and Fe3O4@SiO2@TiO2 nanostructures to evaluate their structural, optical, and magnetic properties. The findings highlight the potential of these magnetic-core and optically-active-shell nanostructures for multimodal cancer therapies, including magnetic resonance imaging and magnetic hyperthermia therapy.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2608.10226v1",
+      "title": "Revealing the Atomic Structure of NiO/Ga$_{2}$O$_{3}$ Interfaces",
+      "url": "https://arxiv.org/abs/2608.10226v1",
+      "date": "2026-08-10",
+      "summary": "This study investigates the atomistic structure of NiO/Ga2O3 interfaces across various substrate orientations using aberration-corrected STEM and interface modeling. The findings support the use of (100) oriented Ga2O3 as the optimal candidate for fabricating high-quality, low-defect-density heterojunction devices, while highlighting the impact of specimen thickness and projection effects on interface interpretation.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2608.08540v1",
       "title": "Quasi-Sinusoidal Single Diamond Structure in Royal Jewel Butterfly: An Angle-Independent Photonic Structure",
