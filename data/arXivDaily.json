@@ -2,14 +2,34 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.5-flash",
-    "generatedAt": "2026-08-12T03:25:38Z",
+    "generatedAt": "2026-08-13T03:29:48Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 295 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 298 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.12040v1",
+      "title": "Spatial and energetic correlations of ultrashort two electron pulses",
+      "url": "https://arxiv.org/abs/2608.12040v1",
+      "date": "2026-08-12",
+      "summary": "This study aims to characterize the 3D spatial and energetic correlations of ultrashort two-electron pulses from metallic needle tips. The authors find that electron pairs exhibit a 3.3 eV energy gap at small spatial separations and a 34.5% increase in divergence angle at small energy separations, enabling a simple filtering method to generate strongly sub-Poissonian electron beams.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2608.11773v1",
+      "title": "Advancing in situ hydrogen embrittlement studies through an integrated charging cell for SEM micromechanical testing",
+      "url": "https://arxiv.org/abs/2608.11773v1",
+      "date": "2026-08-12",
+      "summary": "This study aims to develop a robust 3-electrode back-side hydrogen-charging system for SEM micromechanical testing. Testing on an Fe-25Cr single crystal reveals that hydrogen increases yield strength and strain-hardening rate by activating multiple slip systems and enhancing dislocation density, demonstrating that deformation is controlled by solute drag and dislocation forest hardening.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2608.11165v1",
       "title": "Structural, Optical and Magnetic Properties of Superparamagnetic Fe3O4@TiO2 and Fe3O4@SiO2@TiO2 CoreShell Nanostructures",
@@ -17,6 +37,17 @@
       "date": "2026-08-11",
       "summary": "This work synthesizes and characterizes core-shell Fe3O4@TiO2 and Fe3O4@SiO2@TiO2 nanostructures to evaluate their structural, optical, and magnetic properties. The findings highlight the potential of these magnetic-core and optically-active-shell nanostructures for multimodal cancer therapies, including magnetic resonance imaging and magnetic hyperthermia therapy.",
       "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2608.11447v1",
+      "title": "Predicting Mechanical Properties of Lignin-Containing Polyurethane Rigid Foams from Microstructure Using Convolutional Neural Networks",
+      "url": "https://arxiv.org/abs/2608.11447v1",
+      "date": "2026-08-11",
+      "summary": "This study aims to predict the mechanical properties of bio-based, lignin-containing rigid polyurethane foams from microstructural images using a custom convolutional neural network (CNN). The optimized CNN achieved high predictive performance (R2 of 0.850 to 0.91) for density and mechanical strength by successfully focusing on physically meaningful microstructural features like cell walls and strut junctions.",
+      "tags": [
+        "cs-ce",
         "cond-mat-mtrl-sci"
       ]
     },
