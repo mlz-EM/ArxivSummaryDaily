@@ -195,6 +195,31 @@ class TestIncrementalPaperFlow(unittest.TestCase):
 
 
 class TestIncrementalJobFlow(unittest.TestCase):
+    def test_job_prompt_excludes_biological_backgrounds(self):
+        job = {
+            "title": "Tenure-Track Faculty Positions",
+            "company": "Example University",
+            "location": "Cambridge, MA",
+            "date_posted": "2026-08-04",
+            "description": "Seeks structural biology faculty using cryo-electron tomography.",
+            "job_url": "https://example.com/job-1",
+        }
+        summarizer = JobSummarizer(api_key="dummy", model="test-model")
+        captured = {}
+
+        def fake_completion(messages):
+            captured["prompt"] = messages[0]["content"]
+            return {"choices": [{"message": {"content": "[]"}}]}
+
+        summarizer.client.chat_completion = fake_completion
+        items, success = summarizer._generate_batch_summaries([job], 1)
+
+        self.assertTrue(success)
+        self.assertEqual(items, [])
+        self.assertIn("Remove it entirely; do not output it with fitScore 1", captured["prompt"])
+        self.assertIn("cryo-electron microscopy or tomography", captured["prompt"])
+        self.assertIn("Those techniques do not make a biological position a materials fit", captured["prompt"])
+
     def test_job_summarizer_skips_jobs_already_present_in_json(self):
         job = {
             "title": "Faculty Role",

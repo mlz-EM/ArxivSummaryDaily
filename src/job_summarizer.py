@@ -89,14 +89,19 @@ inside it and apply only these rules:
 Rules:
 1. Remove jobs that are clearly unrelated (e.g., humanities, medical school, administrative roles).
 2. Remove jobs that are not tenure-track (e.g., adjunct, teaching faculty only).
-3. For remaining jobs, score fitScore from 1 to 3 (integer only).
-4. Description must be one concise sentence under 20 words.
-5. Output JSON only (no markdown, no explanation).
-6. Output array items with keys exactly:
+3. Remove any job whose required or specifically preferred candidate background is biology, biological or life sciences, microbiology, neuroscience, physiology, biomedicine, biomedical science or engineering, medicine, clinical science, health science, or a closely related biological discipline. Remove it entirely; do not output it with fitScore 1.
+4. Apply rule 3 even when the work uses electron microscopy, cryo-electron microscopy or tomography, structural biology, microscopy, imaging, instrumentation, characterization, or data analysis. Those techniques do not make a biological position a materials fit.
+5. Score fit from the position's primary research field and hiring requirements, not from incidental use of a transferable technique.
+6. Give fitScore 3 only for direct alignment with materials science/engineering, electron microscopy of materials, advanced materials characterization, or structure-property relationships in materials.
+7. Give fitScore 2 for adjacent engineering, physics, or chemistry roles with explicit and substantial materials relevance.
+8. For all remaining jobs, fitScore must be an integer from 1 to 3.
+9. Description must be one concise sentence under 20 words.
+10. Output JSON only (no markdown, no explanation).
+11. Output array items with keys exactly:
    title, url, date, location, description, fitScore, keywords
-7. date must be YYYY-MM-DD.
-8. url must match one of the provided job_url values exactly.
-9. keywords must be an array (use [] when unknown).
+12. date must be YYYY-MM-DD.
+13. url must match one of the provided job_url values exactly.
+14. keywords must be an array (use [] when unknown).
 
 Example output:
 [
