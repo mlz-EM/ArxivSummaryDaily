@@ -9,7 +9,7 @@ on:
 jobs:
   build:
     env:
-      LLM_MODEL: gemini-3.5-flash
+      LLM_MODEL: gemini-3.6-flash
     concurrency:
       group: arxivsummary-data-main
       cancel-in-progress: false
@@ -79,10 +79,89 @@ jobs:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
         run: arxivsummary
 
+      - name: Discover new Interfolio jobs
+        env:
+          INTERFOLIO_ENABLE_LIVE: 'true'
+        run: |
+          if [ ! -s data/interfolioScanState.json ]; then
+            echo "::warning::Interfolio bootstrap state is absent; run the documented local bootstrap first."
+            exit 0
+          fi
+          interfoliojobs --output-dir data scan --mode daily --start-id 180000
+
+      - name: Update Interfolio tenant directory
+        run: |
+          if [ -s data/interfolioJobsPending.json ]; then
+            interfoliojobs --output-dir data directory
+          fi
+
+      - name: Summarize new Interfolio jobs
+        id: summarize-interfolio
+        continue-on-error: true
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+        run: |
+          if [ -s data/interfolioJobsPending.json ]; then
+            interfoliojobs --output-dir data summarize
+          fi
+
+      - name: Discover new Chronicle jobs
+        env:
+          CHRONICLE_ENABLE_LIVE: 'true'
+        run: |
+          if [ ! -s data/chronicleScanState.json ]; then
+            echo "::warning::Chronicle bootstrap state is absent; run the documented local bootstrap first."
+            exit 0
+          fi
+          chroniclejobs --output-dir data scan --mode daily
+
+      - name: Summarize new Chronicle jobs
+        id: summarize-chronicle
+        continue-on-error: true
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+        run: |
+          if [ -s data/chronicleJobsPending.json ]; then
+            chroniclejobs --output-dir data summarize
+          fi
+
+      - name: Discover new Inside Higher Ed jobs
+        env:
+          INSIDE_HIGHER_ED_ENABLE_LIVE: 'true'
+        run: |
+          if [ ! -s data/insideHigherEdScanState.json ]; then
+            echo "::warning::Inside Higher Ed bootstrap state is absent; run the documented local bootstrap first."
+            exit 0
+          fi
+          insidehigheredjobs --output-dir data scan --mode daily
+
+      - name: Summarize new Inside Higher Ed jobs
+        id: summarize-inside-higher-ed
+        continue-on-error: true
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+        run: |
+          if [ -s data/insideHigherEdJobsPending.json ]; then
+            insidehigheredjobs --output-dir data summarize
+          fi
+
       - name: Build the Job data
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
         run: jobsummary
+
+      - name: Report deferred faculty-job summaries
+        if: always()
+        run: |
+          if [ "${{ steps.summarize-interfolio.outcome }}" = "failure" ]; then
+            echo "::warning::Interfolio summary incomplete; its pending queue will be committed for retry."
+          fi
+          if [ "${{ steps.summarize-chronicle.outcome }}" = "failure" ]; then
+            echo "::warning::Chronicle summary incomplete; its pending queue will be committed for retry."
+          fi
+          if [ "${{ steps.summarize-inside-higher-ed.outcome }}" = "failure" ]; then
+            echo "::warning::Inside Higher Ed summary incomplete; its pending queue will be committed for retry."
+          fi
 
       - name: Commit database files to main repo
         run: |
@@ -95,6 +174,15 @@ jobs:
       - name: Copy JSON feed files to personal-site/src/data
         run: |
           cp ./data/*Daily.json personal-site/src/data/
+          if [ -s data/interfolioJobsSummary.json ]; then
+            cp data/interfolioJobsSummary.json personal-site/src/data/
+          fi
+          if [ -s data/chronicleJobsSummary.json ]; then
+            cp data/chronicleJobsSummary.json personal-site/src/data/
+          fi
+          if [ -s data/insideHigherEdJobsSummary.json ]; then
+            cp data/insideHigherEdJobsSummary.json personal-site/src/data/
+          fi
 
       - name: Commit and push to personal-site
         run: |
@@ -103,5 +191,14 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add src/data/arXivDaily.json
           git add src/data/jobsDaily.json
-          git commit -m "Update JSON feeds from arXiv/jobsDaily run ${{ github.run_id }}" || echo "No changes to commit"
+          if [ -f src/data/interfolioJobsSummary.json ]; then
+            git add src/data/interfolioJobsSummary.json
+          fi
+          if [ -f src/data/chronicleJobsSummary.json ]; then
+            git add src/data/chronicleJobsSummary.json
+          fi
+          if [ -f src/data/insideHigherEdJobsSummary.json ]; then
+            git add src/data/insideHigherEdJobsSummary.json
+          fi
+          git commit -m "Update JSON feeds from run ${{ github.run_id }}" || echo "No changes to commit"
           git push

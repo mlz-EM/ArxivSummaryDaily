@@ -33,7 +33,6 @@ ENV/
 *.swo
 
 # Project specific
-tests/
 *.log
 .DS_Store
 */.DS_Store

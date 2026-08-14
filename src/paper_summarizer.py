@@ -26,7 +26,9 @@ class PaperSummarizer:
 
     def __init__(self, api_key: str, model: Optional[str] = None):
         self.client = LLMModelClient(api_key, model)
-        self.max_papers_per_batch = 100
+        # Twenty abstracts per request keeps each prompt focused and makes a
+        # malformed or incomplete response affect only a small retryable batch.
+        self.max_papers_per_batch = 20
 
     def _filter_new_papers(self, papers: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         return dedupe_incoming_by_url(papers, "entry_id")

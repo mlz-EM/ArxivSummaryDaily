@@ -4,6 +4,7 @@ import json
 import os
 import tempfile
 import unittest
+from datetime import datetime
 from pathlib import Path
 from types import SimpleNamespace
 from unittest import mock
@@ -12,7 +13,25 @@ from config.settings import CATEGORIES, QUERY, SEARCH_CONFIG
 from src import cli
 from src.arxiv_client import ArxivClient
 from src.job_summarizer import JobSummarizer
+from src.llm_client import LLMModelClient
 from src.paper_summarizer import PaperSummarizer
+
+
+class TestLLMModelClient(unittest.TestCase):
+    def test_gemini_36_omits_deprecated_sampling_parameters(self):
+        body = LLMModelClient("dummy", "gemini-3.6-flash")._create_request_body(
+            [{"role": "user", "content": "hello"}]
+        )
+
+        generation_config = body["generationConfig"]
+        self.assertIn("maxOutputTokens", generation_config)
+        self.assertNotIn("temperature", generation_config)
+        self.assertNotIn("topP", generation_config)
+        self.assertNotIn("topK", generation_config)
+
+    def test_summarizer_batch_sizes_are_bounded(self):
+        self.assertEqual(PaperSummarizer("dummy", "test-model").max_papers_per_batch, 20)
+        self.assertEqual(JobSummarizer("dummy", "test-model").max_papers_per_batch, 20)
 
 
 class TestArxivClient(unittest.TestCase):
@@ -39,7 +58,14 @@ class TestArxivClient(unittest.TestCase):
             )
 
     def test_save_results(self):
-        results = [{"title": "Test Paper", "authors": ["Test Author"], "entry_id": "id-1", "published": "2026-03-10T00:00:00"}]
+        results = [
+            {
+                "title": "Test Paper",
+                "authors": ["Test Author"],
+                "entry_id": "id-1",
+                "published": datetime.now().replace(microsecond=0).isoformat(),
+            }
+        ]
 
         self.client.save_results(results, self.test_output_dir, self.test_filename)
 

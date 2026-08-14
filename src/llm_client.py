@@ -24,14 +24,20 @@ class LLMModelClient:
         max_tokens: Optional[int] = None,
     ) -> Dict[str, Any]:
         prompt = messages[-1]["content"]
+        generation_config: Dict[str, Any] = {
+            "maxOutputTokens": max_tokens or LLM_CONFIG["max_output_tokens"],
+        }
+        if not self.model.startswith("gemini-3.6"):
+            generation_config.update(
+                {
+                    "temperature": temperature or LLM_CONFIG["temperature"],
+                    "topP": LLM_CONFIG["top_p"],
+                    "topK": LLM_CONFIG["top_k"],
+                }
+            )
         return {
             "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {
-                "temperature": temperature or LLM_CONFIG["temperature"],
-                "maxOutputTokens": max_tokens or LLM_CONFIG["max_output_tokens"],
-                "topP": LLM_CONFIG["top_p"],
-                "topK": LLM_CONFIG["top_k"],
-            },
+            "generationConfig": generation_config,
         }
 
     def chat_completion(
