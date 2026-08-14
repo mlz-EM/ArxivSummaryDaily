@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.5-flash",
-    "generatedAt": "2026-08-13T03:29:48Z",
+    "generatedAt": "2026-08-14T03:26:49Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 298 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 299 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.12692v1",
+      "title": "TCAD Cryogenic Model Parameters Calibration based on 65 nm NMOS Experimental Data",
+      "url": "https://arxiv.org/abs/2608.12692v1",
+      "date": "2026-08-13",
+      "summary": "This paper aims to calibrate TCAD model parameters using experimental data of 65 nm nMOSFETs from 292 K to 4.5 K. By utilizing TEM dimensions and calibrating mobility and band-tail models, the simulations successfully fit experimental curves. The key finding shows that, except for saturation velocity, no new temperature-dependent models are required for cryogenic TCAD simulation.",
+      "tags": [
+        "physics-comp-ph"
+      ]
+    },
     {
       "id": "arxiv-2608.12040v1",
       "title": "Spatial and energetic correlations of ultrashort two electron pulses",
