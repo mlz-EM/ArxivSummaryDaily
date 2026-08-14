@@ -4,7 +4,7 @@ import json
 import re
 import time
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Callable, Dict, List, Optional, Tuple
 from urllib.parse import urlparse
 
 from .feed_utils import (
@@ -24,8 +24,14 @@ class JobSummarizer:
     FEED_SOURCE = "TTAP Daily Feed"
     RETENTION_DAYS = 365
 
-    def __init__(self, api_key: str, model: Optional[str] = None):
+    def __init__(
+        self,
+        api_key: str,
+        model: Optional[str] = None,
+        url_canonicalizer: Optional[Callable[[str], str]] = None,
+    ):
         self.client = LLMModelClient(api_key, model)
+        self.url_canonicalizer = url_canonicalizer
         # Twenty full job descriptions per request keeps each prompt focused;
         # batches are independently retryable if a response is incomplete.
         self.max_papers_per_batch = 20
@@ -41,7 +47,10 @@ class JobSummarizer:
         return utc_generated_at()
 
     def _to_https_url(self, url: str) -> str:
-        return to_https_url(url)
+        normalized = to_https_url(url)
+        if normalized and self.url_canonicalizer:
+            normalized = self.url_canonicalizer(normalized)
+        return normalized
 
     def _normalize_date(self, raw: Any) -> str:
         return normalize_date(raw)
@@ -220,7 +229,11 @@ Job input:
 
         try:
             existing_items = self._load_existing_json_items(output_json)
-            existing_urls = {item.get("url") for item in existing_items if item.get("url")}
+            existing_urls = {
+                self._to_https_url(item.get("url", ""))
+                for item in existing_items
+                if item.get("url")
+            }
 
             candidate_new_jobs = self._filter_new_jobs(jobs)
             new_jobs = [job for job in candidate_new_jobs if self._to_https_url(job.get("job_url", "")) not in existing_urls]
@@ -259,18 +272,20 @@ Job input:
                     if rejected_item:
                         normalized_new_items.append(rejected_item)
 
-            merged_by_url: Dict[str, Dict[str, Any]] = {
-                item["url"]: {
+            merged_by_url: Dict[str, Dict[str, Any]] = {}
+            for item in existing_items:
+                canonical_url = self._to_https_url(item.get("url", ""))
+                if not canonical_url:
+                    continue
+                merged_by_url[canonical_url] = {
                     **item,
-                    "url": self._to_https_url(item.get("url", "")),
+                    "id": self._job_id_from_url(canonical_url),
+                    "url": canonical_url,
                     "isNew": False,
                     "fitScore": max(0, min(3, int(item.get("fitScore", 0) or 0))),
                     "keywords": item.get("keywords", []) if isinstance(item.get("keywords", []), list) else [],
                     "date": self._normalize_date(item.get("date")),
                 }
-                for item in existing_items
-                if item.get("url")
-            }
 
             for item in normalized_new_items:
                 merged_by_url[item["url"]] = item

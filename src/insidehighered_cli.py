@@ -12,6 +12,7 @@ from config import settings
 
 from .feed_utils import utc_generated_at
 from .insidehighered_client import (
+    canonicalize_job_url,
     DEFAULT_MINIMUM_POSTED_DATE,
     DEFAULT_WORKERS,
     InsideHigherEdClient,
@@ -144,7 +145,11 @@ def _summarize(args: argparse.Namespace) -> int:
     if pending and (not api_key or api_key == "YOUR_API_HERE"):
         raise RuntimeError("LLM_API_KEY is required to summarize pending Inside Higher Ed jobs")
 
-    summarizer = JobSummarizer(api_key, llm_config.get("model"))
+    summarizer = JobSummarizer(
+        api_key,
+        llm_config.get("model"),
+        url_canonicalizer=canonicalize_job_url,
+    )
     summarizer.max_papers_per_batch = max(1, int(args.batch_size))
     normalized = [raw_job_to_summary_input(job) for job in pending]
     output_path.parent.mkdir(parents=True, exist_ok=True)
