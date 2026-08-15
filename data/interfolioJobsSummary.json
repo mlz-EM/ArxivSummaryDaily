@@ -1,15 +1,220 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gpt-5.6-luna (ChatGPT local initial run)",
-    "generatedAt": "2026-08-14T16:07:57Z",
-    "source": "Interfolio Faculty Jobs",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-08-15T15:03:49Z",
+    "source": "Interfolio",
     "notes": [
-      "This initial feed used the same filtering and summary rules as the scheduled daily routine.",
-      "R1 status was not used as a filter. Scheduled updates use the configured daily model."
+      "This report contains AI-filtered academic positions discovered from public Interfolio job pages.",
+      "Only the compact scan state and AI summary are retained after queued records are processed."
     ]
   },
   "items": [
+    {
+      "id": "apply-191179",
+      "title": "Assistant Professor in Media Psychology",
+      "url": "https://apply.interfolio.com/191179",
+      "date": "2026-08-17",
+      "location": "University of Michigan-Ann Arbor: Communications and Media at University of Michigan - Ann Arbor",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-189237",
+      "title": "Assistant Professor of Organic Chemistry",
+      "url": "https://apply.interfolio.com/189237",
+      "date": "2026-08-14",
+      "location": "Bethlehem, PA",
+      "description": "Tenure-track assistant professor position in experimental organic chemistry, with interest in organic materials and supramolecular chemistry.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "organic chemistry",
+        "organic materials",
+        "supramolecular chemistry"
+      ]
+    },
+    {
+      "id": "apply-191576",
+      "title": "Tenure-Track Faculty",
+      "url": "https://apply.interfolio.com/191576",
+      "date": "2026-08-14",
+      "location": "Ann Arbor, MI",
+      "description": "Tenure-track assistant professor position across all chemistry disciplines, including materials chemistry.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "chemistry",
+        "materials chemistry"
+      ]
+    },
+    {
+      "id": "apply-188844",
+      "title": "Assistant Professor (Tenure Track) - Psychology (27-28)",
+      "url": "https://apply.interfolio.com/188844",
+      "date": "2026-08-14",
+      "location": "DePaul University: PSYCHOLOGY at Chicago, IL - College of Science and Health",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-189267",
+      "title": "Assistant Professor (Tenure Track) - The Art School (27-28)",
+      "url": "https://apply.interfolio.com/189267",
+      "date": "2026-08-14",
+      "location": "DePaul University: ART MEDIA AND DESIGN at Chicago, IL - College of Liberal Arts and Social Sciences",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-190582",
+      "title": "Hand Surgeon, Clinical Assistant Professor, Orthopaedics",
+      "url": "https://apply.interfolio.com/190582",
+      "date": "2026-08-14",
+      "location": "Stony Brook University: Orthopaedics at Stony Brook, New York",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-190673",
+      "title": "Assistant Professor of Politics",
+      "url": "https://apply.interfolio.com/190673",
+      "date": "2026-08-14",
+      "location": "University of Virginia: Politics at Charlottesville, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-191064",
+      "title": "Management Faculty Recruitment (Tenure Track Associate or Full Professor) 2026-2027",
+      "url": "https://apply.interfolio.com/191064",
+      "date": "2026-08-14",
+      "location": "University of Pennsylvania: The Wharton School - Management at University of Pennsylvania, Phila., PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-191074",
+      "title": "Management Faculty Recruitment (Tenure Track Assistant Professor) 2026-2027",
+      "url": "https://apply.interfolio.com/191074",
+      "date": "2026-08-14",
+      "location": "University of Pennsylvania: The Wharton School - Management at Philadelphia, PA, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-191184",
+      "title": "Periodontist, Clinical Assistant/Associate Professor, School of Dental Medicine, Periodontology (Full-Time, Clinical-Track)",
+      "url": "https://apply.interfolio.com/191184",
+      "date": "2026-08-14",
+      "location": "Stony Brook University: Periodontology at Stony Brook, New York",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-191296",
+      "title": "Clinical Assistant Professor - OB Pediatric Adolescent Gynecology (Children's Medical Center Dallas & Plano) [Req#: 962819, Position#: 132520]",
+      "url": "https://apply.interfolio.com/191296",
+      "date": "2026-08-14",
+      "location": "UT Southwestern: 418021 - OB-Adolescent Gynecology at Dallas, Texas",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-191508",
+      "title": "Assistant Professor of Comparative Politics",
+      "url": "https://apply.interfolio.com/191508",
+      "date": "2026-08-14",
+      "location": "Dartmouth College: Government at Hanover, NH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-191561",
+      "title": "Open Rank Professor of Philosophy",
+      "url": "https://apply.interfolio.com/191561",
+      "date": "2026-08-14",
+      "location": "Smith College: Department of Philosophy at Northampton, MA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-191603",
+      "title": "Clinical Assistant Professor",
+      "url": "https://apply.interfolio.com/191603",
+      "date": "2026-08-14",
+      "location": "University of Oklahoma Health Sciences Center: College of Pharmacy at OU Health Center",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-191604",
+      "title": "Associate or Full Professor, Climate Justice and Energy Policy",
+      "url": "https://apply.interfolio.com/191604",
+      "date": "2026-08-14",
+      "location": "Occidental College: Urban & Environmental Policy at Los Angeles, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-191613",
+      "title": "Assistant Professor of Latin American History (tenure-track)",
+      "url": "https://apply.interfolio.com/191613",
+      "date": "2026-08-14",
+      "location": "Tufts University: History at Medford, MA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-191051",
+      "title": "Assistant Professor - Economics",
+      "url": "https://apply.interfolio.com/191051",
+      "date": "2026-08-13",
+      "location": "Princeton University: Economics at Princeton, NJ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-190737",
+      "title": "Assistant or Associate Teaching Professor - Legal Writing",
+      "url": "https://apply.interfolio.com/190737",
+      "date": "2026-08-04",
+      "location": "University of Notre Dame: The Law School at Home Campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
     {
       "title": "Assistant Professor of Analytical Chemistry (AY27-28)",
       "url": "https://apply.interfolio.com/191531",
@@ -23,7 +228,7 @@
         "materials characterization"
       ],
       "id": "apply-191531",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Biochemistry and Biophysics Tenure Track Faculty - BMB005",
@@ -40,7 +245,7 @@
         "biophysics"
       ],
       "id": "apply-191011",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor Tenure-Track Faculty - Department of Green Chemistry & Biochemistry, College of Innovation & Technology (Hybrid)",
@@ -56,7 +261,7 @@
         "experimental research"
       ],
       "id": "apply-190887",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Professor of Chemistry and Biochemistry",
@@ -72,7 +277,7 @@
         "surface characterization"
       ],
       "id": "apply-191160",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Engineering",
@@ -87,7 +292,7 @@
         "laboratory research"
       ],
       "id": "apply-191114",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Professor in Plasma Physics",
@@ -102,7 +307,7 @@
         "experimental research"
       ],
       "id": "apply-190943",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "GSB Faculty Positions in Operations, Information and Technology AY 2026-2027",
@@ -117,7 +322,7 @@
         "engineering"
       ],
       "id": "apply-190728",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor, Chemical Biology",
@@ -132,7 +337,7 @@
         "materials characterization"
       ],
       "id": "apply-190516",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Assistant Professor in Theoretical or Computational Physics",
@@ -147,7 +352,7 @@
         "undergraduate research"
       ],
       "id": "apply-191148",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor",
@@ -162,7 +367,7 @@
         "materials characterization"
       ],
       "id": "apply-190824",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track: Assistant Professor in Fungal Biology of Plant-Associated Systems",
@@ -178,7 +383,7 @@
         "plant pathology"
       ],
       "id": "apply-190376",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry",
@@ -195,7 +400,7 @@
         "sustainable materials"
       ],
       "id": "apply-191082",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Faculty Position in Molecular Biology",
@@ -211,7 +416,7 @@
         "molecular genetics"
       ],
       "id": "apply-191081",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant or Associate Professor",
@@ -228,7 +433,7 @@
         "mechanobiology"
       ],
       "id": "apply-191023",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track: Assistant Professor - Manufacturing and Mechanical Engineering Technology",
@@ -244,7 +449,7 @@
         "applied research"
       ],
       "id": "apply-189383",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Physics",
@@ -259,7 +464,7 @@
         "laboratory research"
       ],
       "id": "apply-190460",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Cancer Research Scientist, Assistant/Associate/Full Professor, Cancer Center, Researcher",
@@ -274,7 +479,7 @@
         "engineering sciences"
       ],
       "id": "apply-190401",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty in Statistics and Data Science—Open Rank",
@@ -289,7 +494,7 @@
         "data science"
       ],
       "id": "apply-190548",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Physics",
@@ -304,7 +509,7 @@
         "undergraduate research"
       ],
       "id": "apply-190645",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor - R155948",
@@ -320,7 +525,7 @@
         "additive manufacturing"
       ],
       "id": "apply-190588",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track: Assistant Professor - Multidisciplinary Engineering Technology",
@@ -336,7 +541,7 @@
         "advanced manufacturing"
       ],
       "id": "apply-189384",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Position in Physical AI & Quantum Technologies",
@@ -352,7 +557,7 @@
         "AI hardware"
       ],
       "id": "apply-190155",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Position in Mechanics for Energy Materials and Infrastructures",
@@ -368,7 +573,7 @@
         "structural systems"
       ],
       "id": "apply-190154",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Position in Materials for High-Efficiency Solar Energy Conversion",
@@ -384,7 +589,7 @@
         "large-area manufacturing"
       ],
       "id": "apply-190153",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Position in Materials for Extreme Environments & Sustainable Energy Transitions",
@@ -401,7 +606,7 @@
         "coatings"
       ],
       "id": "apply-190152",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Position in Critical Minerals",
@@ -417,7 +622,7 @@
         "experimental research"
       ],
       "id": "apply-190149",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Position in Chemistry of Sustainable Energy and Materials",
@@ -433,7 +638,7 @@
         "energy conversion"
       ],
       "id": "apply-190148",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Position in Carbon Management and Industrial Decarbonization",
@@ -449,7 +654,7 @@
         "sustainable processes"
       ],
       "id": "apply-190147",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor, Experimental Quantum Condensed Matter Physics",
@@ -465,7 +670,7 @@
         "experimental condensed matter"
       ],
       "id": "apply-190050",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Position in AI-Enabled Modeling and Optimization of Energy Systems",
@@ -481,7 +686,7 @@
         "AI"
       ],
       "id": "apply-189806",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track: Assistant Professor of Biological Engineering",
@@ -498,7 +703,7 @@
         "molecular engineering"
       ],
       "id": "apply-189122",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Physics",
@@ -514,7 +719,7 @@
         "structure-property relationships"
       ],
       "id": "apply-188444",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Faculty Position in Chemical and Biomolecular Engineering",
@@ -529,7 +734,7 @@
         "biotechnology"
       ],
       "id": "apply-190409",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Geology",
@@ -544,7 +749,7 @@
         "geochemistry"
       ],
       "id": "apply-190440",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Biological Sciences - Genetics/Genomics",
@@ -560,7 +765,7 @@
         "imaging"
       ],
       "id": "apply-190342",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry",
@@ -575,7 +780,7 @@
         "structure-property relationships"
       ],
       "id": "apply-190341",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Developmental Biology",
@@ -590,7 +795,7 @@
         "microscopy"
       ],
       "id": "apply-190323",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Physics",
@@ -605,7 +810,7 @@
         "undergraduate research"
       ],
       "id": "apply-190300",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Engineering - Mechanical",
@@ -621,7 +826,7 @@
         "undergraduate research"
       ],
       "id": "apply-189681",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Open Rank Professor of Cell Biology 00091453",
@@ -637,7 +842,7 @@
         "confocal microscopy"
       ],
       "id": "apply-189954",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track: Assistant or Associate Professor - Thermo-Fluids",
@@ -653,7 +858,7 @@
         "materials processing"
       ],
       "id": "apply-189116",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenured/Tenure-Track: Open Rank & Title",
@@ -669,7 +874,7 @@
         "materials"
       ],
       "id": "apply-188821",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor of Electrical & Computer Engineering",
@@ -685,7 +890,7 @@
         "engineering"
       ],
       "id": "apply-189650",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Biology",
@@ -700,7 +905,7 @@
         "genetics"
       ],
       "id": "apply-189595",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Associate or Full Professor of Technology & Operations (Cognitive Manufacturing)",
@@ -715,7 +920,7 @@
         "structure-property relationships"
       ],
       "id": "apply-189178",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Geology and Environmental Geosciences",
@@ -730,7 +935,7 @@
         "geophysics"
       ],
       "id": "apply-189036",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty (Open Rank)",
@@ -745,7 +950,7 @@
         "technology"
       ],
       "id": "apply-189252",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Faculty Position in Materials Chemistry",
@@ -761,7 +966,7 @@
         "materials characterization"
       ],
       "id": "apply-188873",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenured/Tenure-Track Faculty",
@@ -776,7 +981,7 @@
         "biotechnology"
       ],
       "id": "apply-188377",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Positions in The Department of Physiology and The Cardiovascular Institute",
@@ -792,7 +997,7 @@
         "mechanotransduction"
       ],
       "id": "apply-188627",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Positions in Biological and Chemical Engineering",
@@ -807,7 +1012,7 @@
         "interdisciplinary research"
       ],
       "id": "apply-188410",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry, Tenure-track",
@@ -823,7 +1028,7 @@
         "materials characterization"
       ],
       "id": "apply-188549",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Assistant Professor of Physics",
@@ -838,7 +1043,7 @@
         "undergraduate research"
       ],
       "id": "apply-188651",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Associate or Full Professor of Technology & Operations (Semiconductor)",
@@ -853,7 +1058,7 @@
         "manufacturing"
       ],
       "id": "apply-188537",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Associate Professor",
@@ -869,7 +1074,7 @@
         "materials engineering"
       ],
       "id": "apply-188775",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate/Full Professor, Historic Preservation - Conservation",
@@ -885,7 +1090,7 @@
         "architectural conservation"
       ],
       "id": "apply-187657",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Two Tenure-Track Faculty Positions in Quantum Physics",
@@ -900,7 +1105,7 @@
         "instrumentation"
       ],
       "id": "apply-188336",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor, School of Dental Medicine (Full-Time)",
@@ -916,7 +1121,7 @@
         "3D printing"
       ],
       "id": "apply-187632",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Professor and Department Head of Mechanical Engineering",
@@ -931,7 +1136,7 @@
         "materials characterization"
       ],
       "id": "apply-188135",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-track Faculty in Theorectical Condensed Matter Physics",
@@ -946,7 +1151,7 @@
         "materials characterization"
       ],
       "id": "apply-187934",
-      "isNew": true
+      "isNew": false
     }
   ]
 }

@@ -1,15 +1,1423 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gpt-5.6-luna (ChatGPT local initial run)",
-    "generatedAt": "2026-08-14T16:07:57Z",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-08-15T15:07:33Z",
     "source": "Inside Higher Ed Faculty Jobs",
     "notes": [
-      "This initial feed used the same filtering and summary rules as the scheduled daily routine.",
-      "R1 status was not used as a filter. Scheduled updates use the configured daily model."
+      "This report contains AI-filtered academic positions discovered from Inside Higher Ed Careers.",
+      "The initial feed includes current sitemap jobs posted on or after June 1, 2026; daily runs summarize only newly seen listings."
     ]
   },
   "items": [
+    {
+      "id": "careers-3540493",
+      "title": "Associate Director of Human Resources and Faculty Affairs",
+      "url": "https://careers.insidehighered.com/job/3540493",
+      "date": "2026-08-15",
+      "location": "University of South Carolina at Columbia",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540503",
+      "title": "Assistant or Associate Professor",
+      "url": "https://careers.insidehighered.com/job/3540503",
+      "date": "2026-08-15",
+      "location": "University of South Carolina at Columbia",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540532",
+      "title": "Open Rank Dentistry Faculty, DCG- Oral and Maxillofacial Surgery",
+      "url": "https://careers.insidehighered.com/job/3540532",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540538",
+      "title": "Assistant/Associate Professor of Curriculum, Educational Studies, or Educational Research",
+      "url": "https://careers.insidehighered.com/job/3540538",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540540",
+      "title": "Open Rank Dentistry Faculty, DCG- Oral and Maxillofacial Surgery",
+      "url": "https://careers.insidehighered.com/job/3540540",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540548",
+      "title": "Open Rank Faculty- Center for Biotechnology and Genomic Medicine",
+      "url": "https://careers.insidehighered.com/job/3540548",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540557",
+      "title": "Open Rank- Clinical Faculty in Pediatric Cardiology",
+      "url": "https://careers.insidehighered.com/job/3540557",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540562",
+      "title": "Assistant Professor - Neuroscience and Regenerative Medicine",
+      "url": "https://careers.insidehighered.com/job/3540562",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540567",
+      "title": "Assistant/Associate Professor- Prelicensure Nursing (Augusta Campus)",
+      "url": "https://careers.insidehighered.com/job/3540567",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540568",
+      "title": "Assistant/Associate Professor in Psychiatry and Health Behavior",
+      "url": "https://careers.insidehighered.com/job/3540568",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540572",
+      "title": "Open Rank Faculty in Neuroscience and Regenerative Medicine",
+      "url": "https://careers.insidehighered.com/job/3540572",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540573",
+      "title": "Assistant Professor in Speech-Language Pathology",
+      "url": "https://careers.insidehighered.com/job/3540573",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540584",
+      "title": "Assistant Professor in Graphic Design",
+      "url": "https://careers.insidehighered.com/job/3540584",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540586",
+      "title": "Open Rank Dentistry Faculty- DCG- Pediatric Dentistry",
+      "url": "https://careers.insidehighered.com/job/3540586",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540587",
+      "title": "Open Rank Faculty in Artificial Intelligence & Health",
+      "url": "https://careers.insidehighered.com/job/3540587",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540588",
+      "title": "Open Rank- Clinical Faculty in Anatomic Pathology",
+      "url": "https://careers.insidehighered.com/job/3540588",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540589",
+      "title": "Open Rank- Clinical Faculty in Radiology and Imaging",
+      "url": "https://careers.insidehighered.com/job/3540589",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540590",
+      "title": "Open Rank- Clinical Faculty in Radiology and Imaging",
+      "url": "https://careers.insidehighered.com/job/3540590",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540591",
+      "title": "Open Rank- Clinical Faculty in Radiology and Imaging",
+      "url": "https://careers.insidehighered.com/job/3540591",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540598",
+      "title": "Open Rank Clinical Faculty in Ophthalmology - Neuro-Ophthalmology",
+      "url": "https://careers.insidehighered.com/job/3540598",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540602",
+      "title": "Assistant Professor in Psychology",
+      "url": "https://careers.insidehighered.com/job/3540602",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540607",
+      "title": "Open Rank- Clinical Faculty in Emergency Medicine",
+      "url": "https://careers.insidehighered.com/job/3540607",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540608",
+      "title": "Assistant/Associate Professor - Educational Innovation Institute",
+      "url": "https://careers.insidehighered.com/job/3540608",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540628",
+      "title": "Assistant/Associate Professor in Pharmacology and Toxicology",
+      "url": "https://careers.insidehighered.com/job/3540628",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540630",
+      "title": "Assistant/Associate Professor in Speech-Language Pathology",
+      "url": "https://careers.insidehighered.com/job/3540630",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540632",
+      "title": "Open Rank Dentistry Faculty-Residency Program Director, DCG-Orthodontics",
+      "url": "https://careers.insidehighered.com/job/3540632",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540633",
+      "title": "Open Rank Dentistry Faculty, DCG-Restorative Sciences",
+      "url": "https://careers.insidehighered.com/job/3540633",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540636",
+      "title": "Open Rank- Clinical Faculty in Anesthesiology (Columbia County Hospital)",
+      "url": "https://careers.insidehighered.com/job/3540636",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540637",
+      "title": "Open Rank- Clinical Faculty in Anesthesiology (Columbia County Hospital)",
+      "url": "https://careers.insidehighered.com/job/3540637",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540645",
+      "title": "Assistant/Associate Professor- Prelicensure Nursing (Augusta Campus)",
+      "url": "https://careers.insidehighered.com/job/3540645",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540656",
+      "title": "Open Rank- Clinical Faculty in Obstetrics and Gynecology- MFM",
+      "url": "https://careers.insidehighered.com/job/3540656",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540658",
+      "title": "Open Rank in Community and Behavioral Health Sciences",
+      "url": "https://careers.insidehighered.com/job/3540658",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540659",
+      "title": "Open Rank- Clinical Faculty in Cardiology",
+      "url": "https://careers.insidehighered.com/job/3540659",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540660",
+      "title": "Open Rank- Clinical Faculty in Neonatology",
+      "url": "https://careers.insidehighered.com/job/3540660",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540661",
+      "title": "Open Rank Faculty- Vascular Biology Center",
+      "url": "https://careers.insidehighered.com/job/3540661",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540663",
+      "title": "Assistant Professor in Pediatric Gastroenterology",
+      "url": "https://careers.insidehighered.com/job/3540663",
+      "date": "2026-08-15",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539933",
+      "title": "Assistant / Associate Professor, Hospitalist Physician, Internal Medicine, Hospital Medicine",
+      "url": "https://careers.insidehighered.com/job/3539933",
+      "date": "2026-08-14",
+      "location": "University of Cincinnati at Cincinnati, OH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539944",
+      "title": "Assistant Professor of Counselor Education CMHC or Community-Based Settings, Fall 2027",
+      "url": "https://careers.insidehighered.com/job/3539944",
+      "date": "2026-08-14",
+      "location": "The University of Tennessee, Knoxville at Knoxville",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539945",
+      "title": "Assistant Professor of Counselor Education School Counseling, Fall 2027",
+      "url": "https://careers.insidehighered.com/job/3539945",
+      "date": "2026-08-14",
+      "location": "The University of Tennessee, Knoxville at Knoxville",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539950",
+      "title": "Full/Associate/Assistant Professor in Biomedical Engineering",
+      "url": "https://careers.insidehighered.com/job/3539950",
+      "date": "2026-08-14",
+      "location": "University of Macau at Macau, China",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539951",
+      "title": "Full/Associate/Assistant Professor in Ocean Technology",
+      "url": "https://careers.insidehighered.com/job/3539951",
+      "date": "2026-08-14",
+      "location": "University of Macau at Macau, China",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539952",
+      "title": "Full/Associate/Assistant Professor in Computer Science",
+      "url": "https://careers.insidehighered.com/job/3539952",
+      "date": "2026-08-14",
+      "location": "University of Macau at Macau, China",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539953",
+      "title": "Full/Associate/Assistant Professor in Robotics",
+      "url": "https://careers.insidehighered.com/job/3539953",
+      "date": "2026-08-14",
+      "location": "University of Macau at Macau, China",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539960",
+      "title": "Assistant Professor (Tenure Track) - Finance (27-28)",
+      "url": "https://careers.insidehighered.com/job/3539960",
+      "date": "2026-08-14",
+      "location": "DePaul University at Chicago, IL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539965",
+      "title": "Assistant Professor American Public Law and Politics",
+      "url": "https://careers.insidehighered.com/job/3539965",
+      "date": "2026-08-14",
+      "location": "Lake Forest College at Lake Forest, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539969",
+      "title": "Assistant Professor - Entry into Nursing Practice",
+      "url": "https://careers.insidehighered.com/job/3539969",
+      "date": "2026-08-14",
+      "location": "University of Maryland Baltimore at Baltimore, MD",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539970",
+      "title": "Assistant/Associate Professor in Computer Science and Artificial Intelligence",
+      "url": "https://careers.insidehighered.com/job/3539970",
+      "date": "2026-08-14",
+      "location": "University of Maryland Baltimore at Baltimore, MD",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539975",
+      "title": "Open Rank: Research Analyst or Senior Research Analyst",
+      "url": "https://careers.insidehighered.com/job/3539975",
+      "date": "2026-08-14",
+      "location": "University of Maryland Baltimore at Baltimore, MD",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539981",
+      "title": "Part-Time Faculty, Respiratory Care",
+      "url": "https://careers.insidehighered.com/job/3539981",
+      "date": "2026-08-14",
+      "location": "Valencia College at Orlando, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539982",
+      "title": "Part-Time Faculty, Building Construction Tech",
+      "url": "https://careers.insidehighered.com/job/3539982",
+      "date": "2026-08-14",
+      "location": "Valencia College at Orlando, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540009",
+      "title": "Assistant Professor in Comparative Politics",
+      "url": "https://careers.insidehighered.com/job/3540009",
+      "date": "2026-08-14",
+      "location": "Durham University at Durham, United Kingdom",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540010",
+      "title": "Associate/Assistant Professor in Marketing",
+      "url": "https://careers.insidehighered.com/job/3540010",
+      "date": "2026-08-14",
+      "location": "University of Macau at Macau, China",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540011",
+      "title": "Associate/Assistant Professor in Finance",
+      "url": "https://careers.insidehighered.com/job/3540011",
+      "date": "2026-08-14",
+      "location": "University of Macau at Macau, China",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540012",
+      "title": "Associate/Assistant Professor in Microeconometrics",
+      "url": "https://careers.insidehighered.com/job/3540012",
+      "date": "2026-08-14",
+      "location": "University of Macau at Macau, China",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540016",
+      "title": "Faculty Position in Marketing",
+      "url": "https://careers.insidehighered.com/job/3540016",
+      "date": "2026-08-14",
+      "location": "Buena Vista University at Storm Lake, Iowa",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540032",
+      "title": "Clinical Line, 10-month, Half- or Full-Time, Assistant Rank Faculty Position, PsyD Program",
+      "url": "https://careers.insidehighered.com/job/3540032",
+      "date": "2026-08-14",
+      "location": "University of Denver at Denver",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540040",
+      "title": "Open Rank Dentistry Faculty, DCG-General Dentistry (Macon, GA)",
+      "url": "https://careers.insidehighered.com/job/3540040",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540051",
+      "title": "Open Rank-Clinical Faculty in Radiology and Imaging",
+      "url": "https://careers.insidehighered.com/job/3540051",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540054",
+      "title": "Open Rank Faculty in Neuroscience and Regenerative Medicine (Medical Educator)",
+      "url": "https://careers.insidehighered.com/job/3540054",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540062",
+      "title": "Open Rank- Clinical Faculty - Pediatric Congenital Heart Surgeon",
+      "url": "https://careers.insidehighered.com/job/3540062",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540067",
+      "title": "Open Rank- Clinical Faculty in Infectious Diseases",
+      "url": "https://careers.insidehighered.com/job/3540067",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540073",
+      "title": "Open Rank Dentistry Faculty, DCG-Pediatric Dentistry",
+      "url": "https://careers.insidehighered.com/job/3540073",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540077",
+      "title": "Assistant/Associate Professor Prelicensure Nursing (Augusta Campus)",
+      "url": "https://careers.insidehighered.com/job/3540077",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540084",
+      "title": "Open Rank- Clinical Faculty in Anesthesiology (Columbia County Hospital)",
+      "url": "https://careers.insidehighered.com/job/3540084",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540090",
+      "title": "Open Rank- Clinical Faculty in Cardiology",
+      "url": "https://careers.insidehighered.com/job/3540090",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540093",
+      "title": "Assistant Professor in Respiratory Therapy",
+      "url": "https://careers.insidehighered.com/job/3540093",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540096",
+      "title": "Open Rank- Clinical Faculty in Gastroenterology",
+      "url": "https://careers.insidehighered.com/job/3540096",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540097",
+      "title": "Open Rank-Clinical Faculty in Pediatric-Ophthalmology",
+      "url": "https://careers.insidehighered.com/job/3540097",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540098",
+      "title": "Assistant/Associate Professor- DCG-Oral and Maxillofacial Surgery",
+      "url": "https://careers.insidehighered.com/job/3540098",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540101",
+      "title": "Assistant/Associate Professor of Forensic Psychology (Savannah)",
+      "url": "https://careers.insidehighered.com/job/3540101",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540106",
+      "title": "Open Rank- Clinical Faculty in Radiology and Imaging",
+      "url": "https://careers.insidehighered.com/job/3540106",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540109",
+      "title": "Open Rank- Clinical Faculty in Neurology",
+      "url": "https://careers.insidehighered.com/job/3540109",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540110",
+      "title": "Open Rank- Clinical Faculty in Pathology",
+      "url": "https://careers.insidehighered.com/job/3540110",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540111",
+      "title": "Open Rank- Clinical Faculty in Neurology (Vascular Stroke)",
+      "url": "https://careers.insidehighered.com/job/3540111",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540115",
+      "title": "Assistant Professor in Pediatrics- Genetics",
+      "url": "https://careers.insidehighered.com/job/3540115",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540125",
+      "title": "Department of Computer Science (Tenure Track, Start Fall 2027)",
+      "url": "https://careers.insidehighered.com/job/3540125",
+      "date": "2026-08-14",
+      "location": "Grinnell College at Grinnell, Iowa",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540129",
+      "title": "Assistant Professor, Teaching Stream - Media Studies",
+      "url": "https://careers.insidehighered.com/job/3540129",
+      "date": "2026-08-14",
+      "location": "University of Toronto at University of Toronto Scarborough (UTSC)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540130",
+      "title": "Assistant/Associate/Full Professor - Maternal-Fetal Medicine Physician",
+      "url": "https://careers.insidehighered.com/job/3540130",
+      "date": "2026-08-14",
+      "location": "University of Toronto at St. George (Downtown Toronto)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540139",
+      "title": "Assistant Professor - Strategic Management",
+      "url": "https://careers.insidehighered.com/job/3540139",
+      "date": "2026-08-14",
+      "location": "University of Toronto at St. George (Downtown Toronto)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540154",
+      "title": "Tenure-track Open Rank Professor in Biostatistics, Department of Public Health Sciences",
+      "url": "https://careers.insidehighered.com/job/3540154",
+      "date": "2026-08-14",
+      "location": "University of Virginia at Charlottesville, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540162",
+      "title": "Assistant/Associate Professor of Education",
+      "url": "https://careers.insidehighered.com/job/3540162",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540182",
+      "title": "Assistant Professor - Pharmacy Practice Dallas",
+      "url": "https://careers.insidehighered.com/job/3540182",
+      "date": "2026-08-14",
+      "location": "Texas Tech University Health Sciences Center at Dallas / Ft. Worth",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540183",
+      "title": "Asst/Assoc/Professor - Department of Pathology, Hematopathologist",
+      "url": "https://careers.insidehighered.com/job/3540183",
+      "date": "2026-08-14",
+      "location": "Texas Tech University Health Sciences Center at Lubbock",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540184",
+      "title": "Asst/Assoc/Full Professor, Obstetrics &amp; Gynecology - Laborist",
+      "url": "https://careers.insidehighered.com/job/3540184",
+      "date": "2026-08-14",
+      "location": "Texas Tech University Health Sciences Center at Lubbock",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540230",
+      "title": "Retiree – Faculty Emeritus SEM",
+      "url": "https://careers.insidehighered.com/job/3540230",
+      "date": "2026-08-14",
+      "location": "The Ohio State University at Columbus Campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540234",
+      "title": "Retiree-Faculty Emeritus SEM",
+      "url": "https://careers.insidehighered.com/job/3540234",
+      "date": "2026-08-14",
+      "location": "The Ohio State University at Columbus Campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540250",
+      "title": "Open Rank",
+      "url": "https://careers.insidehighered.com/job/3540250",
+      "date": "2026-08-14",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540256",
+      "title": "Center for Women's Mood Disorders Psychologist - Open Rank",
+      "url": "https://careers.insidehighered.com/job/3540256",
+      "date": "2026-08-14",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540258",
+      "title": "Faculty Physician / Clinician Educator (Chatham Hospital)",
+      "url": "https://careers.insidehighered.com/job/3540258",
+      "date": "2026-08-14",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540259",
+      "title": "Open Rank",
+      "url": "https://careers.insidehighered.com/job/3540259",
+      "date": "2026-08-14",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540260",
+      "title": "Open Rank Sports Physiatrist",
+      "url": "https://careers.insidehighered.com/job/3540260",
+      "date": "2026-08-14",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540262",
+      "title": "Open Rank/Open Track - Pediatric Electrophysiologist",
+      "url": "https://careers.insidehighered.com/job/3540262",
+      "date": "2026-08-14",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540264",
+      "title": "Open Rank",
+      "url": "https://careers.insidehighered.com/job/3540264",
+      "date": "2026-08-14",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540272",
+      "title": "Endocrinologist - Open Rank",
+      "url": "https://careers.insidehighered.com/job/3540272",
+      "date": "2026-08-14",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540274",
+      "title": "Assistant Professor",
+      "url": "https://careers.insidehighered.com/job/3540274",
+      "date": "2026-08-14",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540275",
+      "title": "Open Rank (Cardiology)",
+      "url": "https://careers.insidehighered.com/job/3540275",
+      "date": "2026-08-14",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540283",
+      "title": "Tenure-Track Assistant Professor - Division of Pharmacoengineering and Molecular Pharmaceutics ...",
+      "url": "https://careers.insidehighered.com/job/3540283",
+      "date": "2026-08-14",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540313",
+      "title": "Assistant Professor of Practice in Management",
+      "url": "https://careers.insidehighered.com/job/3540313",
+      "date": "2026-08-14",
+      "location": "Sam Houston State University at College of Business Administration",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540319",
+      "title": "Assistant Professor of Native American and Indigenous Studies",
+      "url": "https://careers.insidehighered.com/job/3540319",
+      "date": "2026-08-14",
+      "location": "Carleton College at Northfield, Minnesota",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540320",
+      "title": "Assistant Professor of Psychology, Tenure-Track, Fall 2027",
+      "url": "https://careers.insidehighered.com/job/3540320",
+      "date": "2026-08-14",
+      "location": "Chapman University at Orange, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540321",
+      "title": "Assistant or Associate Professor of Law, Tenure Track, Fall 2027",
+      "url": "https://careers.insidehighered.com/job/3540321",
+      "date": "2026-08-14",
+      "location": "Chapman University at Orange",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540353",
+      "title": "Assistant Professor of English / Director of College Composition",
+      "url": "https://careers.insidehighered.com/job/3540353",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540365",
+      "title": "Assistant Professor - MCG-Med-Infectious Diseases",
+      "url": "https://careers.insidehighered.com/job/3540365",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540371",
+      "title": "Open Rank- Clinical Faculty in Urogynecology and Reconstructive Pelvic Surgery",
+      "url": "https://careers.insidehighered.com/job/3540371",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540378",
+      "title": "Assistant Professor of Instruction",
+      "url": "https://careers.insidehighered.com/job/3540378",
+      "date": "2026-08-14",
+      "location": "Texas State University at Round Rock, San Marcos, Other - Online",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540379",
+      "title": "Nontenure Line BSN Faculty Pool for in-person teaching - St. David's School of Nursing",
+      "url": "https://careers.insidehighered.com/job/3540379",
+      "date": "2026-08-14",
+      "location": "Texas State University at Round Rock",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540385",
+      "title": "Assistant Professor in Occupational Therapy",
+      "url": "https://careers.insidehighered.com/job/3540385",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540388",
+      "title": "Open Rank Dentistry Faculty, DCG-Periodontics",
+      "url": "https://careers.insidehighered.com/job/3540388",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540389",
+      "title": "Assistant Professor of Colorectal Surgery",
+      "url": "https://careers.insidehighered.com/job/3540389",
+      "date": "2026-08-14",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540395",
+      "title": "Assistant/Associate Professor in Landscape Architecture",
+      "url": "https://careers.insidehighered.com/job/3540395",
+      "date": "2026-08-14",
+      "location": "Georgia Institute of Technology at Atlanta, Georgia",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540405",
+      "title": "Open Rank - Clinical Assistant, Associate, or Full Professor",
+      "url": "https://careers.insidehighered.com/job/3540405",
+      "date": "2026-08-14",
+      "location": "The University of Georgia at Athens Area",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540416",
+      "title": "Director of Skidaway Institute of Oceanography and Professor",
+      "url": "https://careers.insidehighered.com/job/3540416",
+      "date": "2026-08-14",
+      "location": "The University of Georgia at Savannah Area",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540428",
+      "title": "Assistant Professor of Counselor Education",
+      "url": "https://careers.insidehighered.com/job/3540428",
+      "date": "2026-08-14",
+      "location": "California Lutheran University at Thousand Oaks",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540429",
+      "title": "Assistant Professor of Criminology and Criminal Justice",
+      "url": "https://careers.insidehighered.com/job/3540429",
+      "date": "2026-08-14",
+      "location": "California Lutheran University at Thousand Oaks",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540451",
+      "title": "Assistant Professor of Psychology",
+      "url": "https://careers.insidehighered.com/job/3540451",
+      "date": "2026-08-14",
+      "location": "California Lutheran University at Thousand Oaks",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540452",
+      "title": "Assistant Professor of Clinical Psychology - Clinical (PsyD Program)",
+      "url": "https://careers.insidehighered.com/job/3540452",
+      "date": "2026-08-14",
+      "location": "California Lutheran University at Thousand Oaks",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540457",
+      "title": "BCAS - Assistant/Associate Professor in Quantitative Psychology - 530295",
+      "url": "https://careers.insidehighered.com/job/3540457",
+      "date": "2026-08-14",
+      "location": "The University of Alabama at Tuscaloosa, AL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540458",
+      "title": "Assistant Professor of Legal Writing - Renewable Contract - 529994",
+      "url": "https://careers.insidehighered.com/job/3540458",
+      "date": "2026-08-14",
+      "location": "The University of Alabama at Tuscaloosa",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540459",
+      "title": "Associate / Full Professor of Legal Writing - Renewable Contract - 529853",
+      "url": "https://careers.insidehighered.com/job/3540459",
+      "date": "2026-08-14",
+      "location": "The University of Alabama at Tuscaloosa",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3540677",
+      "title": "Assistant Professor of Biology",
+      "url": "https://careers.insidehighered.com/job/3540677",
+      "date": "2026-08-14",
+      "location": "Clayton State University at Clayton State University",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3539949",
+      "title": "Associate Professor in Tort Law",
+      "url": "https://careers.insidehighered.com/job/3539949",
+      "date": "2026-08-13",
+      "location": "Durham University at Durham, United Kingdom",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3531080",
+      "title": "Research Engineer (Open Rank)",
+      "url": "https://careers.insidehighered.com/job/3531080",
+      "date": "2026-07-22",
+      "location": "Georgia Institute of Technology at Forest Park, Georgia",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3530376",
+      "title": "Assistant/Associate Professor Radiology, Nuclear Medicine Clinician Department of Radiology",
+      "url": "https://careers.insidehighered.com/job/3530376",
+      "date": "2026-07-18",
+      "location": "University of Cincinnati at Cincinnati, OH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3530223",
+      "title": "Executive Director, IRIM - Open Rank/Title Academic/Research Faculty",
+      "url": "https://careers.insidehighered.com/job/3530223",
+      "date": "2026-07-17",
+      "location": "Georgia Institute of Technology at Atlanta, Georgia",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3528228",
+      "title": "Assistant/Associate Professor-Educator or Practice, Dept. of Mechanical, Materials, & Industria...",
+      "url": "https://careers.insidehighered.com/job/3528228",
+      "date": "2026-07-12",
+      "location": "University of Cincinnati at Cincinnati, OH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3525621",
+      "title": "Assistant Professor - Pharmacy Practice",
+      "url": "https://careers.insidehighered.com/job/3525621",
+      "date": "2026-07-07",
+      "location": "Texas Tech University Health Sciences Center at Dallas / Ft. Worth",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3525623",
+      "title": "Assistant/Associate Professor - Pharmacy Practice",
+      "url": "https://careers.insidehighered.com/job/3525623",
+      "date": "2026-07-07",
+      "location": "Texas Tech University Health Sciences Center at Dallas / Ft. Worth",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3523548",
+      "title": "Assistant Professor, Division of Nephrology Department of Internal Medicine, College of Medicine",
+      "url": "https://careers.insidehighered.com/job/3523548",
+      "date": "2026-06-30",
+      "location": "University of Cincinnati at Cincinnati, OH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
     {
       "title": "Assistant Professor or Associate Professor",
       "url": "https://careers.insidehighered.com/job/3539894",
@@ -24,7 +1432,7 @@
         "materials"
       ],
       "id": "careers-3539894",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Engineering",
@@ -39,7 +1447,7 @@
         "materials"
       ],
       "id": "careers-3539877",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry, Tenure Track",
@@ -55,7 +1463,7 @@
         "physical organic chemistry"
       ],
       "id": "careers-3539813",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "GSB Faculty Positions in Operations, Information and Technology AY 2026-2027",
@@ -71,7 +1479,7 @@
         "operations research"
       ],
       "id": "careers-3539902",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor",
@@ -86,7 +1494,7 @@
         "materials"
       ],
       "id": "careers-3539638",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "College of Arts and Sciences Faculty",
@@ -101,7 +1509,7 @@
         "teaching"
       ],
       "id": "careers-3539528",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant / Associate / Professor",
@@ -117,7 +1525,7 @@
         "cancer biology"
       ],
       "id": "careers-3539486",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor - Civil Engineering - #251055 & #261092",
@@ -133,7 +1541,7 @@
         "laboratories"
       ],
       "id": "careers-3539403",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor - Civil Engineering - #251055 & #261092",
@@ -149,7 +1557,7 @@
         "laboratories"
       ],
       "id": "careers-3539402",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure Track Assistant Professor – Department of Chemistry and Biochemistry",
@@ -165,7 +1573,7 @@
         "undergraduate research"
       ],
       "id": "careers-3539180",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor, Department of Statistics",
@@ -181,7 +1589,7 @@
         "probability"
       ],
       "id": "careers-3538749",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant or Associate Professor",
@@ -198,7 +1606,7 @@
         "mechanobiology"
       ],
       "id": "careers-3538478",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Physics",
@@ -214,7 +1622,7 @@
         "undergraduate research"
       ],
       "id": "careers-3538405",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Chemical and Biological Engineering - Full Professor - 530207",
@@ -230,7 +1638,7 @@
         "advanced materials"
       ],
       "id": "careers-3537712",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Chemical and Biological Engineering - Assistant Professor - 530203",
@@ -246,7 +1654,7 @@
         "energy materials"
       ],
       "id": "careers-3537708",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Chemical and Biological Engineering - Associate Professor - 530204",
@@ -262,7 +1670,7 @@
         "energy materials"
       ],
       "id": "careers-3537707",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Metallurgical and Materials Engineering - Associate Professor - 530180",
@@ -278,7 +1686,7 @@
         "metal casting"
       ],
       "id": "careers-3537705",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Metallurgical and Materials Engineering - Assistant Professor - 530179",
@@ -294,7 +1702,7 @@
         "solidification science"
       ],
       "id": "careers-3537701",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Aerospace Engineering and Mechanics - Full Professor - 530190",
@@ -310,7 +1718,7 @@
         "fracture mechanics"
       ],
       "id": "careers-3537700",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Aerospace Engineering and Mechanics - Assistant Professor - 530187",
@@ -324,7 +1732,7 @@
         "aerospace engineering"
       ],
       "id": "careers-3537697",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Metallurgical and Materials Engineering - Full Professor - 530181",
@@ -340,7 +1748,7 @@
         "metal casting"
       ],
       "id": "careers-3537696",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Aerospace Engineering and Mechanics - Associate Professor - 530188",
@@ -355,7 +1763,7 @@
         "aerospace engineering"
       ],
       "id": "careers-3537695",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Open Rank Professor, Mechanical & Aerospace Engineering—Dynamics and Control",
@@ -372,7 +1780,7 @@
         "high-performance materials"
       ],
       "id": "careers-3537042",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Open Rank Professor, Mechanical & Aerospace Engineering—Aerospace",
@@ -388,7 +1796,7 @@
         "materials characterization"
       ],
       "id": "careers-3537041",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant, Untenured Associate, or Tenured Associate Professor, Aeronautics and Astronautics",
@@ -404,7 +1812,7 @@
         "space systems"
       ],
       "id": "careers-3536829",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant, untenured Associate, or tenured Associate Professor, Aero-Astro Dept",
@@ -420,7 +1828,7 @@
         "engineering"
       ],
       "id": "careers-3536507",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor – Construction Management",
@@ -436,7 +1844,7 @@
         "engineering"
       ],
       "id": "careers-3536411",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor – Construction Management",
@@ -452,7 +1860,7 @@
         "engineering"
       ],
       "id": "careers-3536410",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor Tenure Track Position — Children's Hospital of Philadelphia",
@@ -468,7 +1876,7 @@
         "structure-property relationships"
       ],
       "id": "careers-3536282",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Associate or Full Professor of Neurosurgery, Tenure Track in the Department of Neurosurgery",
@@ -484,7 +1892,7 @@
         "flow cytometry"
       ],
       "id": "careers-3536059",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Neurosurgery, Tenure Track in the Department of Neurosurgery",
@@ -499,7 +1907,7 @@
         "translational research"
       ],
       "id": "careers-3536058",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Full/Associate Professor-Tenure Track-Alzheimer’s Disease Genetics and Genomics",
@@ -514,7 +1922,7 @@
         "functional genomics"
       ],
       "id": "careers-3536034",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor in Chemistry (Open Area)",
@@ -529,7 +1937,7 @@
         "advanced characterization"
       ],
       "id": "careers-3535890",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Senior Faculty Position in Chemistry (Open Area)",
@@ -544,7 +1952,7 @@
         "experimental research"
       ],
       "id": "careers-3535889",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry",
@@ -559,7 +1967,7 @@
         "undergraduate research"
       ],
       "id": "careers-3535601",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor - Landscape and Eco-Technology",
@@ -575,7 +1983,7 @@
         "eco-technology"
       ],
       "id": "careers-3535183",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Full/Associate/Assistant Professor in Modern Civil Engineering",
@@ -591,7 +1999,7 @@
         "infrastructure"
       ],
       "id": "careers-3535128",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Biological Sciences - Genetics/Genomics",
@@ -607,7 +2015,7 @@
         "molecular biology"
       ],
       "id": "careers-3534998",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry",
@@ -622,7 +2030,7 @@
         "research"
       ],
       "id": "careers-3534997",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Biology, UC Clermont College",
@@ -637,7 +2045,7 @@
         "cell biology"
       ],
       "id": "careers-3534668",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor - Biochemistry, Biophysics and Structural Biology - Molecular and Cell Biology",
@@ -653,7 +2061,7 @@
         "microscopy"
       ],
       "id": "careers-3534588",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Civil Engineering with Artificial Intelligence and Machine Learning Enabled Construction Engineering",
@@ -669,7 +2077,7 @@
         "building materials"
       ],
       "id": "careers-3534130",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate/Full Professor - Crop Design",
@@ -686,7 +2094,7 @@
         "synthetic biology"
       ],
       "id": "careers-3533999",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor: Applied Artificial Intelligence",
@@ -703,7 +2111,7 @@
         "machine learning"
       ],
       "id": "careers-3533741",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Mechanical Engineering - Assistant Professor - 530028",
@@ -720,7 +2128,7 @@
         "multiscale modeling"
       ],
       "id": "careers-3533443",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Mechanical Engineering - Associate Professor - 530031",
@@ -737,7 +2145,7 @@
         "multiscale modeling"
       ],
       "id": "careers-3533441",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Mechanical Engineering - Full Professor - 530033",
@@ -754,7 +2162,7 @@
         "multiscale modeling"
       ],
       "id": "careers-3533439",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor, Organic Chemistry",
@@ -769,7 +2177,7 @@
         "organic chemistry"
       ],
       "id": "careers-3532368",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate/Full Professor, Materials Science and Engineering Program",
@@ -789,7 +2197,7 @@
         "advanced manufacturing"
       ],
       "id": "careers-3532057",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Quo Endowed Professorship, Assistant/Associate/Full Professor, Mechanical Engineering",
@@ -804,7 +2212,7 @@
         "materials engineering"
       ],
       "id": "careers-3532055",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor (Electrical Engineering & Renewable Energy)",
@@ -821,7 +2229,7 @@
         "applied research"
       ],
       "id": "careers-3531923",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Positions in The Department of Physiology and The Cardiovascular Institute",
@@ -837,7 +2245,7 @@
         "cellular physiology"
       ],
       "id": "careers-3531838",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate/Full Professor, Historic Preservation - Conservation",
@@ -853,7 +2261,7 @@
         "architectural conservation"
       ],
       "id": "careers-3531820",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Associate/Full Professor Tenure Track – Artificial Intelligence in Medicine (CHOP)",
@@ -869,7 +2277,7 @@
         "experimental research"
       ],
       "id": "careers-3531488",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor Tenure Track – Artificial Intelligence in Medicine (CHOP)",
@@ -885,7 +2293,7 @@
         "experimental research"
       ],
       "id": "careers-3531486",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Biomedical Optics Research Assistant Professor Resuscitation Center - CHOP",
@@ -901,7 +2309,7 @@
         "translational research"
       ],
       "id": "careers-3531198",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Environmental Chemistry",
@@ -917,7 +2325,7 @@
         "environmental chemistry"
       ],
       "id": "careers-3531035",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor - Electrical and Computer Engineering (Canada Impact+ Emerging Leader)",
@@ -932,7 +2340,7 @@
         "interdisciplinary research"
       ],
       "id": "careers-3530906",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Civil, Construction and Environmental Engineering - Associate Professor - 529912",
@@ -948,7 +2356,7 @@
         "structural engineering"
       ],
       "id": "careers-3530686",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Civil, Construction and Environmental Engineering - Full Professor",
@@ -963,7 +2371,7 @@
         "interdisciplinary research"
       ],
       "id": "careers-3530685",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Civil, Construction and Environmental Engineering - Assistant Professor - 529910",
@@ -979,7 +2387,7 @@
         "structural engineering"
       ],
       "id": "careers-3530684",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Assistant Professor - Chemistry",
@@ -995,7 +2403,7 @@
         "experimental research"
       ],
       "id": "careers-3530276",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor of Electrical & Computer Engineering",
@@ -1012,7 +2420,7 @@
         "engineering research"
       ],
       "id": "careers-3529792",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "BCAS - Assistant Professor in Precision Timing, Physics & Astronomy - 529953",
@@ -1028,7 +2436,7 @@
         "precision sensing"
       ],
       "id": "careers-3529716",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor - Electrical Engineering Technology",
@@ -1043,7 +2451,7 @@
         "robotics"
       ],
       "id": "careers-3528698",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Geology and Environmental Geosciences",
@@ -1058,7 +2466,7 @@
         "field research"
       ],
       "id": "careers-3528479",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Faculty Position in Marine Energy",
@@ -1074,7 +2482,7 @@
         "energy converters"
       ],
       "id": "careers-3527191",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Microbiology",
@@ -1090,7 +2498,7 @@
         "student mentoring"
       ],
       "id": "careers-3527093",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor in Geophysics",
@@ -1106,7 +2514,7 @@
         "computational modeling"
       ],
       "id": "careers-3526506",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "FCSM-4008 Assistant Professor, Organic Chemistry",
@@ -1121,7 +2529,7 @@
         "instrumentation"
       ],
       "id": "careers-3525655",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Construction Management",
@@ -1135,7 +2543,7 @@
         "engineering technology"
       ],
       "id": "careers-3525605",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Positions in The Department of Physiology and The Cardiovascular Institute",
@@ -1151,7 +2559,7 @@
         "interdisciplinary research"
       ],
       "id": "careers-3524603",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant or Associate Professor in Construction and Facilities Management",
@@ -1166,7 +2574,7 @@
         "materials engineering"
       ],
       "id": "careers-3524161",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Positions in Biological and Chemical Engineering",
@@ -1181,7 +2589,7 @@
         "interdisciplinary research"
       ],
       "id": "careers-3523693",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry, Tenure-track",
@@ -1197,7 +2605,7 @@
         "polymer chemistry"
       ],
       "id": "careers-3523351",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor (Plant Breeder)",
@@ -1212,7 +2620,7 @@
         "materials characterization"
       ],
       "id": "careers-3523112",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Medical Physicist Opportunity – Radiation Oncology",
@@ -1227,7 +2635,7 @@
         "quality assurance"
       ],
       "id": "careers-3523091",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant, Associate, or Full Professor, Historic Preservation - Conservation",
@@ -1243,7 +2651,7 @@
         "architectural conservation"
       ],
       "id": "careers-3522775",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Open Rank Professor, 9 Month Salaried (National High Magnetic Field Laboratory)",
@@ -1259,7 +2667,7 @@
         "magnetic fields"
       ],
       "id": "careers-3522331",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Positions in Environmental Health, Boston University School of Public Health",
@@ -1275,7 +2683,7 @@
         "materials"
       ],
       "id": "careers-3522309",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "ASSISTANT/ASSOCIATE PROFESSOR OCCUPATIONAL AND ENVIRONMENTAL HEALTH",
@@ -1291,7 +2699,7 @@
         "materials"
       ],
       "id": "careers-3522021",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Fluid Mechanics, Heat & Mass Transfer, and Chemical Engineering",
@@ -1308,7 +2716,7 @@
         "process modeling"
       ],
       "id": "careers-3521440",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Associate Professor",
@@ -1324,7 +2732,7 @@
         "materials characterization"
       ],
       "id": "careers-3520717",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor - Defence and Dual-use Technologies",
@@ -1338,7 +2746,7 @@
         "advanced materials"
       ],
       "id": "careers-3520708",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Associate or Full Professor - Tenure Track - Perinatal Research Center Director",
@@ -1353,7 +2761,7 @@
         "perinatal biology"
       ],
       "id": "careers-3520198",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant, Associate, or Professor of Neuroscience",
@@ -1368,7 +2776,7 @@
         "molecular biology"
       ],
       "id": "careers-3520051",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant, Associate, or Professor in Neuroscience",
@@ -1383,7 +2791,7 @@
         "molecular biology"
       ],
       "id": "careers-3520049",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenured Associate/Full Professor",
@@ -1399,7 +2807,7 @@
         "biophysics"
       ],
       "id": "careers-3519325",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Assistant Professor",
@@ -1415,7 +2823,7 @@
         "biophysics"
       ],
       "id": "careers-3519324",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Physics",
@@ -1430,7 +2838,7 @@
         "undergraduate research"
       ],
       "id": "careers-3518126",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor in Structural Geology and Geomechanics",
@@ -1447,7 +2855,7 @@
         "fracture"
       ],
       "id": "careers-3515382",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor, Department of Earth System Science",
@@ -1462,7 +2870,7 @@
         "microscopy"
       ],
       "id": "careers-3514287",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant or Associate Professor in Remote Sensing",
@@ -1479,7 +2887,7 @@
         "LiDAR"
       ],
       "id": "careers-3513877",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Open Rank Professor, NHMFL and FAMU-FSU College of Engineering",
@@ -1496,7 +2904,7 @@
         "MRI"
       ],
       "id": "careers-3511876",
-      "isNew": true
+      "isNew": false
     }
   ]
 }

@@ -1,15 +1,754 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gpt-5.6-luna (ChatGPT local initial run)",
-    "generatedAt": "2026-08-14T16:07:57Z",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-08-15T15:05:13Z",
     "source": "Chronicle Faculty Jobs",
     "notes": [
-      "This initial feed used the same filtering and summary rules as the scheduled daily routine.",
-      "R1 status was not used as a filter. Scheduled updates use the configured daily model."
+      "This report contains AI-filtered academic positions discovered from The Chronicle of Higher Education Jobs.",
+      "Current jobs are discovered from Chronicle's public job sitemap; only newly seen listings are summarized."
     ]
   },
   "items": [
+    {
+      "id": "jobs-38026233",
+      "title": "Faculty Position in Global Health Innovation and Policy (Associate Professor or Professor Level)",
+      "url": "https://jobs.chronicle.com/job/38026233",
+      "date": "2026-08-15",
+      "location": "Duke Global Health Institute at Durham, North Carolina (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026360",
+      "title": "Assistant Professor of 3D Animation",
+      "url": "https://jobs.chronicle.com/job/38026360",
+      "date": "2026-08-15",
+      "location": "University of Hawaii School of Cinematic Arts at Honolulu, Hawaii (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026171",
+      "title": "Assistant Professor of Engineering",
+      "url": "https://jobs.chronicle.com/job/38026171",
+      "date": "2026-08-14",
+      "location": "Austin College at Sherman, TX",
+      "description": "Seeks tenure-track Assistant Professor of Engineering with focus on manufacturing, mechanical engineering, and semiconductor applications.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "engineering",
+        "semiconductor fabrication",
+        "manufacturing engineering",
+        "mechanical engineering"
+      ]
+    },
+    {
+      "id": "jobs-38026191",
+      "title": "Assistant Professor of Mechanical Engineering",
+      "url": "https://jobs.chronicle.com/job/38026191",
+      "date": "2026-08-14",
+      "location": "California State University, Fullerton at Fullerton, CA",
+      "description": "Seeks tenure-track faculty in mechanical engineering with expertise in thermal-fluid sciences and manufacturing.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "mechanical engineering",
+        "thermal-fluid sciences",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "jobs-38026253",
+      "title": "Assistant Professor of Chemistry",
+      "url": "https://jobs.chronicle.com/job/38026253",
+      "date": "2026-08-14",
+      "location": "Cal Poly Pomona at Pomona, CA",
+      "description": "Seeks tenure-track Assistant Professor in cosmetic or formulations chemistry and organic chemistry.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "formulations chemistry",
+        "cosmetic chemistry",
+        "organic chemistry"
+      ]
+    },
+    {
+      "id": "jobs-38025881",
+      "title": "Assistant Professor in French and Francophone Studies",
+      "url": "https://jobs.chronicle.com/job/38025881",
+      "date": "2026-08-14",
+      "location": "Wellesley College at Wellesley, Massachusetts (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025884",
+      "title": "Asst/Assoc/Professor - Department of Pathology, Hematopathologist",
+      "url": "https://jobs.chronicle.com/job/38025884",
+      "date": "2026-08-14",
+      "location": "Texas Tech University - Health Sciences Center at Lubbock, Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025886",
+      "title": "Assistant Professor - Pharmacy Practice Dallas",
+      "url": "https://jobs.chronicle.com/job/38025886",
+      "date": "2026-08-14",
+      "location": "Texas Tech University - Health Sciences Center at Ft. Worth, Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025887",
+      "title": "Asst/Assoc/Full Professor, Obstetrics & Gynecology - Laborist",
+      "url": "https://jobs.chronicle.com/job/38025887",
+      "date": "2026-08-14",
+      "location": "Texas Tech University - Health Sciences Center at Lubbock, Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025964",
+      "title": "Assistant Professor (TT), Industrial and Organizational Psychology",
+      "url": "https://jobs.chronicle.com/job/38025964",
+      "date": "2026-08-14",
+      "location": "The University of Akron at Department of Psychology, University of Akron",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025979",
+      "title": "Assistant Professor of Nursing (Mental Health)",
+      "url": "https://jobs.chronicle.com/job/38025979",
+      "date": "2026-08-14",
+      "location": "Carthage College at Kenosha, Wisconsin, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026000",
+      "title": "Assistant/Associate Professor of Horn",
+      "url": "https://jobs.chronicle.com/job/38026000",
+      "date": "2026-08-14",
+      "location": "University of Colorado Boulder at Boulder, Colorado, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026056",
+      "title": "Clinical Assistant Professor in Development and Learning in Elementary Education",
+      "url": "https://jobs.chronicle.com/job/38026056",
+      "date": "2026-08-14",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, North Carolina (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026063",
+      "title": "Assistant Professor, Medical Education",
+      "url": "https://jobs.chronicle.com/job/38026063",
+      "date": "2026-08-14",
+      "location": "Nova Southeastern University at Fort Lauderdale, Florida",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026072",
+      "title": "Assistant/Associate Professor of Horn",
+      "url": "https://jobs.chronicle.com/job/38026072",
+      "date": "2026-08-14",
+      "location": "University of Colorado System at Boulder, Colorado, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026077",
+      "title": "Assistant Professor, Associate Professor, or Professor (Clinical Teaching Track)",
+      "url": "https://jobs.chronicle.com/job/38026077",
+      "date": "2026-08-14",
+      "location": "University of Colorado System at Aurora, Colorado, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026080",
+      "title": "Advanced Practice Provider (APP) (PA/NP/APRN) Pediatric Hospital Medicine - Open Rank- Clinical",
+      "url": "https://jobs.chronicle.com/job/38026080",
+      "date": "2026-08-14",
+      "location": "University of Colorado System at Aurora, Colorado, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026086",
+      "title": "Marketing & Outreach Professional – Senior Professional (Open-Rank)",
+      "url": "https://jobs.chronicle.com/job/38026086",
+      "date": "2026-08-14",
+      "location": "University of Colorado System at Denver, Colorado, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026088",
+      "title": "Open Rank-Assistant Professor, Associate Professor",
+      "url": "https://jobs.chronicle.com/job/38026088",
+      "date": "2026-08-14",
+      "location": "University of Colorado System at Aurora, Colorado, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026089",
+      "title": "Gender Affirming Surgeon; Open Rank (Assistant to Professor)",
+      "url": "https://jobs.chronicle.com/job/38026089",
+      "date": "2026-08-14",
+      "location": "University of Colorado System at Aurora, Colorado, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026102",
+      "title": "Clinical Assistant or Associate Professor, Teacher Education Supervisor",
+      "url": "https://jobs.chronicle.com/job/38026102",
+      "date": "2026-08-14",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, North Carolina (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026122",
+      "title": "Assistant Professor, Psychology - Clinical, Counseling or Open",
+      "url": "https://jobs.chronicle.com/job/38026122",
+      "date": "2026-08-14",
+      "location": "Augustana University at Sioux Falls, South Dakota",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026156",
+      "title": "Assistant Professor of Modern Asian History",
+      "url": "https://jobs.chronicle.com/job/38026156",
+      "date": "2026-08-14",
+      "location": "Wofford College at Spartanburg, South Carolina",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026157",
+      "title": "Associate Professor or Professor",
+      "url": "https://jobs.chronicle.com/job/38026157",
+      "date": "2026-08-14",
+      "location": "Northwestern University at Evanston, Illinois (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026161",
+      "title": "Assistant or Associate Professor",
+      "url": "https://jobs.chronicle.com/job/38026161",
+      "date": "2026-08-14",
+      "location": "University of South Carolina College of Hospitality, Retail and Sport Management at Columbia, South Carolina (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026164",
+      "title": "Clinical Assistant Professor in Organizational Learning and Leadership - July 1 start",
+      "url": "https://jobs.chronicle.com/job/38026164",
+      "date": "2026-08-14",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, North Carolina (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026166",
+      "title": "Assistant Professor of Biology - Anatomy and Physiology",
+      "url": "https://jobs.chronicle.com/job/38026166",
+      "date": "2026-08-14",
+      "location": "Austin College at Sherman, Texas - North of Dallas",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026186",
+      "title": "Extension Faculty, Canyon County- 4-H Youth Development",
+      "url": "https://jobs.chronicle.com/job/38026186",
+      "date": "2026-08-14",
+      "location": "University of Idaho at Idaho, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026202",
+      "title": "Assistant Professor, Tenure-Track Faculty Position in Organizational Communication",
+      "url": "https://jobs.chronicle.com/job/38026202",
+      "date": "2026-08-14",
+      "location": "University of Texas at Austin at Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026215",
+      "title": "Faculty - Tenure-Track, Assistant Professor- Architecture Technology",
+      "url": "https://jobs.chronicle.com/job/38026215",
+      "date": "2026-08-14",
+      "location": "Utah Valley University at Utah, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026222",
+      "title": "Clinical Faculty",
+      "url": "https://jobs.chronicle.com/job/38026222",
+      "date": "2026-08-14",
+      "location": "University of Idaho at Idaho, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026235",
+      "title": "Assistant Professor of Clinical Psychology - Clinical (PsyD Program)",
+      "url": "https://jobs.chronicle.com/job/38026235",
+      "date": "2026-08-14",
+      "location": "California Lutheran University at California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026245",
+      "title": "Clinical Faculty - Clinical Oral Healthcare (Evergreen position)",
+      "url": "https://jobs.chronicle.com/job/38026245",
+      "date": "2026-08-14",
+      "location": "University of the Pacific at California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026247",
+      "title": "Associate Vice President for Faculty Affairs",
+      "url": "https://jobs.chronicle.com/job/38026247",
+      "date": "2026-08-14",
+      "location": "California State University, Northridge at California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026258",
+      "title": "Assistant Professor of Criminology and Criminal Justice",
+      "url": "https://jobs.chronicle.com/job/38026258",
+      "date": "2026-08-14",
+      "location": "California Lutheran University at California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026259",
+      "title": "Assistant Professor of Counselor Education",
+      "url": "https://jobs.chronicle.com/job/38026259",
+      "date": "2026-08-14",
+      "location": "California Lutheran University at California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026260",
+      "title": "Assistant Professor of Psychology",
+      "url": "https://jobs.chronicle.com/job/38026260",
+      "date": "2026-08-14",
+      "location": "California Lutheran University at California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026261",
+      "title": "Assistant Professor of English, Comparative Literature, and Linguistics, specialization in Asian",
+      "url": "https://jobs.chronicle.com/job/38026261",
+      "date": "2026-08-14",
+      "location": "California State University, Fullerton at California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026266",
+      "title": "Assistant Professor of Native American and Indigenous Studies",
+      "url": "https://jobs.chronicle.com/job/38026266",
+      "date": "2026-08-14",
+      "location": "Carleton College at Northfield, Minnesota",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026270",
+      "title": "Assistant Professor in Speech-Language Pathology (Swallowing and/or Feeding Disorders)",
+      "url": "https://jobs.chronicle.com/job/38026270",
+      "date": "2026-08-14",
+      "location": "University of Texas at Austin at Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026271",
+      "title": "Professional-Track Assistant Professor Position in Sports Journalism and Media",
+      "url": "https://jobs.chronicle.com/job/38026271",
+      "date": "2026-08-14",
+      "location": "University of Texas at Austin at Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026300",
+      "title": "Assistant Professor of Instruction",
+      "url": "https://jobs.chronicle.com/job/38026300",
+      "date": "2026-08-14",
+      "location": "Texas State University at Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026331",
+      "title": "Assistant Professor of Film and Media Industry Studies",
+      "url": "https://jobs.chronicle.com/job/38026331",
+      "date": "2026-08-14",
+      "location": "Department of Film and Media Studies at Irvine, California",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026343",
+      "title": "Faculty (Teaching or Tenure Track) - Radiological Science",
+      "url": "https://jobs.chronicle.com/job/38026343",
+      "date": "2026-08-14",
+      "location": "Gannon University at Pennsylvania, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026351",
+      "title": "Assistant Teaching Professor Quantitative Methods-Psychology",
+      "url": "https://jobs.chronicle.com/job/38026351",
+      "date": "2026-08-14",
+      "location": "University of California Berkeley at Berkeley, California (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026367",
+      "title": "Assistant/Associate Professor (Clinical)",
+      "url": "https://jobs.chronicle.com/job/38026367",
+      "date": "2026-08-14",
+      "location": "University of Utah at Utah, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025908",
+      "title": "Assistant Professor - Political Science - U.S. politics with a specialization in Latina/o/x/é",
+      "url": "https://jobs.chronicle.com/job/38025908",
+      "date": "2026-08-13",
+      "location": "San Jose State University at San Jose, California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025909",
+      "title": "Assistant Professor of Economics - Urban/Regional Spatial Data Analysis",
+      "url": "https://jobs.chronicle.com/job/38025909",
+      "date": "2026-08-13",
+      "location": "San Jose State University at San Jose, California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025910",
+      "title": "Assistant Professor of Economics - Macro Economics AI",
+      "url": "https://jobs.chronicle.com/job/38025910",
+      "date": "2026-08-13",
+      "location": "San Jose State University at San Jose, California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025914",
+      "title": "Open Rank - Clinical Assistant, Associate, or Full Professor",
+      "url": "https://jobs.chronicle.com/job/38025914",
+      "date": "2026-08-13",
+      "location": "University of Georgia at Athens, Georgia, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025926",
+      "title": "Physician Assistant - Full Time Principal Faculty - Physician Assistant",
+      "url": "https://jobs.chronicle.com/job/38025926",
+      "date": "2026-08-13",
+      "location": "South University at Tampa, Florida, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025939",
+      "title": "Assistant Professor - Finance",
+      "url": "https://jobs.chronicle.com/job/38025939",
+      "date": "2026-08-13",
+      "location": "Miami University (Ohio) at Oxford, Ohio, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025942",
+      "title": "Open Rank: Research Analyst or Senior Research Analyst",
+      "url": "https://jobs.chronicle.com/job/38025942",
+      "date": "2026-08-13",
+      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025948",
+      "title": "Assistant Professor - Entry into Nursing Practice",
+      "url": "https://jobs.chronicle.com/job/38025948",
+      "date": "2026-08-13",
+      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025949",
+      "title": "Assistant/Associate Professor in Computer Science and Artificial Intelligence",
+      "url": "https://jobs.chronicle.com/job/38025949",
+      "date": "2026-08-13",
+      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025965",
+      "title": "Tenure-Track Assistant Professor of Management Information Systems",
+      "url": "https://jobs.chronicle.com/job/38025965",
+      "date": "2026-08-13",
+      "location": "George Mason University at Fairfax, Virginia, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025967",
+      "title": "Tenure-Track Assistant Professor of Operations Management",
+      "url": "https://jobs.chronicle.com/job/38025967",
+      "date": "2026-08-13",
+      "location": "George Mason University at Fairfax, Virginia, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025970",
+      "title": "Full Time Nursing Faculty",
+      "url": "https://jobs.chronicle.com/job/38025970",
+      "date": "2026-08-13",
+      "location": "Shenandoah University at Winchester, Virginia, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026040",
+      "title": "Clinical Assistant Professor of Audiology",
+      "url": "https://jobs.chronicle.com/job/38026040",
+      "date": "2026-08-13",
+      "location": "Georgia State University at Atlanta, Georgia, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026112",
+      "title": "Assistant/Associate Academic Specialist of Social Science (Open Rank)",
+      "url": "https://jobs.chronicle.com/job/38026112",
+      "date": "2026-08-13",
+      "location": "New York University Abu Dhabi at United Arab Emirates",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38025938",
+      "title": "Assistant, Associate, or Full Professor of Surgery, Transplant Surgery",
+      "url": "https://jobs.chronicle.com/job/38025938",
+      "date": "2026-08-12",
+      "location": "The University of Toledo at Toledo, Ohio, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026106",
+      "title": "Assistant Professor of Psychology, Tenure-Track, Fall 2027",
+      "url": "https://jobs.chronicle.com/job/38026106",
+      "date": "2026-08-10",
+      "location": "Chapman University at Orange, California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38026107",
+      "title": "Assistant or Associate Professor of Law, Tenure Track, Fall 2027",
+      "url": "https://jobs.chronicle.com/job/38026107",
+      "date": "2026-07-29",
+      "location": "Chapman University at Orange, California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38017072",
+      "title": "Open Rank Per Diem Specialty Faculty (Assistant Professor, Associate Professor and Professor)",
+      "url": "https://jobs.chronicle.com/job/38017072",
+      "date": "2026-07-20",
+      "location": "University of Colorado System at Aurora, Colorado, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38010889",
+      "title": "Assistant Professor - Pharmacy Practice",
+      "url": "https://jobs.chronicle.com/job/38010889",
+      "date": "2026-07-07",
+      "location": "Texas Tech University - Health Sciences Center at Ft. Worth, Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38010890",
+      "title": "Assistant/Associate Professor - Pharmacy Practice",
+      "url": "https://jobs.chronicle.com/job/38010890",
+      "date": "2026-07-07",
+      "location": "Texas Tech University - Health Sciences Center at Ft. Worth, Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
     {
       "title": "Full/Associate/Assistant Professor in Biomedical Engineering",
       "url": "https://jobs.chronicle.com/job/38025779",
@@ -24,7 +763,7 @@
         "medical imaging"
       ],
       "id": "jobs-38025779",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure Track Assistant Professor of Physics",
@@ -39,7 +778,7 @@
         "structure-property relationships"
       ],
       "id": "jobs-38025752",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry, Tenure Track",
@@ -55,7 +794,7 @@
         "materials characterization"
       ],
       "id": "jobs-38025745",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate/Full Professor of Bioengineering: Biomaterials",
@@ -71,7 +810,7 @@
         "medical devices"
       ],
       "id": "jobs-38025693",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Analytical Chemistry",
@@ -86,7 +825,7 @@
         "materials characterization"
       ],
       "id": "jobs-38025411",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor of Architecture",
@@ -102,7 +841,7 @@
         "computational design"
       ],
       "id": "jobs-38025175",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Engineering",
@@ -117,7 +856,7 @@
         "laboratory teaching"
       ],
       "id": "jobs-38025068",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate/Professor of Chemical Engineering",
@@ -133,7 +872,7 @@
         "materials characterization"
       ],
       "id": "jobs-38025053",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate/Professor for Physics",
@@ -148,7 +887,7 @@
         "computational modeling"
       ],
       "id": "jobs-38025052",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Professor of Chemistry and Biochemistry",
@@ -165,7 +904,7 @@
         "instrumentation"
       ],
       "id": "jobs-38024029",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Open Rank Professor of Chemistry",
@@ -180,7 +919,7 @@
         "undergraduate research"
       ],
       "id": "jobs-38024510",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor - Chemical Biology",
@@ -195,7 +934,7 @@
         "physical sciences"
       ],
       "id": "jobs-38024472",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Physics",
@@ -211,7 +950,7 @@
         "undergraduate research"
       ],
       "id": "jobs-38024256",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure Track Assistant Professor – Department of Chemistry and Biochemistry",
@@ -227,7 +966,7 @@
         "computational chemistry"
       ],
       "id": "jobs-38024227",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Professor of Chemistry and Biochemistry",
@@ -244,7 +983,7 @@
         "instrumentation"
       ],
       "id": "jobs-38024151",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant or Associate Professor of Teaching in Mechanical and Manufacturing Engineering",
@@ -260,7 +999,7 @@
         "engineering education"
       ],
       "id": "jobs-38024004",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry",
@@ -277,7 +1016,7 @@
         "photocatalysis"
       ],
       "id": "jobs-38024051",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor - Geology",
@@ -295,7 +1034,7 @@
         "microscopy"
       ],
       "id": "jobs-38023540",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry",
@@ -310,7 +1049,7 @@
         "undergraduate research"
       ],
       "id": "jobs-38023204",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Physics-Astronomy Faculty, full-time or part-time",
@@ -325,7 +1064,7 @@
         "undergraduate research"
       ],
       "id": "jobs-38023044",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "ENVIRONMENTAL PUBLIC HEALTH: Tenure-Track Assistant or Associate Professor of Environmental Public",
@@ -341,7 +1080,7 @@
         "environmental hazards"
       ],
       "id": "jobs-38022955",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor, Mathematics",
@@ -356,7 +1095,7 @@
         "data science"
       ],
       "id": "jobs-38023091",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Mathematics",
@@ -372,7 +1111,7 @@
         "data science"
       ],
       "id": "jobs-38022979",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure Track Faculty Position in Organic/Organometallic Synthesis",
@@ -388,7 +1127,7 @@
         "sustainable chemistry"
       ],
       "id": "jobs-38022921",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Molecular Genetics",
@@ -404,7 +1143,7 @@
         "microscopy"
       ],
       "id": "jobs-38022704",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Forensic Science",
@@ -420,7 +1159,7 @@
         "microscopy"
       ],
       "id": "jobs-38022486",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant, Associate or Full Professor of Chemistry",
@@ -436,7 +1175,7 @@
         "undergraduate research"
       ],
       "id": "jobs-38022099",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor, Cell Biology",
@@ -451,7 +1190,7 @@
         "cellular imaging"
       ],
       "id": "jobs-38021954",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Physics",
@@ -466,7 +1205,7 @@
         "microscopy"
       ],
       "id": "jobs-38021006",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Faculty Positions",
@@ -481,7 +1220,7 @@
         "electron microscopy"
       ],
       "id": "jobs-38021920",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Physics",
@@ -497,7 +1236,7 @@
         "undergraduate research"
       ],
       "id": "jobs-38021496",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Earth and Oceanographic Science",
@@ -515,7 +1254,7 @@
         "materials characterization"
       ],
       "id": "jobs-38021485",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Mathematics and Statistics, Assistant Professor",
@@ -531,7 +1270,7 @@
         "optimization"
       ],
       "id": "jobs-38021327",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Electrical and Computer Engineering, Assistant Professor",
@@ -547,7 +1286,7 @@
         "research"
       ],
       "id": "jobs-38021298",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Geology",
@@ -563,7 +1302,7 @@
         "materials characterization"
       ],
       "id": "jobs-38021297",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure Track Systems Engineering Teaching Faculty",
@@ -578,7 +1317,7 @@
         "energy systems"
       ],
       "id": "jobs-38021062",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Molecular, Cellular, and Developmental Biology (MCDB)",
@@ -593,7 +1332,7 @@
         "microscopy"
       ],
       "id": "jobs-38020984",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor-Biology",
@@ -608,7 +1347,7 @@
         "interdisciplinary research"
       ],
       "id": "jobs-38020858",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Full/Associate/Assistant Professor in Modern Civil Engineering",
@@ -624,7 +1363,7 @@
         "sustainable technologies"
       ],
       "id": "jobs-38020589",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Biology (Two Tenure-Track Positions)",
@@ -639,7 +1378,7 @@
         "cell biology"
       ],
       "id": "jobs-38020827",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor, Chemistry",
@@ -654,7 +1393,7 @@
         "materials characterization"
       ],
       "id": "jobs-38020586",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry",
@@ -670,7 +1409,7 @@
         "interdisciplinary research"
       ],
       "id": "jobs-38020575",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry",
@@ -684,7 +1423,7 @@
         "theoretical chemistry"
       ],
       "id": "jobs-38020570",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Chemistry - Open Rank Organic Chemistry Faculty",
@@ -699,7 +1438,7 @@
         "materials characterization"
       ],
       "id": "jobs-38021075",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor, Mechanical and Nuclear Engineering",
@@ -715,7 +1454,7 @@
         "nuclear engineering"
       ],
       "id": "jobs-38020320",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Engineering - Mechanical",
@@ -731,7 +1470,7 @@
         "undergraduate research"
       ],
       "id": "jobs-38019719",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Biochemistry",
@@ -747,7 +1486,7 @@
         "student mentoring"
       ],
       "id": "jobs-38019489",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Construction Management/Safety",
@@ -763,7 +1502,7 @@
         "materials"
       ],
       "id": "jobs-38019482",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Chemistry, Assistant Professor",
@@ -778,7 +1517,7 @@
         "materials characterization"
       ],
       "id": "jobs-38019087",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor in Civil Engineering, Structural and Earthquake Engineering",
@@ -793,7 +1532,7 @@
         "materials testing"
       ],
       "id": "jobs-38019041",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty in Applications of Physics, Data Science and/or Engineering to Particle Accelerators",
@@ -810,7 +1549,7 @@
         "characterization"
       ],
       "id": "jobs-38008518",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty in Applications of Physics, Data Science and/or Engineering to Particle Accelerators",
@@ -827,7 +1566,7 @@
         "materials characterization"
       ],
       "id": "jobs-37992986",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Full-time Faculty - Chemistry",
@@ -843,7 +1582,7 @@
         "general chemistry"
       ],
       "id": "jobs-38018570",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry (Biochemistry)",
@@ -858,7 +1597,7 @@
         "undergraduate research"
       ],
       "id": "jobs-38018562",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor - Industrial Engineering",
@@ -875,7 +1614,7 @@
         "applied research"
       ],
       "id": "jobs-38018328",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Ft Faculty - Manufacturing (Tenture Track)",
@@ -892,7 +1631,7 @@
         "CNC machining"
       ],
       "id": "jobs-38018243",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor",
@@ -908,7 +1647,7 @@
         "biomedical research"
       ],
       "id": "jobs-38012391",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor (Electrical Engineering & Renewable Energy)",
@@ -925,7 +1664,7 @@
         "applied research"
       ],
       "id": "jobs-38017904",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track: Assistant or Associate Professor - Thermo-Fluids",
@@ -941,7 +1680,7 @@
         "energy systems"
       ],
       "id": "jobs-38017880",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate/Full Professor, Materials Science and Engineering Program",
@@ -960,7 +1699,7 @@
         "advanced manufacturing"
       ],
       "id": "jobs-38017873",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Quo Endowed Professorship, Assistant/Associate/Full Professor, Mechanical Engineering",
@@ -976,7 +1715,7 @@
         "materials science and engineering"
       ],
       "id": "jobs-38017871",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Geology and Earth Systems Science Tenure-Track Faculty",
@@ -991,7 +1730,7 @@
         "Earth systems science"
       ],
       "id": "jobs-38017764",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Forensic Science",
@@ -1006,7 +1745,7 @@
         "materials characterization"
       ],
       "id": "jobs-38017653",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Environmental Chemistry",
@@ -1022,7 +1761,7 @@
         "materials characterization"
       ],
       "id": "jobs-38017625",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor, Organic Chemistry",
@@ -1037,7 +1776,7 @@
         "organic chemistry"
       ],
       "id": "jobs-38017550",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Associate Professor/Professor, Department of Chemistry",
@@ -1052,7 +1791,7 @@
         "interdisciplinary research"
       ],
       "id": "jobs-38017687",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Open-Rank Professor of Chemistry",
@@ -1068,7 +1807,7 @@
         "materials science"
       ],
       "id": "jobs-38017581",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "ASSISTANT PROFESSOR OF UNMANNED AERIAL SYSTEMS",
@@ -1083,7 +1822,7 @@
         "drone technology"
       ],
       "id": "jobs-38017483",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "ASSISTANT/ASSOCIATE PROFESSOR - Civil, Architectural and Environmental Engineering #00096512",
@@ -1098,7 +1837,7 @@
         "materials"
       ],
       "id": "jobs-38017362",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Faculty Positions in Aerospace (Propulsion, Structures, Space GNC)",
@@ -1114,7 +1853,7 @@
         "high-performance materials"
       ],
       "id": "jobs-38017138",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure Track Faculty Position in Dynamics & Controls (Robotics)",
@@ -1130,7 +1869,7 @@
         "materials engineering"
       ],
       "id": "jobs-38017137",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant or Associate Professor in Food and Nutritional Sciences",
@@ -1146,7 +1885,7 @@
         "data analysis"
       ],
       "id": "jobs-38016918",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Civil Engineering AI",
@@ -1162,7 +1901,7 @@
         "AI"
       ],
       "id": "jobs-38016782",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "FCSM-4011 Assistant Professor, Forensic Chemistry",
@@ -1177,7 +1916,7 @@
         "forensic chemistry"
       ],
       "id": "jobs-38016661",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Assistant Professor - Chemistry",
@@ -1193,7 +1932,7 @@
         "experimental research"
       ],
       "id": "jobs-38016025",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor – Computer Engineering",
@@ -1209,7 +1948,7 @@
         "AI hardware"
       ],
       "id": "jobs-38015994",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Chemical Engineering - Assistant/Associate/Full Professor",
@@ -1225,7 +1964,7 @@
         "engineering"
       ],
       "id": "jobs-38015647",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Associate/Full Professor in Mechanical Engineering",
@@ -1242,7 +1981,7 @@
         "mechanical engineering"
       ],
       "id": "jobs-38015317",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor in Artificial Intelligence for Agriculture",
@@ -1258,7 +1997,7 @@
         "environmental systems"
       ],
       "id": "jobs-38014813",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor – Microelectronics",
@@ -1274,7 +2013,7 @@
         "microelectronics"
       ],
       "id": "jobs-38014779",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant /Associate Professor in Physical Therapy",
@@ -1289,7 +2028,7 @@
         "physical therapy"
       ],
       "id": "jobs-38014475",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor, Product Design (Physical and Digital)",
@@ -1305,7 +2044,7 @@
         "product design"
       ],
       "id": "jobs-38014467",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate/Professor in Neurotechnology",
@@ -1321,7 +2060,7 @@
         "neurotechnology"
       ],
       "id": "jobs-38014459",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor in Structures, Artificial Intelligence, and Design",
@@ -1337,7 +2076,7 @@
         "artificial intelligence"
       ],
       "id": "jobs-38014455",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor, Industrial Hygiene (Tenure Track)",
@@ -1352,7 +2091,7 @@
         "occupational health"
       ],
       "id": "jobs-38014327",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Organic Chemistry (Tenure Track) at Concord University",
@@ -1369,7 +2108,7 @@
         "Raman"
       ],
       "id": "jobs-38013809",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor, Tenure Track in Integrative Medical Sciences",
@@ -1385,7 +2124,7 @@
         "cell biology"
       ],
       "id": "jobs-38012367",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Open Rank Faculty, Tenure Track, Integrative Medical Sciences",
@@ -1400,7 +2139,7 @@
         "biomedical research"
       ],
       "id": "jobs-38012362",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Cell Biology",
@@ -1416,7 +2155,7 @@
         "cell biology"
       ],
       "id": "jobs-38011947",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Soil Science",
@@ -1432,7 +2171,7 @@
         "materials characterization"
       ],
       "id": "jobs-38011840",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Positions in Biological and Chemical Engineering",
@@ -1447,7 +2186,7 @@
         "interdisciplinary research"
       ],
       "id": "jobs-38011750",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry and Biochemistry",
@@ -1463,7 +2202,7 @@
         "undergraduate research"
       ],
       "id": "jobs-38011540",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor, Ocean and Marine Technologies",
@@ -1479,7 +2218,7 @@
         "mechanical engineering"
       ],
       "id": "jobs-38011053",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant, Associate, or Full Professor of Chemistry",
@@ -1494,7 +2233,7 @@
         "structure-property relationships"
       ],
       "id": "jobs-38011604",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure Track Assistant Professor-Chemistry and Biochemistry",
@@ -1509,7 +2248,7 @@
         "structure-property relationships"
       ],
       "id": "jobs-38011342",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor in Experimental Physical Chemistry",
@@ -1525,7 +2264,7 @@
         "laboratory teaching"
       ],
       "id": "jobs-38011215",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor in Experimental Biochemistry",
@@ -1540,7 +2279,7 @@
         "research instrumentation"
       ],
       "id": "jobs-38011214",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Computer Science, Assistant Professor",
@@ -1555,7 +2294,7 @@
         "computer vision"
       ],
       "id": "jobs-38011183",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "FCSM-4008 Assistant Professor, Organic Chemistry",
@@ -1569,7 +2308,7 @@
         "target-directed synthesis"
       ],
       "id": "jobs-38011120",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Department Head & Professor",
@@ -1585,7 +2324,7 @@
         "engineering technology"
       ],
       "id": "jobs-38011019",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Transportation Engineering",
@@ -1600,7 +2339,7 @@
         "materials laboratory"
       ],
       "id": "jobs-38010220",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure- Track Assistant Professor of Mechanical Engineering",
@@ -1616,7 +2355,7 @@
         "research funding"
       ],
       "id": "jobs-38009800",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Asst Professor",
@@ -1631,7 +2370,7 @@
         "mechanical engineering"
       ],
       "id": "jobs-38009797",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Positions in The Department of Physiology and The Cardiovascular Institute",
@@ -1646,7 +2385,7 @@
         "mechanistic investigation"
       ],
       "id": "jobs-38009765",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry, tenure-track",
@@ -1661,7 +2400,7 @@
         "instrumentation"
       ],
       "id": "jobs-38009512",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Faculty Positions in Biological and Chemical Engineering",
@@ -1677,7 +2416,7 @@
         "interdisciplinary research"
       ],
       "id": "jobs-38009432",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor Tenure Track Position — Children's Hospital of Philadelphia Cardiovascular Institute",
@@ -1693,7 +2432,7 @@
         "structure-property relationships"
       ],
       "id": "jobs-38008755",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "ASSOCIATE/FULL PROFESSOR - Chemistry #00097788",
@@ -1709,7 +2448,7 @@
         "electron microscopy"
       ],
       "id": "jobs-38008412",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry, Tenure-track",
@@ -1725,7 +2464,7 @@
         "instrumentation"
       ],
       "id": "jobs-38008012",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate/Full Professor, Historic Preservation - Conservation",
@@ -1741,7 +2480,7 @@
         "conservation"
       ],
       "id": "jobs-38007515",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor - Mechanical Engineering",
@@ -1757,7 +2496,7 @@
         "materials characterization"
       ],
       "id": "jobs-38007010",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure Track Assistant/Associate Professor of Mechanical Engineering, Daytona Beach Campus",
@@ -1772,7 +2511,7 @@
         "advanced technologies"
       ],
       "id": "jobs-38006733",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Assistant Professor Position in Geochemistry",
@@ -1788,7 +2527,7 @@
         "mass spectrometry"
       ],
       "id": "jobs-38006634",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Faculty Positions in Large-Scale Cryogenics",
@@ -1803,7 +2542,7 @@
         "advanced materials"
       ],
       "id": "jobs-38006541",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate/Full Professor",
@@ -1817,7 +2556,7 @@
         "experimental research"
       ],
       "id": "jobs-38006801",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate/Full Professor",
@@ -1834,7 +2573,7 @@
         "materials design"
       ],
       "id": "jobs-38006800",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Mechanical Engineering, Assistant Professor",
@@ -1849,7 +2588,7 @@
         "experimental research"
       ],
       "id": "jobs-38006495",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor – Department of Biomechanics, Cardiovascular Science focus",
@@ -1865,7 +2604,7 @@
         "experimental research"
       ],
       "id": "jobs-38006452",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Assistant Professor of Mechanical Engineering",
@@ -1882,7 +2621,7 @@
         "materials science"
       ],
       "id": "jobs-38005797",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate/Professor in Biomedical Imaging",
@@ -1898,7 +2637,7 @@
         "image processing"
       ],
       "id": "jobs-38005363",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor - Civil Engineering (Transportation)",
@@ -1913,7 +2652,7 @@
         "laboratory instruction"
       ],
       "id": "jobs-38005070",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Senior Faculty Position in Experimental Physical Chemistry",
@@ -1928,7 +2667,7 @@
         "structure-property relationships"
       ],
       "id": "jobs-38004947",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Engineering (Civil Engineering)",
@@ -1943,7 +2682,7 @@
         "interdisciplinary research"
       ],
       "id": "jobs-38005201",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenured Faculty Position in Chemical Engineering - Fall 2026",
@@ -1958,7 +2697,7 @@
         "structure-property relationships"
       ],
       "id": "jobs-38004808",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Faculty Position in Marine Energy",
@@ -1974,7 +2713,7 @@
         "systems engineering"
       ],
       "id": "jobs-38003736",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate Professor in Food and Nutritional Sciences",
@@ -1990,7 +2729,7 @@
         "food engineering"
       ],
       "id": "jobs-38003857",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Tenure-Track Assistant Professor/Associate Professor/ Professor in Condensed Matter Physics",
@@ -2007,7 +2746,7 @@
         "nanophotonics"
       ],
       "id": "jobs-38003320",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Two Tenure-Track Faculty Positions in Quantum Physics, Department of Physics and Astronomy - UT",
@@ -2022,7 +2761,7 @@
         "materials characterization"
       ],
       "id": "jobs-38003425",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor (Thermofluids)",
@@ -2038,7 +2777,7 @@
         "mechanical engineering"
       ],
       "id": "jobs-38002814",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Chemistry-Tenure Track",
@@ -2054,7 +2793,7 @@
         "laboratory instruction"
       ],
       "id": "jobs-38002108",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Physics",
@@ -2069,7 +2808,7 @@
         "undergraduate research"
       ],
       "id": "jobs-38001926",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Professor and Department Head of Mechanical Engineering",
@@ -2084,7 +2823,7 @@
         "materials engineering"
       ],
       "id": "jobs-38005056",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor of Physics",
@@ -2101,7 +2840,7 @@
         "AI"
       ],
       "id": "jobs-38000441",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant Professor or Associate Professor - Mechanical, Materials and Aerospace Engineering",
@@ -2118,7 +2857,7 @@
         "electron microscopy"
       ],
       "id": "jobs-38000049",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Assistant/Associate/Full Professor",
@@ -2134,7 +2873,7 @@
         "materials engineering"
       ],
       "id": "jobs-37997598",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Associate Professor/Professor",
@@ -2151,7 +2890,7 @@
         "nanomaterials characterization"
       ],
       "id": "jobs-37996238",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
