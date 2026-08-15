@@ -13,7 +13,6 @@ from config import settings
 from .feed_utils import utc_generated_at
 from .interfolio_client import (
     DEFAULT_LOOKAHEAD,
-    DEFAULT_NEIGHBOR_WINDOW,
     DEFAULT_RECENT_DAYS,
     DEFAULT_START_ID,
     InterfolioClient,
@@ -31,7 +30,6 @@ from .job_summarizer import JobSummarizer
 DEFAULT_CONFIG = {
     "start_id": DEFAULT_START_ID,
     "lookahead": DEFAULT_LOOKAHEAD,
-    "neighbor_window": DEFAULT_NEIGHBOR_WINDOW,
     "recent_days": DEFAULT_RECENT_DAYS,
     "request_delay": 0.5,
     "timeout": 30,
@@ -62,7 +60,6 @@ def _build_parser() -> argparse.ArgumentParser:
     scan.add_argument("--mode", choices=("bootstrap", "daily"), required=True)
     scan.add_argument("--start-id", type=int, default=int(config["start_id"]))
     scan.add_argument("--lookahead", type=int, default=int(config["lookahead"]))
-    scan.add_argument("--neighbor-window", type=int, default=int(config["neighbor_window"]))
     scan.add_argument("--recent-days", type=int, default=int(config["recent_days"]))
     scan.add_argument("--request-delay", type=float, default=float(config["request_delay"]))
     scan.add_argument("--timeout", type=float, default=float(config["timeout"]))
@@ -115,7 +112,6 @@ def _scan(args: argparse.Namespace) -> int:
         store,
         start_id=args.start_id,
         lookahead=args.lookahead,
-        neighbor_window=args.neighbor_window,
         recent_days=args.recent_days,
         checkpoint_every=args.checkpoint_every,
         workers=args.workers,
@@ -160,7 +156,7 @@ def _set_interfolio_header(path: Path, model: str) -> None:
         "title": "Basic Info",
         "model": model,
         "generatedAt": utc_generated_at(),
-        "source": "Interfolio",
+        "source": "Interfolio Faculty Jobs",
         "notes": [
             "This report contains AI-filtered academic positions discovered from public Interfolio job pages.",
             "Only the compact scan state and AI summary are retained after queued records are processed.",

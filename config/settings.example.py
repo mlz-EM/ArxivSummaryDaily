@@ -73,9 +73,8 @@ JOB_CONFIG = {
 INTERFOLIO_CONFIG = {
     'minimum_posted_date': os.getenv("INTERFOLIO_MINIMUM_POSTED_DATE", "2026-06-01"),
     'start_id': int(os.getenv("INTERFOLIO_START_ID", "180000")),
-    'lookahead': int(os.getenv("INTERFOLIO_LOOKAHEAD", "500")),
-    'neighbor_window': int(os.getenv("INTERFOLIO_NEIGHBOR_WINDOW", "100")),
-    'recent_days': int(os.getenv("INTERFOLIO_RECENT_DAYS", "14")),
+    'lookahead': int(os.getenv("INTERFOLIO_LOOKAHEAD", "400")),
+    'recent_days': int(os.getenv("INTERFOLIO_RECENT_DAYS", "7")),
     'request_delay': float(os.getenv("INTERFOLIO_REQUEST_DELAY", "0.5")),
     'timeout': float(os.getenv("INTERFOLIO_TIMEOUT", "30")),
     'retry_count': int(os.getenv("INTERFOLIO_RETRY_COUNT", "4")),

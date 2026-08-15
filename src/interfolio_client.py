@@ -13,6 +13,7 @@ import json
 import re
 import threading
 import time
+from bisect import bisect_right
 from collections import Counter, defaultdict
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
@@ -27,9 +28,8 @@ import requests
 POSITION_URL = "https://logic.interfolio.com/dossier-api/positions/{position_id}"
 LANDING_URL = "https://apply.interfolio.com/{position_id}"
 DEFAULT_START_ID = 180000
-DEFAULT_LOOKAHEAD = 500
-DEFAULT_NEIGHBOR_WINDOW = 100
-DEFAULT_RECENT_DAYS = 14
+DEFAULT_LOOKAHEAD = 400
+DEFAULT_RECENT_DAYS = 7
 
 def utc_now() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
@@ -301,7 +301,7 @@ class InterfolioStore:
         self.state = self._load_json(
             self.state_path,
             {
-                "schemaVersion": 1,
+                "schemaVersion": 2,
                 "startId": DEFAULT_START_ID,
                 "bootstrapComplete": False,
                 "bootstrapNextId": DEFAULT_START_ID,
@@ -309,6 +309,7 @@ class InterfolioStore:
                 "lastScannedId": None,
                 "lastRunAt": "",
                 "missing": {},
+                "completedMissingIds": [],
                 "pendingErrors": {},
             },
         )
@@ -318,6 +319,14 @@ class InterfolioStore:
             self.state["missing"] = {}
         if not isinstance(self.state.get("pendingErrors"), dict):
             self.state["pendingErrors"] = {}
+        if not isinstance(self.state.get("completedMissingIds"), list):
+            self.state["completedMissingIds"] = []
+        self.state["schemaVersion"] = 2
+        self._completed_missing_ids: Set[int] = {
+            int(value)
+            for value in self.state["completedMissingIds"]
+            if str(value).isdigit()
+        }
         self._jobs_by_id: Dict[int, Dict[str, Any]] = {
             int(job["id"]): job
             for job in self.raw["jobs"]
@@ -356,6 +365,10 @@ class InterfolioStore:
     def jobs(self) -> List[Dict[str, Any]]:
         return list(self._jobs_by_id.values())
 
+    @property
+    def completed_missing_ids(self) -> Set[int]:
+        return set(self._completed_missing_ids)
+
     def add_position(self, payload: Dict[str, Any], observed_at: Optional[str] = None) -> bool:
         position_id = int(payload["position_id"])
         if position_id in self._jobs_by_id:
@@ -367,21 +380,52 @@ class InterfolioStore:
             int(self.state.get("highestDiscoveredId") or 0),
         )
         self.state["missing"].pop(str(position_id), None)
+        self._completed_missing_ids.discard(position_id)
         self.state["pendingErrors"].pop(str(position_id), None)
+        posted_date = str(record.get("postedDate") or "")
+        if posted_date:
+            for raw_id, observation in self.state["missing"].items():
+                missing_id = int(raw_id)
+                try:
+                    next_larger_id = int(observation.get("nextLargerId"))
+                except (TypeError, ValueError):
+                    continue
+                if missing_id < position_id < next_larger_id:
+                    observation["nextLargerId"] = position_id
+                    observation["nextLargerPostedDate"] = posted_date
         return True
 
-    def record_missing(self, position_id: int, kind: str, checked_at: Optional[str] = None) -> None:
-        if int(position_id) in self._jobs_by_id:
+    def record_missing(
+        self,
+        position_id: int,
+        kind: str,
+        checked_at: Optional[str] = None,
+        *,
+        next_larger_id: Optional[int] = None,
+        next_larger_posted_date: str = "",
+    ) -> None:
+        position_id = int(position_id)
+        if position_id in self._jobs_by_id or position_id in self._completed_missing_ids:
             return
         checked_at = checked_at or utc_now()
-        key = str(int(position_id))
+        key = str(position_id)
         existing = self.state["missing"].get(key, {})
-        self.state["missing"][key] = {
+        observation = {
             "kind": kind,
             "firstCheckedAt": existing.get("firstCheckedAt") or checked_at,
             "lastCheckedAt": checked_at,
-            "retryUntil": existing.get("retryUntil") or "",
         }
+        if next_larger_id is not None:
+            observation["nextLargerId"] = int(next_larger_id)
+            observation["nextLargerPostedDate"] = normalize_interfolio_date(
+                next_larger_posted_date
+            )
+        else:
+            if existing.get("nextLargerId") is not None:
+                observation["nextLargerId"] = existing["nextLargerId"]
+            if existing.get("nextLargerPostedDate"):
+                observation["nextLargerPostedDate"] = existing["nextLargerPostedDate"]
+        self.state["missing"][key] = observation
         self.state["pendingErrors"].pop(key, None)
 
     def record_error(self, position_id: int, message: str, checked_at: Optional[str] = None) -> None:
@@ -397,52 +441,67 @@ class InterfolioStore:
             "error": message,
         }
 
-    def update_retry_windows(self, neighbor_window: int, recent_days: int) -> None:
-        today = datetime.now(timezone.utc).date()
-        recent_cutoff = today - timedelta(days=recent_days)
-        recent_ids: List[int] = []
-        recent_dates: Dict[int, date] = {}
-        for job_id, job in self._jobs_by_id.items():
-            posted = normalize_interfolio_date(job.get("postedDate"))
+    def retryable_missing_ids(
+        self,
+        recent_days: int,
+        today: Optional[date] = None,
+    ) -> List[int]:
+        today = today or datetime.now(timezone.utc).date()
+        cutoff = today - timedelta(days=max(1, int(recent_days)))
+        retryable: List[int] = []
+        completed: List[int] = []
+        for raw_id, observation in list(self.state["missing"].items()):
+            posted = normalize_interfolio_date(observation.get("nextLargerPostedDate"))
             if not posted:
+                observation["status"] = "unresolved"
+                retryable.append(int(raw_id))
                 continue
             try:
                 posted_date = date.fromisoformat(posted)
             except ValueError:
+                observation["status"] = "unresolved"
+                retryable.append(int(raw_id))
                 continue
-            if posted_date >= recent_cutoff:
-                recent_ids.append(job_id)
-                recent_dates[job_id] = posted_date
+            if posted_date < cutoff:
+                completed.append(int(raw_id))
+            elif posted_date > today:
+                observation["status"] = "deferred"
+            else:
+                observation["status"] = "retry"
+                retryable.append(int(raw_id))
+        for position_id in completed:
+            self.state["missing"].pop(str(position_id), None)
+            self._completed_missing_ids.add(position_id)
+        return sorted(retryable)
 
+    def drop_missing_above(self, highest_discovered_id: int) -> None:
+        highest_discovered_id = int(highest_discovered_id)
+        for raw_id in list(self.state["missing"]):
+            if int(raw_id) > highest_discovered_id:
+                self.state["missing"].pop(raw_id, None)
+        for raw_id in list(self.state["pendingErrors"]):
+            if int(raw_id) > highest_discovered_id:
+                self.state["pendingErrors"].pop(raw_id, None)
+
+    def annotate_missing_with_nearest_positions(self) -> None:
+        position_ids = sorted(self._jobs_by_id)
         for raw_id, observation in self.state["missing"].items():
             missing_id = int(raw_id)
-            neighbor_dates = [
-                recent_dates[job_id]
-                for job_id in recent_ids
-                if abs(job_id - missing_id) <= neighbor_window
-            ]
-            if neighbor_dates:
-                observation["retryUntil"] = (max(neighbor_dates) + timedelta(days=recent_days)).isoformat()
-
-    def retryable_missing_ids(self, today: Optional[date] = None) -> List[int]:
-        today = today or datetime.now(timezone.utc).date()
-        retryable: List[int] = []
-        for raw_id, observation in self.state["missing"].items():
-            retry_until = str(observation.get("retryUntil") or "")
-            if not retry_until:
+            next_index = bisect_right(position_ids, missing_id)
+            if next_index >= len(position_ids):
                 continue
-            try:
-                if date.fromisoformat(retry_until) >= today:
-                    retryable.append(int(raw_id))
-            except ValueError:
-                continue
-        return sorted(retryable)
+            next_larger_id = position_ids[next_index]
+            observation["nextLargerId"] = next_larger_id
+            observation["nextLargerPostedDate"] = str(
+                self._jobs_by_id[next_larger_id].get("postedDate") or ""
+            )
 
     def save(self) -> None:
         now = utc_now()
         self.raw["generatedAt"] = now
         self.raw["jobs"] = sorted(self._jobs_by_id.values(), key=lambda job: int(job["id"]))
         self.state["lastRunAt"] = now
+        self.state["completedMissingIds"] = sorted(self._completed_missing_ids)
         self._atomic_write(self.raw_path, self.raw)
         self._atomic_write(self.state_path, self.state)
 
@@ -457,7 +516,6 @@ class InterfolioScanner:
         *,
         start_id: int = DEFAULT_START_ID,
         lookahead: int = DEFAULT_LOOKAHEAD,
-        neighbor_window: int = DEFAULT_NEIGHBOR_WINDOW,
         recent_days: int = DEFAULT_RECENT_DAYS,
         checkpoint_every: int = 50,
         workers: int = 1,
@@ -466,23 +524,40 @@ class InterfolioScanner:
         self.store = store
         self.start_id = int(start_id)
         self.lookahead = max(1, int(lookahead))
-        self.neighbor_window = max(0, int(neighbor_window))
         self.recent_days = max(1, int(recent_days))
         self.checkpoint_every = max(1, int(checkpoint_every))
         self.workers = max(1, min(64, int(workers)))
         self.store.state["startId"] = self.start_id
+        self._frontier_trailing: Dict[int, FetchResult] = {}
+        self._frontier_positions: Dict[int, str] = {}
 
-    def _process_result(self, position_id: int, result: FetchResult, report: Dict[str, int]) -> None:
+    def _process_result(
+        self,
+        position_id: int,
+        result: FetchResult,
+        report: Dict[str, int],
+        *,
+        persist_non_position: bool = True,
+        next_larger_id: Optional[int] = None,
+        next_larger_posted_date: str = "",
+    ) -> None:
         report["requests"] += 1
         if result.kind == "position" and result.position:
             if self.store.add_position(result.position):
                 report["newJobs"] += 1
             return
         if result.kind in {"empty", "not_found", "private", "unavailable"}:
-            self.store.record_missing(position_id, result.kind)
+            if persist_non_position:
+                self.store.record_missing(
+                    position_id,
+                    result.kind,
+                    next_larger_id=next_larger_id,
+                    next_larger_posted_date=next_larger_posted_date,
+                )
             report["missing"] += 1
             return
-        self.store.record_error(position_id, result.error or result.kind)
+        if persist_non_position:
+            self.store.record_error(position_id, result.error or result.kind)
         report["errors"] += 1
 
     def _fetch_new_id(self, position_id: int, report: Dict[str, int]) -> None:
@@ -491,7 +566,13 @@ class InterfolioScanner:
             return
         self._process_result(position_id, self.client.fetch_position(position_id), report)
 
-    def _fetch_ids(self, requested_ids: Iterable[int], report: Dict[str, int]) -> None:
+    def _fetch_ids(
+        self,
+        requested_ids: Iterable[int],
+        report: Dict[str, int],
+        *,
+        frontier: bool = False,
+    ) -> None:
         position_ids: List[int] = []
         known_ids = self.store.known_ids
         for position_id in requested_ids:
@@ -505,11 +586,63 @@ class InterfolioScanner:
         else:
             with ThreadPoolExecutor(max_workers=self.workers) as executor:
                 results = list(executor.map(self.client.fetch_position, position_ids))
-        for position_id, result in zip(position_ids, results):
-            self._process_result(position_id, result, report)
+        if not frontier:
+            for position_id, result in zip(position_ids, results):
+                self._process_result(position_id, result, report)
+            return
 
-    def _fetch_range(self, first_id: int, last_id: int, report: Dict[str, int]) -> None:
-        self._fetch_ids(range(first_id, last_id + 1), report)
+        result_pairs = list(zip(position_ids, results))
+        for position_id, result in result_pairs:
+            if result.kind == "position" and result.position:
+                self._frontier_positions[position_id] = normalize_interfolio_date(
+                    result.position.get("start_date")
+                )
+                self._process_result(position_id, result, report)
+            else:
+                self._frontier_trailing[position_id] = result
+                self._process_result(
+                    position_id,
+                    result,
+                    report,
+                    persist_non_position=False,
+                )
+
+        highest = int(self.store.state.get("highestDiscoveredId") or (self.start_id - 1))
+        frontier_position_ids = sorted(self._frontier_positions)
+        for position_id in sorted(self._frontier_trailing):
+            if position_id > highest:
+                continue
+            result = self._frontier_trailing[position_id]
+            next_index = bisect_right(frontier_position_ids, position_id)
+            next_larger_id = (
+                frontier_position_ids[next_index]
+                if next_index < len(frontier_position_ids)
+                else None
+            )
+            if result.kind in {"empty", "not_found", "private", "unavailable"}:
+                self.store.record_missing(
+                    position_id,
+                    result.kind,
+                    next_larger_id=next_larger_id,
+                    next_larger_posted_date=(
+                        self._frontier_positions.get(next_larger_id, "")
+                        if next_larger_id is not None
+                        else ""
+                    ),
+                )
+            else:
+                self.store.record_error(position_id, result.error or result.kind)
+            self._frontier_trailing.pop(position_id, None)
+
+    def _fetch_range(
+        self,
+        first_id: int,
+        last_id: int,
+        report: Dict[str, int],
+        *,
+        frontier: bool = False,
+    ) -> None:
+        self._fetch_ids(range(first_id, last_id + 1), report, frontier=frontier)
 
     @staticmethod
     def _report() -> Dict[str, int]:
@@ -550,7 +683,9 @@ class InterfolioScanner:
             current = batch_end + 1
 
         self._retry_pending_errors(report)
-        self.store.update_retry_windows(self.neighbor_window, self.recent_days)
+        highest = int(self.store.state.get("highestDiscoveredId") or 0)
+        self.store.drop_missing_above(highest)
+        self.store.annotate_missing_with_nearest_positions()
         self.store.state["scanUpperBound"] = target
         self.store.state["bootstrapComplete"] = not bool(self.store.state["pendingErrors"])
         self.store.save()
@@ -574,19 +709,23 @@ class InterfolioScanner:
         # retry only historical holes here to avoid duplicate requests.
         retry_ids = [
             position_id
-            for position_id in self.store.retryable_missing_ids()
+            for position_id in self.store.retryable_missing_ids(self.recent_days)
             if position_id <= highest_before_retry
         ]
         for offset in range(0, len(retry_ids), self.checkpoint_every):
             self._fetch_ids(retry_ids[offset : offset + self.checkpoint_every], report)
             self.store.save()
+            print(
+                f"Interfolio historical retry checkpoint: inspected "
+                f"{min(offset + self.checkpoint_every, len(retry_ids))}/{len(retry_ids)} IDs."
+            )
 
         highest_before_frontier = int(self.store.state.get("highestDiscoveredId") or (self.start_id - 1))
         current = frontier_start
         target = highest_before_frontier + self.lookahead
         while current <= target:
             batch_end = min(target, current + self.checkpoint_every - 1)
-            self._fetch_range(current, batch_end, report)
+            self._fetch_range(current, batch_end, report, frontier=True)
             highest = int(self.store.state.get("highestDiscoveredId") or highest_before_frontier)
             target = max(target, highest + self.lookahead)
             self.store.state["lastScannedId"] = batch_end
@@ -597,7 +736,8 @@ class InterfolioScanner:
             )
             current = batch_end + 1
 
-        self.store.update_retry_windows(self.neighbor_window, self.recent_days)
+        highest = int(self.store.state.get("highestDiscoveredId") or highest_before_frontier)
+        self.store.drop_missing_above(highest)
         self.store.state["scanUpperBound"] = target
         self.store.save()
         return report

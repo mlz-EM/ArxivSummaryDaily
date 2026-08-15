@@ -3,7 +3,7 @@
 import json
 import tempfile
 import unittest
-from datetime import datetime
+from datetime import date, datetime
 from pathlib import Path
 from unittest import mock
 
@@ -226,6 +226,8 @@ class TestInterfolioPersistence(unittest.TestCase):
             self.assertEqual(store.state["highestDiscoveredId"], 180002)
             self.assertEqual(store.state["scanUpperBound"], 180004)
             self.assertTrue(store.state["bootstrapComplete"])
+            self.assertEqual(set(store.state["missing"]), {"180001"})
+            self.assertEqual(store.state["missing"]["180001"]["nextLargerId"], 180002)
 
             reloaded = InterfolioStore(Path(directory) / "raw.json", Path(directory) / "state.json")
             self.assertEqual([job["id"] for job in reloaded.jobs], [180000, 180002])
@@ -262,10 +264,15 @@ class TestInterfolioPersistence(unittest.TestCase):
     def test_daily_retries_recent_missing_ids(self):
         with tempfile.TemporaryDirectory() as directory:
             store = InterfolioStore(Path(directory) / "raw.json", Path(directory) / "state.json")
-            store.add_position(position(180000, posted=datetime.now().strftime("%b %d, %Y")))
-            store.add_position(position(180002, posted=datetime.now().strftime("%b %d, %Y")))
-            store.record_missing(180001, "empty")
-            store.update_retry_windows(neighbor_window=100, recent_days=14)
+            posted = datetime.now().strftime("%b %d, %Y")
+            store.add_position(position(180000, posted=posted))
+            store.add_position(position(180002, posted=posted))
+            store.record_missing(
+                180001,
+                "empty",
+                next_larger_id=180002,
+                next_larger_posted_date=posted,
+            )
             store.state["bootstrapComplete"] = True
             store.save()
 
@@ -282,6 +289,75 @@ class TestInterfolioPersistence(unittest.TestCase):
             self.assertIn(180001, client.position_calls)
             self.assertIn(180001, store.known_ids)
             self.assertNotIn("180001", store.state["missing"])
+
+    def test_old_missing_id_is_completed_instead_of_retried(self):
+        with tempfile.TemporaryDirectory() as directory:
+            store = InterfolioStore(Path(directory) / "raw.json", Path(directory) / "state.json")
+            store.record_missing(
+                180001,
+                "not_found",
+                next_larger_id=180002,
+                next_larger_posted_date="2026-08-01",
+            )
+
+            retryable = store.retryable_missing_ids(7, today=date(2026, 8, 15))
+
+            self.assertEqual(retryable, [])
+            self.assertNotIn("180001", store.state["missing"])
+            self.assertIn(180001, store.completed_missing_ids)
+
+    def test_future_missing_id_is_deferred(self):
+        with tempfile.TemporaryDirectory() as directory:
+            store = InterfolioStore(Path(directory) / "raw.json", Path(directory) / "state.json")
+            store.record_missing(
+                180001,
+                "not_found",
+                next_larger_id=180002,
+                next_larger_posted_date="2026-08-17",
+            )
+
+            retryable = store.retryable_missing_ids(7, today=date(2026, 8, 15))
+
+            self.assertEqual(retryable, [])
+            self.assertEqual(store.state["missing"]["180001"]["status"], "deferred")
+
+    def test_frontier_does_not_persist_ids_above_high_water_mark(self):
+        with tempfile.TemporaryDirectory() as directory:
+            store = InterfolioStore(Path(directory) / "raw.json", Path(directory) / "state.json")
+            store.add_position(position(180000))
+            store.state["bootstrapComplete"] = True
+            client = FakeDiscoveryClient()
+
+            InterfolioScanner(client, store, start_id=180000, lookahead=2).daily()
+
+            self.assertEqual(client.position_calls, [180001, 180002])
+            self.assertEqual(store.state["missing"], {})
+            self.assertEqual(store.state["highestDiscoveredId"], 180000)
+
+    def test_frontier_gap_uses_nearest_larger_discovered_position(self):
+        with tempfile.TemporaryDirectory() as directory:
+            store = InterfolioStore(Path(directory) / "raw.json", Path(directory) / "state.json")
+            store.add_position(position(180000))
+            store.state["bootstrapComplete"] = True
+            client = FakeDiscoveryClient(
+                positions={180003: position(180003, posted="Aug 15, 2026")}
+            )
+
+            InterfolioScanner(
+                client,
+                store,
+                start_id=180000,
+                lookahead=3,
+                checkpoint_every=2,
+            ).daily()
+
+            for position_id in (180001, 180002):
+                observation = store.state["missing"][str(position_id)]
+                self.assertEqual(observation["nextLargerId"], 180003)
+                self.assertEqual(observation["nextLargerPostedDate"], "2026-08-15")
+            self.assertNotIn("180004", store.state["missing"])
+            self.assertNotIn("180005", store.state["missing"])
+            self.assertNotIn("180006", store.state["missing"])
 
     def test_summary_state_and_input_mapping(self):
         with tempfile.TemporaryDirectory() as directory:
