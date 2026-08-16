@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-08-15T15:03:49Z",
+    "generatedAt": "2026-08-16T23:08:41Z",
     "source": "Interfolio Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from public Interfolio job pages.",
@@ -18,7 +18,7 @@
       "location": "University of Michigan-Ann Arbor: Communications and Media at University of Michigan - Ann Arbor",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +29,7 @@
       "location": "Bethlehem, PA",
       "description": "Tenure-track assistant professor position in experimental organic chemistry, with interest in organic materials and supramolecular chemistry.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "organic chemistry",
         "organic materials",
@@ -44,7 +44,7 @@
       "location": "Ann Arbor, MI",
       "description": "Tenure-track assistant professor position across all chemistry disciplines, including materials chemistry.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "chemistry",
         "materials chemistry"
@@ -58,7 +58,7 @@
       "location": "DePaul University: PSYCHOLOGY at Chicago, IL - College of Science and Health",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -69,7 +69,7 @@
       "location": "DePaul University: ART MEDIA AND DESIGN at Chicago, IL - College of Liberal Arts and Social Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -80,7 +80,7 @@
       "location": "Stony Brook University: Orthopaedics at Stony Brook, New York",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -91,7 +91,7 @@
       "location": "University of Virginia: Politics at Charlottesville, VA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -102,7 +102,7 @@
       "location": "University of Pennsylvania: The Wharton School - Management at University of Pennsylvania, Phila., PA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -113,7 +113,7 @@
       "location": "University of Pennsylvania: The Wharton School - Management at Philadelphia, PA, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -124,7 +124,7 @@
       "location": "Stony Brook University: Periodontology at Stony Brook, New York",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -135,7 +135,7 @@
       "location": "UT Southwestern: 418021 - OB-Adolescent Gynecology at Dallas, Texas",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -146,7 +146,7 @@
       "location": "Dartmouth College: Government at Hanover, NH",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -157,7 +157,7 @@
       "location": "Smith College: Department of Philosophy at Northampton, MA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -168,7 +168,7 @@
       "location": "University of Oklahoma Health Sciences Center: College of Pharmacy at OU Health Center",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -179,7 +179,7 @@
       "location": "Occidental College: Urban & Environmental Policy at Los Angeles, CA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -190,7 +190,7 @@
       "location": "Tufts University: History at Medford, MA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -201,18 +201,7 @@
       "location": "Princeton University: Economics at Princeton, NJ",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-190737",
-      "title": "Assistant or Associate Teaching Professor - Legal Writing",
-      "url": "https://apply.interfolio.com/190737",
-      "date": "2026-08-04",
-      "location": "University of Notre Dame: The Law School at Home Campus",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -480,6 +469,17 @@
       ],
       "id": "apply-190401",
       "isNew": false
+    },
+    {
+      "id": "apply-190737",
+      "title": "Assistant or Associate Teaching Professor - Legal Writing",
+      "url": "https://apply.interfolio.com/190737",
+      "date": "2026-08-04",
+      "location": "University of Notre Dame: The Law School at Home Campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
     },
     {
       "title": "Faculty in Statistics and Data Science—Open Rank",
