@@ -2,10 +2,10 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-08-16T23:01:58Z",
+    "generatedAt": "2026-08-17T02:22:28Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 299 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 301 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
@@ -18,6 +18,27 @@
       "summary": "This paper aims to calibrate TCAD model parameters using experimental data of 65 nm nMOSFETs from 292 K to 4.5 K. By utilizing TEM dimensions and calibrating mobility and band-tail models, the simulations successfully fit experimental curves. The key finding shows that, except for saturation velocity, no new temperature-dependent models are required for cryogenic TCAD simulation.",
       "tags": [
         "physics-comp-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2608.13802v1",
+      "title": "Multiscale Correlation of Morphological, Chemical, and Optical Properties in p-Type Porous Silicon",
+      "url": "https://arxiv.org/abs/2608.13802v1",
+      "date": "2026-08-13",
+      "summary": "This study systematically investigates the correlations between electrochemical processing conditions and the morphological, chemical, and optical properties of p-type porous silicon. The authors find that extracted quantum-wire and quantum-dot dimensions decrease systematically with increasing current density, but photoluminescence maxima show no clear monotonic dependence, demonstrating that no single descriptor adequately captures porous silicon's multiscale behavior.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2608.13752v1",
+      "title": "An Interactive, Automated 4D-STEM data acquisition and analysis routine for Scanning Electron Nanobeam Diffraction and Ptychography experiments",
+      "url": "https://arxiv.org/abs/2608.13752v1",
+      "date": "2026-08-13",
+      "summary": "This paper presents an automated 4D-STEM data acquisition and analysis routine to streamline nanobeam diffraction and ptychography experiments. The automated workflow successfully mapped Pt nanoparticle morphology, orientation, and phase distributions—revealing a weak {110} texture—and enabled atomic-resolution phase imaging and lattice-strain mapping of screened on-zone-axis grains, demonstrating scalable, statistically meaningful microstructural analysis.",
+      "tags": [
+        "physics-ins-det",
+        "cs-cv"
       ]
     },
     {
