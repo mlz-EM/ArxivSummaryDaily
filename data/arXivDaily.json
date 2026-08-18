@@ -2,14 +2,35 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-08-17T02:22:28Z",
+    "generatedAt": "2026-08-18T02:18:12Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 301 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 303 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.15551v1",
+      "title": "Individual Vanadium Dopants Form Deep In-Gap States in Monolayer WS2",
+      "url": "https://arxiv.org/abs/2608.15551v1",
+      "date": "2026-08-16",
+      "summary": "This study aims to incorporate vanadium dopants into monolayer WS2 and characterize their in-gap states for quantum information applications. Using chemical vapor deposition, scanning probe techniques, and first-principles calculations, the authors demonstrate that individual vanadium dopants form deep in-gap states located 0.35 eV above the valence band maximum, establishing V-WS2 as a promising platform for quantum technologies.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2608.15331v1",
+      "title": "Barium Hexaferrite Thin Films as a Scalable Magnetic-Insulator Platform for Proximity-Engineered Spintronics",
+      "url": "https://arxiv.org/abs/2608.15331v1",
+      "date": "2026-08-15",
+      "summary": "This work investigates sputter-grown barium hexaferrite (BaM) thin films as a scalable, strain-independent magnetic-insulator platform with intrinsic perpendicular magnetic anisotropy (PMA) for spintronics. The authors show that BaM films exhibit robust intrinsic PMA with a ~0.1 T coercive field and successfully induce interfacial exchange coupling and anomalous Hall transport when interfaced with Pt and topological BSTS heterostructures.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2608.12692v1",
       "title": "TCAD Cryogenic Model Parameters Calibration based on 65 nm NMOS Experimental Data",
