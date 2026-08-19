@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-08-18T02:29:18Z",
+    "generatedAt": "2026-08-19T02:42:26Z",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,364 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Electrical and Computer Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=2afa23a5b7f07c14",
+      "date": "2026-08-18",
+      "location": "York College of Pennsylvania at York, PA, US",
+      "description": "Seeks tenure-track Assistant Professor to teach undergraduate electrical and computer engineering courses and conduct research.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "electrical engineering",
+        "computer engineering",
+        "embedded systems",
+        "robotics"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track: Assistant or Associate Professor - Thermo-Fluids",
+      "url": "https://www.indeed.com/viewjob?jk=ce22a1f0eb45e5bf",
+      "date": "2026-08-18",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "Seeks tenure-track faculty in thermo-fluids, heat transfer, energy systems, and thermal management.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "thermo-fluids",
+        "heat transfer",
+        "mechanical engineering",
+        "energy systems"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Criminal Justice - Full-Time, Non-Tenure Track Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=0f9adf405ba0da88",
+      "date": "2026-08-18",
+      "location": "University of Central Oklahoma at Edmond, OK, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor, Kelley School of Business (Management & Entrepreneurship, OBHR)",
+      "url": "https://www.indeed.com/viewjob?jk=bfdc4b8567c172d9",
+      "date": "2026-08-18",
+      "location": "Indiana University at Bloomington, IN, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenured: Associate Professor",
+      "url": "https://www.indeed.com/viewjob?jk=1997db84b0d1c6f7",
+      "date": "2026-08-18",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Instruction",
+      "url": "https://www.indeed.com/viewjob?jk=285e2d157881cccf",
+      "date": "2026-08-18",
+      "location": "University of Texas at Arlington at Arlington, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "2 Positions - One Assistant Professor Ladder Rank & One Open Professor Ladder Rank (Assistant, Associate, or Full Professor in Biochemistry)",
+      "url": "https://www.indeed.com/viewjob?jk=9488953acf60a0db",
+      "date": "2026-08-18",
+      "location": "University of California Merced at Merced, CA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=6a6376ac8e5b1c2d",
+      "date": "2026-08-18",
+      "location": "University of Maryland University College at College Park, MD, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Theatre Arts, Scenic and Media Design - Full-Time, Non-Tenure Track Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=f7b76dae13e0e6e1",
+      "date": "2026-08-18",
+      "location": "University of Central Oklahoma at Edmond, OK, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate Professor, Animal Science - 9 month appointment",
+      "url": "https://www.indeed.com/viewjob?jk=6d4027553bc56383",
+      "date": "2026-08-18",
+      "location": "Missouri State University at Springfield, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Biology - Human Anatomy & Physiology",
+      "url": "https://www.indeed.com/viewjob?jk=35af116d0119a2ee",
+      "date": "2026-08-18",
+      "location": "Pacific Lutheran University at Tacoma, WA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=3d78906041711c05",
+      "date": "2026-08-18",
+      "location": "Colorado State University at Fort Collins, CO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Department of Special Education",
+      "url": "https://www.indeed.com/viewjob?jk=38a5bf1406bf1ce8",
+      "date": "2026-08-18",
+      "location": "Bridgewater State University at Bridgewater, MA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Animal Science - 9 month appointment",
+      "url": "https://www.indeed.com/viewjob?jk=a5e6763ee8c016d4",
+      "date": "2026-08-18",
+      "location": "Missouri State University at Springfield, MO, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4452263526",
+      "title": "Clinical Assistant Professor - AZCOM",
+      "url": "https://www.linkedin.com/jobs/view/4452263526",
+      "date": "2026-08-17",
+      "location": "Midwestern University at Glendale, AZ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4454256785",
+      "title": "Academic Clinician Assistant Professor",
+      "url": "https://www.linkedin.com/jobs/view/4454256785",
+      "date": "2026-08-17",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of the Practice",
+      "url": "https://www.indeed.com/viewjob?jk=05404cb9065639bd",
+      "date": "2026-08-17",
+      "location": "Prairie View A&M University at Prairie View, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Teaching Professor",
+      "url": "https://www.indeed.com/viewjob?jk=6591be180ba98911",
+      "date": "2026-08-17",
+      "location": "Miami University at Oxford, OH, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Educational Psychology - School Psychology",
+      "url": "https://www.indeed.com/viewjob?jk=2426a7e1d9a0bb6e",
+      "date": "2026-08-17",
+      "location": "Miami University at Oxford, OH, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4453751819",
+      "title": "Fixed Term, Open Rank CLS Facutly",
+      "url": "https://www.linkedin.com/jobs/view/4453751819",
+      "date": "2026-08-14",
+      "location": "The University of North Carolina at Chapel Hill at North Carolina, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor 110450",
+      "url": "https://www.indeed.com/viewjob?jk=acee81ed7af163e2",
+      "date": "2026-08-14",
+      "location": "University of West Florida at Pensacola, FL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4451960660",
+      "title": "Instructor (Dermatology)",
+      "url": "https://www.linkedin.com/jobs/view/4451960660",
+      "date": "2026-08-11",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4431268585",
+      "title": "Hem/Onc Fellowship | Program Director",
+      "url": "https://www.linkedin.com/jobs/view/4431268585",
+      "date": "2026-08-06",
+      "location": "Guthrie at Sayre, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4442667014",
+      "title": "Vice Chair of Education – Emergency Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4442667014",
+      "date": "2026-07-24",
+      "location": "Penn State Health at Hershey, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4455576421",
+      "title": "Assistant, Associate, or Full Professor (HS Clinical, Clinical X, In-Residence, Adjunct) Sleep Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4455576421",
+      "date": "",
+      "location": "UC San Diego Academic Jobs at San Diego, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4455734264",
+      "title": "Management Faculty Recruitment (Tenure Track Associate or Full Professor) 2026-2027",
+      "url": "https://www.linkedin.com/jobs/view/4455734264",
+      "date": "",
+      "location": "",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4454757222",
+      "title": "Professor of Clinical Emergency Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4454757222",
+      "date": "",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4454734279",
+      "title": "AC Faculty Position in Non-Malignant Hematology - Assistant Professor",
+      "url": "https://www.linkedin.com/jobs/view/4454734279",
+      "date": "",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4454484305",
+      "title": "Tenure Track or Lecturer Track Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4454484305",
+      "date": "",
+      "location": "University of Utah at Salt Lake City, UT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4454784579",
+      "title": "UNIV - Open Rank Faculty - Clinical Perfusion Educator - College of Health Professions, Department of Clinical Sciences, Division of Cardiovascular Perfusion",
+      "url": "https://www.linkedin.com/jobs/view/4454784579",
+      "date": "",
+      "location": "MUSC Health at Charleston, SC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4452545976",
+      "title": "Lecturer, Emergency Medical Services-Paramedic Program",
+      "url": "https://www.linkedin.com/jobs/view/4452545976",
+      "date": "",
+      "location": "Borough of Manhattan Community College at New York, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor - Theoretical Physical Chemistry",
       "url": "https://www.indeed.com/viewjob?jk=b3005b6e15ad808f",
       "date": "2026-08-17",
       "location": "TX, US",
       "description": "Seeks candidates for a tenure-track Assistant Professor position in theoretical physical chemistry.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "theoretical physical chemistry",
         "physical chemistry"
@@ -32,7 +383,7 @@
       "location": "University of Arkansas at Henderson, NV, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -43,7 +394,7 @@
       "location": "Texas Tech University at TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -54,7 +405,7 @@
       "location": "US Bureau of Naval Personnel at Newport, RI, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -65,7 +416,7 @@
       "location": "New Mexico State University at Las Cruces, NM, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -76,7 +427,7 @@
       "location": "Rowan University at Glassboro, NJ, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -87,7 +438,7 @@
       "location": "Central Oregon Community College at Bend, OR, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -98,7 +449,7 @@
       "location": "The University of Iowa at Iowa City, IA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -109,7 +460,7 @@
       "location": "Southern Illinois University Carbondale at Carbondale, IL, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -120,7 +471,7 @@
       "location": "Belmont University at US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -131,7 +482,7 @@
       "location": "Texas A&M University at College Station, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -142,7 +493,7 @@
       "location": "Texas A&M University at College Station, TX, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -153,7 +504,7 @@
       "location": "Bridgewater State University at Bridgewater, MA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -164,7 +515,7 @@
       "location": "Bridgewater State University at Bridgewater, MA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -175,7 +526,7 @@
       "location": "Bridgewater State University at Bridgewater, MA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -186,7 +537,7 @@
       "location": "Worcester State University at Worcester, MA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -197,7 +548,7 @@
       "location": "Worcester State University at Worcester, MA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -208,7 +559,7 @@
       "location": "Worcester State University at Worcester, MA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -219,7 +570,18 @@
       "location": "Worcester State University at Worcester, MA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4451745990",
+      "title": "Main Campus Academic Medical Center ...",
+      "url": "https://www.linkedin.com/jobs/view/4451745990",
+      "date": "2026-08-16",
+      "location": "Student Interest Group in Neurology at Dartmouth Geisel School of Medicine at Stony Brook, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -230,7 +592,7 @@
       "location": "",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -239,131 +601,6 @@
       "url": "https://www.linkedin.com/jobs/view/4453948562",
       "date": "2026-08-15",
       "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor - Physics",
-      "url": "https://www.indeed.com/viewjob?jk=b7040a748c690d7d",
-      "date": "2026-08-14",
-      "location": "Salisbury, MD, US",
-      "description": "Seeks a tenure-track assistant professor in physics to teach undergraduate courses and direct student research.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "physics",
-        "undergraduate research",
-        "physics education"
-      ]
-    },
-    {
-      "id": "www-4454330434",
-      "title": "Assistant Professor of Regulatory and Quality Sciences (Teaching Track) Artificial Intelligence, Digital Health, and Regulatory Innovation",
-      "url": "https://www.linkedin.com/jobs/view/4454330434",
-      "date": "2026-08-13",
-      "location": "University of Southern California at Los Angeles, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4453601485",
-      "title": "Faculty Position, Ambulatory Practices - Academic Clinician, Senior Ranks",
-      "url": "https://www.linkedin.com/jobs/view/4453601485",
-      "date": "2026-08-12",
-      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-3835721568",
-      "title": "Assistant Professor",
-      "url": "https://www.linkedin.com/jobs/view/3835721568",
-      "date": "2026-08-07",
-      "location": "Oregon Health & Science University at Portland, Oregon Metropolitan Area",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4442659379",
-      "title": "Vice Chair of Education – Emergency Medicine",
-      "url": "https://www.linkedin.com/jobs/view/4442659379",
-      "date": "2026-08-02",
-      "location": "Penn State Health at Hershey, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4454453533",
-      "title": "Open Rank",
-      "url": "https://www.linkedin.com/jobs/view/4454453533",
-      "date": "2026-07-24",
-      "location": "The University of North Carolina at Chapel Hill at North Carolina, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Associate Professor/Professor in Quantitative Analysis of Markets and Organizations",
-      "url": "https://www.indeed.com/viewjob?jk=6b37f6e960017b89",
-      "date": "2026-07-17",
-      "location": "University of Utah at Salt Lake City, UT, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4455295852",
-      "title": "Clinical Instructor-Clinical Professor",
-      "url": "https://www.linkedin.com/jobs/view/4455295852",
-      "date": "",
-      "location": "Michigan Medicine at Ann Arbor, MI",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4452242809",
-      "title": "Clinical Assistant Professor - AZCOM",
-      "url": "https://www.linkedin.com/jobs/view/4452242809",
-      "date": "",
-      "location": "Midwestern University at Glendale, AZ",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4452289938",
-      "title": "Assistant Professor or Associate Professor",
-      "url": "https://www.linkedin.com/jobs/view/4452289938",
-      "date": "",
-      "location": "University of Colorado at Aurora, CO",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4451745990",
-      "title": "Main Campus Academic Medical Center ...",
-      "url": "https://www.linkedin.com/jobs/view/4451745990",
-      "date": "2026-08-16",
-      "location": "Student Interest Group in Neurology at Dartmouth Geisel School of Medicine at Stony Brook, NY",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -412,6 +649,21 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Physics",
+      "url": "https://www.indeed.com/viewjob?jk=b7040a748c690d7d",
+      "date": "2026-08-14",
+      "location": "Salisbury, MD, US",
+      "description": "Seeks a tenure-track assistant professor in physics to teach undergraduate courses and direct student research.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "physics",
+        "undergraduate research",
+        "physics education"
+      ]
     },
     {
       "id": "www-4451235681",
@@ -661,6 +913,17 @@
       "url": "https://www.indeed.com/viewjob?jk=93119fc07a8bbb00",
       "date": "2026-08-14",
       "location": "University of Maryland, Baltimore at Baltimore, MD, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4454330434",
+      "title": "Assistant Professor of Regulatory and Quality Sciences (Teaching Track) Artificial Intelligence, Digital Health, and Regulatory Innovation",
+      "url": "https://www.linkedin.com/jobs/view/4454330434",
+      "date": "2026-08-13",
+      "location": "University of Southern California at Los Angeles, CA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -958,6 +1221,17 @@
       "url": "https://www.indeed.com/viewjob?jk=56f611fb3b444047",
       "date": "2026-08-13",
       "location": "Arkansas State University at Jonesboro, AR, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4453601485",
+      "title": "Faculty Position, Ambulatory Practices - Academic Clinician, Senior Ranks",
+      "url": "https://www.linkedin.com/jobs/view/4453601485",
+      "date": "2026-08-12",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2026,6 +2300,17 @@
       "url": "https://www.linkedin.com/jobs/view/4450911916",
       "date": "2026-08-08",
       "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-3835721568",
+      "title": "Assistant Professor",
+      "url": "https://www.linkedin.com/jobs/view/3835721568",
+      "date": "2026-08-07",
+      "location": "Oregon Health & Science University at Portland, Oregon Metropolitan Area",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -3901,6 +4186,17 @@
       "url": "https://www.indeed.com/viewjob?jk=59cfb069ffeed0f1",
       "date": "2026-08-03",
       "location": "Salem State University at Salem, MA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4442659379",
+      "title": "Vice Chair of Education – Emergency Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4442659379",
+      "date": "2026-08-02",
+      "location": "Penn State Health at Hershey, PA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -5840,6 +6136,17 @@
       "keywords": []
     },
     {
+      "id": "www-4454453533",
+      "title": "Open Rank",
+      "url": "https://www.linkedin.com/jobs/view/4454453533",
+      "date": "2026-07-24",
+      "location": "The University of North Carolina at Chapel Hill at North Carolina, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4443743966",
       "title": "Assistant, Associate, or Full Professor, University Medical Line or Clinical Educator Line, Psy...",
       "url": "https://www.linkedin.com/jobs/view/4443743966",
@@ -7685,6 +7992,17 @@
       "url": "https://www.indeed.com/viewjob?jk=f4a7e93ad13e0159",
       "date": "2026-07-18",
       "location": "George Mason University at Fairfax, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate Professor/Professor in Quantitative Analysis of Markets and Organizations",
+      "url": "https://www.indeed.com/viewjob?jk=6b37f6e960017b89",
+      "date": "2026-07-17",
+      "location": "University of Utah at Salt Lake City, UT, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -31274,6 +31592,39 @@
       "url": "https://www.indeed.com/viewjob?jk=e208338223567849",
       "date": "2025-08-26",
       "location": "St. Mary's College of Maryland at St. Mary's City, MD, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4455295852",
+      "title": "Clinical Instructor-Clinical Professor",
+      "url": "https://www.linkedin.com/jobs/view/4455295852",
+      "date": "",
+      "location": "Michigan Medicine at Ann Arbor, MI",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4452242809",
+      "title": "Clinical Assistant Professor - AZCOM",
+      "url": "https://www.linkedin.com/jobs/view/4452242809",
+      "date": "",
+      "location": "Midwestern University at Glendale, AZ",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4452289938",
+      "title": "Assistant Professor or Associate Professor",
+      "url": "https://www.linkedin.com/jobs/view/4452289938",
+      "date": "",
+      "location": "University of Colorado at Aurora, CO",
       "description": "",
       "fitScore": 0,
       "isNew": false,
