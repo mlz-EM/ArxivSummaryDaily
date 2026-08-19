@@ -99,9 +99,14 @@ Rules:
 10. Output JSON only (no markdown, no explanation).
 11. Output array items with keys exactly:
    title, url, date, location, description, fitScore, keywords
-12. date must be YYYY-MM-DD.
-13. url must match one of the provided job_url values exactly.
-14. keywords must be an array (use [] when unknown).
+12. Format location as "<school> at <city/locality>, <state/region code>, <country code>".
+    Use the provided school name exactly once, abbreviate US states to two letters,
+    and use ISO two-letter country codes (for example, US rather than USA or United States).
+    Example: "Texas A&M University at College Station, TX, US".
+    Use only location details supported by the input; do not invent missing details.
+13. date must be YYYY-MM-DD.
+14. url must match one of the provided job_url values exactly.
+15. keywords must be an array (use [] when unknown).
 
 Example output:
 [
@@ -109,7 +114,7 @@ Example output:
     "title": "Assistant Professor of Materials Science",
     "url": "https://www.linkedin.com/jobs/view/123",
     "date": "2026-03-11",
-    "location": "Example University at Example City, ST",
+    "location": "Texas A&M University at College Station, TX, US",
     "description": "Seeks tenure-track faculty in advanced materials characterization.",
     "fitScore": 3,
     "keywords": ["electron microscopy", "materials characterization"]

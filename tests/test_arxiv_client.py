@@ -219,6 +219,15 @@ class TestIncrementalJobFlow(unittest.TestCase):
         self.assertIn("Remove it entirely; do not output it with fitScore 1", captured["prompt"])
         self.assertIn("cryo-electron microscopy or tomography", captured["prompt"])
         self.assertIn("Those techniques do not make a biological position a materials fit", captured["prompt"])
+        self.assertIn(
+            'Format location as "<school> at <city/locality>, <state/region code>, <country code>"',
+            captured["prompt"],
+        )
+        self.assertIn(
+            '"Texas A&M University at College Station, TX, US"',
+            captured["prompt"],
+        )
+        self.assertIn("US rather than USA or United States", captured["prompt"])
 
     def test_job_summarizer_skips_jobs_already_present_in_json(self):
         job = {
