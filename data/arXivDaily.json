@@ -2,14 +2,25 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-08-19T02:21:05Z",
+    "generatedAt": "2026-08-20T02:20:24Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 304 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 306 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.18925v1",
+      "title": "Ultrafast order-selective electron imaging and spectroscopy",
+      "url": "https://arxiv.org/abs/2608.18925v1",
+      "date": "2026-08-19",
+      "summary": "This perspective reviews advances in femtosecond photoelectron momentum microscopy and ultrafast transmission electron microscopy to probe non-equilibrium dynamics in quantum materials. The authors highlight how these order-selective electron techniques simultaneously achieve high spatial, temporal, and spectroscopic resolution, providing comprehensive microscopic insights into coupled electron, lattice, and spin dynamics in nanoscale devices.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
     {
       "id": "arxiv-2608.18052v1",
       "title": "Electronic Reconstruction at the Quasicrystal-Moiré Crossover in Twisted Bilayer Graphene",
@@ -18,6 +29,16 @@
       "summary": "This study investigates electronic states and interlayer coupling in twisted bilayer graphene near a 29° twist angle. TEM reveals coexisting quasicrystalline and moiré symmetries. Magnetotransport measurements demonstrate strong interlayer hybridization driven by Umklapp scattering, alongside a Landau-level degeneracy that transitions from 4- to 12-fold with increasing temperature, proving non-trivial electronic reconstruction occurs beyond conventional small-angle moiré regimes.",
       "tags": [
         "cond-mat-mes-hall",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2608.18278v1",
+      "title": "Writing and erasing skyrmions by single ultrafast laser pulses in monolayer Janus 2D magnets",
+      "url": "https://arxiv.org/abs/2608.18278v1",
+      "date": "2026-08-18",
+      "summary": "This study aims to create and optically manipulate Néel-type skyrmions in monolayer Janus 2D chromium chalcogenides. Using X-ray photoelectron microscopy and nitrogen-vacancy magnetometry, the authors demonstrate field-free stable, size-tunable skyrmions driven by enhanced Dzyaloshinskii-Moriya interactions, achieving reversible skyrmion writing and erasing using single ultrafast laser pulses under low magnetic fields.",
+      "tags": [
         "cond-mat-mtrl-sci"
       ]
     },
