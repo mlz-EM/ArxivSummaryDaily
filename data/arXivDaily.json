@@ -2,14 +2,46 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-08-20T02:20:24Z",
+    "generatedAt": "2026-08-21T02:25:58Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 306 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 310 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.20199v1",
+      "title": "Three-dimensional imaging of oxygen dopant distribution in Sr$_2$CuO$_{3+δ}$ by electron ptychography",
+      "url": "https://arxiv.org/abs/2608.20199v1",
+      "date": "2026-08-20",
+      "summary": "This study uses multislice electron ptychography to directly image 3D oxygen dopants in a Sr2CuO3+delta film. The key finding is that oxygen dopants reside at interstitial sites between Cu-O chains and preferentially cluster in tensile-strained regions near dislocations and interfacial steps, revealing that dopant distribution is strain-sensitive rather than random.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2608.20021v1",
+      "title": "Amorphous and Nanocrystalline Topological Semimetal YPtBi/W/CoFeB Heterostructures for BEOL-Compatible Spin-Orbit Torque Devices",
+      "url": "https://arxiv.org/abs/2608.20021v1",
+      "date": "2026-08-20",
+      "summary": "This paper investigates the spin-orbit torque (SOT) efficiency and thermal stability of disordered YPtBi/W/CoFeB heterostructures for BEOL-compatible devices. The study finds that the structures remain amorphous or weakly nanocrystalline up to 400 °C while preserving a large SOT response, which is primarily driven by W incorporation into the upper YPtBi interface modifying local electronic structure rather than bulk crystallization.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2608.19544v1",
+      "title": "Composition-Driven Phase Evolution in Sm-Doped BiFeO3 via Latent-Field Reconstruction of Atomically Resolved STEM Data",
+      "url": "https://arxiv.org/abs/2608.19544v1",
+      "date": "2026-08-20",
+      "summary": "The objective is to map composition-driven phase evolution in Sm-doped BiFeO3 across 0-20% Sm using a new latent-field reconstruction framework for STEM data. The authors discover that increasing Sm concentration drives a structural transition from extended ferroelectric domains to a connected nonpolar Pnma phase, characterized by period-doubled structural order accompanied by enhanced lattice shear and rotation.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cs-lg"
+      ]
+    },
     {
       "id": "arxiv-2608.18925v1",
       "title": "Ultrafast order-selective electron imaging and spectroscopy",
@@ -19,6 +51,16 @@
       "tags": [
         "cond-mat-mtrl-sci",
         "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2608.19341v1",
+      "title": "Cumulative X-ray Damage in Bismuth Selenide Examined by Simultaneous TXM and XRD",
+      "url": "https://arxiv.org/abs/2608.19341v1",
+      "date": "2026-08-19",
+      "summary": "This paper aims to investigate cumulative X-ray damage mechanisms in topological insulator Bi2Se3 using simultaneous TXM and XRD. The study reveals a two-stage damage process: rapid initial hole formation via vaporization within 100 pulses, followed by progressive grain refinement from micron to nanoscale, where newly formed grain boundaries create a feedback mechanism that accelerates subsequent thermal damage.",
+      "tags": [
+        "cond-mat-mtrl-sci"
       ]
     },
     {
