@@ -2,14 +2,25 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-08-21T02:25:58Z",
+    "generatedAt": "2026-08-24T02:25:17Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 310 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 311 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.21007v1",
+      "title": "On Transmission Function Amplitude and Phase Recovery in Multislice Electron Ptychography",
+      "url": "https://arxiv.org/abs/2608.21007v1",
+      "date": "2026-08-21",
+      "summary": "This paper investigates how thermal diffuse scattering and absorptive potential models impact transmission function amplitude and phase recovery in multislice electron ptychography. Using quantum excitation of phonons simulations, the authors find that reconstructions are largely insensitive to thermal scattering across sample thicknesses, demonstrating that amplitude contrast reflects coherent elastic signal attenuation without compromising phase and amplitude accuracy.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-comp-ph"
+      ]
+    },
     {
       "id": "arxiv-2608.20199v1",
       "title": "Three-dimensional imaging of oxygen dopant distribution in Sr$_2$CuO$_{3+δ}$ by electron ptychography",
