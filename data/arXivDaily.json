@@ -2,14 +2,65 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-08-25T02:20:43Z",
+    "generatedAt": "2026-08-26T02:27:35Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 311 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 316 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.24821v1",
+      "title": "AlV$_2$O$_4$ thin films via in-situ interfacial topotaxy",
+      "url": "https://arxiv.org/abs/2608.24821v1",
+      "date": "2026-08-25",
+      "summary": "This study aims to synthesize epitaxial AlV2O4 thin films, which present challenges due to conflicting oxidation states. By growing V-O precursor films on Al2O3 and performing in-situ ultra-high-temperature post-annealing, the authors demonstrate an interfacial topotactic transformation that successfully yields epitaxial AlV2O4. TEM and XRD confirm excellent structural quality and the expected charge-ordering transition.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2608.24710v1",
+      "title": "Enhanced Superconductivity in Multilayer FeSe Films by Simplified Molecular Beam Epitaxy",
+      "url": "https://arxiv.org/abs/2608.24710v1",
+      "date": "2026-08-25",
+      "summary": "This study aims to simplify the molecular beam epitaxy growth protocol for superconducting multi-unit-cell eta-FeSe films on SrTiO3(100). The authors demonstrate that removing substrate pre-treatment and post-growth UHV annealing still yields enhanced superconductivity, with capped 14-unit-cell films achieving a zero-resistance transition temperature of approximately 20 K in transport measurements.",
+      "tags": [
+        "cond-mat-supr-con",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2608.24679v1",
+      "title": "Thermal diffuse scattering in TEM: complex absorptive potentials compared to the frozen phonon model",
+      "url": "https://arxiv.org/abs/2608.24679v1",
+      "date": "2026-08-25",
+      "summary": "This paper aims to evaluate methods for modeling electron absorption due to thermal diffuse scattering in transmission electron microscopy. The authors compare the widely used complex absorptive potentials method to the more elaborate frozen phonon model based on correlated atomic motion and the Einstein atomic motion model, evaluating their ability to capture inelastic scattering effects.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2608.24564v1",
+      "title": "Fabrication and validation of a MEMS Electron Monochromator",
+      "url": "https://arxiv.org/abs/2608.24564v1",
+      "date": "2026-08-25",
+      "summary": "This study aims to fabricate and validate a compact electron monochromator using micro-electro-mechanical systems (MEMS) technology. By combining deep reactive ion etching, focused ion beam milling, and stacked alignment, the authors produced a prototype requiring only 7 power supplies and successfully demonstrated its energy-filtering capability by measuring electron-beam energy spread in a scanning electron microscope.",
+      "tags": [
+        "physics-ins-det"
+      ]
+    },
+    {
+      "id": "arxiv-2608.24182v1",
+      "title": "Depth-Resolved Evolution of Buried Polar Topologies in a PbTiO3/SrTiO3 Superlattice",
+      "url": "https://arxiv.org/abs/2608.24182v1",
+      "date": "2026-08-25",
+      "summary": "This study aims to directly resolve the 3D atomic structure and buried polarization topology in a PbTiO3/SrTiO3 superlattice. By combining depth-sectioning STEM and multislice electron ptychography, the authors map depth-dependent atomic displacements, discovering that surface vortex-like polarization structures are suppressed in the interior, where distinct polar configurations emerge.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2608.21007v1",
       "title": "On Transmission Function Amplitude and Phase Recovery in Multislice Electron Ptychography",
