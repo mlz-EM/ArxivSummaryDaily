@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-08-26T02:27:35Z",
+    "generatedAt": "2026-08-27T11:06:32Z",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 316 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 317 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.26025v1",
+      "title": "Oxidation-resilient structural modifications in Nickel-functionalized 3D-graphene for hydrogen storage applications",
+      "url": "https://arxiv.org/abs/2608.26025v1",
+      "date": "2026-08-26",
+      "summary": "This study evaluates the functionalization of 3D-graphene with nickel nanoparticles to enhance hydrogen storage and assess its oxidation resilience. Characterization via SEM, XPS, and Thermal Desorption Spectroscopy demonstrates that nickel functionalization significantly influences hydrogen adsorption and oxidation behavior, improving both structural stability and hydrogen uptake performance following exposure to atmospheric oxygen.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2608.24821v1",
       "title": "AlV$_2$O$_4$ thin films via in-situ interfacial topotaxy",
