@@ -18,7 +18,7 @@ from .chronicle_client import (
     ChronicleStore,
     raw_job_to_summary_input,
 )
-from .feed_utils import utc_generated_at
+from .feed_utils import eastern_generated_at
 from .job_summarizer import JobSummarizer
 
 
@@ -117,7 +117,7 @@ def _set_header(path: Path, model: str) -> None:
     payload["header"] = {
         "title": "Basic Info",
         "model": model,
-        "generatedAt": utc_generated_at(),
+        "generatedAt": eastern_generated_at(),
         "source": "Chronicle Faculty Jobs",
         "notes": [
             "This report contains AI-filtered academic positions discovered from The Chronicle of Higher Education Jobs.",

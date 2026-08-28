@@ -10,7 +10,7 @@ from typing import Any, Dict, List, Optional, Sequence
 
 from config import settings
 
-from .feed_utils import utc_generated_at
+from .feed_utils import eastern_generated_at
 from .insidehighered_client import (
     canonicalize_job_url,
     DEFAULT_MINIMUM_POSTED_DATE,
@@ -120,7 +120,7 @@ def _set_header(path: Path, model: str) -> None:
     payload["header"] = {
         "title": "Basic Info",
         "model": model,
-        "generatedAt": utc_generated_at(),
+        "generatedAt": eastern_generated_at(),
         "source": "Inside Higher Ed Faculty Jobs",
         "notes": [
             "This report contains AI-filtered academic positions discovered from Inside Higher Ed Careers.",

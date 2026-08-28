@@ -182,7 +182,7 @@ class TestIncrementalPaperFlow(unittest.TestCase):
             self.assertIn("header", payload)
             self.assertIsInstance(payload["header"], dict)
             self.assertIn("generatedAt", payload["header"])
-            self.assertTrue(payload["header"]["generatedAt"].endswith("Z"))
+            self.assertRegex(payload["header"]["generatedAt"], r"-0[45]:00$")
             self.assertEqual(payload["header"].get("source"), "TTAP Daily Feed")
             self.assertIsInstance(payload.get("items"), list)
             self.assertEqual(len(payload["items"]), 1)

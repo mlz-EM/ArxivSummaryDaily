@@ -10,7 +10,7 @@ from typing import Any, Dict, List, Optional, Sequence
 
 from config import settings
 
-from .feed_utils import utc_generated_at
+from .feed_utils import eastern_generated_at
 from .interfolio_client import (
     DEFAULT_LOOKAHEAD,
     DEFAULT_RECENT_DAYS,
@@ -155,7 +155,7 @@ def _set_interfolio_header(path: Path, model: str) -> None:
     payload["header"] = {
         "title": "Basic Info",
         "model": model,
-        "generatedAt": utc_generated_at(),
+        "generatedAt": eastern_generated_at(),
         "source": "Interfolio Faculty Jobs",
         "notes": [
             "This report contains AI-filtered academic positions discovered from public Interfolio job pages.",

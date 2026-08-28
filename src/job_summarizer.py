@@ -15,7 +15,7 @@ from .feed_utils import (
     normalize_date,
     prune_items_by_retention,
     to_https_url,
-    utc_generated_at,
+    eastern_generated_at,
 )
 from .llm_client import LLMModelClient
 
@@ -43,8 +43,8 @@ class JobSummarizer:
         """No-op retained for backward compatibility with tests/integrations."""
         return
 
-    def _utc_generated_at(self) -> str:
-        return utc_generated_at()
+    def _eastern_generated_at(self) -> str:
+        return eastern_generated_at()
 
     def _to_https_url(self, url: str) -> str:
         normalized = to_https_url(url)
@@ -304,7 +304,7 @@ Job input:
             merged_items = self._load_existing_json_items_from_list(merged_items)
             merged_items = self._sort_items(merged_items)
 
-            generated_at = self._utc_generated_at()
+            generated_at = self._eastern_generated_at()
             feed_payload = {
                 "header": self._build_header(generated_at, self.FEED_SOURCE),
                 "items": merged_items,

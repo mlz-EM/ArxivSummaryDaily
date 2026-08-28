@@ -15,7 +15,7 @@ from .feed_utils import (
     load_existing_json_items,
     normalize_date,
     to_https_url,
-    utc_generated_at,
+    eastern_generated_at,
 )
 from .llm_client import LLMModelClient
 
@@ -37,8 +37,8 @@ class PaperSummarizer:
         """No-op retained for backward compatibility with tests/integrations."""
         return
 
-    def _utc_generated_at(self) -> str:
-        return utc_generated_at()
+    def _eastern_generated_at(self) -> str:
+        return eastern_generated_at()
 
     def _to_https_url(self, url: str) -> str:
         return to_https_url(url)
@@ -228,7 +228,7 @@ Paper input:
 
             merged_items = self._sort_items(list(merged_by_url.values()))
 
-            generated_at = self._utc_generated_at()
+            generated_at = self._eastern_generated_at()
             feed_payload = {
                 "header": self._build_header(len(merged_items), generated_at, self.FEED_SOURCE),
                 "items": merged_items,

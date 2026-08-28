@@ -5,10 +5,19 @@ import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Dict, List
+from zoneinfo import ZoneInfo
+
+
+EASTERN_TIME = ZoneInfo("America/New_York")
 
 
 def utc_generated_at() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+
+
+def eastern_generated_at() -> str:
+    """Return an unambiguous report timestamp in US Eastern time."""
+    return datetime.now(EASTERN_TIME).replace(microsecond=0).isoformat()
 
 
 def to_https_url(url: Any) -> str:
