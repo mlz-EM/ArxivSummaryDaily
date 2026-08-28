@@ -2,14 +2,57 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-08-27T11:06:32Z",
+    "generatedAt": "2026-08-28T07:24:32-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 317 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 321 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.27162v1",
+      "title": "Data-efficient crack quantification in lithium-ion cathodes using foundation model transfer",
+      "url": "https://arxiv.org/abs/2608.27162v1",
+      "date": "2026-08-27",
+      "summary": "This study aims to efficiently quantify particle cracking in lithium-ion cathodes using a self-supervised vision-transformer encoder with lightweight decoders and iterative model-assisted annotation. The framework successfully quantifies intragranular and intergranular cracks across large cathode cross-sections, revealing that cycled samples exhibit 4.6% late intergranular crack coverage compared to only 0.5% in initial and calendar-aged samples.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cs-cv",
+        "cs-lg"
+      ]
+    },
+    {
+      "id": "arxiv-2608.27119v1",
+      "title": "Diatom frustules as naturally occurring resonant microarchitectures: revealing vibrational eigenmodes across pennate and centric species",
+      "url": "https://arxiv.org/abs/2608.27119v1",
+      "date": "2026-08-27",
+      "summary": "This study investigates the elastodynamic behavior and vibrational eigenmodes of pennate and centric diatom frustules using laser Doppler vibrometry combined with morphology-faithful finite-element models. The authors successfully detected spatially resolved vibrational eigenmodes (5.90–14.17 MHz for R. amphiceros and 9.96–17.62 MHz for S. californicus), establishing diatom frustules as naturally occurring resonant microarchitectures for MEMS/NEMS applications.",
+      "tags": [
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2608.26855v1",
+      "title": "Self-selective growth of GaAs1-xBix on GaAs zinc blende/wurtzite nanowire heterostructures",
+      "url": "https://arxiv.org/abs/2608.26855v1",
+      "date": "2026-08-27",
+      "summary": "This study investigates site-selective Ga and Bi overgrowth on GaAs nanowires with alternating zinc blende (Zb) and wurtzite (Wz) crystal phases. Using nanoscale X-ray photoemission electron microscopy, the authors reveal phase-dependent Bi incorporation via anion exchange, with higher Bi concentration and greater oxidation resistance in Zb segments than in Wz segments.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2608.26678v1",
+      "title": "A solid-solution approach for room-temperature bulk plasticity in KTa1-xNbxO3",
+      "url": "https://arxiv.org/abs/2608.26678v1",
+      "date": "2026-08-27",
+      "summary": "This study aims to overcome the scarcity of room-temperature bulk-plastic perovskite oxides by using a solid-solution strategy. Using a closed-loop validation workflow including crystal growth, mechanical testing, and transmission electron microscopy, the authors successfully demonstrate room-temperature bulk plasticity in KTa1-xNbxO3 (0<x<1), providing a framework to expand dislocation-tuned functional materials.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2608.26025v1",
       "title": "Oxidation-resilient structural modifications in Nickel-functionalized 3D-graphene for hydrogen storage applications",
