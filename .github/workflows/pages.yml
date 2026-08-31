@@ -2,7 +2,7 @@ name: pages
 on:
   schedule:
     # Runs at 5:00 AM Eastern Time every workday (Monday to Friday)
-    - cron: '0 5 * * 1-5'
+    - cron: '1 0 * * 1-5'
       timezone: 'America/New_York'
   # Or you can trigger it manually
   workflow_dispatch:
