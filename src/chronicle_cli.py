@@ -30,7 +30,7 @@ DEFAULT_CONFIG = {
     "retry_delay": 2,
     "checkpoint_every": 200,
     "workers": DEFAULT_WORKERS,
-    "summary_batch_size": 20,
+    "summary_batch_size": 50,
 }
 
 

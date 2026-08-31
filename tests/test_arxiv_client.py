@@ -30,8 +30,8 @@ class TestLLMModelClient(unittest.TestCase):
         self.assertNotIn("topK", generation_config)
 
     def test_summarizer_batch_sizes_are_bounded(self):
-        self.assertEqual(PaperSummarizer("dummy", "test-model").max_papers_per_batch, 20)
-        self.assertEqual(JobSummarizer("dummy", "test-model").max_papers_per_batch, 20)
+        self.assertEqual(PaperSummarizer("dummy", "test-model").max_papers_per_batch, 50)
+        self.assertEqual(JobSummarizer("dummy", "test-model").max_papers_per_batch, 50)
 
 
 class TestArxivClient(unittest.TestCase):

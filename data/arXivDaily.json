@@ -2,14 +2,35 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-08-28T07:24:32-04:00",
+    "generatedAt": "2026-08-31T09:05:55-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 321 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 323 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.28268v1",
+      "title": "Nanolamellar Hybrid High-Entropy Alloys with Superior Micromechanical Properties",
+      "url": "https://arxiv.org/abs/2608.28268v1",
+      "date": "2026-08-28",
+      "summary": "This study aims to overcome the strength-ductility trade-off by developing a nanolamellar hybrid high-entropy alloy (HEA) combining FCC Al0.1CoCrFeNi and BCC TiZrHfNbTa via high-pressure torsion. The resulting defect-rich nanolamellar structure achieves an ultimate tensile strength of 2.4 GPa, bending strength of 4.0 GPa, and 740 Hv hardness while retaining ductility, driven by nanograins, defects, and interphase boundary hardening.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2608.27858v1",
+      "title": "Extending the operating window of scanning electron microscopy through an integrated electron-optical architecture for high-temperature and near-ambient-pressure environments",
+      "url": "https://arxiv.org/abs/2608.27858v1",
+      "date": "2026-08-28",
+      "summary": "This paper aims to extend the operating window of environmental scanning electron microscopy under simultaneous high-temperature, near-ambient-pressure, and reactive-gas conditions using an integrated electron-optical architecture. The engineered unified platform enables stable SEM imaging at pressures up to 20,000 Pa and temperatures up to 1,400 °C, supporting continuous observation of hydrated biological specimens and synchronized operando characterization.",
+      "tags": [
+        "physics-app-ph",
+        "physics-ins-det"
+      ]
+    },
     {
       "id": "arxiv-2608.27162v1",
       "title": "Data-efficient crack quantification in lithium-ion cathodes using foundation model transfer",

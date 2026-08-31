@@ -37,7 +37,7 @@ DEFAULT_CONFIG = {
     "retry_delay": 2,
     "checkpoint_every": 50,
     "workers": 8,
-    "summary_batch_size": 20,
+    "summary_batch_size": 50,
     "minimum_posted_date": "2026-06-01",
 }
 

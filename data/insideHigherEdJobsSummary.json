@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.6-flash",
-    "generatedAt": "2026-08-28T07:37:12-04:00",
+    "model": "gpt-5.6-sol",
+    "generatedAt": "2026-08-31T09:53:09-04:00",
     "source": "Inside Higher Ed Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from Inside Higher Ed Careers.",
@@ -11,6 +11,938 @@
   },
   "items": [
     {
+      "id": "careers-3546124",
+      "title": "Open Rank- Clinical Faculty in Radiology and Imaging",
+      "url": "https://careers.insidehighered.com/job/3546124",
+      "date": "2026-08-31",
+      "location": "Augusta University at Augusta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545993",
+      "title": "Tenure Track Assistant Professor, Manufacturing Technology (Beginning August 2027)",
+      "url": "https://careers.insidehighered.com/job/3545993",
+      "date": "2026-08-30",
+      "location": "Millersville University at Millersville, PA, US",
+      "description": "Seeks tenure-track manufacturing faculty teaching materials processing across metals, polymers, ceramics, and wood.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "materials processing",
+        "manufacturing",
+        "metals",
+        "polymers",
+        "ceramics"
+      ]
+    },
+    {
+      "id": "careers-3546089",
+      "title": "Asst Professor 9 Mo SAL (School of Information)",
+      "url": "https://careers.insidehighered.com/job/3546089",
+      "date": "2026-08-30",
+      "location": "Florida State University at Tallahassee, FL, US",
+      "description": "Seeks tenure-track cybersecurity faculty using behavioral, sociotechnical, or technical research approaches.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "cybersecurity",
+        "artificial intelligence",
+        "data science",
+        "computer networking"
+      ]
+    },
+    {
+      "id": "careers-3546106",
+      "title": "Assistant Professor of Statistics",
+      "url": "https://careers.insidehighered.com/job/3546106",
+      "date": "2026-08-30",
+      "location": "University of North Carolina at Greensboro at Greensboro, NC, US",
+      "description": "Seeks tenure-track statistics faculty researching machine learning, artificial intelligence, data science, or related areas.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "statistics",
+        "machine learning",
+        "artificial intelligence",
+        "data science"
+      ]
+    },
+    {
+      "id": "careers-3545994",
+      "title": "Tenure Track Assistant/Associate Psychology Professor, (Beginning August 2027)",
+      "url": "https://careers.insidehighered.com/job/3545994",
+      "date": "2026-08-30",
+      "location": "Millersville University at Millersville",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3546048",
+      "title": "Assistant Professor and Extension Specialist in Row Crop Entomology",
+      "url": "https://careers.insidehighered.com/job/3546048",
+      "date": "2026-08-30",
+      "location": "NC State University at Raleigh, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3546063",
+      "title": "Assistant Professor - Plant Pathology",
+      "url": "https://careers.insidehighered.com/job/3546063",
+      "date": "2026-08-30",
+      "location": "NC State University at Raleigh, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3546066",
+      "title": "Assistant / Associate / Professor of Law, Open Rank, College of Law",
+      "url": "https://careers.insidehighered.com/job/3546066",
+      "date": "2026-08-30",
+      "location": "University of Cincinnati at Cincinnati, OH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3546071",
+      "title": "Assistant Professor of Poultry Science",
+      "url": "https://careers.insidehighered.com/job/3546071",
+      "date": "2026-08-30",
+      "location": "Fort Valley State University at Fort Valley, GA, United States, 31030",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3546076",
+      "title": "Assistant/Associate Professor",
+      "url": "https://careers.insidehighered.com/job/3546076",
+      "date": "2026-08-30",
+      "location": "University of Maryland Baltimore at Baltimore, MD",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3546085",
+      "title": "Assistant Professor of Violin, 9 Month Salaried - College of Music",
+      "url": "https://careers.insidehighered.com/job/3546085",
+      "date": "2026-08-30",
+      "location": "Florida State University at Tallahassee, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3546104",
+      "title": "Clinical Psychology Assistant Professor",
+      "url": "https://careers.insidehighered.com/job/3546104",
+      "date": "2026-08-30",
+      "location": "University of North Carolina at Greensboro at Greensboro, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3546105",
+      "title": "Assistant Professor, Finance",
+      "url": "https://careers.insidehighered.com/job/3546105",
+      "date": "2026-08-30",
+      "location": "University of North Carolina at Greensboro at Greensboro, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3546112",
+      "title": "Assistant Professor of Practice - CID",
+      "url": "https://careers.insidehighered.com/job/3546112",
+      "date": "2026-08-30",
+      "location": "East Texas A&M University at Dallas, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545787",
+      "title": "BCAS - Assistant Professor of  AI- Enabled Chemistry or Biochemistry - 530444",
+      "url": "https://careers.insidehighered.com/job/3545787",
+      "date": "2026-08-29",
+      "location": "The University of Alabama at Tuscaloosa, AL, US",
+      "description": "Seeks tenure-track chemistry faculty developing AI-enabled research and externally funded programs.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "chemistry",
+        "artificial intelligence",
+        "computational chemistry"
+      ]
+    },
+    {
+      "id": "careers-3545901",
+      "title": "Tenure track faculty position in the broad area of Fluid Mechanics",
+      "url": "https://careers.insidehighered.com/job/3545901",
+      "date": "2026-08-29",
+      "location": "Johns Hopkins University at Baltimore, MD, US",
+      "description": "Seeks tenure-track mechanical engineering faculty conducting experimental or computational fluid mechanics research.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "fluid mechanics",
+        "mechanical engineering",
+        "computational mechanics"
+      ]
+    },
+    {
+      "id": "careers-3546009",
+      "title": "Assistant Professor - Aerospace Engineering",
+      "url": "https://careers.insidehighered.com/job/3546009",
+      "date": "2026-08-29",
+      "location": "The University of Kansas at Lawrence, KS, US",
+      "description": "Seeks tenure-track aerospace faculty researching propulsion, autonomy, remote sensing, flight, or space systems.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "aerospace engineering",
+        "propulsion",
+        "remote sensing",
+        "space systems"
+      ]
+    },
+    {
+      "id": "careers-3545598",
+      "title": "Assistant Professor",
+      "url": "https://careers.insidehighered.com/job/3545598",
+      "date": "2026-08-29",
+      "location": "East Carolina University at Greenville",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545628",
+      "title": "Program Manager, Faculty Affairs-Medical Oncology",
+      "url": "https://careers.insidehighered.com/job/3545628",
+      "date": "2026-08-29",
+      "location": "The Ohio State University at Columbus Campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545649",
+      "title": "Assistant/Associate Professor of Artificial Intelligence and Machine Learning in Veterinary Pop...",
+      "url": "https://careers.insidehighered.com/job/3545649",
+      "date": "2026-08-29",
+      "location": "The Ohio State University at Columbus Campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545659",
+      "title": "Assistant Professor - Practice",
+      "url": "https://careers.insidehighered.com/job/3545659",
+      "date": "2026-08-29",
+      "location": "The Ohio State University at Columbus Campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545687",
+      "title": "Physician - Department of Neurological Surgery, Division of Skull Base (Open Rank/Track Faculty)",
+      "url": "https://careers.insidehighered.com/job/3545687",
+      "date": "2026-08-29",
+      "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545707",
+      "title": "Tenure/Tenure-Track Faculty",
+      "url": "https://careers.insidehighered.com/job/3545707",
+      "date": "2026-08-29",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545710",
+      "title": "Adult Epileptologist (Open Rank)",
+      "url": "https://careers.insidehighered.com/job/3545710",
+      "date": "2026-08-29",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545711",
+      "title": "Open Rank Faculty",
+      "url": "https://careers.insidehighered.com/job/3545711",
+      "date": "2026-08-29",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545713",
+      "title": "Open Rank",
+      "url": "https://careers.insidehighered.com/job/3545713",
+      "date": "2026-08-29",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545726",
+      "title": "Clinical Assistant Professor",
+      "url": "https://careers.insidehighered.com/job/3545726",
+      "date": "2026-08-29",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545738",
+      "title": "Open Rank/Open Track - Pediatric Electrophysiologist",
+      "url": "https://careers.insidehighered.com/job/3545738",
+      "date": "2026-08-29",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545750",
+      "title": "Assistant Professor of Political Science, Tenure-Track, Fall 2027",
+      "url": "https://careers.insidehighered.com/job/3545750",
+      "date": "2026-08-29",
+      "location": "Chapman University at Orange, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545756",
+      "title": "Assistant Professor of Instruction, Interior Design",
+      "url": "https://careers.insidehighered.com/job/3545756",
+      "date": "2026-08-29",
+      "location": "Texas State University at San Marcos",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545763",
+      "title": "Assistant Professor",
+      "url": "https://careers.insidehighered.com/job/3545763",
+      "date": "2026-08-29",
+      "location": "The University of Georgia at Athens Area",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545789",
+      "title": "Edu - Assistant Professor/Associate Professor of Instructional Technology- Tenure/Tenure Track-...",
+      "url": "https://careers.insidehighered.com/job/3545789",
+      "date": "2026-08-29",
+      "location": "The University of Alabama at Alabama",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545790",
+      "title": "Edu - Assistant Professor of Elementary Mathematics Education - Tenure/Tenure Track - 530441",
+      "url": "https://careers.insidehighered.com/job/3545790",
+      "date": "2026-08-29",
+      "location": "The University of Alabama at Alabama",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545796",
+      "title": "Tenure-Track Assistant Professor of Classical Studies",
+      "url": "https://careers.insidehighered.com/job/3545796",
+      "date": "2026-08-29",
+      "location": "University of Pennsylvania at Philadelphia, Pennsylvania",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545797",
+      "title": "University of Pennsylvania Nephrology Faculty Position with the Philadelphia (CMC) VA Medical C...",
+      "url": "https://careers.insidehighered.com/job/3545797",
+      "date": "2026-08-29",
+      "location": "University of Pennsylvania at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545799",
+      "title": "Asst. Professor, Pediatric Otolaryngology, AC Track at CHOP",
+      "url": "https://careers.insidehighered.com/job/3545799",
+      "date": "2026-08-29",
+      "location": "University of Pennsylvania at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545846",
+      "title": "Faculty, Respiratory Care",
+      "url": "https://careers.insidehighered.com/job/3545846",
+      "date": "2026-08-29",
+      "location": "Lone Star College at LSC-Kingwood",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545847",
+      "title": "Faculty, Economics",
+      "url": "https://careers.insidehighered.com/job/3545847",
+      "date": "2026-08-29",
+      "location": "Lone Star College at LSC-Montgomery",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545852",
+      "title": "Assistant Professor of Biology",
+      "url": "https://careers.insidehighered.com/job/3545852",
+      "date": "2026-08-29",
+      "location": "The University of North Georgia at UNG-Dahlonega, GA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545941",
+      "title": "Professor of the Practice - Part Time",
+      "url": "https://careers.insidehighered.com/job/3545941",
+      "date": "2026-08-29",
+      "location": "Georgia Institute of Technology at Atlanta, Georgia",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545961",
+      "title": "Assistant or Associate Professor of Russian Studies",
+      "url": "https://careers.insidehighered.com/job/3545961",
+      "date": "2026-08-29",
+      "location": "Binghamton University, State University of New York at Binghamton, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545966",
+      "title": "Artificial Intelligence Faculty",
+      "url": "https://careers.insidehighered.com/job/3545966",
+      "date": "2026-08-29",
+      "location": "Indiana Tech at Fort Wayne, IN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545967",
+      "title": "Computer Science and Computer Engineering Faculty",
+      "url": "https://careers.insidehighered.com/job/3545967",
+      "date": "2026-08-29",
+      "location": "Indiana Tech at Fort Wayne, IN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545969",
+      "title": "Mechanical Engineering, Robotics, and Smart Manufacturing Faculty",
+      "url": "https://careers.insidehighered.com/job/3545969",
+      "date": "2026-08-29",
+      "location": "Indiana Tech at Fort Wayne, IN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3546008",
+      "title": "Full-time, Tenure-track Tennis Coach",
+      "url": "https://careers.insidehighered.com/job/3546008",
+      "date": "2026-08-29",
+      "location": "West Valley-Mission Community College District at Saratoga, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545276",
+      "title": "Full/Associate/Assistant Professor in Artificial Intelligence",
+      "url": "https://careers.insidehighered.com/job/3545276",
+      "date": "2026-08-28",
+      "location": "University of Macau at Macau, MO, CN",
+      "description": "Seeks research faculty specializing in artificial intelligence, neuromorphic computing, or trustworthy AI.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "artificial intelligence",
+        "neuromorphic computing",
+        "machine learning"
+      ]
+    },
+    {
+      "id": "careers-3545277",
+      "title": "Full/Associate/Assistant Professor in Materials Science and Engineering",
+      "url": "https://careers.insidehighered.com/job/3545277",
+      "date": "2026-08-28",
+      "location": "University of Macau at Macau, MO, CN",
+      "description": "Seeks faculty advancing environmental, energy, catalytic, smart, and computational materials research.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "materials science",
+        "energy materials",
+        "materials simulation",
+        "smart materials"
+      ]
+    },
+    {
+      "id": "careers-3545278",
+      "title": "Assistant Professor in Industrial Design",
+      "url": "https://careers.insidehighered.com/job/3545278",
+      "date": "2026-08-28",
+      "location": "University of Macau at Macau, MO, CN",
+      "description": "Seeks industrial design faculty specializing in sustainable materials, digital manufacturing, and responsive products.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "sustainable materials",
+        "digital manufacturing",
+        "responsive materials",
+        "product design"
+      ]
+    },
+    {
+      "id": "careers-3545286",
+      "title": "Assistant Professor, Department of Statistical Sciences (R0008850)",
+      "url": "https://careers.insidehighered.com/job/3545286",
+      "date": "2026-08-28",
+      "location": "Wake Forest University at Winston Salem, NC, US",
+      "description": "Seeks tenure-track statistics faculty conducting original research and teaching undergraduate and graduate courses.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "statistics",
+        "data science",
+        "statistical modeling"
+      ]
+    },
+    {
+      "id": "careers-3545304",
+      "title": "Tenure-Track Assistant Professor in Interior Architecture",
+      "url": "https://careers.insidehighered.com/job/3545304",
+      "date": "2026-08-28",
+      "location": "The University of Kansas at Lawrence, KS, US",
+      "description": "Seeks tenure-track interior architecture faculty in materials, sustainability, design research, or architectural history.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "interior architecture",
+        "material technology",
+        "sustainability",
+        "design research"
+      ]
+    },
+    {
+      "id": "careers-3545269",
+      "title": "Faculty, Math 9 Month",
+      "url": "https://careers.insidehighered.com/job/3545269",
+      "date": "2026-08-28",
+      "location": "Alvin Community College at Varies: Alvin College/Online/Various Service Area School Districts/TX Dept of Criminal Justice, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545285",
+      "title": "Assistant Professor of German, Department of German & Russian (R0008836)",
+      "url": "https://careers.insidehighered.com/job/3545285",
+      "date": "2026-08-28",
+      "location": "Wake Forest University at Winston Salem, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545300",
+      "title": "Part-time Faculty Maryland Clinical Simulation Resource Consortium (Faculty Development Specialist)",
+      "url": "https://careers.insidehighered.com/job/3545300",
+      "date": "2026-08-28",
+      "location": "Montgomery College at Maryland - Montgomery County",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545316",
+      "title": "BUS-26-3 Assistant professor Tenure track positions in Accounting",
+      "url": "https://careers.insidehighered.com/job/3545316",
+      "date": "2026-08-28",
+      "location": "Lebanese American University at Lebanon (LB)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545336",
+      "title": "Assistant Professor of Luso-Hispanic Studies",
+      "url": "https://careers.insidehighered.com/job/3545336",
+      "date": "2026-08-28",
+      "location": "Middlebury College at Middlebury",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545348",
+      "title": "Asst. Professor, Pediatric Otolaryngology, AC Track at CHOP",
+      "url": "https://careers.insidehighered.com/job/3545348",
+      "date": "2026-08-28",
+      "location": "University of Pennsylvania at Philadelphia",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545349",
+      "title": "Tenure-Track Assistant Professor of Classical Studies",
+      "url": "https://careers.insidehighered.com/job/3545349",
+      "date": "2026-08-28",
+      "location": "University of Pennsylvania at Philadelphia",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545350",
+      "title": "University of Pennsylvania Nephrology Faculty Position with the Philadelphia (CMC) VA Medical Center",
+      "url": "https://careers.insidehighered.com/job/3545350",
+      "date": "2026-08-28",
+      "location": "University of Pennsylvania at Philadelphia",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545403",
+      "title": "Assistant Professor – African History - Department of History",
+      "url": "https://careers.insidehighered.com/job/3545403",
+      "date": "2026-08-28",
+      "location": "University of California, Berkeley at Berkeley",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545407",
+      "title": "Research Assistant/ Associate Professor- College of Nursing",
+      "url": "https://careers.insidehighered.com/job/3545407",
+      "date": "2026-08-28",
+      "location": "University of Florida at Gainesville",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545416",
+      "title": "Assistant Professor of Sociology",
+      "url": "https://careers.insidehighered.com/job/3545416",
+      "date": "2026-08-28",
+      "location": "The University of Maine at Orono, Maine (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545418",
+      "title": "Associate Director, Graduate Programs and Assoc/Full Professor School of Nursing",
+      "url": "https://careers.insidehighered.com/job/3545418",
+      "date": "2026-08-28",
+      "location": "Cleveland State University at Cleveland, Ohio (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545467",
+      "title": "Faculty - Internal Medicine",
+      "url": "https://careers.insidehighered.com/job/3545467",
+      "date": "2026-08-28",
+      "location": "Western Michigan University Homer Stryker M.D. School of Medicine at Kalamazoo, Michigan",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545469",
+      "title": "Tenure-Track, Biology (Open Rank)",
+      "url": "https://careers.insidehighered.com/job/3545469",
+      "date": "2026-08-28",
+      "location": "North Central College at Naperville, IL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545472",
+      "title": "Assistant Professor of Learning and Teaching",
+      "url": "https://careers.insidehighered.com/job/3545472",
+      "date": "2026-08-28",
+      "location": "California Lutheran University at Thousand Oaks",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545480",
+      "title": "Director and Associate/Full Professor, School of Art, College of DAAP",
+      "url": "https://careers.insidehighered.com/job/3545480",
+      "date": "2026-08-28",
+      "location": "University of Cincinnati at Cincinnati, OH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545487",
+      "title": "Assistant Professor of English- Plymouth",
+      "url": "https://careers.insidehighered.com/job/3545487",
+      "date": "2026-08-28",
+      "location": "Marian University of Indiana at Plymouth, IN 46563, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545491",
+      "title": "Assistant Professor, Educational Leadership, Fall 2027",
+      "url": "https://careers.insidehighered.com/job/3545491",
+      "date": "2026-08-28",
+      "location": "The University of Tennessee, Knoxville at Knoxville, TN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545513",
+      "title": "Program Manager, Executive Operations & Faculty Actions (contractual)",
+      "url": "https://careers.insidehighered.com/job/3545513",
+      "date": "2026-08-28",
+      "location": "University of Maryland Baltimore at Baltimore, MD",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545520",
+      "title": "Assistant Professor in Sport Management, 9 Month Salaried (Department of Sport Management - Ann...",
+      "url": "https://careers.insidehighered.com/job/3545520",
+      "date": "2026-08-28",
+      "location": "Florida State University at Tallahassee, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545521",
+      "title": "Assistant Professor in Counseling Psychology, 9 Month Salaried (Educational Psychology & Learni...",
+      "url": "https://careers.insidehighered.com/job/3545521",
+      "date": "2026-08-28",
+      "location": "Florida State University at Tallahassee, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545522",
+      "title": "Assistant Professor in Sport Psychology, 9 Month Salaried (Educational Psychology & Learning Sy...",
+      "url": "https://careers.insidehighered.com/job/3545522",
+      "date": "2026-08-28",
+      "location": "Florida State University at Tallahassee, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545523",
+      "title": "Teaching Faculty I (Assistant Clinical Professor), 12 Month Salaried - Elementary Education - S...",
+      "url": "https://careers.insidehighered.com/job/3545523",
+      "date": "2026-08-28",
+      "location": "Florida State University at Tallahassee, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545524",
+      "title": "Assistant Professor, 9 Month Salaried - Elementary Mathematics Education School of Teacher Educ...",
+      "url": "https://careers.insidehighered.com/job/3545524",
+      "date": "2026-08-28",
+      "location": "Florida State University at Tallahassee, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545527",
+      "title": "Assistant Professor 9 Month Salaried (School of Communication Science & Disorders)",
+      "url": "https://careers.insidehighered.com/job/3545527",
+      "date": "2026-08-28",
+      "location": "Florida State University at Tallahassee, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545533",
+      "title": "Research Faculty I, 12 Month Salaried (Psychology)",
+      "url": "https://careers.insidehighered.com/job/3545533",
+      "date": "2026-08-28",
+      "location": "Florida State University at Tallahassee, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3545546",
+      "title": "Assistant or Associate Research Professor",
+      "url": "https://careers.insidehighered.com/job/3545546",
+      "date": "2026-08-28",
+      "location": "University of Connecticut at Other - please see posting for additional information",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3515495",
+      "title": "Teaching Faculty - Undergrad Clinical-focused, 12 Month Salaried (multiple vacancies) - College...",
+      "url": "https://careers.insidehighered.com/job/3515495",
+      "date": "2026-06-10",
+      "location": "Florida State University at Tallahassee, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3513584",
+      "title": "Assistant Professor /Associate Professor - Clinical Practices and Special Education",
+      "url": "https://careers.insidehighered.com/job/3513584",
+      "date": "2026-06-05",
+      "location": "Lehman College at LEHMAN COLLEGE",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3513585",
+      "title": "Assistant Professor /Associate Professor -  Early Childhood and Childhood Education (ECCE)",
+      "url": "https://careers.insidehighered.com/job/3513585",
+      "date": "2026-06-05",
+      "location": "Lehman College at LEHMAN COLLEGE",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
       "id": "careers-3545155",
       "title": "Dual Credit Faculty Spring 2027",
       "url": "https://careers.insidehighered.com/job/3545155",
@@ -18,7 +950,7 @@
       "location": "South Texas College at USA, McAllen, Texas",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +961,7 @@
       "location": "St. Norbert College at De Pere, Wisconsin",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +972,7 @@
       "location": "University of Virginia at Charlottesville, VA, US",
       "description": "Seeks tenure-track chemical engineering faculty focusing on clean energy, electrochemical systems, and membrane science.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "chemical engineering",
         "clean energy",
@@ -58,7 +990,7 @@
       "location": "San José State University at San José, CA, US",
       "description": "Seeks tenure-track materials engineering faculty to teach courses and conduct research engaging undergraduate and graduate students.",
       "fitScore": 3,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "materials engineering",
         "physical metallurgy",
@@ -74,7 +1006,7 @@
       "location": "San José State University at San José, CA, US",
       "description": "Seeks tenure-track faculty in computer engineering focusing on embedded systems, computer architecture, and artificial intelligence.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "embedded systems",
         "computer architecture",
@@ -89,7 +1021,7 @@
       "location": "Southern University System at Baton Rouge, LA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -100,7 +1032,7 @@
       "location": "Southern University System at Baton Rouge, LA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -111,7 +1043,7 @@
       "location": "Southern University System at Baton Rouge, LA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -122,7 +1054,7 @@
       "location": "University of Virginia at Charlottesville, VA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -133,7 +1065,7 @@
       "location": "University of Virginia at Charlottesville, VA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -144,7 +1076,7 @@
       "location": "University of Virginia at Charlottesville, VA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -155,7 +1087,7 @@
       "location": "Texas Tech University Health Sciences Center at Lubbock",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -166,7 +1098,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -177,7 +1109,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -188,7 +1120,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -199,7 +1131,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -210,7 +1142,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -221,7 +1153,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -232,7 +1164,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -243,7 +1175,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -254,7 +1186,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -265,7 +1197,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -276,7 +1208,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -287,7 +1219,7 @@
       "location": "MOHAMED BIN ZAYED UNIVERSITY OF ARTIFICIAL INTELLIGENCE at Abu Dhabi, UAE",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -298,7 +1230,7 @@
       "location": "MOHAMED BIN ZAYED UNIVERSITY OF ARTIFICIAL INTELLIGENCE at Abu Dhabi, UAE",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -309,7 +1241,7 @@
       "location": "Sam Houston State University at College of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -320,7 +1252,7 @@
       "location": "University of Pennsylvania at Philadelphia",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -331,7 +1263,7 @@
       "location": "Augusta University at Augusta",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -342,7 +1274,7 @@
       "location": "University of Vermont at Burlington",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -353,7 +1285,7 @@
       "location": "Texas State University at San Marcos",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -364,7 +1296,7 @@
       "location": "Texas State University at San Marcos",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -375,7 +1307,7 @@
       "location": "Texas State University at San Marcos",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -386,7 +1318,7 @@
       "location": "Texas State University at San Marcos",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -397,7 +1329,7 @@
       "location": "University of Florida at Gainesville",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -408,7 +1340,7 @@
       "location": "University of Florida at Gainesville",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -419,7 +1351,7 @@
       "location": "University of Florida at Gainesville",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -430,7 +1362,7 @@
       "location": "University of California, Berkeley at Berkeley",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -441,7 +1373,7 @@
       "location": "Rowan-Cabarrus Community College at Salisbury, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -452,7 +1384,7 @@
       "location": "University of Florida at Gainesville",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -463,7 +1395,7 @@
       "location": "San Diego State University at San Diego",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -474,7 +1406,7 @@
       "location": "San Diego State University at San Diego",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -485,7 +1417,7 @@
       "location": "The University of Alabama at Tuscaloosa",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -496,7 +1428,7 @@
       "location": "The University of Alabama at Alabama",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -507,7 +1439,7 @@
       "location": "The University of Alabama at Tuscaloosa",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -518,7 +1450,7 @@
       "location": "The University of Alabama at Alabama",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -529,7 +1461,7 @@
       "location": "The University of Alabama at Tuscaloosa, AL",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -540,7 +1472,7 @@
       "location": "The University of Alabama at Alabama",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -551,7 +1483,7 @@
       "location": "The University of Alabama at Tuscaloosa",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -562,7 +1494,7 @@
       "location": "University of Pennsylvania at Philadelphia, PA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -573,7 +1505,7 @@
       "location": "University of Pennsylvania at Philadelphia, PA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -584,7 +1516,7 @@
       "location": "University of Pennsylvania at Philadelphia, PA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -595,7 +1527,7 @@
       "location": "University of Pennsylvania at Philadelphia, PA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -606,7 +1538,7 @@
       "location": "Alma College at Alma, MI",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -617,7 +1549,7 @@
       "location": "Davidson College at Davidson, North Carolina (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -628,7 +1560,7 @@
       "location": "Texas A&M University - Central Texas at Killeen, TX",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -639,7 +1571,7 @@
       "location": "The University of North Georgia at UNG - Gainesville",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -650,7 +1582,7 @@
       "location": "Alvin Community College at Varies: Alvin College/Online/Various Service Area School Districts/TX Dept of Criminal Justice, TX",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -661,7 +1593,7 @@
       "location": "Alvin Community College at Varies: Alvin College/Online/Various Service Area School Districts/TX Dept of Criminal Justice, TX",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -672,7 +1604,7 @@
       "location": "Alvin Community College at Varies: Alvin College/Online/Various Service Area School Districts/TX Dept of Criminal Justice, TX",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -683,7 +1615,7 @@
       "location": "Alvin Community College at Varies: Alvin College/Online/Various Service Area School Districts/TX Dept of Criminal Justice, TX",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -694,7 +1626,7 @@
       "location": "California Lutheran University at Thousand Oaks",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -705,7 +1637,7 @@
       "location": "University of Minnesota at Minneapolis, Minnesota",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -716,7 +1648,7 @@
       "location": "Quinnipiac University at Mount Carmel - Hamden, CT",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -727,7 +1659,7 @@
       "location": "Quinnipiac University at Mount Carmel - Hamden, CT",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -738,7 +1670,7 @@
       "location": "Quinnipiac University at Mount Carmel - Hamden, CT",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -749,7 +1681,7 @@
       "location": "University of Massachusetts Medical School at 55 Lake Avenue North",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -760,7 +1692,7 @@
       "location": "University of Massachusetts Lowell at UMass Lowell",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -771,18 +1703,7 @@
       "location": "University of Toronto at University of Toronto Mississauga (UTM)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "careers-3544593",
-      "title": "Assistant or Associate Professor of Clinical Medical Physics",
-      "url": "https://careers.insidehighered.com/job/3544593",
-      "date": "2026-08-26",
-      "location": "University of Maryland Baltimore at Baltimore, MD",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -838,6 +1759,17 @@
       "url": "https://careers.insidehighered.com/job/3544566",
       "date": "2026-08-27",
       "location": "Midway University at Midway",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "careers-3544593",
+      "title": "Assistant or Associate Professor of Clinical Medical Physics",
+      "url": "https://careers.insidehighered.com/job/3544593",
+      "date": "2026-08-26",
+      "location": "University of Maryland Baltimore at Baltimore, MD",
       "description": "",
       "fitScore": 0,
       "isNew": false,

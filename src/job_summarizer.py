@@ -32,9 +32,9 @@ class JobSummarizer:
     ):
         self.client = LLMModelClient(api_key, model)
         self.url_canonicalizer = url_canonicalizer
-        # Twenty full job descriptions per request keeps each prompt focused;
+        # Fifty full job descriptions per request stays within the model context;
         # batches are independently retryable if a response is incomplete.
-        self.max_papers_per_batch = 20
+        self.max_papers_per_batch = 50
 
     def _filter_new_jobs(self, jobs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         return dedupe_incoming_by_url(jobs, "job_url")

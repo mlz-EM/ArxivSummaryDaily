@@ -81,7 +81,7 @@ INTERFOLIO_CONFIG = {
     'retry_delay': float(os.getenv("INTERFOLIO_RETRY_DELAY", "2")),
     'checkpoint_every': int(os.getenv("INTERFOLIO_CHECKPOINT_EVERY", "50")),
     'workers': int(os.getenv("INTERFOLIO_WORKERS", "8")),
-    'summary_batch_size': int(os.getenv("INTERFOLIO_SUMMARY_BATCH_SIZE", "20")),
+    'summary_batch_size': int(os.getenv("INTERFOLIO_SUMMARY_BATCH_SIZE", "50")),
 }
 
 
@@ -96,7 +96,7 @@ CHRONICLE_CONFIG = {
     'retry_delay': float(os.getenv("CHRONICLE_RETRY_DELAY", "2")),
     'checkpoint_every': int(os.getenv("CHRONICLE_CHECKPOINT_EVERY", "200")),
     'workers': int(os.getenv("CHRONICLE_WORKERS", "16")),
-    'summary_batch_size': int(os.getenv("CHRONICLE_SUMMARY_BATCH_SIZE", "20")),
+    'summary_batch_size': int(os.getenv("CHRONICLE_SUMMARY_BATCH_SIZE", "50")),
 }
 
 
@@ -111,5 +111,5 @@ INSIDE_HIGHER_ED_CONFIG = {
     'retry_delay': float(os.getenv("INSIDE_HIGHER_ED_RETRY_DELAY", "2")),
     'checkpoint_every': int(os.getenv("INSIDE_HIGHER_ED_CHECKPOINT_EVERY", "200")),
     'workers': int(os.getenv("INSIDE_HIGHER_ED_WORKERS", "16")),
-    'summary_batch_size': int(os.getenv("INSIDE_HIGHER_ED_SUMMARY_BATCH_SIZE", "20")),
+    'summary_batch_size': int(os.getenv("INSIDE_HIGHER_ED_SUMMARY_BATCH_SIZE", "50")),
 }
