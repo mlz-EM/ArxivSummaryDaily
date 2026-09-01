@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gpt-5.6-sol",
-    "generatedAt": "2026-08-31T09:53:09-04:00",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-09-01T05:19:44-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -18,7 +18,7 @@
       "location": "University of Missouri-Columbia at Columbia, MO",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +29,7 @@
       "location": "",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +40,7 @@
       "location": "",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +51,7 @@
       "location": "University of Florida at Gainesville, FL",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,304 +62,7 @@
       "location": "University of Missouri-Saint Louis at St Louis, MO",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4459390987",
-      "title": "Professorial Lecturer",
-      "url": "https://www.linkedin.com/jobs/view/4459390987",
-      "date": "2026-08-26",
-      "location": "American University at Washington, DC",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4458512064",
-      "title": "Full-Time Tenure Track Faculty: Legal Studies-Emerging Legal Technologies & Civil Procedures (College of Arts & Sciences)",
-      "url": "https://www.linkedin.com/jobs/view/4458512064",
-      "date": "2026-08-24",
-      "location": "Quinnipiac University at Hamden, CT",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4447579031",
-      "title": "Senior Endowed Chair in US History",
-      "url": "https://www.linkedin.com/jobs/view/4447579031",
-      "date": "2026-08-22",
-      "location": "University of Notre Dame at Notre Dame, IN",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4457361508",
-      "title": "Schneider Endowed Distinguished Prof.",
-      "url": "https://www.linkedin.com/jobs/view/4457361508",
-      "date": "2026-08-21",
-      "location": "Marquette University at Milwaukee, WI",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4456352973",
-      "title": "Tenure-track Assistant Professor of Cinema and Media Studies",
-      "url": "https://www.linkedin.com/jobs/view/4456352973",
-      "date": "2026-08-21",
-      "location": "University of Pennsylvania at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4453656090",
-      "title": "Director, Center for Constitutional Democracy and Professor of Law",
-      "url": "https://www.linkedin.com/jobs/view/4453656090",
-      "date": "2026-08-20",
-      "location": "Indiana University at Bloomington, IN",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4456360019",
-      "title": "Philosophy | Open Area | Endowed Professorship (tenured)",
-      "url": "https://www.linkedin.com/jobs/view/4456360019",
-      "date": "2026-08-19",
-      "location": "University of Notre Dame at Notre Dame, IN",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4302801458",
-      "title": "Research Faculty -  IM Immunology and Rheumatology - (Open Rank/Track Faculty)",
-      "url": "https://www.linkedin.com/jobs/view/4302801458",
-      "date": "2026-08-19",
-      "location": "The Ohio State University Wexner Medical Center at Columbus, OH",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4437716656",
-      "title": "Frances and Laurence Weinstein Chair in Modern European Jewish History",
-      "url": "https://www.linkedin.com/jobs/view/4437716656",
-      "date": "2026-08-19",
-      "location": "UW-Madison College of Letters & Science at Madison, WI",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4445307290",
-      "title": "Tenured or Tenure-Track Professor – NALS Institute and Native American Law",
-      "url": "https://www.linkedin.com/jobs/view/4445307290",
-      "date": "2026-08-15",
-      "location": "Mitchell Hamline School of Law at St Paul, MN",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4444776931",
-      "title": "Clinical Faculty (Open Rank) – Non-Tenure Track – UIC Law",
-      "url": "https://www.linkedin.com/jobs/view/4444776931",
-      "date": "2026-08-14",
-      "location": "University of Illinois Chicago at Chicago, IL",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4436140605",
-      "title": "Open Rank Faculty Position in Cancer Immunotherapy",
-      "url": "https://www.linkedin.com/jobs/view/4436140605",
-      "date": "2026-08-13",
-      "location": "Fred Hutch at Seattle, WA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4453382706",
-      "title": "Faculty Position: Cancer In Vivo Gene Editing Investigators",
-      "url": "https://www.linkedin.com/jobs/view/4453382706",
-      "date": "2026-08-12",
-      "location": "Mayo Clinic at Jacksonville, FL",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4453132753",
-      "title": "Assistant Professor - Civil Rights  - School of Law",
-      "url": "https://www.linkedin.com/jobs/view/4453132753",
-      "date": "2026-08-12",
-      "location": "University of California, Berkeley at Berkeley, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4450189706",
-      "title": "Visiting Professor of Law - Constitutional Law: Structure",
-      "url": "https://www.linkedin.com/jobs/view/4450189706",
-      "date": "2026-08-12",
-      "location": "University of Southern California at Los Angeles, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4452487490",
-      "title": "Teaching Postdoctoral Fellow Anatomy - Meritus School of Osteopathic Medicine",
-      "url": "https://www.linkedin.com/jobs/view/4452487490",
-      "date": "2026-08-11",
-      "location": "Meritus Health at Hagerstown, MD",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4451453827",
-      "title": "Margaret Burnham Visiting Professor in Civil Rights",
-      "url": "https://www.linkedin.com/jobs/view/4451453827",
-      "date": "2026-08-10",
-      "location": "Northeastern University at Boston, MA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4450069803",
-      "title": "Assistant Professor, Research Faculty Appointment, Breast Surgical Oncology-Research",
-      "url": "https://www.linkedin.com/jobs/view/4450069803",
-      "date": "2026-08-07",
-      "location": "UT MD Anderson at Houston, TX",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4450352676",
-      "title": "Visiting Assistant Professor",
-      "url": "https://www.linkedin.com/jobs/view/4450352676",
-      "date": "2026-08-07",
-      "location": "Tulane University at New Orleans, LA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4450027465",
-      "title": "Faculty (Rank TBD) - Clinical Forensic Psychology - 997392",
-      "url": "https://www.linkedin.com/jobs/view/4450027465",
-      "date": "2026-08-07",
-      "location": "Nova Southeastern University at Fort Lauderdale, FL",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4448921602",
-      "title": "Assistant Professor of Political Science (Public Law) Tenure-Track Position",
-      "url": "https://www.linkedin.com/jobs/view/4448921602",
-      "date": "2026-08-05",
-      "location": "University of the Pacific at Stockton, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4460880285",
-      "title": "Open-Rank Professor of History",
-      "url": "https://www.linkedin.com/jobs/view/4460880285",
-      "date": "2026-08-05",
-      "location": "University of Austin (UATX) at Austin, TX",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4448933287",
-      "title": "Research Faculty - Translational & Immuno-Oncology Faculty Position/Drug Discovery",
-      "url": "https://www.linkedin.com/jobs/view/4448933287",
-      "date": "2026-08-05",
-      "location": "VCU Massey's Office of Cancer Research Training and Education at Richmond, VA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4449020073",
-      "title": "Assistant, Associate, or Full Professor (HS Clinical, Clinical X, In-Residence, Adjunct) Speech-Language Pathologists",
-      "url": "https://www.linkedin.com/jobs/view/4449020073",
-      "date": "2026-08-04",
-      "location": "UC San Diego Academic Jobs at San Diego, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4449010625",
-      "title": "Research Faculty -  IM Medical Oncology  (Open Rank/Track Faculty)",
-      "url": "https://www.linkedin.com/jobs/view/4449010625",
-      "date": "2026-08-04",
-      "location": "The Ohio State University Wexner Medical Center at Columbus, OH",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4448572979",
-      "title": "Assistant Professor, Associate Professor or Professor (DOQ)",
-      "url": "https://www.linkedin.com/jobs/view/4448572979",
-      "date": "2026-08-04",
-      "location": "University of Utah at Salt Lake City, UT",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4460000747",
-      "title": "Assistant Professor of Neurosurgery, Tenure Track in the Department of Neurosurgery, Perelman School of Medicine at the University of Pennsylvania, specializing in Neuro-Oncology",
-      "url": "https://www.linkedin.com/jobs/view/4460000747",
-      "date": "",
-      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -621,6 +324,17 @@
       "url": "https://www.indeed.com/viewjob?jk=b6817a825229366c",
       "date": "2026-08-27",
       "location": "Alcorn State University at Lorman, MS, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4459390987",
+      "title": "Professorial Lecturer",
+      "url": "https://www.linkedin.com/jobs/view/4459390987",
+      "date": "2026-08-26",
+      "location": "American University at Washington, DC",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1172,6 +886,17 @@
       "keywords": []
     },
     {
+      "id": "www-4458512064",
+      "title": "Full-Time Tenure Track Faculty: Legal Studies-Emerging Legal Technologies & Civil Procedures (College of Arts & Sciences)",
+      "url": "https://www.linkedin.com/jobs/view/4458512064",
+      "date": "2026-08-24",
+      "location": "Quinnipiac University at Hamden, CT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4458530174",
       "title": "Professor, Nursing Science",
       "url": "https://www.linkedin.com/jobs/view/4458530174",
@@ -1649,6 +1374,17 @@
       "keywords": []
     },
     {
+      "id": "www-4447579031",
+      "title": "Senior Endowed Chair in US History",
+      "url": "https://www.linkedin.com/jobs/view/4447579031",
+      "date": "2026-08-22",
+      "location": "University of Notre Dame at Notre Dame, IN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4457551488",
       "title": "Faculty (Rank TBD), Nursing - 995329",
       "url": "https://www.linkedin.com/jobs/view/4457551488",
@@ -1720,6 +1456,28 @@
       "url": "https://www.linkedin.com/jobs/view/4456679733",
       "date": "2026-08-22",
       "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4457361508",
+      "title": "Schneider Endowed Distinguished Prof.",
+      "url": "https://www.linkedin.com/jobs/view/4457361508",
+      "date": "2026-08-21",
+      "location": "Marquette University at Milwaukee, WI",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4456352973",
+      "title": "Tenure-track Assistant Professor of Cinema and Media Studies",
+      "url": "https://www.linkedin.com/jobs/view/4456352973",
+      "date": "2026-08-21",
+      "location": "University of Pennsylvania at Philadelphia, PA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2198,6 +1956,17 @@
       "keywords": []
     },
     {
+      "id": "www-4453656090",
+      "title": "Director, Center for Constitutional Democracy and Professor of Law",
+      "url": "https://www.linkedin.com/jobs/view/4453656090",
+      "date": "2026-08-20",
+      "location": "Indiana University at Bloomington, IN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4207800493",
       "title": "Physician, Clinical Faculty, Open Rank - College of Osteopathic Medicine",
       "url": "https://www.linkedin.com/jobs/view/4207800493",
@@ -2653,6 +2422,39 @@
       "url": "https://www.indeed.com/viewjob?jk=9f9aa55024c2f8d8",
       "date": "2026-08-20",
       "location": "University of Arizona at Tucson, AZ, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4456360019",
+      "title": "Philosophy | Open Area | Endowed Professorship (tenured)",
+      "url": "https://www.linkedin.com/jobs/view/4456360019",
+      "date": "2026-08-19",
+      "location": "University of Notre Dame at Notre Dame, IN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4302801458",
+      "title": "Research Faculty -  IM Immunology and Rheumatology - (Open Rank/Track Faculty)",
+      "url": "https://www.linkedin.com/jobs/view/4302801458",
+      "date": "2026-08-19",
+      "location": "The Ohio State University Wexner Medical Center at Columbus, OH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4437716656",
+      "title": "Frances and Laurence Weinstein Chair in Modern European Jewish History",
+      "url": "https://www.linkedin.com/jobs/view/4437716656",
+      "date": "2026-08-19",
+      "location": "UW-Madison College of Letters & Science at Madison, WI",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -3744,6 +3546,17 @@
       "keywords": []
     },
     {
+      "id": "www-4445307290",
+      "title": "Tenured or Tenure-Track Professor – NALS Institute and Native American Law",
+      "url": "https://www.linkedin.com/jobs/view/4445307290",
+      "date": "2026-08-15",
+      "location": "Mitchell Hamline School of Law at St Paul, MN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4268576729",
       "title": "Department of Medicine Senior Investigator",
       "url": "https://www.linkedin.com/jobs/view/4268576729",
@@ -3892,6 +3705,17 @@
       "url": "https://www.indeed.com/viewjob?jk=b9beb4c7a36a7191",
       "date": "2026-08-15",
       "location": "George Mason University at Fairfax, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4444776931",
+      "title": "Clinical Faculty (Open Rank) – Non-Tenure Track – UIC Law",
+      "url": "https://www.linkedin.com/jobs/view/4444776931",
+      "date": "2026-08-14",
+      "location": "University of Illinois Chicago at Chicago, IL",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -4270,6 +4094,17 @@
       "url": "https://www.indeed.com/viewjob?jk=93119fc07a8bbb00",
       "date": "2026-08-14",
       "location": "University of Maryland, Baltimore at Baltimore, MD, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4436140605",
+      "title": "Open Rank Faculty Position in Cancer Immunotherapy",
+      "url": "https://www.linkedin.com/jobs/view/4436140605",
+      "date": "2026-08-13",
+      "location": "Fred Hutch at Seattle, WA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -4683,6 +4518,39 @@
       "keywords": []
     },
     {
+      "id": "www-4453382706",
+      "title": "Faculty Position: Cancer In Vivo Gene Editing Investigators",
+      "url": "https://www.linkedin.com/jobs/view/4453382706",
+      "date": "2026-08-12",
+      "location": "Mayo Clinic at Jacksonville, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4453132753",
+      "title": "Assistant Professor - Civil Rights  - School of Law",
+      "url": "https://www.linkedin.com/jobs/view/4453132753",
+      "date": "2026-08-12",
+      "location": "University of California, Berkeley at Berkeley, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4450189706",
+      "title": "Visiting Professor of Law - Constitutional Law: Structure",
+      "url": "https://www.linkedin.com/jobs/view/4450189706",
+      "date": "2026-08-12",
+      "location": "University of Southern California at Los Angeles, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4450165741",
       "title": "Open Rank Faculty - School of Nursing - PT",
       "url": "https://www.linkedin.com/jobs/view/4450165741",
@@ -5029,6 +4897,17 @@
       "url": "https://www.indeed.com/viewjob?jk=f138c242f7647bf1",
       "date": "2026-08-12",
       "location": "University of Illinois at Urbana, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4452487490",
+      "title": "Teaching Postdoctoral Fellow Anatomy - Meritus School of Osteopathic Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4452487490",
+      "date": "2026-08-11",
+      "location": "Meritus Health at Hagerstown, MD",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -5469,6 +5348,17 @@
       "url": "https://www.indeed.com/viewjob?jk=46dd5eaa6fb4743e",
       "date": "2026-08-11",
       "location": "Alcorn State University at Lorman, MS, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4451453827",
+      "title": "Margaret Burnham Visiting Professor in Civil Rights",
+      "url": "https://www.linkedin.com/jobs/view/4451453827",
+      "date": "2026-08-10",
+      "location": "Northeastern University at Boston, MA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -6163,6 +6053,39 @@
       "url": "https://www.linkedin.com/jobs/view/4450911916",
       "date": "2026-08-08",
       "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4450069803",
+      "title": "Assistant Professor, Research Faculty Appointment, Breast Surgical Oncology-Research",
+      "url": "https://www.linkedin.com/jobs/view/4450069803",
+      "date": "2026-08-07",
+      "location": "UT MD Anderson at Houston, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4450352676",
+      "title": "Visiting Assistant Professor",
+      "url": "https://www.linkedin.com/jobs/view/4450352676",
+      "date": "2026-08-07",
+      "location": "Tulane University at New Orleans, LA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4450027465",
+      "title": "Faculty (Rank TBD) - Clinical Forensic Psychology - 997392",
+      "url": "https://www.linkedin.com/jobs/view/4450027465",
+      "date": "2026-08-07",
+      "location": "Nova Southeastern University at Fort Lauderdale, FL",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -7263,6 +7186,39 @@
       "keywords": []
     },
     {
+      "id": "www-4448921602",
+      "title": "Assistant Professor of Political Science (Public Law) Tenure-Track Position",
+      "url": "https://www.linkedin.com/jobs/view/4448921602",
+      "date": "2026-08-05",
+      "location": "University of the Pacific at Stockton, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4460880285",
+      "title": "Open-Rank Professor of History",
+      "url": "https://www.linkedin.com/jobs/view/4460880285",
+      "date": "2026-08-05",
+      "location": "University of Austin (UATX) at Austin, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4448933287",
+      "title": "Research Faculty - Translational & Immuno-Oncology Faculty Position/Drug Discovery",
+      "url": "https://www.linkedin.com/jobs/view/4448933287",
+      "date": "2026-08-05",
+      "location": "VCU Massey's Office of Cancer Research Training and Education at Richmond, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4448074172",
       "title": "Pediatrics HS Clinical Series Pool Ad - Open Ranks",
       "url": "https://www.linkedin.com/jobs/view/4448074172",
@@ -7532,6 +7488,39 @@
       "url": "https://www.indeed.com/viewjob?jk=d4cce198528a076e",
       "date": "2026-08-05",
       "location": "CORNERSTONE UNIVERSITY at Grand Rapids, MI, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4449020073",
+      "title": "Assistant, Associate, or Full Professor (HS Clinical, Clinical X, In-Residence, Adjunct) Speech-Language Pathologists",
+      "url": "https://www.linkedin.com/jobs/view/4449020073",
+      "date": "2026-08-04",
+      "location": "UC San Diego Academic Jobs at San Diego, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4449010625",
+      "title": "Research Faculty -  IM Medical Oncology  (Open Rank/Track Faculty)",
+      "url": "https://www.linkedin.com/jobs/view/4449010625",
+      "date": "2026-08-04",
+      "location": "The Ohio State University Wexner Medical Center at Columbus, OH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4448572979",
+      "title": "Assistant Professor, Associate Professor or Professor (DOQ)",
+      "url": "https://www.linkedin.com/jobs/view/4448572979",
+      "date": "2026-08-04",
+      "location": "University of Utah at Salt Lake City, UT",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -36192,6 +36181,17 @@
       "url": "https://www.indeed.com/viewjob?jk=5ffc108b1e4b2c37",
       "date": "2025-09-04",
       "location": "Western Illinois University at Macomb, IL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4460000747",
+      "title": "Assistant Professor of Neurosurgery, Tenure Track in the Department of Neurosurgery, Perelman School of Medicine at the University of Pennsylvania, specializing in Neuro-Oncology",
+      "url": "https://www.linkedin.com/jobs/view/4460000747",
+      "date": "",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
       "description": "",
       "fitScore": 0,
       "isNew": false,

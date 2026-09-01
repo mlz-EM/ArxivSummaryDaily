@@ -2,14 +2,66 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-08-31T09:05:55-04:00",
+    "generatedAt": "2026-09-01T04:57:03-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 323 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 328 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2608.31051v1",
+      "title": "Orbital and Spin Edelstein Effects in KTaO$_3$(110) Two-Dimensional Electron Gases",
+      "url": "https://arxiv.org/abs/2608.31051v1",
+      "date": "2026-08-31",
+      "summary": "This study aims to quantify the orbital Edelstein effect in KTaO3(110) two-dimensional electron gases by combining atomic structure characterization, density-functional calculations, photoemission spectroscopy, and magnetotransport measurements. The authors find that a ~20% orbital Edelstein response is necessary to explain the magnetotransport magnitude and anisotropy, demonstrating that the orbital response largely counterbalances its spin counterpart.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2608.30833v1",
+      "title": "Role of self-coherence in single-electron phase contrast imaging",
+      "url": "https://arxiv.org/abs/2608.30833v1",
+      "date": "2026-08-31",
+      "summary": "This paper investigates how single-electron self-coherence limits phase contrast in high-resolution transmission electron microscopy during coherent-inelastic scattering. Using energy-filtered HRTEM on hexagonal boron nitride, the authors demonstrate that an intrinsic self-coherence length restricts the visibility of lattice interference contrast, establishing energy-loss-induced phase noise as a fundamental single-electron visibility limit distinct from ensemble-coherence or counting noise.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2608.30531v1",
+      "title": "Moiré-induced lattice reconstruction at buried atomic interfaces",
+      "url": "https://arxiv.org/abs/2608.30531v1",
+      "date": "2026-08-31",
+      "summary": "The authors aim to map three-dimensional atomic reconstruction at buried, marginally twisted van der Waals heterointerfaces in multilayer transition-metal dichalcogenides. Using multi-slice electron ptychography, they resolve layer-by-layer lattice reconstruction and interfacial dislocation networks, discovering that outer layers suppress out-of-plane bending, which leads to significantly stronger in-plane reconstruction than predicted by 3D modeling.",
+      "tags": [
+        "cond-mat-mes-hall",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2608.30359v1",
+      "title": "Real-space overlap is not enough: ambiguity in nanobeam iterative ptychography",
+      "url": "https://arxiv.org/abs/2608.30359v1",
+      "date": "2026-08-31",
+      "summary": "This study evaluates whether nanobeam iterative ptychography can function at small probe convergence angles where diffracted Bragg disks do not overlap. Experiments and simulations reveal that the absence of disk overlap eliminates phase information between reflections, causing severe reconstruction ambiguities. Increasing real-space probe overlap fails to resolve this degeneracy, making non-unique reconstructions misleadingly appear convincing.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2608.29407v1",
+      "title": "Controlling Intertwined Electronic Orders in FeSe with Exfoliation",
+      "url": "https://arxiv.org/abs/2608.29407v1",
+      "date": "2026-08-29",
+      "summary": "The study aims to tune intertwined electronic orders in unconventional superconductors by exfoliative dimensional reduction of FeSe. Using transport, spectroscopy, and theoretical modeling, the authors demonstrate that exfoliation significantly weakens bulk electronic nematic order and switches the superconducting order parameter symmetry from bulk s-wave to d-wave-dominant, providing a versatile platform for engineering quantum orders.",
+      "tags": [
+        "cond-mat-supr-con",
+        "cond-mat-str-el"
+      ]
+    },
     {
       "id": "arxiv-2608.28268v1",
       "title": "Nanolamellar Hybrid High-Entropy Alloys with Superior Micromechanical Properties",
