@@ -2,14 +2,25 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-01T04:57:03-04:00",
+    "generatedAt": "2026-09-02T04:11:00-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 328 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 329 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.00542v1",
+      "title": "Heavily Sr-Doped La$_{2}$SrNi$_{2}$O$_{7-δ}$ as a Tetragonal Ruddlesden-Popper Phase at Ambient Pressure",
+      "url": "https://arxiv.org/abs/2609.00542v1",
+      "date": "2026-09-01",
+      "summary": "This study synthesizes heavily Sr-doped La2SrNi2O7-δ to test if achieving a tetragonal structure and eliminating density-wave orders can induce superconductivity at ambient pressure. While a tetragonal structure forms without density waves, no superconductivity occurs. DFT calculations show that heavy Sr doping severely deviates the Ni-3d_z^2 orbital from half-filling, weakening the interlayer antiferromagnetic interaction necessary for pairing.",
+      "tags": [
+        "cond-mat-supr-con",
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2608.31051v1",
       "title": "Orbital and Spin Edelstein Effects in KTaO$_3$(110) Two-Dimensional Electron Gases",
