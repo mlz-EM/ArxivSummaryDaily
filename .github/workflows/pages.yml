@@ -75,12 +75,25 @@ jobs:
       - name: Make Configuration
         run: cp ./config/settings.example.py ./config/settings.py
       
-      - name: Build the arXiv data
-        env:
-          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-        run: arxivsummary
+      # Phase 1: scrape every source before any LLM summarization starts.
+      - name: Scrape arXiv papers
+        id: scrape-arxiv
+        continue-on-error: true
+        run: arxivsummary scan
+
+      - name: Scrape non-Google JobSpy providers
+        id: scrape-jobspy-other
+        continue-on-error: true
+        run: jobsummary scan --source other
+
+      - name: Scrape Google Jobs
+        id: scrape-jobspy-google
+        continue-on-error: true
+        run: jobsummary scan --source google
 
       - name: Discover new Interfolio jobs
+        id: scrape-interfolio
+        continue-on-error: true
         env:
           INTERFOLIO_ENABLE_LIVE: 'true'
         run: |
@@ -91,10 +104,50 @@ jobs:
           interfoliojobs --output-dir data scan --mode daily --start-id 180000
 
       - name: Update Interfolio tenant directory
+        continue-on-error: true
         run: |
           if [ -s data/interfolioJobsPending.json ]; then
             interfoliojobs --output-dir data directory
           fi
+
+      - name: Discover new Chronicle jobs
+        id: scrape-chronicle
+        continue-on-error: true
+        env:
+          CHRONICLE_ENABLE_LIVE: 'true'
+        run: |
+          if [ ! -s data/chronicleScanState.json ]; then
+            echo "::warning::Chronicle bootstrap state is absent; run the documented local bootstrap first."
+            exit 0
+          fi
+          chroniclejobs --output-dir data scan --mode daily
+
+      - name: Discover new Inside Higher Ed jobs
+        id: scrape-inside-higher-ed
+        continue-on-error: true
+        env:
+          INSIDE_HIGHER_ED_ENABLE_LIVE: 'true'
+        run: |
+          if [ ! -s data/insideHigherEdScanState.json ]; then
+            echo "::warning::Inside Higher Ed bootstrap state is absent; run the documented local bootstrap first."
+            exit 0
+          fi
+          insidehigheredjobs --output-dir data scan --mode daily
+
+      # Phase 2: summarize the queues produced by all source scrapers.
+      - name: Summarize arXiv papers
+        id: summarize-arxiv
+        continue-on-error: true
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+        run: arxivsummary summarize
+
+      - name: Summarize JobSpy jobs
+        id: summarize-jobspy
+        continue-on-error: true
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+        run: jobsummary summarize
 
       - name: Summarize new Interfolio jobs
         id: summarize-interfolio
@@ -106,16 +159,6 @@ jobs:
             interfoliojobs --output-dir data summarize
           fi
 
-      - name: Discover new Chronicle jobs
-        env:
-          CHRONICLE_ENABLE_LIVE: 'true'
-        run: |
-          if [ ! -s data/chronicleScanState.json ]; then
-            echo "::warning::Chronicle bootstrap state is absent; run the documented local bootstrap first."
-            exit 0
-          fi
-          chroniclejobs --output-dir data scan --mode daily
-
       - name: Summarize new Chronicle jobs
         id: summarize-chronicle
         continue-on-error: true
@@ -125,16 +168,6 @@ jobs:
           if [ -s data/chronicleJobsPending.json ]; then
             chroniclejobs --output-dir data summarize
           fi
-
-      - name: Discover new Inside Higher Ed jobs
-        env:
-          INSIDE_HIGHER_ED_ENABLE_LIVE: 'true'
-        run: |
-          if [ ! -s data/insideHigherEdScanState.json ]; then
-            echo "::warning::Inside Higher Ed bootstrap state is absent; run the documented local bootstrap first."
-            exit 0
-          fi
-          insidehigheredjobs --output-dir data scan --mode daily
 
       - name: Summarize new Inside Higher Ed jobs
         id: summarize-inside-higher-ed
@@ -146,14 +179,24 @@ jobs:
             insidehigheredjobs --output-dir data summarize
           fi
 
-      - name: Build the Job data
-        env:
-          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-        run: jobsummary
-
-      - name: Report deferred faculty-job summaries
+      - name: Report deferred source work
         if: always()
         run: |
+          if [ "${{ steps.scrape-interfolio.outcome }}" = "failure" ]; then
+            echo "::warning::Interfolio scrape failed; previously queued records remain available."
+          fi
+          if [ "${{ steps.scrape-chronicle.outcome }}" = "failure" ]; then
+            echo "::warning::Chronicle scrape failed; previously queued records remain available."
+          fi
+          if [ "${{ steps.scrape-inside-higher-ed.outcome }}" = "failure" ]; then
+            echo "::warning::Inside Higher Ed scrape failed; previously queued records remain available."
+          fi
+          if [ "${{ steps.summarize-arxiv.outcome }}" = "failure" ]; then
+            echo "::warning::arXiv summary incomplete; its pending queue will be committed for retry."
+          fi
+          if [ "${{ steps.summarize-jobspy.outcome }}" = "failure" ]; then
+            echo "::warning::JobSpy summary incomplete; its shared pending queue will be committed for retry."
+          fi
           if [ "${{ steps.summarize-interfolio.outcome }}" = "failure" ]; then
             echo "::warning::Interfolio summary incomplete; its pending queue will be committed for retry."
           fi

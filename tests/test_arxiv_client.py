@@ -82,6 +82,48 @@ class TestArxivClient(unittest.TestCase):
 
 
 class TestIncrementalPaperFlow(unittest.TestCase):
+    def test_cli_scan_queues_papers_without_starting_summarizer(self):
+        with tempfile.TemporaryDirectory() as output_dir:
+            papers = [
+                {
+                    "entry_id": "http://arxiv.org/abs/2609.00001v1",
+                    "title": "Queued Paper",
+                }
+            ]
+            with mock.patch.object(cli, "ArxivClient") as client_cls, mock.patch.object(
+                cli, "PaperSummarizer"
+            ) as summarizer_cls:
+                client_cls.return_value.search_papers.return_value = papers
+
+                result = cli.main(["--output-dir", output_dir, "scan"])
+
+            self.assertEqual(result, 0)
+            summarizer_cls.assert_not_called()
+            pending_path = Path(output_dir) / cli.PENDING_FILENAME
+            payload = json.loads(pending_path.read_text(encoding="utf-8"))
+            self.assertEqual(payload["latestEntryId"], papers[0]["entry_id"])
+            self.assertEqual(payload["papers"], papers)
+
+    def test_cli_incomplete_summary_retains_pending_papers_and_run_record(self):
+        with tempfile.TemporaryDirectory() as output_dir:
+            pending_path = Path(output_dir) / cli.PENDING_FILENAME
+            cli._write_pending(
+                pending_path,
+                "http://arxiv.org/abs/2609.00001v1",
+                [{"entry_id": "http://arxiv.org/abs/2609.00001v1"}],
+            )
+            with mock.patch.object(cli, "PaperSummarizer") as summarizer_cls, mock.patch.object(
+                cli, "ArxivClient"
+            ) as client_cls:
+                summarizer_cls.return_value.summarize_papers.return_value = False
+
+                result = cli.main(["--output-dir", output_dir, "summarize"])
+
+            self.assertEqual(result, 1)
+            self.assertTrue(pending_path.exists())
+            client_cls.assert_not_called()
+            self.assertFalse((Path(output_dir) / "last_run.json").exists())
+
     def test_cli_refreshes_feeds_even_without_new_fetches(self):
         with tempfile.TemporaryDirectory() as output_dir:
             args = SimpleNamespace(
