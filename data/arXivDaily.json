@@ -2,14 +2,35 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-02T04:11:00-04:00",
+    "generatedAt": "2026-09-03T08:04:50-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 329 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 333 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.02603v1",
+      "title": "Spatially-resolved multiphoton photoemission from a lateral transition metal dichalcogenide heterostructure",
+      "url": "https://arxiv.org/abs/2609.02603v1",
+      "date": "2026-09-02",
+      "summary": "This study aims to spatio-temporally characterize ground- and excited-state photoemission in a lateral WSe2/MoSe2 monolayer heterostructure using photoemission electron microscopy with few-cycle light pulses. The authors extracted the photoemission process's nonlinearity and the dynamic binding energy of photoelectrons with tens-of-nanometer spatial resolution and high temporal resolution, enabling the tracking of rapid nanoscale charge carrier dynamics.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2609.02126v1",
+      "title": "Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Problems in Materials Characterization",
+      "url": "https://arxiv.org/abs/2609.02126v1",
+      "date": "2026-09-02",
+      "summary": "The paper aims to efficiently estimate physical parameters like thickness and mistilt from high-dimensional electron diffraction images using a novel scalable Bayesian optimization method (SBOCF). By representing images with patch-level summaries, SBOCF reduced modeled outputs from 24,649 to 11, outperforming standard Bayesian optimization by reducing error by up to 290x and recovering sharp atomic structures in downstream reconstructions.",
+      "tags": [
+        "cs-lg",
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2609.00542v1",
       "title": "Heavily Sr-Doped La$_{2}$SrNi$_{2}$O$_{7-δ}$ as a Tetragonal Ruddlesden-Popper Phase at Ambient Pressure",
@@ -19,6 +40,27 @@
       "tags": [
         "cond-mat-supr-con",
         "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.01879v1",
+      "title": "Morphology and Dynamics of Self-interstitial Clusters in Irradiated Nickel",
+      "url": "https://arxiv.org/abs/2609.01879v1",
+      "date": "2026-09-01",
+      "summary": "This study investigates the structure, energetics, and migration dynamics of self-interstitial atom clusters in irradiated nickel using molecular dynamics and in situ TEM. The authors found that perfect loops become thermodynamically favored over Frank loops for cluster sizes N ≥ 14 with a ~0.02 eV barrier, while in situ TEM revealed intermittent loop motion governed by mobile and pinned states.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.01755v1",
+      "title": "Asymmetric optical transmission from broken interface-orientation symmetry in self-shadowed grating metallizations",
+      "url": "https://arxiv.org/abs/2609.01755v1",
+      "date": "2026-09-01",
+      "summary": "The study aims to achieve asymmetric optical transmission by breaking interface-orientation symmetry using single-step oblique metallization on conventional diffraction gratings. Ballistic self-shadowing creates a louver-like silver profile that yields broadband substrate-favored transmission (up to 2.1 contrast in the TM diffraction regime and 1.5–1.9 in the geometric regime), with rejected power redirected into specular reflection.",
+      "tags": [
+        "physics-optics",
+        "cond-mat-mes-hall"
       ]
     },
     {
