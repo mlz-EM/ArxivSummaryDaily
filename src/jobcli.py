@@ -11,11 +11,16 @@ def main():
     args = parser.parse_args()
     
     
-    # Initialize client
-    job_summarizer = JobSummarizer(LLM_CONFIG['api_key'], LLM_CONFIG.get('model'))
-        
     # Fetch jobs
-    jobs = scrape_jobs(**JOB_CONFIG)
+    try:
+        jobs = scrape_jobs(**JOB_CONFIG)
+    except Exception as e:
+        # Job providers can transiently throttle or block a scraper. Leave the
+        # existing feed untouched so the scheduled workflow can publish its
+        # other successful updates and try JobSpy again on the next run.
+        print(f"::warning::Job provider fetch failed; leaving the existing feed unchanged: {e}")
+        return 0
+
     jobs = jobs.sort_values(by='date_posted', ascending=False)
     jobs = jobs.to_dict(orient="records")
     if jobs:
@@ -25,6 +30,9 @@ def main():
     
     # Generate summaries
     output_file = os.path.join(args.output_dir, "jobsDaily.json")
+
+    # Initialize client only after providers return successfully.
+    job_summarizer = JobSummarizer(LLM_CONFIG['api_key'], LLM_CONFIG.get('model'))
     
     # Create output directory
     os.makedirs(args.output_dir, exist_ok=True)
@@ -46,5 +54,7 @@ def main():
     else:
         print("Summary incomplete or failed.")
 
+    return 0
+
 if __name__ == '__main__':
-    main()
+    raise SystemExit(main())
