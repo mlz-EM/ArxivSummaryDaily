@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-06T04:19:25-04:00",
+    "generatedAt": "2026-09-07T04:48:16-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 335 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 336 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.04744v1",
+      "title": "Orientation selection and superconducting properties of epitaxial Al on ferromagnetic semiconductor (In,Fe)As",
+      "url": "https://arxiv.org/abs/2609.04744v1",
+      "date": "2026-09-04",
+      "summary": "This study investigates the structural and superconducting properties of epitaxial Al thin films grown on ferromagnetic semiconductor (In,Fe)As. The authors show that Al growth orientation shifts from (110) to (111) with increasing lattice constant. Additionally, the critical magnetic field exhibits an anomalous decrease below 0.5 K, indicating interfacial magnetic coupling to the underlying (In,Fe)As layer.",
+      "tags": [
+        "cond-mat-supr-con"
+      ]
+    },
     {
       "id": "arxiv-2609.03725v1",
       "title": "Multimodal and Multiscale Interrogation of a Mechanically Tough Glass Forming Copper-Based Metal-Organic Framework",
