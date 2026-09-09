@@ -2,14 +2,75 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-08T04:30:46-04:00",
+    "generatedAt": "2026-09-09T04:34:50-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 336 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 342 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.08601v1",
+      "title": "Polymorph Engineering of the Layered Rare-Earth Magnet GdAlGe",
+      "url": "https://arxiv.org/abs/2609.08601v1",
+      "date": "2026-09-08",
+      "summary": "This study uses polymorph engineering to produce epitaxial films of a layered polymorph of GdAlGe on germanium. The authors show that ultrathin films up to 5 monolayers are structurally stable and exhibit anisotropic ferromagnetism, an anomalous Hall effect, and negative magnetoresistance, establishing a blueprint for designing layered magnets.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-str-el"
+      ]
+    },
+    {
+      "id": "arxiv-2609.08473v1",
+      "title": "Thermal response of an in-situ STEM MEMS chip under rapid pulse heating",
+      "url": "https://arxiv.org/abs/2609.08473v1",
+      "date": "2026-09-08",
+      "summary": "The objective of this study is to quantify the thermal response and cooling dynamics of an uncoated commercial MEMS chip for in-situ STEM under rapid pulse heating. The authors find an exponential temperature relaxation with a time constant of 1.80 ms and an average cooling rate of 7.9 × 10^4 K/s, defining practical bounds for fast thermal microscopy.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.08363v1",
+      "title": "A thermally grown SiO2 diffusion barrier enabling high-temperature investigation of Ag-Au-Pd-Pt thin films",
+      "url": "https://arxiv.org/abs/2609.08363v1",
+      "date": "2026-09-08",
+      "summary": "This study evaluates a 25 nm thermally grown SiO2 barrier to prevent silicide formation during high-temperature characterization of Ag-Au-Pd-Pt thin films on Si substrates. The key finding is that thermally grown SiO2 suppresses thin film-substrate reactions up to 600°C and maintains film composition, whereas native SiO2 fails at 400°C, extending the useful temperature range for atom probe tomography.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.07684v1",
+      "title": "Quantum Sensing for Spatial Spin Noise Mapping via Nitrogen-Vacancy Magnetic Quenching in Diamond",
+      "url": "https://arxiv.org/abs/2609.07684v1",
+      "date": "2026-09-07",
+      "summary": "This paper aims to map spatial spin noise in materials using a microwave-free magnetic quenching method based on diamond nitrogen-vacancy centers. The technique successfully visualizes spin-noise variations across carbon and boron nitride nanotubes, detecting a localized spin-noise response in boron nitride nanotubes that was undetectable using bulk electron paramagnetic resonance spectroscopy.",
+      "tags": [
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2609.07209v1",
+      "title": "Groove-shaped defects in as-grown (001)-oriented $β$-Ga$_2$O$_3$ epilayers prepared by halide vapor phase epitaxy",
+      "url": "https://arxiv.org/abs/2609.07209v1",
+      "date": "2026-09-07",
+      "summary": "The objective of this paper is to determine the morphology and formation mechanism of groove-shaped defects (GSDs) in HVPE-grown beta-Ga2O3 epilayers. The authors find that GSDs correlate with wafer curvature and surface orientation variations rather than substrate dislocations, and that localized planar defects arise from growth-sector coalescence rather than serving as nucleation sites.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.06198v1",
+      "title": "Zonal dislocations in Laves phases: A coupled synchro-shear slip mechanism",
+      "url": "https://arxiv.org/abs/2609.06198v1",
+      "date": "2026-09-05",
+      "summary": "This study investigates plastic deformation mechanisms in Laves phase intermetallics using atomistic simulations and high-resolution STEM. The authors discover a novel coupled synchro-shear slip mechanism involving synchronized glide of two synchro-Shockley partial dislocations on adjacent planes, forming extrinsic stacking faults that facilitate phase transformations between Laves polytypes and influence twinning.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2609.04744v1",
       "title": "Orientation selection and superconducting properties of epitaxial Al on ferromagnetic semiconductor (In,Fe)As",
