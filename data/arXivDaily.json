@@ -2,14 +2,25 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-09T04:34:50-04:00",
+    "generatedAt": "2026-09-10T04:34:21-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 342 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 343 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.10081v1",
+      "title": "Observation of Magnetic-Anisotropy Crossover and High-Temperature Skyrmions in the Dirac Magnet Fe3Ge with a Distorted Kagome Lattice",
+      "url": "https://arxiv.org/abs/2609.10081v1",
+      "date": "2026-09-09",
+      "summary": "This study investigates the magnetic anisotropy and topological spin textures of the high-curie-temperature Dirac kagome magnet Fe3Ge. The authors identify a spin reorientation transition at ~375 K, marking a crossover from easy-plane to easy-axis anisotropy. Crucially, Lorentz transmission electron microscopy reveals robust skyrmions in the easy-axis regime that persist across an exceptionally wide high-temperature range of 375–650 K.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-str-el"
+      ]
+    },
     {
       "id": "arxiv-2609.08601v1",
       "title": "Polymorph Engineering of the Layered Rare-Earth Magnet GdAlGe",
