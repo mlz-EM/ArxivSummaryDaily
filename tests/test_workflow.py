@@ -32,6 +32,15 @@ class TestPagesWorkflow(unittest.TestCase):
         self.assertIn("jobsummary scan --source google", workflow)
         self.assertIn("jobsummary summarize", workflow)
 
+    def test_both_repository_pushes_use_bounded_retries(self):
+        workflow = (Path(__file__).parents[1] / ".github/workflows/pages.yml").read_text(
+            encoding="utf-8"
+        )
+
+        self.assertIn("bash scripts/push_with_retry.sh origin main", workflow)
+        self.assertIn("bash ../scripts/push_with_retry.sh origin main", workflow)
+        self.assertNotIn("          git push origin main\n", workflow)
+
 
 if __name__ == "__main__":
     unittest.main()

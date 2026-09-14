@@ -213,7 +213,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A data
           git commit -m "Update database tracking files" || echo "No database changes"
-          git push origin main
+          bash scripts/push_with_retry.sh origin main
 
       - name: Copy JSON feed files to personal-site/src/data
         run: |
@@ -245,4 +245,4 @@ jobs:
             git add src/data/insideHigherEdJobsSummary.json
           fi
           git commit -m "Update JSON feeds from run ${{ github.run_id }}" || echo "No changes to commit"
-          git push
+          bash ../scripts/push_with_retry.sh origin main
