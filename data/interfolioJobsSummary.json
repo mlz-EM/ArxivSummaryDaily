@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gpt-5.6-sol",
-    "generatedAt": "2026-09-13T20:28:09-04:00",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-09-14T05:26:47-04:00",
     "source": "Interfolio Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from public Interfolio job pages.",
@@ -2554,7 +2554,7 @@
       "location": "IE University: School of Science and Technology at Madrid and Segovia, ES",
       "description": "Seeks tenure-track faculty in applied mathematics and computational modeling of physical and engineering systems.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "applied mathematics",
         "computational modeling",

@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gpt-5.6-sol",
-    "generatedAt": "2026-09-13T20:34:34-04:00",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-09-14T05:26:47-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -11,6 +11,43 @@
   },
   "items": [
     {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Management/Business Administration",
+      "url": "https://www.indeed.com/viewjob?jk=9d668d7fab74ad8a",
+      "date": "2026-09-12",
+      "location": "Morningside University at Sioux City, IA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track/Tenured: Assistant, Associate, and Full Professor - Computer Science and Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=16fdac78d999beef",
+      "date": "2026-09-10",
+      "location": "Texas A&M University at College Station, TX, US",
+      "description": "Seeks tenure-track faculty in computing and artificial intelligence across core and emerging research areas.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "computer science",
+        "artificial intelligence",
+        "quantum computing"
+      ]
+    },
+    {
+      "id": "www-4465074698",
+      "title": "Full-Time Clinical Faculty Program Director: School of Nursing",
+      "url": "https://www.linkedin.com/jobs/view/4465074698",
+      "date": "2026-09-09",
+      "location": "Quinnipiac University at Hamden, CT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
       "id": "www-4464293807",
       "title": "Adjunct Professor – Healthcare Management-902213",
       "url": "https://www.linkedin.com/jobs/view/4464293807",
@@ -18,7 +55,7 @@
       "location": "OSU-OKC at Oklahoma City, OK",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +66,7 @@
       "location": "University of Utah at Salt Lake City, UT",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,95 +77,7 @@
       "location": "University Of Scranton at Scranton, PA, US",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4464505948",
-      "title": "Tenure Track Faculty Position in Hematology/Oncology - Junior rank",
-      "url": "https://www.linkedin.com/jobs/view/4464505948",
-      "date": "2026-09-10",
-      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant, Associate or Full Professor (Tenured or Tenure Track)",
-      "url": "https://www.indeed.com/viewjob?jk=a78efded27af0389",
-      "date": "2026-09-10",
-      "location": "University of Wisconsin–Madison at Madison, WI, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4463048167",
-      "title": "Associate Professor Nursing",
-      "url": "https://www.linkedin.com/jobs/view/4463048167",
-      "date": "2026-09-09",
-      "location": "Bryant & Stratton College at Rochester, NY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "School of Public Health-Associate Professor/Professor-Epidemiology",
-      "url": "https://www.indeed.com/viewjob?jk=6617ec81d5727878",
-      "date": "2026-09-01",
-      "location": "University of Alabama, Birmingham at Birmingham, AL, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4460379479",
-      "title": "Professor, Surgery-Plastic Surgery",
-      "url": "https://www.linkedin.com/jobs/view/4460379479",
-      "date": "2026-08-28",
-      "location": "UTMB Faculty Group Practice at Galveston, TX",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4448597485",
-      "title": "Assistant, Associate or Full Professor - Nursing",
-      "url": "https://www.linkedin.com/jobs/view/4448597485",
-      "date": "2026-08-26",
-      "location": "University of Wisconsin–Oshkosh at Oshkosh, WI",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4466766581",
-      "title": "Adjunct Assistant Professor, Physician Assistant",
-      "url": "https://www.linkedin.com/jobs/view/4466766581",
-      "date": "",
-      "location": "West Coast University at Los Angeles, CA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4465458866",
-      "title": "Tenure Track Faculty Position, Assistant Professor – Pulmonary, Allergy and Critical Care Division",
-      "url": "https://www.linkedin.com/jobs/view/4465458866",
-      "date": "",
-      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -203,6 +152,28 @@
       "url": "https://www.indeed.com/viewjob?jk=100ce0580ca2b487",
       "date": "2026-09-11",
       "location": "LeTourneau University at Longview, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4464505948",
+      "title": "Tenure Track Faculty Position in Hematology/Oncology - Junior rank",
+      "url": "https://www.linkedin.com/jobs/view/4464505948",
+      "date": "2026-09-10",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant, Associate or Full Professor (Tenured or Tenure Track)",
+      "url": "https://www.indeed.com/viewjob?jk=a78efded27af0389",
+      "date": "2026-09-10",
+      "location": "University of Wisconsin–Madison at Madison, WI, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -401,6 +372,17 @@
       "url": "https://www.indeed.com/viewjob?jk=025a49faba420747",
       "date": "2026-09-10",
       "location": "James Madison University at Harrisonburg, VA, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4463048167",
+      "title": "Associate Professor Nursing",
+      "url": "https://www.linkedin.com/jobs/view/4463048167",
+      "date": "2026-09-09",
+      "location": "Bryant & Stratton College at Rochester, NY",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2739,6 +2721,17 @@
       "keywords": []
     },
     {
+      "id": "www-viewjob",
+      "title": "School of Public Health-Associate Professor/Professor-Epidemiology",
+      "url": "https://www.indeed.com/viewjob?jk=6617ec81d5727878",
+      "date": "2026-09-01",
+      "location": "University of Alabama, Birmingham at Birmingham, AL, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4367601704",
       "title": "Tenure or Career Track Assistant/Associate/Full Professor in Oncology AF7833",
       "url": "https://www.linkedin.com/jobs/view/4367601704",
@@ -3809,6 +3802,17 @@
       "keywords": []
     },
     {
+      "id": "www-4460379479",
+      "title": "Professor, Surgery-Plastic Surgery",
+      "url": "https://www.linkedin.com/jobs/view/4460379479",
+      "date": "2026-08-28",
+      "location": "UTMB Faculty Group Practice at Galveston, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4460115929",
       "title": "Hospital Medicine Division Chief - UNC School of Medicine",
       "url": "https://www.linkedin.com/jobs/view/4460115929",
@@ -4571,6 +4575,17 @@
       "url": "https://www.indeed.com/viewjob?jk=b6817a825229366c",
       "date": "2026-08-27",
       "location": "Alcorn State University at Lorman, MS, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4448597485",
+      "title": "Assistant, Associate or Full Professor - Nursing",
+      "url": "https://www.linkedin.com/jobs/view/4448597485",
+      "date": "2026-08-26",
+      "location": "University of Wisconsin–Oshkosh at Oshkosh, WI",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -41682,6 +41697,28 @@
       "url": "https://www.indeed.com/viewjob?jk=1df83d4a02d0280f",
       "date": "2025-09-24",
       "location": "University of Utah at Salt Lake City, UT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4466766581",
+      "title": "Adjunct Assistant Professor, Physician Assistant",
+      "url": "https://www.linkedin.com/jobs/view/4466766581",
+      "date": "",
+      "location": "West Coast University at Los Angeles, CA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4465458866",
+      "title": "Tenure Track Faculty Position, Assistant Professor – Pulmonary, Allergy and Critical Care Division",
+      "url": "https://www.linkedin.com/jobs/view/4465458866",
+      "date": "",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
