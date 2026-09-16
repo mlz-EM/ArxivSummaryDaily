@@ -2,20 +2,168 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-15T05:09:24-04:00",
+    "generatedAt": "2026-09-16T05:01:49-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 344 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 359 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.17480v1",
+      "title": "Stitch-Free, Diamond-Scribed Silicon Nitride Photonic Integrated Circuits for the Visible Band",
+      "url": "https://arxiv.org/abs/2609.17480v1",
+      "date": "2026-09-15",
+      "summary": "This work aims to develop air-clad, stitch-free silicon nitride photonic integrated circuits for the visible spectrum to enable evanescent optical access. By combining fixed-beam moving-stage electron-beam lithography with diamond-scribed chip singulation, the authors successfully fabricated low-loss waveguides with undamaged facets at 80% yield, confirming functional bus-to-ring evanescent coupling without write-field stitching loss.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2609.17208v1",
+      "title": "Pushing the Dose Limit of Atomic-Resolution Imaging: A 4D-STEM case study of NaCl",
+      "url": "https://arxiv.org/abs/2609.17208v1",
+      "date": "2026-09-15",
+      "summary": "This study investigates beam-induced damage mechanisms and low-dose imaging limits in beam-sensitive sodium chloride using 4D-STEM with real-time integrated center of mass imaging. The authors found that high doses create crystallographically aligned square-faceted voids, while dose-fractionated acquisitions below 32 e-Å⁻² per frame successfully recover atomic-resolution spatial information prior to structural degradation.",
+      "tags": [
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2609.16771v1",
+      "title": "Interplay between Interlayer Shift and Twist: Twisted van der Waals Nanowires Driven by Rotational Twinning",
+      "url": "https://arxiv.org/abs/2609.16771v1",
+      "date": "2026-09-15",
+      "summary": "This study investigates the interplay between interlayer shift and twist in van der Waals GeSe2-xTex nanowires. Using STEM imaging and first-principles calculations, the authors demonstrate that continuous lattice plane twisting along the growth axis is driven by rotational twinning, originating from energetic competition between preferred interlayer stacking registry and strain cost.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2609.15766v1",
+      "title": "Freestanding Antiferromagnetic Oxide Membranes: Synthesis and Characterization of Cr$_2$O$_3$",
+      "url": "https://arxiv.org/abs/2609.15766v1",
+      "date": "2026-09-14",
+      "summary": "This work aims to synthesize freestanding antiferromagnetic Cr2O3 membranes to study strain tunability in magnetoelectric insulators. Utilizing La0.7Sr0.3MnO3 as a sacrificial layer, the authors successfully fabricated millimeter-scale membranes. Structural and magnetic characterizations confirm that ~90% of the single-crystalline order is preserved, maintaining bulk-like properties and exhibiting an above-room-temperature Néel transition.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.15734v1",
+      "title": "Twin Domains in Van der Waals Quaternary Oxides",
+      "url": "https://arxiv.org/abs/2609.15734v1",
+      "date": "2026-09-14",
+      "summary": "This study aims to explore naturally forming lateral twin domains in van der Waals quaternary oxides (Mg/Mn/Zn/CoTeMoO6) for optical anisotropy engineering. The authors demonstrate that domain walls act as diagonal mirror planes across hundreds of micrometers, creating regions with nearly opposite birefringence, as confirmed by polarization-resolved optical, sum-frequency generation, and transmission electron microscopy.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2609.15712v1",
+      "title": "Wrinkles and Magnetic Flux Trapping in Graphite Nanoflakes: A Possible Source and Manifestation of Room-Temperature Superconductivity",
+      "url": "https://arxiv.org/abs/2609.15712v1",
+      "date": "2026-09-14",
+      "summary": "This paper investigates the origin of high-temperature superconductivity signatures in graphite nanoflakes prepared via grinding and air annealing. Transmission electron microscopy reveals high-density surface wrinkle arrays, which directly correlate with persistent magnetic flux trapping up to 390 K and above, suggesting that wrinkled surface regions serve as local sources of high-temperature superconductivity.",
+      "tags": [
+        "cond-mat-supr-con",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2609.14891v1",
+      "title": "Gaussian-splatting ptychography via explicit and interpretable primitives",
+      "url": "https://arxiv.org/abs/2609.14891v1",
+      "date": "2026-09-14",
+      "summary": "The paper presents Gaussian-splatting ptychography, an optimization method representing object and probe using explicit Gaussian primitives instead of pixel grids. The approach suppresses mode drift, recovers lost low-frequency phase, reduces memory usage up to 14-fold, and enables atomic-structure resolution in electron ptychography at low electron doses from fewer data acquisitions.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2609.14348v1",
+      "title": "Multi4D: an end-to-end neural network for structural determination at complex material interfaces",
+      "url": "https://arxiv.org/abs/2609.14348v1",
+      "date": "2026-09-13",
+      "summary": "The authors developed Multi4D, a physics-informed neural network combining a Diffusion Transformer with a rotation-invariant CNN for automated phase identification in 4D-STEM. Multi4D achieves 98.82% accuracy in mapping complex crystallographic interfaces down to single-nanometer resolution and introduces an entropy metric to quantify local structural ambiguity across superconducting, corroded, and battery materials.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cs-cv"
+      ]
+    },
+    {
+      "id": "arxiv-2609.14319v1",
+      "title": "Spectral density of angular momentum transfer from a swift electron to a large spherical nanoparticle",
+      "url": "https://arxiv.org/abs/2609.14319v1",
+      "date": "2026-09-13",
+      "summary": "This study aims to resolve the frequency-dependent angular momentum transfer from swift electrons to large spherical nanoparticles beyond dipolar approximations. The authors developed a reduced-complexity Maxwell stress tensor methodology, finding that electron-scattered field interference dominates the spectral transfer and electric contributions exceed magnetic ones by two to three orders of magnitude.",
+      "tags": [
+        "cond-mat-mes-hall",
+        "cond-mat-mtrl-sci",
+        "physics-comp-ph",
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2609.13354v1",
+      "title": "Momentum microscopy of ultrafast electron emission from a strongly driven optical nanoantenna",
+      "url": "https://arxiv.org/abs/2609.13354v1",
+      "date": "2026-09-11",
+      "summary": "This study combines photoemission electron microscopy and momentum microscopy to resolve strong-field photoelectron emission dynamics in double-hole nanoantennas with sub-10 nm apices. The authors identified two distinct electron trajectory classes—quiver trajectories causing focused angular emission and subcycle trajectories causing broader transverse momentum distributions—challenging previous assumptions based on single-nanotip emitters.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2609.13034v1",
+      "title": "Mesoscale Crystallographic Helicity in Confined Tellurium Quantum Wires",
+      "url": "https://arxiv.org/abs/2609.13034v1",
+      "date": "2026-09-11",
+      "summary": "This paper aims to characterize long-range crystallographic helicity in template-grown tellurium quantum wires on amorphous substrates. Using 4D-STEM orientation and strain mapping combined with first-principles calculations, the authors demonstrate continuous mesoscale lattice twisting, showing that torsional relaxation is stabilized by nanoscale confinement and anisotropic compressive strain within the wire interior.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.12819v1",
+      "title": "Full complex wavefunction reconstruction with direct-interference ptychography",
+      "url": "https://arxiv.org/abs/2609.12819v1",
+      "date": "2026-09-11",
+      "summary": "This study seeks to reconstruct full complex sample wavefunctions separately in amplitude and phase using direct-interference ptychography in STEM. By extending single-sideband ptychography into double- and triple-overlap diffraction regions under the Weak Object Approximation, the authors demonstrated accurate amplitude and phase recovery, achieving an amplitude contrast transfer function matching ideal center-of-mass imaging.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2609.12324v1",
+      "title": "Deterministic patterning and alignment of tellurium quantum wires using nanoscale templates",
+      "url": "https://arxiv.org/abs/2609.12324v1",
+      "date": "2026-09-11",
+      "summary": "The paper presents a template-guided synthesis method to achieve deterministic patterning and orientation of single-crystal tellurium quantum wires on amorphous substrates. Reducing template widths below 20 nm yielded high atomic chain alignment, enabling field-effect transistors that exhibit 1D subband conductance plateaus at 77 K and Coulomb blockade behavior at 1.7 K.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2609.11666v1",
       "title": "Competition between vacancy creation and filling in defect-engineering of hBN",
       "url": "https://arxiv.org/abs/2609.11666v1",
       "date": "2026-09-10",
       "summary": "This study investigates defect creation mechanisms in monolayer hBN using ultra-low-energy Ar+ ion irradiation to improve control over quantum emitters. STEM characterization reveals that irradiation predominantly yields boron single and double vacancies. Crucially, vacancy filling by Si and C impurity atoms occurs significantly more than previously assumed, posing challenges for the selective creation of specific quantum emitters.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2609.11666v2",
+      "title": "Competition between vacancy creation and filling in defect-engineering of hBN",
+      "url": "https://arxiv.org/abs/2609.11666v2",
+      "date": "2026-09-10",
+      "summary": "This study investigates defect generation mechanisms in freestanding monolayer hexagonal boron nitride subjected to low-energy ion irradiation. STEM characterization revealed that ultra-low-energy Ar⁺ ions predominantly produce boron single vacancies, and demonstrated that vacancy filling by silicon and carbon impurities plays a significantly larger role than previously predicted by simulations.",
       "tags": [
         "cond-mat-mtrl-sci",
         "cond-mat-mes-hall"
@@ -30,6 +178,16 @@
       "tags": [
         "cond-mat-mtrl-sci",
         "cond-mat-str-el"
+      ]
+    },
+    {
+      "id": "arxiv-2609.11992v1",
+      "title": "Crystallographic and Electronic Phase Changes in TiTe2 via Atmospheric and Electron Beam Exposure",
+      "url": "https://arxiv.org/abs/2609.11992v1",
+      "date": "2026-09-09",
+      "summary": "This paper examines crystallographic and electronic surface changes in TiTe2 caused by air and electron-beam exposure. Characterization via STM, XRD, and TEM showed that air exposure drives a surface metal-to-semiconductor transition accompanied by adlayer formation, while continuous exposure drives a structural phase transition from single-crystalline hexagonal to polycrystalline states via a distorted monoclinic phase.",
+      "tags": [
+        "cond-mat-mtrl-sci"
       ]
     },
     {
