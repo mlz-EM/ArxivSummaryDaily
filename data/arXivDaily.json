@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-16T05:01:49-04:00",
+    "generatedAt": "2026-09-17T05:06:03-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 359 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 360 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.18446v1",
+      "title": "The role of disconnections in redox-induced phase transformation of metal oxides",
+      "url": "https://arxiv.org/abs/2609.18446v1",
+      "date": "2026-09-16",
+      "summary": "This study investigates the atomic-level mechanism of the redox-induced magnetite-to-haematite phase transformation. Using topological modeling, scanning transmission electron microscopy, and atomistic simulations, the authors identify three disconnection modes (interfacial steps with dislocation character) and confirm their role as the elementary defects propagating the phase transformation interface, showing excellent agreement with experimental observations.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2609.17480v1",
       "title": "Stitch-Free, Diamond-Scribed Silicon Nitride Photonic Integrated Circuits for the Visible Band",
