@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-17T05:06:03-04:00",
+    "generatedAt": "2026-09-18T04:43:06-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 360 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 364 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.20141v1",
+      "title": "Characterization of spatially inhomogeneous chirp in ultrashort multielectron beams via femtosecond hole burning",
+      "url": "https://arxiv.org/abs/2609.20141v1",
+      "date": "2026-09-17",
+      "summary": "This study aims to characterize the spatially non-uniform time-energy structure in multi-electron ultrashort pulses subject to space-charge effects. By combining PINEM-based spectral hole burning with angle-resolved energy analysis on 37-keV electron pulses, the authors successfully measured angle-dependent energy spreads and chirp rates, finding variations up to 100% and 40% across the beam.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2609.18446v1",
       "title": "The role of disconnections in redox-induced phase transformation of metal oxides",
@@ -17,6 +27,37 @@
       "date": "2026-09-16",
       "summary": "This study investigates the atomic-level mechanism of the redox-induced magnetite-to-haematite phase transformation. Using topological modeling, scanning transmission electron microscopy, and atomistic simulations, the authors identify three disconnection modes (interfacial steps with dislocation character) and confirm their role as the elementary defects propagating the phase transformation interface, showing excellent agreement with experimental observations.",
       "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.19487v1",
+      "title": "ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy",
+      "url": "https://arxiv.org/abs/2609.19487v1",
+      "date": "2026-09-16",
+      "summary": "The authors present ALIGNN 2.0, a dependency-free pure-PyTorch line-graph neural network designed to unify materials screening, force fields, inverse design, and spectroscopy within a single framework. The model outperforms the original ALIGNN on 26 of 30 JARVIS benchmarks, efficiently scales force-field calculations to hundred-thousand-atom cells, and accurately reconstructs various material spectra.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.19467v1",
+      "title": "The Origin of the Observed Raman Peaks in α-MnTe",
+      "url": "https://arxiv.org/abs/2609.19467v1",
+      "date": "2026-09-16",
+      "summary": "This paper investigates the origin of unassigned anomalous Raman peaks in room-temperature altermagnetic α-MnTe. Through optical spectroscopy, XPS, and STEM-EDS analysis of MBE-grown films, the authors demonstrate that these peaks are extrinsic, arising from rapid surface oxidation upon air exposure that drives Mn out-diffusion and leaves a buried, Te-enriched phase.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.19332v1",
+      "title": "Si- and C-Induced Modifications in Vapor-Solid-Grown InGaAs Nanowires: From Crystal Structure to Carrier Dynamics",
+      "url": "https://arxiv.org/abs/2609.19332v1",
+      "date": "2026-09-16",
+      "summary": "This paper investigates the effects of Si and C doping on the structural properties and carrier dynamics of vapor-solid-grown InGaAs nanowires. The authors find that C-doping enhances aspect ratio by over 100% and reduces planar defect density, but accelerates non-radiative recombination via surface recombination and point defects, reducing photoluminescence intensity.",
+      "tags": [
+        "physics-app-ph",
         "cond-mat-mtrl-sci"
       ]
     },
