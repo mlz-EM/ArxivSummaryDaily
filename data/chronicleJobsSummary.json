@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-18T05:14:24-04:00",
+    "generatedAt": "2026-09-19T04:55:00-04:00",
     "source": "Chronicle Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from The Chronicle of Higher Education Jobs.",
@@ -11,6 +11,131 @@
   },
   "items": [
     {
+      "id": "jobs-38035616",
+      "title": "Assistant Professor of Earth and Environmental Sciences",
+      "url": "https://jobs.chronicle.com/job/38035616",
+      "date": "2026-09-16",
+      "location": "Lehigh University at Bethlehem, PA, US",
+      "description": "Seeks a tenure-track assistant professor in solid Earth geosciences focusing on processes in the lithosphere.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "solid Earth geosciences",
+        "lithosphere"
+      ]
+    },
+    {
+      "id": "jobs-38037822",
+      "title": "Multiple Tenure-Track Faculty Positions- Chemical Engineering and Advanced Energy",
+      "url": "https://jobs.chronicle.com/job/38037822",
+      "date": "2026-09-16",
+      "location": "American University of Beirut-Maroun Semaan Faculty of Engineering and Architecture at Beirut, LB",
+      "description": "Seeks tenure-track faculty in chemical engineering with interests in energy storage, advanced materials, and sustainable processes.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "chemical engineering",
+        "advanced materials",
+        "energy storage",
+        "nanotechnology"
+      ]
+    },
+    {
+      "id": "jobs-38035738",
+      "title": "Aerospace Engineering - Multi-Rank Tenured/Tenure-Track Faculty Positions",
+      "url": "https://jobs.chronicle.com/job/38035738",
+      "date": "2026-09-15",
+      "location": "Georgia Tech, Daniel Guggenheim School of Aerospace Engineering at Atlanta, GA, US",
+      "description": "Seeks tenure-track aerospace engineering faculty with research focus including structural mechanics and materials.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "aerospace engineering",
+        "structural mechanics",
+        "materials"
+      ]
+    },
+    {
+      "id": "jobs-38038331",
+      "title": "Assistant Professor, Fall 2027 - Aerospace Engineering",
+      "url": "https://jobs.chronicle.com/job/38038331",
+      "date": "2026-09-15",
+      "location": "University of Texas at Austin at Austin, TX, US",
+      "description": "Seeks tenure-track faculty in aerospace engineering focusing on space discovery and advanced air mobility.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "aerospace engineering",
+        "engineering mechanics",
+        "space discovery",
+        "advanced air mobility"
+      ]
+    },
+    {
+      "id": "jobs-38036505",
+      "title": "Assistant Professor in Building Sciences - emphasis in Construction Management, or Engineering",
+      "url": "https://jobs.chronicle.com/job/38036505",
+      "date": "2026-09-10",
+      "location": "Appalachian State University at NC, US",
+      "description": "Seeks tenure-track faculty to teach building sciences, construction management, engineering, and materials and structures courses.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "building sciences",
+        "construction management",
+        "civil engineering",
+        "materials and structures"
+      ]
+    },
+    {
+      "id": "jobs-38036580",
+      "title": "Industrial Manufacturing Engineering, Assistant Professor",
+      "url": "https://jobs.chronicle.com/job/38036580",
+      "date": "2026-09-10",
+      "location": "Cal Poly Pomona at Pomona, CA, US",
+      "description": "Seeks tenure-track faculty in industrial and manufacturing engineering focusing on human-systems integration and intelligent systems.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "industrial engineering",
+        "manufacturing engineering",
+        "human-system integration",
+        "intelligent systems"
+      ]
+    },
+    {
+      "id": "jobs-38036582",
+      "title": "Civil Engineering (Construction Engineering and Management), Assistant Professor",
+      "url": "https://jobs.chronicle.com/job/38036582",
+      "date": "2026-09-10",
+      "location": "Cal Poly Pomona at Pomona, CA, US",
+      "description": "Seeks tenure-track faculty in construction engineering and management to teach and conduct applied research.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "civil engineering",
+        "construction engineering",
+        "construction management",
+        "smart infrastructure"
+      ]
+    },
+    {
+      "id": "jobs-38036585",
+      "title": "Civil Engineering (Structural Engineering), Assistant Professor",
+      "url": "https://jobs.chronicle.com/job/38036585",
+      "date": "2026-09-10",
+      "location": "Cal Poly Pomona at Pomona, CA, US",
+      "description": "Seeks tenure-track faculty in structural engineering with research interests including sustainable and low-carbon materials.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "civil engineering",
+        "structural engineering",
+        "sustainable materials",
+        "low-carbon materials"
+      ]
+    },
+    {
       "id": "jobs-38035637",
       "title": "Tenured or Tenure-Track Faculty Position – Open Rank",
       "url": "https://jobs.chronicle.com/job/38035637",
@@ -18,55 +143,12 @@
       "location": "University of South Carolina at Columbia, SC, US",
       "description": "Seeks tenured or tenure-track faculty in Chemical Engineering focusing on advanced battery science and active materials.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "battery science",
         "active materials",
         "chemical engineering",
         "electrochemistry"
-      ]
-    },
-    {
-      "id": "jobs-38036713",
-      "title": "Tenure-Track Assistant Professor of Physics",
-      "url": "https://jobs.chronicle.com/job/38036713",
-      "date": "2026-09-11",
-      "location": "Middlebury College at Middlebury, VT, US",
-      "description": "Seeks a tenure-track assistant professor in experimental physics to teach and establish an undergraduate research program.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "experimental physics",
-        "physics"
-      ]
-    },
-    {
-      "id": "jobs-38035899",
-      "title": "Tenure- Track Assistant Professor of Mechanical Engineering",
-      "url": "https://jobs.chronicle.com/job/38035899",
-      "date": "2026-09-09",
-      "location": "University of Texas at Tyler at Tyler, TX, US",
-      "description": "Tenure-track Assistant Professor position in mechanical engineering with research focus including smart materials and intelligent manufacturing.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "mechanical engineering",
-        "smart materials",
-        "intelligent manufacturing"
-      ]
-    },
-    {
-      "id": "jobs-38036005",
-      "title": "Assistant Professor in Experimental Physical Chemistry",
-      "url": "https://jobs.chronicle.com/job/38036005",
-      "date": "2026-09-09",
-      "location": "California State University, Fullerton at Fullerton, CA, US",
-      "description": "Tenure-track Assistant Professor position in experimental physical chemistry involving undergraduate and graduate instruction and research.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "physical chemistry",
-        "experimental chemistry"
       ]
     },
     {
@@ -168,6 +250,20 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "jobs-38036713",
+      "title": "Tenure-Track Assistant Professor of Physics",
+      "url": "https://jobs.chronicle.com/job/38036713",
+      "date": "2026-09-11",
+      "location": "Middlebury College at Middlebury, VT, US",
+      "description": "Seeks a tenure-track assistant professor in experimental physics to teach and establish an undergraduate research program.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "experimental physics",
+        "physics"
+      ]
     },
     {
       "id": "jobs-38035230",
@@ -2006,6 +2102,35 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "jobs-38035899",
+      "title": "Tenure- Track Assistant Professor of Mechanical Engineering",
+      "url": "https://jobs.chronicle.com/job/38035899",
+      "date": "2026-09-09",
+      "location": "University of Texas at Tyler at Tyler, TX, US",
+      "description": "Tenure-track Assistant Professor position in mechanical engineering with research focus including smart materials and intelligent manufacturing.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "mechanical engineering",
+        "smart materials",
+        "intelligent manufacturing"
+      ]
+    },
+    {
+      "id": "jobs-38036005",
+      "title": "Assistant Professor in Experimental Physical Chemistry",
+      "url": "https://jobs.chronicle.com/job/38036005",
+      "date": "2026-09-09",
+      "location": "California State University, Fullerton at Fullerton, CA, US",
+      "description": "Tenure-track Assistant Professor position in experimental physical chemistry involving undergraduate and graduate instruction and research.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "physical chemistry",
+        "experimental chemistry"
+      ]
     },
     {
       "id": "jobs-38034502",
