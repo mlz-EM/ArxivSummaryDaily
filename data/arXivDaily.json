@@ -2,14 +2,45 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-20T04:58:25-04:00",
+    "generatedAt": "2026-09-21T05:28:22-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 364 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 368 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.21901v1",
+      "title": "Low resistance NiO/β-Ga_{2}O_{3} heterojunction diodes grown via molecular beam epitaxy",
+      "url": "https://arxiv.org/abs/2609.21901v1",
+      "date": "2026-09-18",
+      "summary": "This study investigates using molecular beam epitaxy to fabricate low-defect p-- NiO/β-Ga2O3 heterojunction diodes with minimal interfacial damage. Increasing the NiO growth rate up to 600 nm/hr significantly lowers the on-state resistance down to 25 mΩ-cm² while maintaining film quality and producing coherent, atomically abrupt interfaces.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.21575v1",
+      "title": "Programmable Strain-Induced Intrinsic Circularly Polarized Emission from All-Inorganic Perovskite Nanocrystal Glass",
+      "url": "https://arxiv.org/abs/2609.21575v1",
+      "date": "2026-09-18",
+      "summary": "The authors aim to realize chiral-molecule-free, spatially programmable circularly polarized luminescence (CPL) in monolithic inorganic perovskite nanocrystals. By using direct laser writing to induce strain and torsional lattice distortion, they successfully programmed the CPL handedness and magnitude (|glum| ≈ 4 × 10⁻³) by adjusting incident laser polarization and focal depth.",
+      "tags": [
+        "physics-optics",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.21352v1",
+      "title": "Strain-Induced Relaxor Multiferroicity at Room Temperature in Hexaferrite BaFe12O19 Thin Films",
+      "url": "https://arxiv.org/abs/2609.21352v1",
+      "date": "2026-09-18",
+      "summary": "This paper aims to induce room-temperature polar order in ferrimagnetic BaFe12O19 thin films using epitaxial strain. By applying 1.1% in-plane compressive strain, the authors stabilized a robust polar phase persisting above 1000 K with spatially varying polar nanoregions, establishing BaFe12O19 as a room-temperature relaxor multiferroic coexisting with ferrimagnetism.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2609.20141v1",
       "title": "Characterization of spatially inhomogeneous chirp in ultrashort multielectron beams via femtosecond hole burning",
@@ -18,6 +49,16 @@
       "summary": "This study aims to characterize the spatially non-uniform time-energy structure in multi-electron ultrashort pulses subject to space-charge effects. By combining PINEM-based spectral hole burning with angle-resolved energy analysis on 37-keV electron pulses, the authors successfully measured angle-dependent energy spreads and chirp rates, finding variations up to 100% and 40% across the beam.",
       "tags": [
         "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2609.20908v1",
+      "title": "Deformation-induced amorphous complexion transitions elevate strength and ductility",
+      "url": "https://arxiv.org/abs/2609.20908v1",
+      "date": "2026-09-17",
+      "summary": "The study investigates whether plastic deformation can trigger non-thermal amorphous complexion transitions at room temperature to improve metal damage tolerance. In a chemically primed nanocrystalline CuZr alloy, deformation successfully drives amorphous complexions at incoherent twin boundaries, doubling yield strength, fracture strain, and tensile toughness via a novel transformation-induced plasticity mechanism.",
+      "tags": [
+        "cond-mat-mtrl-sci"
       ]
     },
     {

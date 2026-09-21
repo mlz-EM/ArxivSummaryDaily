@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "bootstrapComplete": true,
-  "lastRunAt": "2026-09-20T08:58:17Z",
-  "lastSitemapCount": 26263,
-  "lastSitemapMaxId": 38040512,
+  "lastRunAt": "2026-09-21T09:27:56Z",
+  "lastSitemapCount": 26301,
+  "lastSitemapMaxId": 38041227,
   "seenIds": [
     939,
     957,
@@ -39535,10 +39535,12 @@
     38041155,
     38041156,
     38041157,
+    38041158,
     38041159,
     38041160,
     38041161,
     38041162,
+    38041163,
     38041165,
     38041167,
     38041168,
@@ -39600,16 +39602,5 @@
     38041226,
     38041227
   ],
-  "pendingErrors": {
-    "38041158": {
-      "attempts": 1,
-      "lastFailedAt": "2026-09-19T08:28:23Z",
-      "error": "HTTP 502"
-    },
-    "38041163": {
-      "attempts": 1,
-      "lastFailedAt": "2026-09-19T08:28:23Z",
-      "error": "HTTP 502"
-    }
-  }
+  "pendingErrors": {}
 }

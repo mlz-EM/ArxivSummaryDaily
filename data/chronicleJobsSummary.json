@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-20T05:24:42-04:00",
+    "generatedAt": "2026-09-21T06:05:53-04:00",
     "source": "Chronicle Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from The Chronicle of Higher Education Jobs.",
@@ -18,7 +18,7 @@
       "location": "California State University, Long Beach at Long Beach, CA, US",
       "description": "Seeks tenure-track faculty in Earth Science focusing on sedimentology and stratigraphy to teach and mentor students.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "earth science",
         "sedimentology",
@@ -33,7 +33,7 @@
       "location": "Cal Poly Pomona at Pomona, CA, US",
       "description": "Seeks tenure-track faculty in chemical and materials engineering to teach courses and conduct research.",
       "fitScore": 3,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "materials engineering",
         "chemical engineering",
@@ -48,7 +48,7 @@
       "location": "California State University, Long Beach at Long Beach, CA, US",
       "description": "Seeks tenure-track faculty in Earth Science specializing in Earth materials, mineralogy, and petrology.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "earth materials",
         "mineralogy",
@@ -63,7 +63,7 @@
       "location": "Rose-Hulman Institute of Technology at Terre Haute, IN, US",
       "description": "Seeks tenure-track faculty to teach physical and general chemistry and direct undergraduate research.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "chemistry",
         "physical chemistry",
@@ -78,7 +78,7 @@
       "location": "Rose-Hulman Institute of Technology at Terre Haute, IN, US",
       "description": "Seeks tenure-track faculty with expertise in microelectronics, power engineering, or digital hardware.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "electrical engineering",
         "microelectronics",
@@ -93,7 +93,7 @@
       "location": "Brown University Earth, Environmental and Planetary Sciences at Providence, RI, US",
       "description": "Seeks a tenure-track assistant professor using geochemistry to study climate system changes and surface Earth processes.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "geochemistry",
         "climate science",
@@ -108,74 +108,12 @@
       "location": "College of Staten Island at Staten Island, NY, US",
       "description": "Seeks a tenure-track assistant professor in electrical engineering focusing on power engineering, energy storage, and renewable systems.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "electrical engineering",
         "power engineering",
         "energy storage",
         "renewable energy"
-      ]
-    },
-    {
-      "id": "jobs-38039433",
-      "title": "Tenure-Track Faculty in Chemical and Biological Engineering",
-      "url": "https://jobs.chronicle.com/job/38039433",
-      "date": "2026-09-15",
-      "location": "University of Colorado System at Boulder, CO, US",
-      "description": "Seeks a tenure-track assistant professor in chemical engineering with research and teaching commitments across engineering disciplines.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "chemical engineering",
-        "materials",
-        "interdisciplinary research"
-      ]
-    },
-    {
-      "id": "jobs-38039436",
-      "title": "Tenure-Track Faculty in Architectural Engineering",
-      "url": "https://jobs.chronicle.com/job/38039436",
-      "date": "2026-09-15",
-      "location": "University of Colorado System at Boulder, CO, US",
-      "description": "Seeks a tenure-track assistant professor in architectural engineering focusing on innovative construction materials and building systems.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "architectural engineering",
-        "construction materials",
-        "building systems"
-      ]
-    },
-    {
-      "id": "jobs-38038073",
-      "title": "Assistant Professor in Hydraulic",
-      "url": "https://jobs.chronicle.com/job/38038073",
-      "date": "2026-09-14",
-      "location": "Santa Clara University at Santa Clara, CA, US",
-      "description": "Seeks a tenure-track assistant professor in hydraulic and water resources engineering to teach and conduct research.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "hydraulic engineering",
-        "water resources engineering",
-        "fluid mechanics",
-        "hydrology"
-      ]
-    },
-    {
-      "id": "jobs-38037579",
-      "title": "Tenured or Tenure-track Faculty Position in Astronomical Instrumentation",
-      "url": "https://jobs.chronicle.com/job/38037579",
-      "date": "2026-09-11",
-      "location": "University of Texas at Austin at Austin, TX, US",
-      "description": "Seeks tenured or tenure-track faculty in astronomical instrumentation to lead development of next-generation observatory instruments.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "astronomical instrumentation",
-        "optics",
-        "photonics",
-        "physics"
       ]
     },
     {
@@ -209,6 +147,36 @@
       ]
     },
     {
+      "id": "jobs-38039433",
+      "title": "Tenure-Track Faculty in Chemical and Biological Engineering",
+      "url": "https://jobs.chronicle.com/job/38039433",
+      "date": "2026-09-15",
+      "location": "University of Colorado System at Boulder, CO, US",
+      "description": "Seeks a tenure-track assistant professor in chemical engineering with research and teaching commitments across engineering disciplines.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "chemical engineering",
+        "materials",
+        "interdisciplinary research"
+      ]
+    },
+    {
+      "id": "jobs-38039436",
+      "title": "Tenure-Track Faculty in Architectural Engineering",
+      "url": "https://jobs.chronicle.com/job/38039436",
+      "date": "2026-09-15",
+      "location": "University of Colorado System at Boulder, CO, US",
+      "description": "Seeks a tenure-track assistant professor in architectural engineering focusing on innovative construction materials and building systems.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "architectural engineering",
+        "construction materials",
+        "building systems"
+      ]
+    },
+    {
       "id": "jobs-38035738",
       "title": "Aerospace Engineering - Multi-Rank Tenured/Tenure-Track Faculty Positions",
       "url": "https://jobs.chronicle.com/job/38035738",
@@ -237,6 +205,22 @@
         "engineering mechanics",
         "space discovery",
         "advanced air mobility"
+      ]
+    },
+    {
+      "id": "jobs-38038073",
+      "title": "Assistant Professor in Hydraulic",
+      "url": "https://jobs.chronicle.com/job/38038073",
+      "date": "2026-09-14",
+      "location": "Santa Clara University at Santa Clara, CA, US",
+      "description": "Seeks a tenure-track assistant professor in hydraulic and water resources engineering to teach and conduct research.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "hydraulic engineering",
+        "water resources engineering",
+        "fluid mechanics",
+        "hydrology"
       ]
     },
     {
@@ -354,6 +338,22 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "jobs-38037579",
+      "title": "Tenured or Tenure-track Faculty Position in Astronomical Instrumentation",
+      "url": "https://jobs.chronicle.com/job/38037579",
+      "date": "2026-09-11",
+      "location": "University of Texas at Austin at Austin, TX, US",
+      "description": "Seeks tenured or tenure-track faculty in astronomical instrumentation to lead development of next-generation observatory instruments.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "astronomical instrumentation",
+        "optics",
+        "photonics",
+        "physics"
+      ]
     },
     {
       "id": "jobs-38036713",
