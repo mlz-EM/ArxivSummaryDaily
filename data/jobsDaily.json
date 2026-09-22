@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-21T05:28:39-04:00",
+    "generatedAt": "2026-09-22T05:04:34-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -18,62 +18,7 @@
       "location": "Midwestern University at Glendale, CA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4468336104",
-      "title": "Assistant Professor of Instruction, Nursing",
-      "url": "https://www.linkedin.com/jobs/view/4468336104",
-      "date": "2026-09-17",
-      "location": "The University of Akron at Akron, OH",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4466257102",
-      "title": "Faculty - Diagnostics Medical Sonography General Program",
-      "url": "https://www.linkedin.com/jobs/view/4466257102",
-      "date": "2026-09-17",
-      "location": "Massachusetts College of Pharmacy and Health Sciences at Boston, MA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4469819432",
-      "title": "Open Rank Tenure or Non-Tenure Faculty - Veterinary Anesthesia Educator, Harvey S. Peeler Jr. College of Veterinary Medicine",
-      "url": "https://www.linkedin.com/jobs/view/4469819432",
-      "date": "",
-      "location": "Clemson University MBA Programs at Medicine, NE",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4468472446",
-      "title": "Academic Emergency Medicine Physician: Open Rank Assistant Professor, Associate Professor or Professor",
-      "url": "https://www.linkedin.com/jobs/view/4468472446",
-      "date": "",
-      "location": "CU Anschutz Department of Emergency Medicine at Aurora, CO",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4468460945",
-      "title": "Physiology Faculty - College of Medicine",
-      "url": "https://www.linkedin.com/jobs/view/4468460945",
-      "date": "",
-      "location": "Lake Erie College of Osteopathic Medicine (LECOM) at Erie, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -104,6 +49,28 @@
       "url": "https://www.linkedin.com/jobs/view/4469546074",
       "date": "2026-09-18",
       "location": "Midwestern University at Arizona, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4468336104",
+      "title": "Assistant Professor of Instruction, Nursing",
+      "url": "https://www.linkedin.com/jobs/view/4468336104",
+      "date": "2026-09-17",
+      "location": "The University of Akron at Akron, OH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4466257102",
+      "title": "Faculty - Diagnostics Medical Sonography General Program",
+      "url": "https://www.linkedin.com/jobs/view/4466257102",
+      "date": "2026-09-17",
+      "location": "Massachusetts College of Pharmacy and Health Sciences at Boston, MA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -45125,6 +45092,39 @@
       "url": "https://www.indeed.com/viewjob?jk=1df83d4a02d0280f",
       "date": "2025-09-24",
       "location": "University of Utah at Salt Lake City, UT, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4469819432",
+      "title": "Open Rank Tenure or Non-Tenure Faculty - Veterinary Anesthesia Educator, Harvey S. Peeler Jr. College of Veterinary Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4469819432",
+      "date": "",
+      "location": "Clemson University MBA Programs at Medicine, NE",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4468472446",
+      "title": "Academic Emergency Medicine Physician: Open Rank Assistant Professor, Associate Professor or Professor",
+      "url": "https://www.linkedin.com/jobs/view/4468472446",
+      "date": "",
+      "location": "CU Anschutz Department of Emergency Medicine at Aurora, CO",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4468460945",
+      "title": "Physiology Faculty - College of Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4468460945",
+      "date": "",
+      "location": "Lake Erie College of Osteopathic Medicine (LECOM) at Erie, PA",
       "description": "",
       "fitScore": 0,
       "isNew": false,

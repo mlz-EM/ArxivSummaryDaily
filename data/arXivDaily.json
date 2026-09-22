@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-21T05:28:22-04:00",
+    "generatedAt": "2026-09-22T05:00:09-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 368 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 372 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.23245v1",
+      "title": "Trade-off between interface morphology and compositional homogeneity in AlGaAs/GaAs quantum wells revealed by multislice electron ptychography",
+      "url": "https://arxiv.org/abs/2609.23245v1",
+      "date": "2026-09-19",
+      "summary": "This study aims to resolve the 3D interface morphology and compositional distribution in AlGaAs/GaAs quantum wells using multislice electron ptychography. It finds that sharp, flat interface morphology dominates the second harmonic generation response, and longer growth interruptions flatten the interfaces while simultaneously inducing stronger compositional fluctuations in the AlGaAs layers.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2609.21901v1",
       "title": "Low resistance NiO/β-Ga_{2}O_{3} heterojunction diodes grown via molecular beam epitaxy",
@@ -38,6 +48,40 @@
       "date": "2026-09-18",
       "summary": "This paper aims to induce room-temperature polar order in ferrimagnetic BaFe12O19 thin films using epitaxial strain. By applying 1.1% in-plane compressive strain, the authors stabilized a robust polar phase persisting above 1000 K with spatially varying polar nanoregions, establishing BaFe12O19 as a room-temperature relaxor multiferroic coexisting with ferrimagnetism.",
       "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.22604v1",
+      "title": "LiNiO2/NiO Phase Prediction Using Artificial Neural Networks",
+      "url": "https://arxiv.org/abs/2609.22604v1",
+      "date": "2026-09-18",
+      "summary": "The objective is to distinguish between LiNiO2 and NiO phases in 4DSTEM diffraction patterns using convolutional neural networks and vision transformers. The key finding is that networks trained on synthetic data accurately and robustly identify phases in experimental data, outperforming traditional template-matching methods when handling highly variable datasets.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-comp-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2609.22461v1",
+      "title": "Laser-Ablated Au Electrodes with Preferred Orientation and Flat Interface on Oxides",
+      "url": "https://arxiv.org/abs/2609.22461v1",
+      "date": "2026-09-18",
+      "summary": "This study investigates the structural properties and interface morphology of gold thin-film electrodes deposited on oxides via pulsed laser deposition (PLD). The key finding is that PLD produces Au films with a strong [111] preferred orientation and atomically flat interfaces, leading to enhanced adhesion compared to thermally evaporated films.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall",
+        "cond-mat-other"
+      ]
+    },
+    {
+      "id": "arxiv-2609.22411v1",
+      "title": "AutoRASOR: Autonomous Rapid Scanning Electron Microscope Operator",
+      "url": "https://arxiv.org/abs/2609.22411v1",
+      "date": "2026-09-18",
+      "summary": "The paper aims to develop AutoRASOR, a task-agnostic autonomous scanning electron microscope operator for multi-scale morphological characterization. Powered by vision foundation models, AutoRASOR uses active learning and sampling techniques to effectively capture diverse, rare morphologies and recover the complete sample structure without domain-specific pre-training or manual prompting.",
+      "tags": [
+        "eess-iv",
         "cond-mat-mtrl-sci"
       ]
     },
