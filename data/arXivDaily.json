@@ -2,14 +2,65 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-22T05:00:09-04:00",
+    "generatedAt": "2026-09-23T05:01:14-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 372 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 377 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.26730v1",
+      "title": "Three-Dimensional Imaging of High-Density Dislocation Networks and Their Interactions using Multislice Electron Ptychography",
+      "url": "https://arxiv.org/abs/2609.26730v1",
+      "date": "2026-09-22",
+      "summary": "This study aims to resolve 3D dislocation networks in epitaxial TiN on sapphire using multislice electron ptychography. The method successfully images ~1.6 nm-spaced misfit dislocations and tracks their out-of-plane crossings and transitions to threading dislocations, uncovering key structural interactions previously obscured by conventional defect-imaging methods.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.26291v1",
+      "title": "Resolution-matched gain in Multi-beam ptychography",
+      "url": "https://arxiv.org/abs/2609.26291v1",
+      "date": "2026-09-22",
+      "summary": "This paper aims to quantify the measurement gain of fully overlapped multi-beam ptychography (MBP) relative to single-beam ptychography at target spatial resolutions. Numerical simulations demonstrate that MBP achieves a pattern-count reduction gain of approximately two at 67% spatial Nyquist frequency, proving MBP's efficiency despite overlapping diffraction patterns on the detector.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2609.25997v1",
+      "title": "Interplay of Composition, Crystallinity, and Chemical Structure in CoHCF and NiHCF Thin Films Prepared at Different Temperatures",
+      "url": "https://arxiv.org/abs/2609.25997v1",
+      "date": "2026-09-22",
+      "summary": "This work aims to evaluate how electrodeposition temperature influences structural order and ion transport in CoHCF and NiHCF thin films. Findings show CoHCF achieves 2.2 times higher current density than NiHCF, and temperature-controlled defect redistribution dictates short- and long-range structural order without phase transitions, directly governing electrochemical performance.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.25684v1",
+      "title": "Real-Time Atomic-Resolution Electron Phase Imaging without Probe Calibration via Ptychography-Supervised Learning",
+      "url": "https://arxiv.org/abs/2609.25684v1",
+      "date": "2026-09-22",
+      "summary": "This paper aims to develop a calibration-free, real-time electron phase imaging framework for 4D-STEM. The proposed ptychography-supervised model achieves an online latency of ~0.27 ms per probe position (1,000-fold faster than ePIE) while preserving atomic-scale lattice contrast and generalizing successfully across different materials, defocus conditions, and microscopes.",
+      "tags": [
+        "cs-cv",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.25549v1",
+      "title": "5DSTEM of Liquid-Phase Nanocrystal Growth Bridges Ensemble Kinetics and Nanoscale Dynamics",
+      "url": "https://arxiv.org/abs/2609.25549v1",
+      "date": "2026-09-22",
+      "summary": "This study aims to connect ensemble kinetics with individual nanoscale dynamics during liquid-phase Au nanocrystal growth using time-resolved 5DSTEM. It reveals that despite ensemble surface-reaction kinetics, nanoparticles undergo heterogeneous pathways—continuous growth and coalescence—accompanied by characteristic orientation reconfigurations and progressive tensile strain development.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2609.23245v1",
       "title": "Trade-off between interface morphology and compositional homogeneity in AlGaAs/GaAs quantum wells revealed by multislice electron ptychography",
