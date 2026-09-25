@@ -2,14 +2,99 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-24T04:57:20-04:00",
+    "generatedAt": "2026-09-25T05:18:08-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 377 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 385 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.30229v1",
+      "title": "Molecular Beam Epitaxy of AgTaO3",
+      "url": "https://arxiv.org/abs/2609.30229v1",
+      "date": "2026-09-24",
+      "summary": "We report the first synthesis of single-crystal AgTaO3 thin films using molecular-beam epitaxy (MBE). High-quality epitaxial AgTaO3 films were grown on both (001)- and (111)-oriented SrTiO3 substrates using sequential deposition of atomic s",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.30084v1",
+      "title": "Ultrafast Electron Microscopy: A Quantitative Platform for Nonequilibrium Materials Research",
+      "url": "https://arxiv.org/abs/2609.30084v1",
+      "date": "2026-09-24",
+      "summary": "Macroscopic materials function is determined not merely by equilibrium structure, but by how carriers, phonons, fields, defects, interfaces, and collective order dynamically evolve after perturbation. Ultrafast electron microscopy (UEM) uni",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-chem-ph",
+        "physics-ins-det"
+      ]
+    },
+    {
+      "id": "arxiv-2609.29244v1",
+      "title": "Superconducting spin valve as a sensitive probe of spin-orbit coupling anisotropy",
+      "url": "https://arxiv.org/abs/2609.29244v1",
+      "date": "2026-09-24",
+      "summary": "Spin-orbit coupling (SOC) plays a central role in modern condensed matter physics and is crucial for the development of spin-based devices and quantum technologies. In particular, the interplay between Rashba SOC (R-SOC), arising from struc",
+      "tags": [
+        "cond-mat-supr-con"
+      ]
+    },
+    {
+      "id": "arxiv-2609.29079v1",
+      "title": "Electric Current-Driven Microstructural Evolution in SrTiO3",
+      "url": "https://arxiv.org/abs/2609.29079v1",
+      "date": "2026-09-24",
+      "summary": "Polycrystalline SrTiO3 is employed as a model system to investigate microstructural evolution under applied electric currents. Under a substantial current density, well-aligned, elongated abnormal grains develop near the anode following a f",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.28249v1",
+      "title": "Solid-State Dealloying Enables Local Symmetry Breaking in Ternary Intermetallic Thin Films",
+      "url": "https://arxiv.org/abs/2609.28249v1",
+      "date": "2026-09-23",
+      "summary": "Metastable quantum materials often occupy narrow composition windows with local symmetries distinct from competing equilibrium structures. These features open pathways for realizing qualitatively new electronic properties within a similar c",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-supr-con"
+      ]
+    },
+    {
+      "id": "arxiv-2609.28096v1",
+      "title": "Achieving 5-angstrom-resolution diffraction contrast with an uncorrected electron probe and nanosized defect characterizations",
+      "url": "https://arxiv.org/abs/2609.28096v1",
+      "date": "2026-09-23",
+      "summary": "Atomic-resolution micrographs remain limited in application due to small field of view and low numbers of recorded defects. Defect imaging with reliable statistics in transmission electron microscopy (TEM) relies heavily on diffraction cont",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.28567v1",
+      "title": "Leakage-Safe Machine Learning for Hydrogen Embrittlement Detection in 316L Stainless Steel: A Region-Held-Out Evaluation of Texture and Deep Features in SEM Micrographs",
+      "url": "https://arxiv.org/abs/2609.28567v1",
+      "date": "2026-09-23",
+      "summary": "Scanning electron microscopy (SEM) is routinely used to characterize the microstructural changes caused by hydrogen embrittlement (HE) in structural steels. Machine learning can automate this characterization, but models are often evaluated",
+      "tags": [
+        "cs-lg",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.27228v1",
+      "title": "Measurement of Nanoscale Surface Disturbances on Liquid Jets Using the Mie Scattering Method",
+      "url": "https://arxiv.org/abs/2609.27228v1",
+      "date": "2026-09-23",
+      "summary": "The Plateau--Rayleigh instability of liquid jets governs a wide range of natural and industrial processes. While the classical linear stability theory accurately predicts disturbance growth rates and dominant wavelengths, it cannot quantify",
+      "tags": [
+        "physics-flu-dyn",
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2609.26730v1",
       "title": "Three-Dimensional Imaging of High-Density Dislocation Networks and Their Interactions using Multislice Electron Ptychography",
