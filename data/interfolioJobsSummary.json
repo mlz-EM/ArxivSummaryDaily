@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-28T06:20:58-04:00",
+    "generatedAt": "2026-09-29T06:26:13-04:00",
     "source": "Interfolio Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from public Interfolio job pages.",
@@ -10,17 +10,6 @@
     ]
   },
   "items": [
-    {
-      "id": "apply-194273",
-      "title": "Instructional Professor (open rank) in Data Science",
-      "url": "https://apply.interfolio.com/194273",
-      "date": "2026-09-28",
-      "location": "The University of Chicago: Data Science at Chicago, IL",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
     {
       "id": "apply-193486",
       "title": "Assistant/Associate Tenure-Track Professor, Flint Physical Therapy Department, College of Health Sciences (Hybrid)",
@@ -60,6 +49,17 @@
       "url": "https://apply.interfolio.com/192932",
       "date": "2026-09-30",
       "location": "University of Michigan-Flint: College of Innovation and Technology at University of Michigan-Flint",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-194273",
+      "title": "Instructional Professor (open rank) in Data Science",
+      "url": "https://apply.interfolio.com/194273",
+      "date": "2026-09-28",
+      "location": "The University of Chicago: Data Science at Chicago, IL",
       "description": "",
       "fitScore": 0,
       "isNew": false,

@@ -2,14 +2,46 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-28T06:20:16-04:00",
+    "generatedAt": "2026-09-29T06:20:41-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 385 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 388 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.35498v1",
+      "title": "Electron decoherence in cylindrical holes and circular apertures",
+      "url": "https://arxiv.org/abs/2609.35498v1",
+      "date": "2026-09-28",
+      "summary": "The coherence of free electrons sets fundamental limits on the resolution and contrast of phase-sensitive electron microscopy because coherence is lost whenever the electron leaves a distinguishing excitation in its environment. We develop",
+      "tags": [
+        "quant-ph",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2609.35091v1",
+      "title": "Low-Temperature Stabilization of $δ$-NbN Superconducting Thin Films through Energy-Selective Ion Beam Sputtering",
+      "url": "https://arxiv.org/abs/2609.35091v1",
+      "date": "2026-09-28",
+      "summary": "Achieving high-quality superconducting thin films at low temperatures is a central challenge for scalable quantum device integration and Complementary Metal-Oxide-Semiconductor (CMOS)-compatible fabrication. Here, we demonstrate a room-temp",
+      "tags": [
+        "cond-mat-supr-con",
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2609.32826v1",
+      "title": "Digital Etching of Single-Crystalline Silicon Fin Barriers Down to Sub-10 nm",
+      "url": "https://arxiv.org/abs/2609.32826v1",
+      "date": "2026-09-26",
+      "summary": "This work presents a fabrication process to realize sub-10 nm-thick, high-aspect-ratio Si fins using high-resistivity float-zone single-crystal Si wafers. Following anisotropic wet etching, a digital etching process based on repeated rapid",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2609.30229v1",
       "title": "Molecular Beam Epitaxy of AgTaO3",
