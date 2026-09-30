@@ -2,14 +2,45 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-29T06:20:41-04:00",
+    "generatedAt": "2026-09-30T06:11:52-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 388 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 394 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.37720v1",
+      "title": "Pronounced Site Preference in Cr-Doped Mn-Based M-Type Hexaferrites and Its Chemical Origins",
+      "url": "https://arxiv.org/abs/2609.37720v1",
+      "date": "2026-09-29",
+      "summary": "This study investigates the chemical factors governing cation distribution in M-type hexaferrites using Cr-doped KSb3Mn9O19 as a model system. XRD, electron microscopy, and spectroscopy reveal that Cr3+ preferentially substitutes into the Mn Kagome sublattice. This substitution triggers coupled Mn vacancies and local structural disorder driven by crystal-field effects, bonding, and strain, inducing a spin-glass state at high Cr concentrations.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.36780v1",
+      "title": "Evidence for Distributed Fault Energetics and Their Impact on Deformation in a Chemically Complex Alloy",
+      "url": "https://arxiv.org/abs/2609.36780v1",
+      "date": "2026-09-29",
+      "summary": "This paper establishes a distribution-based framework to quantify the relationship between local chemical disorder and fault energetics in the chemically complex alloy CrCoNi. The authors find that heat treatment shifts the local fault-energy landscape upward due to L12-type short-range order. Simulations and microscopy confirm that these energy fluctuations bias the competition between stacking faulting, nano-twinning, and phase transformations during deformation.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2609.36749v1",
+      "title": "Study of LAGP coating on polyethylene separator for polysulfide suppression in thin Li-S batteries",
+      "url": "https://arxiv.org/abs/2609.36749v1",
+      "date": "2026-09-29",
+      "summary": "This study aims to suppress the polysulfide shuttle effect in thin lithium-sulfur batteries by coating flexible polyethylene separators with thin LAGP solid electrolyte nanofilms modified with Ni and Co. Using ion sputtering, SEM, and voltammetry, the authors demonstrate that the LAGP nanofilm significantly suppresses polysulfide diffusion, mitigating performance degradation while maintaining separator flexibility.",
+      "tags": [
+        "physics-app-ph"
+      ]
+    },
     {
       "id": "arxiv-2609.35498v1",
       "title": "Electron decoherence in cylindrical holes and circular apertures",
@@ -30,6 +61,37 @@
       "tags": [
         "cond-mat-supr-con",
         "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2609.36402v1",
+      "title": "Enhanced Critical Currents and Irreversibility Fields in YBa$_2$Cu$_4$O$_8$ Films through Ca-Substitution",
+      "url": "https://arxiv.org/abs/2609.36402v1",
+      "date": "2026-09-28",
+      "summary": "This paper investigates how Ca substitution affects the superconducting properties of intrinsically underdoped YBa2Cu4O8 thin films. The authors find that Ca doping increases hole concentration toward optimal levels, boosting critical temperature and critical current density (Jc by up to 10x at 6 T). The Jc field dependence remains unchanged, confirming that planar stacking-fault intergrowths remain the dominant flux-pinning mechanism.",
+      "tags": [
+        "cond-mat-supr-con"
+      ]
+    },
+    {
+      "id": "arxiv-2609.36041v1",
+      "title": "Linking Topological Medium Range Order and Density-Wave Coherence to Metallic Glass Ductility",
+      "url": "https://arxiv.org/abs/2609.36041v1",
+      "date": "2026-09-28",
+      "summary": "This paper aims to establish the structural origin of composition-dependent ductility in Zr-based metallic glasses by combining synchrotron density function analysis and 4D-STEM. The authors find that geometric coherence sets a baseline for ductile relaxation, while increasing Zr content suppresses Cu-rich FCC-like order and promotes fine Zr-rich HCP-like topological motifs, providing a structural basis for enhanced material ductility.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.35925v1",
+      "title": "Photoelectron and electron microscopy investigation of laboratory grown Mg-silicate space dust analogues",
+      "url": "https://arxiv.org/abs/2609.35925v1",
+      "date": "2026-09-28",
+      "summary": "This study aims to characterize the local surface chemical structure and morphology of laboratory-grown Mg-silicate space dust analogues for interstellar chemistry research. Using photoelectron spectroscopy and electron microscopy, the authors found that lowering the Mg-to-Si ratio or annealing shifts film composition toward Mg-silicate while retaining non-stoichiometric motifs, providing a suitable 2D model to study catalytic interstellar surface processes.",
+      "tags": [
+        "astro-ph-ga",
+        "cond-mat-mtrl-sci"
       ]
     },
     {
