@@ -2,14 +2,34 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-09-30T06:11:52-04:00",
+    "generatedAt": "2026-10-01T06:38:37-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 394 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 396 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2609.39931v1",
+      "title": "Engineering Grain Boundary Commensurability for Ferroelectric Stabilization in Hafnia-Based Films",
+      "url": "https://arxiv.org/abs/2609.39931v1",
+      "date": "2026-09-30",
+      "summary": "This paper investigates how grain boundary commensurability impacts ferroelectric phase stability in polycrystalline Hf0.5Zr0.5O2 thin films. Using 3D multislice electron ptychography and Monte Carlo simulations, the authors demonstrate that highly commensurate grain boundaries suppress nonpolar phases and stabilize the polar-orthorhombic phase, leading to an approximate 60% enhancement in remanent polarization in epitaxially engineered devices.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.39108v1",
+      "title": "Nature of the 175-180 cm$^{-1}$ Raman Feature in Altermagnetic $α$-MnTe",
+      "url": "https://arxiv.org/abs/2609.39108v1",
+      "date": "2026-09-30",
+      "summary": "This study aims to resolve the origin of the controversial 175–180 cm^-1 Raman mode in altermagnetic alpha-MnTe. By synthesizing stoichiometry-controlled films via molecular beam epitaxy, the authors show that this mode directly correlates with extrinsic MnTe2 impurities or laser-induced phase distortions, disproving previous claims that it is an intrinsic phonon or electronic plasmon mode.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2609.37720v1",
       "title": "Pronounced Site Preference in Cr-Doped Mn-Based M-Type Hexaferrites and Its Chemical Origins",
