@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-01T07:42:10-04:00",
+    "generatedAt": "2026-10-02T07:21:50-04:00",
     "source": "Chronicle Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from The Chronicle of Higher Education Jobs.",
@@ -11,64 +11,19 @@
   },
   "items": [
     {
-      "id": "jobs-38040888",
-      "title": "Assistant Professor - Quantum Information Science and Technology (Experiment)",
-      "url": "https://jobs.chronicle.com/job/38040888",
-      "date": "2026-09-17",
-      "location": "Miami University (Ohio) at Oxford, OH, US",
-      "description": "Seeking a tenure-track assistant professor in experimental quantum information science and technology.",
+      "id": "jobs-38037741",
+      "title": "Assistant Professor in Structures, Artificial Intelligence, and Design",
+      "url": "https://jobs.chronicle.com/job/38037741",
+      "date": "2026-09-14",
+      "location": "University of Utah at Salt Lake City, UT, US",
+      "description": "Seeks tenure-track faculty in structures, artificial intelligence, and design with focus on construction materials and performance.",
       "fitScore": 2,
       "isNew": true,
       "keywords": [
-        "quantum information science",
-        "experimental physics",
-        "quantum sensing",
-        "magnetic materials"
-      ]
-    },
-    {
-      "id": "jobs-38040889",
-      "title": "Assistant Professor - Quantum Information Science and Technology (Theory)",
-      "url": "https://jobs.chronicle.com/job/38040889",
-      "date": "2026-09-17",
-      "location": "Miami University (Ohio) at Oxford, OH, US",
-      "description": "Seeking a tenure-track assistant professor in theoretical quantum information science and technology.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "quantum information science",
-        "theoretical physics",
-        "quantum computing"
-      ]
-    },
-    {
-      "id": "jobs-38040905",
-      "title": "Yu Yuen Kit (YYK) Associate or Full Professor of Physics - Quantum",
-      "url": "https://jobs.chronicle.com/job/38040905",
-      "date": "2026-09-17",
-      "location": "George Mason University at Fairfax, VA, US",
-      "description": "Seeking an associate or full professor in theoretical or computational quantum physics and quantum materials.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "quantum physics",
-        "quantum materials",
-        "quantum devices",
-        "quantum sensing"
-      ]
-    },
-    {
-      "id": "jobs-38035790",
-      "title": "Invitation for Faculty Positions",
-      "url": "https://jobs.chronicle.com/job/38035790",
-      "date": "2026-09-16",
-      "location": "University of California Berkeley at Berkeley, CA, US",
-      "description": "Invites applications for open tenure-track faculty positions across engineering disciplines at UC Berkeley.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "engineering",
-        "faculty positions"
+        "structures",
+        "construction materials",
+        "material performance",
+        "artificial intelligence"
       ]
     },
     {
@@ -114,6 +69,67 @@
         "earth materials",
         "mineralogy",
         "petrology"
+      ]
+    },
+    {
+      "id": "jobs-38040888",
+      "title": "Assistant Professor - Quantum Information Science and Technology (Experiment)",
+      "url": "https://jobs.chronicle.com/job/38040888",
+      "date": "2026-09-17",
+      "location": "Miami University (Ohio) at Oxford, OH, US",
+      "description": "Seeking a tenure-track assistant professor in experimental quantum information science and technology.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "quantum information science",
+        "experimental physics",
+        "quantum sensing",
+        "magnetic materials"
+      ]
+    },
+    {
+      "id": "jobs-38040889",
+      "title": "Assistant Professor - Quantum Information Science and Technology (Theory)",
+      "url": "https://jobs.chronicle.com/job/38040889",
+      "date": "2026-09-17",
+      "location": "Miami University (Ohio) at Oxford, OH, US",
+      "description": "Seeking a tenure-track assistant professor in theoretical quantum information science and technology.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "quantum information science",
+        "theoretical physics",
+        "quantum computing"
+      ]
+    },
+    {
+      "id": "jobs-38040905",
+      "title": "Yu Yuen Kit (YYK) Associate or Full Professor of Physics - Quantum",
+      "url": "https://jobs.chronicle.com/job/38040905",
+      "date": "2026-09-17",
+      "location": "George Mason University at Fairfax, VA, US",
+      "description": "Seeking an associate or full professor in theoretical or computational quantum physics and quantum materials.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "quantum physics",
+        "quantum materials",
+        "quantum devices",
+        "quantum sensing"
+      ]
+    },
+    {
+      "id": "jobs-38035790",
+      "title": "Invitation for Faculty Positions",
+      "url": "https://jobs.chronicle.com/job/38035790",
+      "date": "2026-09-16",
+      "location": "University of California Berkeley at Berkeley, CA, US",
+      "description": "Invites applications for open tenure-track faculty positions across engineering disciplines at UC Berkeley.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "engineering",
+        "faculty positions"
       ]
     },
     {
