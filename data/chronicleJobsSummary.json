@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-02T07:21:50-04:00",
+    "generatedAt": "2026-10-03T06:47:05-04:00",
     "source": "Chronicle Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from The Chronicle of Higher Education Jobs.",
@@ -11,19 +11,77 @@
   },
   "items": [
     {
-      "id": "jobs-38037741",
-      "title": "Assistant Professor in Structures, Artificial Intelligence, and Design",
-      "url": "https://jobs.chronicle.com/job/38037741",
-      "date": "2026-09-14",
-      "location": "University of Utah at Salt Lake City, UT, US",
-      "description": "Seeks tenure-track faculty in structures, artificial intelligence, and design with focus on construction materials and performance.",
+      "id": "jobs-38038929",
+      "title": "Full-Time Faculty Position in Textile Development and Marketing, School of Business and Technology",
+      "url": "https://jobs.chronicle.com/job/38038929",
+      "date": "2026-09-16",
+      "location": "Fashion Institute of Technology at New York, NY, US",
+      "description": "Seeks tenure-track faculty specializing in technical knitting, textile science, and functional fabric development.",
       "fitScore": 2,
       "isNew": true,
       "keywords": [
-        "structures",
-        "construction materials",
-        "material performance",
-        "artificial intelligence"
+        "textile science",
+        "textile engineering",
+        "knitwear technology",
+        "materials innovation"
+      ]
+    },
+    {
+      "id": "jobs-38038852",
+      "title": "Full-Time: Assistant Professor, Chemistry",
+      "url": "https://jobs.chronicle.com/job/38038852",
+      "date": "2026-09-15",
+      "location": "DeSales University at Center Valley, PA, US",
+      "description": "Seeks tenure-track assistant professor in analytical chemistry with expertise in chemical instrumentation and undergraduate research.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "analytical chemistry",
+        "instrumentation",
+        "chemical analysis"
+      ]
+    },
+    {
+      "id": "jobs-38038872",
+      "title": "Assistant Professor, Mechanical Engineering",
+      "url": "https://jobs.chronicle.com/job/38038872",
+      "date": "2026-09-15",
+      "location": "Fairfield University at Fairfield, CT, US",
+      "description": "Seeks tenure-track assistant professor in mechanical engineering with interests in materials characterization and solid mechanics.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "mechanical engineering",
+        "materials characterization",
+        "solid mechanics"
+      ]
+    },
+    {
+      "id": "jobs-38038911",
+      "title": "Assistant Professor of Mathematics - Discrete Mathematics/Graph Theory",
+      "url": "https://jobs.chronicle.com/job/38038911",
+      "date": "2026-09-15",
+      "location": "San Jose State University at San Jose, CA, US",
+      "description": "Seeks tenure-track assistant professor in discrete mathematics and graph theory with an active research agenda.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "discrete mathematics",
+        "graph theory"
+      ]
+    },
+    {
+      "id": "jobs-38038982",
+      "title": "Cybersecurity and Information Technology Assistant Professor",
+      "url": "https://jobs.chronicle.com/job/38038982",
+      "date": "2026-09-11",
+      "location": "Northern Kentucky University at Highland Heights, KY, US",
+      "description": "Seeks tenure-track assistant professor in cybersecurity and information technology with a focus on security research.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "cybersecurity",
+        "information technology"
       ]
     },
     {
@@ -386,6 +444,22 @@
         "engineering mechanics",
         "space discovery",
         "advanced air mobility"
+      ]
+    },
+    {
+      "id": "jobs-38037741",
+      "title": "Assistant Professor in Structures, Artificial Intelligence, and Design",
+      "url": "https://jobs.chronicle.com/job/38037741",
+      "date": "2026-09-14",
+      "location": "University of Utah at Salt Lake City, UT, US",
+      "description": "Seeks tenure-track faculty in structures, artificial intelligence, and design with focus on construction materials and performance.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "structures",
+        "construction materials",
+        "material performance",
+        "artificial intelligence"
       ]
     },
     {

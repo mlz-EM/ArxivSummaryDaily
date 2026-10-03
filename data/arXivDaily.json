@@ -2,14 +2,36 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-02T06:14:32-04:00",
+    "generatedAt": "2026-10-03T05:36:47-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 396 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 398 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.01057v1",
+      "title": "Parallax Depth Sectioning and 3D Reconstruction in 4D-STEM",
+      "url": "https://arxiv.org/abs/2610.01057v1",
+      "date": "2026-10-01",
+      "summary": "This study aims to connect 3D information retrieval in 4D-STEM to tomography and light-field photography. The authors show that light-field algorithms using a single 4D FFT rapidly yield depth sections. Furthermore, depth-resolved aberration-corrected bright-field imaging removes contrast oscillations, successfully resolving distinct physical layers in stacked oxide films and nanoparticle assemblies.",
+      "tags": [
+        "physics-optics",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2610.00877v1",
+      "title": "Complex Magnetic Phases and Unconventional Skyrmion Thermodynamics in Magnetically Intercalated Cr$_{1+x}$Te$_2$Compounds",
+      "url": "https://arxiv.org/abs/2610.00877v1",
+      "date": "2026-10-01",
+      "summary": "This study investigates the structural, electronic, and magnetic properties of magnetically intercalated Cr1+xTe2. The authors uncover a rich magnetic phase diagram featuring field-induced Néel-type skyrmions near the Curie temperature. Lorentz TEM directly reveals these skyrmions exhibit pronounced thermal hysteresis and coexist with stripe domains due to competing local Dzyaloshinskii-Moriya, anisotropy, and dipolar interactions.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
     {
       "id": "arxiv-2609.39931v1",
       "title": "Engineering Grain Boundary Commensurability for Ferroelectric Stabilization in Hafnia-Based Films",

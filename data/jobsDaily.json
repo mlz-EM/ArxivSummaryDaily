@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-02T06:18:15-04:00",
+    "generatedAt": "2026-10-03T05:42:36-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -18,7 +18,7 @@
       "location": "University of Houston at Houston, TX, US",
       "description": "Seeks tenure-track faculty in theoretical quantum science, many-body physics, condensed matter theory, and quantum materials.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "quantum materials",
         "condensed matter theory",
@@ -34,43 +34,12 @@
       "location": "University of Massachusetts Amherst at Amherst, MA, US",
       "description": "Seeks tenure-track assistant professor in power electronics, wide bandgap semiconductors, and oxide devices.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "wide bandgap semiconductors",
         "semiconductor devices",
         "power electronics",
         "oxide devices"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Chemical Engineering - Fall 2027",
-      "url": "https://www.indeed.com/viewjob?jk=908f3ca7f52da6c4",
-      "date": "2026-09-30",
-      "location": "University of Texas at Austin at Austin, TX, US",
-      "description": "Seeks tenure-track assistant professor in chemical engineering with research connections to biotechnology or materials engineering.",
-      "fitScore": 3,
-      "isNew": true,
-      "keywords": [
-        "materials engineering",
-        "chemical engineering",
-        "biotechnology"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Mechanical Engineering - Solid Mechanics",
-      "url": "https://www.indeed.com/viewjob?jk=fd78b3d2e754b716",
-      "date": "2026-09-25",
-      "location": "University of South Carolina at Richland, SC, US",
-      "description": "Seeks tenure-track assistant professor focused on solid mechanics, mechanics of materials, and integrated experimental mechanics.",
-      "fitScore": 3,
-      "isNew": true,
-      "keywords": [
-        "mechanics of materials",
-        "solid mechanics",
-        "experimental mechanics",
-        "computational mechanics"
       ]
     },
     {
@@ -94,6 +63,21 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Chemical Engineering - Fall 2027",
+      "url": "https://www.indeed.com/viewjob?jk=908f3ca7f52da6c4",
+      "date": "2026-09-30",
+      "location": "University of Texas at Austin at Austin, TX, US",
+      "description": "Seeks tenure-track assistant professor in chemical engineering with research connections to biotechnology or materials engineering.",
+      "fitScore": 3,
+      "isNew": false,
+      "keywords": [
+        "materials engineering",
+        "chemical engineering",
+        "biotechnology"
+      ]
     },
     {
       "id": "www-viewjob",
@@ -1911,6 +1895,22 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Mechanical Engineering - Solid Mechanics",
+      "url": "https://www.indeed.com/viewjob?jk=fd78b3d2e754b716",
+      "date": "2026-09-25",
+      "location": "University of South Carolina at Richland, SC, US",
+      "description": "Seeks tenure-track assistant professor focused on solid mechanics, mechanics of materials, and integrated experimental mechanics.",
+      "fitScore": 3,
+      "isNew": false,
+      "keywords": [
+        "mechanics of materials",
+        "solid mechanics",
+        "experimental mechanics",
+        "computational mechanics"
+      ]
     },
     {
       "id": "www-4470046447",
