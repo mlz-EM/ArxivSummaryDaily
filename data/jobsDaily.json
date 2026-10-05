@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-04T06:33:05-04:00",
+    "generatedAt": "2026-10-05T07:07:26-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -18,7 +18,7 @@
       "location": "City University of New York at New York, NY, US",
       "description": "Seeks tenure-track physics faculty for computational photonics, metamaterials, and first-principles modeling of optical materials.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "computational photonics",
         "first-principles DFT",
@@ -34,7 +34,7 @@
       "location": "Virginia Tech at Blacksburg, VA, US",
       "description": "Invites applications for tenure-track faculty in advanced manufacturing, advanced materials, and materials processing.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "advanced manufacturing",
         "materials processing",
@@ -50,7 +50,7 @@
       "location": "University of Illinois at Urbana, IL, US",
       "description": "Seeks tenure-track faculty in experimental condensed matter physics, quantum information science, and quantum materials research.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "condensed matter physics",
         "quantum materials",
@@ -65,7 +65,7 @@
       "location": "University of Minnesota at Minneapolis, MN, US",
       "description": "Seeks tenure-track Assistant Professor in electrical and computer engineering focusing on optics, photonics, and hardware systems.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "optics and photonics",
         "optical materials",
@@ -80,7 +80,7 @@
       "location": "University of Houston at Houston, TX, US",
       "description": "Seeks tenure-track Assistant Professor in environmental engineering focusing on air quality, sensing, and resource recovery.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "environmental engineering",
         "air quality",
@@ -95,7 +95,7 @@
       "location": "University of Houston at Houston, TX, US",
       "description": "Seeks tenure-track faculty in hydrology, earth system modeling, watershed science, and water resources engineering.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "hydrology",
         "earth system modeling",
@@ -110,7 +110,7 @@
       "location": "James Madison University at Harrisonburg, VA, US",
       "description": "Seeks tenure-track physics faculty utilizing computational and data-intensive methods in areas including materials physics.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "materials physics",
         "computational physics",
@@ -126,7 +126,7 @@
       "location": "New Mexico State University at Las Cruces, NM, US",
       "description": "Hires a tenure-track assistant professor to establish an externally funded research program in physical chemistry.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "physical chemistry",
         "chemistry"
@@ -140,7 +140,7 @@
       "location": "The University of Rhode Island at Kingston, RI, US",
       "description": "Seeks tenure-track faculty in environmental engineering focusing on air quality, atmospheric chemistry, and environmental systems.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "environmental engineering",
         "air quality",
@@ -155,7 +155,7 @@
       "location": "Virginia Tech at Blacksburg, VA, US",
       "description": "Invites applications for tenure-track faculty in advanced manufacturing, advanced materials, and materials processing.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "advanced manufacturing",
         "materials processing",
@@ -171,7 +171,7 @@
       "location": "University of Houston at Houston, TX, US",
       "description": "Seeks tenure-track faculty in environmental engineering focusing on air quality, sensing, and environmental sustainability.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "environmental engineering",
         "air quality",
@@ -186,41 +186,12 @@
       "location": "University of Houston at Houston, TX, US",
       "description": "Recruits tenure-track faculty in hydrology, water resources, and earth system modeling for civil engineering.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "hydrology",
         "water resources",
         "civil engineering",
         "earth system modeling"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor, Tenure Track - Mechanical Engineering",
-      "url": "https://www.indeed.com/viewjob?jk=4d3227faa4a26d13",
-      "date": "2026-07-23",
-      "location": "University Of Washington at Seattle, WA, US",
-      "description": "Seeks tenure-track Assistant Professor in mechanical engineering with strengths in advanced manufacturing, composite materials, and energy storage.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "composite materials",
-        "additive manufacturing",
-        "mechanical engineering"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor, Tenure Track - Robotics in Mechanical Engineering",
-      "url": "https://www.indeed.com/viewjob?jk=7e5f464a36993670",
-      "date": "2026-07-21",
-      "location": "University Of Washington at Seattle, WA, US",
-      "description": "Seeks tenure-track Assistant Professor in mechanical engineering with research focus on robotics and fundamental mechanical systems.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "robotics",
-        "mechanical engineering"
       ]
     },
     {
@@ -25592,6 +25563,21 @@
       "keywords": []
     },
     {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Tenure Track - Mechanical Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=4d3227faa4a26d13",
+      "date": "2026-07-23",
+      "location": "University Of Washington at Seattle, WA, US",
+      "description": "Seeks tenure-track Assistant Professor in mechanical engineering with strengths in advanced manufacturing, composite materials, and energy storage.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "composite materials",
+        "additive manufacturing",
+        "mechanical engineering"
+      ]
+    },
+    {
       "id": "www-4443807423",
       "title": "Tenure Track Faculty Position - Doctor of Physical Therapy Program - Erie, PA",
       "url": "https://www.linkedin.com/jobs/view/4443807423",
@@ -26437,6 +26423,20 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Tenure Track - Robotics in Mechanical Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=7e5f464a36993670",
+      "date": "2026-07-21",
+      "location": "University Of Washington at Seattle, WA, US",
+      "description": "Seeks tenure-track Assistant Professor in mechanical engineering with research focus on robotics and fundamental mechanical systems.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "robotics",
+        "mechanical engineering"
+      ]
     },
     {
       "id": "www-4440471290",

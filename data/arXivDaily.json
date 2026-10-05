@@ -2,14 +2,25 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-04T06:26:35-04:00",
+    "generatedAt": "2026-10-05T07:03:13-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 398 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 399 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.03505v1",
+      "title": "An Automated and Reproducible Workflow for Crack Identification and Damage Assessment of Fusion Materials",
+      "url": "https://arxiv.org/abs/2610.03505v1",
+      "date": "2026-10-02",
+      "summary": "Post-exposure microscopy is central to qualification of fusion materials. However, manual analysis does not scale to the volume, heterogeneity, and multiresolution character of modern fusion-materials campaigns. To address this challenge, w",
+      "tags": [
+        "cs-lg",
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2610.01057v1",
       "title": "Parallax Depth Sectioning and 3D Reconstruction in 4D-STEM",
