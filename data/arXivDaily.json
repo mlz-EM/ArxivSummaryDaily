@@ -2,14 +2,35 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-05T07:03:13-04:00",
+    "generatedAt": "2026-10-06T06:59:58-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 399 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 401 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.05210v1",
+      "title": "Solid-state reaction synthesis of superconducting refractory-metal germanides for Ge/SiGe quantum devices",
+      "url": "https://arxiv.org/abs/2610.05210v1",
+      "date": "2026-10-04",
+      "summary": "This study investigates solid-phase reactions of V, Ta, and Nb with Ge and Ge/SiGe heterostructures for quantum device integration. Low-temperature, in-situ annealed reactions yield superconducting germanide layers with critical temperatures up to 2.8 K for Nb-Ge. However, in Ge/SiGe heterostructures, interfacial reactions are limited to 5–12 nm, leaving residual metal that dominates the superconducting response.",
+      "tags": [
+        "cond-mat-supr-con",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2610.04713v1",
+      "title": "The Hidden Cost of Two-Dimensional TEM Reconstruction of Magnetic Nanoparticle Morphology",
+      "url": "https://arxiv.org/abs/2610.04713v1",
+      "date": "2026-10-03",
+      "summary": "This study develops a statistical inverse-reconstruction method to infer 3D magnetic nanoparticle morphology from 2D TEM projection distributions. The authors find that assuming triaxial ellipsoidal geometry with size and shape polydispersity is essential to simultaneously match experimental size and axial-ratio distributions. Furthermore, macrospin modeling demonstrates that predicted magnetic fluid hyperthermia heating responses are highly sensitive to these inferred geometrical details.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2610.03505v1",
       "title": "An Automated and Reproducible Workflow for Crack Identification and Damage Assessment of Fusion Materials",
