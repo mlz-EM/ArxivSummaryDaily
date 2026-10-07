@@ -2,14 +2,25 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-06T06:59:58-04:00",
+    "generatedAt": "2026-10-07T06:44:45-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 401 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 402 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.08325v1",
+      "title": "Synthesizing free-electron wave functions by stimulated near-field interactions",
+      "url": "https://arxiv.org/abs/2610.08325v1",
+      "date": "2026-10-06",
+      "summary": "This study aims to control free-electron wave function synthesis using single and parallel photon-induced near-field electron microscopy (PINEM) interactions. The authors derive closed-form design rules governing attosecond train arrival, compression distance, and pulse duration. Evaluated in a 10 keV SEM setup, the method achieves attosecond compression within tens of micrometers, outperforming previous approaches by 20% and enabling driving field coherence measurements.",
+      "tags": [
+        "physics-optics",
+        "physics-acc-ph"
+      ]
+    },
     {
       "id": "arxiv-2610.05210v1",
       "title": "Solid-state reaction synthesis of superconducting refractory-metal germanides for Ge/SiGe quantum devices",

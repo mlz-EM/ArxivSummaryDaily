@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-06T07:05:07-04:00",
+    "generatedAt": "2026-10-07T06:54:52-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -18,7 +18,7 @@
       "location": "The University of Southern MIssissippi at Hattiesburg, MS, US",
       "description": "Seeks tenure-track faculty in polymer science and engineering, focusing on polymer physics, engineering, and advanced characterization.",
       "fitScore": 3,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "polymer science",
         "polymer physics",
@@ -34,27 +34,11 @@
       "location": "James Madison University at Harrisonburg, VA, US",
       "description": "Seeks tenure-track physics faculty with research interests in data-intensive and computational approaches, including materials physics.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "physics",
         "materials physics",
         "computational physics"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Multiple Faculty Searches",
-      "url": "https://www.indeed.com/viewjob?jk=03fe7394f266c52e",
-      "date": "2026-09-29",
-      "location": "University of California Berkeley at Berkeley, CA, US",
-      "description": "Seeks tenure-track physics faculty, including experimental condensed matter focused on synthesis and characterization of novel quantum materials.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "condensed matter physics",
-        "quantum materials",
-        "materials synthesis",
-        "materials characterization"
       ]
     },
     {
@@ -815,6 +799,22 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Multiple Faculty Searches",
+      "url": "https://www.indeed.com/viewjob?jk=03fe7394f266c52e",
+      "date": "2026-09-29",
+      "location": "University of California Berkeley at Berkeley, CA, US",
+      "description": "Seeks tenure-track physics faculty, including experimental condensed matter focused on synthesis and characterization of novel quantum materials.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "condensed matter physics",
+        "quantum materials",
+        "materials synthesis",
+        "materials characterization"
+      ]
     },
     {
       "id": "www-viewjob",
@@ -50606,17 +50606,6 @@
       "url": "https://www.indeed.com/viewjob?jk=163bd02476e03415",
       "date": "2025-10-08",
       "location": "University of Utah at Salt Lake City, UT, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": false,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Geographic Information S...",
-      "url": "https://www.indeed.com/viewjob?jk=21c8de4bd89c6ef5",
-      "date": "2025-10-06",
-      "location": "Western Illinois University at Macomb, IL, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,
