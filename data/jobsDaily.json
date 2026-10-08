@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-07T06:54:52-04:00",
+    "generatedAt": "2026-10-08T07:18:42-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -10,6 +10,79 @@
     ]
   },
   "items": [
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track Assistant Professor of Aeronautical Sciences, Daytona Beach Campus",
+      "url": "https://www.indeed.com/viewjob?jk=8eef7fbcf29b230e",
+      "date": "2026-10-01",
+      "location": "Embry-Riddle Aeronautical University at Daytona Beach, FL, US",
+      "description": "Seeks tenure-track faculty to teach aeronautical science and conduct research in aviation flight operations.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "aeronautical science",
+        "aviation",
+        "flight operations"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=cfea9ac524d35a7e",
+      "date": "2026-10-01",
+      "location": "Colorado State University at Fort Collins, CO, US",
+      "description": "Invites applications for a tenure-track Assistant Professor position in statistics.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "statistics",
+        "data science"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Professor of Statistics",
+      "url": "https://www.indeed.com/viewjob?jk=250bf9e7583981ca",
+      "date": "2026-10-01",
+      "location": "University of Wisconsin–Madison at Madison, WI, US",
+      "description": "Seeks candidates for tenured or tenure-track faculty positions in statistics.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "statistics",
+        "data science"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor 105140",
+      "url": "https://www.indeed.com/viewjob?jk=af29eae6ba56a6ea",
+      "date": "2026-10-01",
+      "location": "University of West Florida at Pensacola, FL, US",
+      "description": "Seeks a tenure-track Assistant Professor to teach computer science and conduct research.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "computer science",
+        "artificial intelligence",
+        "software engineering"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor 129540",
+      "url": "https://www.indeed.com/viewjob?jk=3cb6b9ac2edf91d9",
+      "date": "2026-10-01",
+      "location": "University of West Florida at Fort Walton Beach, FL, US",
+      "description": "Seeks a tenure-track Assistant Professor in computer science with research interests in AI or software engineering.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "computer science",
+        "artificial intelligence",
+        "software engineering"
+      ]
+    },
     {
       "id": "www-viewjob",
       "title": "Assistant Professor of Polymer Science and Engineering",

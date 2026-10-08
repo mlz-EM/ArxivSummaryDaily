@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-07T06:44:45-04:00",
+    "generatedAt": "2026-10-08T07:07:59-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 402 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 404 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.09465v1",
+      "title": "Optimization-Based Thickness Estimation and Depth-Resolved FIB-Induced Damage Characterization via Multislice Electron Ptychography",
+      "url": "https://arxiv.org/abs/2610.09465v1",
+      "date": "2026-10-07",
+      "summary": "Quantitative electron microscopy requires accurate knowledge of specimen thickness because dynamical scattering strongly affects image contrast and diffraction intensities. In multislice electron ptychography (MEP), specimen thickness is a",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2610.08325v1",
       "title": "Synthesizing free-electron wave functions by stimulated near-field interactions",
@@ -19,6 +29,16 @@
       "tags": [
         "physics-optics",
         "physics-acc-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2610.09222v1",
+      "title": "Quasicrystalline oxide interfaces by twisting SrTiO3 membranes",
+      "url": "https://arxiv.org/abs/2610.09222v1",
+      "date": "2026-10-06",
+      "summary": "Quasicrystals reveal that long-range order can exist without translational periodicity, but deterministic routes for designing strongly bonded quasicrystalline interfaces remain unexplored. Here, we show that such interfaces can be engineer",
+      "tags": [
+        "cond-mat-mtrl-sci"
       ]
     },
     {
