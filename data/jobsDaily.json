@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-09T07:17:18-04:00",
+    "generatedAt": "2026-10-10T06:24:48-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,93 +12,309 @@
   "items": [
     {
       "id": "www-viewjob",
-      "title": "Assistant Professor, Industrial Engineering and Industrial Management",
-      "url": "https://www.indeed.com/viewjob?jk=3f033df6379c5ae1",
-      "date": "2026-10-03",
-      "location": "Mercer University at Macon, GA, US",
-      "description": "Tenure-track Assistant Professor position focusing on industrial engineering, operations research, and emerging decision-making technologies.",
+      "title": "Assistant Professor (Tenure Track)",
+      "url": "https://www.indeed.com/viewjob?jk=aa8926a7d03cdac1",
+      "date": "2026-10-09",
+      "location": "University Of Washington at Seattle, WA, US",
+      "description": "Seeks tenure-track faculty in electrical and computer engineering including microelectronics, photonics, and quantum integrated systems.",
       "fitScore": 1,
       "isNew": true,
       "keywords": [
-        "industrial engineering",
-        "operations research",
-        "artificial intelligence"
+        "electrical engineering",
+        "microelectronics",
+        "quantum integrated systems"
       ]
     },
     {
       "id": "www-viewjob",
-      "title": "Associate Professor (Open Rank)",
-      "url": "https://www.indeed.com/viewjob?jk=611e355d7ab74df1",
-      "date": "2026-10-02",
-      "location": "University of Louisville at Louisville, KY, US",
-      "description": "Tenure-track faculty position in artificial intelligence, trustworthy AI, robotics, and core computer science areas.",
-      "fitScore": 1,
+      "title": "F0067- Assistant/Associate Professor - Electrical and Electronics Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=b0b6ed3d5274ad8d",
+      "date": "2026-10-08",
+      "location": "Norfolk State University at Norfolk, VA, US",
+      "description": "Seeks faculty supporting materials science engineering programs and research in semiconductor devices, microelectronics, and wide bandgap semiconductors.",
+      "fitScore": 2,
       "isNew": true,
       "keywords": [
-        "computer science",
-        "artificial intelligence",
-        "robotics"
+        "semiconductor devices",
+        "microelectronics",
+        "wide bandgap semiconductors",
+        "materials science"
       ]
     },
     {
       "id": "www-viewjob",
       "title": "Assistant Professor",
-      "url": "https://www.indeed.com/viewjob?jk=e6c4bc2dee104080",
-      "date": "2026-10-02",
-      "location": "UNC Charlotte at Charlotte, NC, US",
-      "description": "Tenure-track position in robotics and autonomous systems with applications across manufacturing and advanced engineering.",
-      "fitScore": 2,
+      "url": "https://www.indeed.com/viewjob?jk=8b9ee520fbcb21ba",
+      "date": "2026-10-08",
+      "location": "Portland State University at Portland, OR, US",
+      "description": "Cluster hire in semiconductor device co-design utilizing electron microscopy, nanofabrication, and materials characterization facilities.",
+      "fitScore": 3,
       "isNew": true,
       "keywords": [
-        "mechanical engineering",
-        "robotics",
-        "advanced manufacturing",
-        "ceramics"
+        "electron microscopy",
+        "semiconductor devices",
+        "nanofabrication",
+        "materials characterization"
       ]
     },
     {
       "id": "www-viewjob",
-      "title": "Open Rank Professor of Computer Science",
-      "url": "https://www.indeed.com/viewjob?jk=a10e053d7bd76509",
-      "date": "2026-10-02",
-      "location": "Oklahoma State University at Stillwater, OK, US",
-      "description": "Tenure-track open rank professor in computer science specializing in cybersecurity, digital forensics, and incident management.",
+      "title": "Assistant Professor in Mechanical Engineering (Quantum Cyrogenics, Thermal Management for Quantum Systems, and Quantum Infrastructure)",
+      "url": "https://www.indeed.com/viewjob?jk=873083b25c4a6ee4",
+      "date": "2026-10-08",
+      "location": "University of Wisconsin–Madison at Madison, WI, US",
+      "description": "Seeks tenure-track faculty in quantum cryogenics, thermal management, and cryogenic materials and instrumentation.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "cryogenic materials",
+        "thermal management",
+        "quantum infrastructure",
+        "cryogenics"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor in Mechanical Engineering (Aerospace Structures)",
+      "url": "https://www.indeed.com/viewjob?jk=5cc87defd854ded9",
+      "date": "2026-10-08",
+      "location": "University of Wisconsin–Madison at Madison, WI, US",
+      "description": "Focuses on aerospace structures, structural dynamics, lightweight structures, morphing systems, and structural health monitoring.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "aerospace structures",
+        "lightweight structures",
+        "structural dynamics",
+        "structural health monitoring"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor in Mechanical Engineering (Advanced Polymer Processing and Circular Manufacturing)",
+      "url": "https://www.indeed.com/viewjob?jk=62b693ca4577d451",
+      "date": "2026-10-08",
+      "location": "University of Wisconsin–Madison at Madison, WI, US",
+      "description": "Conducts research in polymer processing, polymer composites, and sustainable manufacturing of advanced polymer materials.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "polymer materials",
+        "polymer composites",
+        "materials engineering",
+        "polymer processing"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor in Energy Innovation - Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=1f05eed2743d8785",
+      "date": "2026-10-08",
+      "location": "Purdue University at West Lafayette, IN, US",
+      "description": "Seeks faculty in energy innovation focusing on battery storage, critical materials discovery, characterization, and nuclear materials.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "critical materials",
+        "materials characterization",
+        "battery materials",
+        "nuclear materials"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor (Tenure track) - Computer Science",
+      "url": "https://www.indeed.com/viewjob?jk=1b7e31c38e662326",
+      "date": "2026-10-07",
+      "location": "City University of New York at New York, NY, US",
+      "description": "Invites applications for tenure-track assistant professor positions in computer science across various research areas.",
       "fitScore": 1,
       "isNew": true,
       "keywords": [
         "computer science",
-        "cybersecurity",
-        "digital forensics"
+        "artificial intelligence",
+        "data science"
       ]
     },
     {
       "id": "www-viewjob",
-      "title": "Assistant Professor of Mathematics - Tenure Track",
-      "url": "https://www.indeed.com/viewjob?jk=c4225c37a5e6899e",
-      "date": "2026-10-02",
-      "location": "Villanova University at Villanova, PA, US",
-      "description": "Tenure-track Assistant Professor of Mathematics conducting research in pure or applied mathematics and operations research.",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=ab3344c267d747c3",
+      "date": "2026-10-07",
+      "location": "Colorado State University at Fort Collins, CO, US",
+      "description": "Invites applications for a tenure-track Assistant Professor in Experimental Physical Chemistry with research spanning materials chemistry.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "physical chemistry",
+        "materials chemistry",
+        "experimental physical chemistry"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Chemistry",
+      "url": "https://www.indeed.com/viewjob?jk=1fa6f949b1a02bc3",
+      "date": "2026-10-07",
+      "location": "Columbia University, US",
+      "description": "Seeks tenure-track faculty in chemistry, including materials, physical, analytical, inorganic, and computational chemistry.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "chemistry",
+        "materials chemistry",
+        "physical chemistry"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "The Grainger College of Engineering: Faculty (Open Rank) - Mechanical Science and Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=2947922e11093481",
+      "date": "2026-10-07",
+      "location": "University of Illinois at Urbana, IL, US",
+      "description": "Invites applications for tenure-track faculty in mechanical engineering focusing on manufacturing and mechanics of materials.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "mechanical engineering",
+        "mechanics of materials",
+        "materials"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor of Earth & Atmospheric Sciences",
+      "url": "https://www.indeed.com/viewjob?jk=9a4b2123daa08266",
+      "date": "2026-10-06",
+      "location": "City University of New York at New York, NY, US",
+      "description": "Seeks tenure-track faculty in atmospheric science focusing on numerical modeling, data assimilation, and urban environmental hazards.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "atmospheric science",
+        "earth sciences",
+        "numerical modeling",
+        "data assimilation"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor or Professor of Practice I Mathematics",
+      "url": "https://www.indeed.com/viewjob?jk=9ac97262f447c4a9",
+      "date": "2026-10-06",
+      "location": "Grand View University at Des Moines, IA, US",
+      "description": "Invites applications for a tenure-track position teaching mathematics education and undergraduate mathematics courses.",
       "fitScore": 1,
       "isNew": true,
       "keywords": [
         "mathematics",
-        "applied mathematics",
-        "operations research"
+        "mathematics education"
       ]
     },
     {
       "id": "www-viewjob",
-      "title": "Assistant Professor in Cosmology",
-      "url": "https://www.indeed.com/viewjob?jk=61ae3ad7fdab1765",
-      "date": "2026-10-01",
-      "location": "University of Texas at Austin at Austin, TX, US",
-      "description": "Seeks tenure-track Assistant Professor conducting research in theoretical cosmology and astroparticle physics.",
+      "title": "Assistant/Associate/Full Professor in Electrical and Computer Engineering (Quantum Engineering) Notice of Filing",
+      "url": "https://www.indeed.com/viewjob?jk=8802a044f9744493",
+      "date": "2026-10-06",
+      "location": "University of Wisconsin–Madison at Madison, WI, US",
+      "description": "Seeks faculty in quantum engineering focusing on quantum materials, semiconductor devices, nanofabrication, and quantum hardware.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "quantum engineering",
+        "quantum materials",
+        "semiconductors",
+        "nanofabrication"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Faculty in Chemical and Biological Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=511abc801b0e8058",
+      "date": "2026-10-06",
+      "location": "Villanova University at Villanova, PA, US",
+      "description": "Seeking tenure-track faculty in chemical engineering with research interests including advanced materials, catalysis, and energy.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "chemical engineering",
+        "advanced materials",
+        "catalysis",
+        "energy"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track Assistant or Associate Professor in Astrophysics",
+      "url": "https://www.indeed.com/viewjob?jk=21eb9e10fc6b4550",
+      "date": "2026-10-06",
+      "location": "Villanova University at Villanova, PA, US",
+      "description": "Invites applications for a tenure-track faculty position in astrophysics, planetary science, or astronomical instrumentation.",
       "fitScore": 1,
       "isNew": true,
       "keywords": [
-        "cosmology",
-        "physics",
-        "astroparticle physics"
+        "astrophysics",
+        "astronomy",
+        "planetary science",
+        "physics"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor in Electrical and Computer Engineering (Indianapolis)",
+      "url": "https://www.indeed.com/viewjob?jk=f325fc07ff019d0b",
+      "date": "2026-10-05",
+      "location": "Purdue University at Indianapolis, IN, US",
+      "description": "Offers a tenure-track faculty position in electrical and computer engineering focusing on autonomy, software, or computer vision.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "electrical engineering",
+        "computer engineering",
+        "autonomy",
+        "computer vision"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor- Petroleum Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=b3180572b6912d71",
+      "date": "2026-10-05",
+      "location": "Texas Tech University at Lubbock, TX, US",
+      "description": "Offers a tenure-track assistant professor position in petroleum engineering.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "petroleum engineering"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Professor of Mathematics",
+      "url": "https://www.indeed.com/viewjob?jk=24a7f6e590cc8041",
+      "date": "2026-10-05",
+      "location": "Bates College at Lewiston, ME, US",
+      "description": "Invites applications for an open-rank tenure-track position in mathematics.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "mathematics"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Geography",
+      "url": "https://www.indeed.com/viewjob?jk=a7250b5b2cdb4e25",
+      "date": "2026-10-05",
+      "location": "Texas Tech University at Lubbock, TX, US",
+      "description": "Seeking a tenure-track assistant professor in geography studying critical resource depletion and spatial patterns.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "geography",
+        "geosciences",
+        "GIS",
+        "remote sensing"
       ]
     },
     {
@@ -115,6 +331,82 @@
         "polymer physics",
         "electron microscopy",
         "materials characterization"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Industrial Engineering and Industrial Management",
+      "url": "https://www.indeed.com/viewjob?jk=3f033df6379c5ae1",
+      "date": "2026-10-03",
+      "location": "Mercer University at Macon, GA, US",
+      "description": "Tenure-track Assistant Professor position focusing on industrial engineering, operations research, and emerging decision-making technologies.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "industrial engineering",
+        "operations research",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate Professor (Open Rank)",
+      "url": "https://www.indeed.com/viewjob?jk=611e355d7ab74df1",
+      "date": "2026-10-02",
+      "location": "University of Louisville at Louisville, KY, US",
+      "description": "Tenure-track faculty position in artificial intelligence, trustworthy AI, robotics, and core computer science areas.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "computer science",
+        "artificial intelligence",
+        "robotics"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=e6c4bc2dee104080",
+      "date": "2026-10-02",
+      "location": "UNC Charlotte at Charlotte, NC, US",
+      "description": "Tenure-track position in robotics and autonomous systems with applications across manufacturing and advanced engineering.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "mechanical engineering",
+        "robotics",
+        "advanced manufacturing",
+        "ceramics"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Open Rank Professor of Computer Science",
+      "url": "https://www.indeed.com/viewjob?jk=a10e053d7bd76509",
+      "date": "2026-10-02",
+      "location": "Oklahoma State University at Stillwater, OK, US",
+      "description": "Tenure-track open rank professor in computer science specializing in cybersecurity, digital forensics, and incident management.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "computer science",
+        "cybersecurity",
+        "digital forensics"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Mathematics - Tenure Track",
+      "url": "https://www.indeed.com/viewjob?jk=c4225c37a5e6899e",
+      "date": "2026-10-02",
+      "location": "Villanova University at Villanova, PA, US",
+      "description": "Tenure-track Assistant Professor of Mathematics conducting research in pure or applied mathematics and operations research.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "mathematics",
+        "applied mathematics",
+        "operations research"
       ]
     },
     {
@@ -222,6 +514,21 @@
         "hydrology",
         "earth system modeling",
         "water resources"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor in Cosmology",
+      "url": "https://www.indeed.com/viewjob?jk=61ae3ad7fdab1765",
+      "date": "2026-10-01",
+      "location": "University of Texas at Austin at Austin, TX, US",
+      "description": "Seeks tenure-track Assistant Professor conducting research in theoretical cosmology and astroparticle physics.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "cosmology",
+        "physics",
+        "astroparticle physics"
       ]
     },
     {
@@ -50741,17 +51048,6 @@
         "energy storage",
         "electrochemistry"
       ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor, Management",
-      "url": "https://www.indeed.com/viewjob?jk=ad019d952dc4490b",
-      "date": "2025-10-09",
-      "location": "University of Tampa at Tampa, FL, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": false,
-      "keywords": []
     },
     {
       "id": "www-4472366136",

@@ -2,20 +2,66 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-09T07:06:18-04:00",
+    "generatedAt": "2026-10-10T06:17:45-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 404 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 408 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.11977v1",
+      "title": "Homogeneous Charge Relaxation in Organic Mixed Ionic-Electronic Conductors",
+      "url": "https://arxiv.org/abs/2610.11977v1",
+      "date": "2026-10-08",
+      "summary": "Objective: Investigate charge relaxation mechanisms in organic mixed ionic-electronic conductors (OMIECs) after bias removal. Key finding: Operando charge photometry and microscopy reveal that swelling creates connected water-rich pathways causing uniform bulk charge relaxation; tuning polythiophene side chains controls water uptake and ion trapping to enable either stable programmable memory states or fast electrophysiological sensing.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2610.11892v1",
+      "title": "Femtosecond Three-Dimensional Imaging of Single-Protein with Hard X-ray Laser",
+      "url": "https://arxiv.org/abs/2610.11892v1",
+      "date": "2026-10-08",
+      "summary": "Objective: Demonstrate biological single-particle 3D imaging on a single molecular complex using intense hard X-ray free-electron laser (XFEL) pulses without cryo-fixation. Key finding: Reconstructed 3D images of single giant-hemoglobin erythrocruorin complexes to approximately 20 Å resolution, proving the feasibility of XFEL-based femtosecond snapshot imaging for un-fixed single biomolecules beyond radiation damage limits.",
+      "tags": [
+        "physics-bio-ph",
+        "physics-acc-ph",
+        "physics-comp-ph",
+        "physics-ins-det",
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2610.11414v1",
+      "title": "Autocorrelation-based beam shape optimization in scanning electron microscopy",
+      "url": "https://arxiv.org/abs/2610.11414v1",
+      "date": "2026-10-08",
+      "summary": "Objective: Develop an automated focusing and stigmation algorithm for scanning electron microscopes based on image autocorrelation to account for intrinsic beam shape. Key finding: The algorithm uses image autocorrelation to approximate beam shape and Bayesian optimization to adjust working distance and stigmation, successfully optimizing beam parameters across diverse sample topographies and magnifications.",
+      "tags": [
+        "physics-ins-det",
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2610.09465v1",
       "title": "Optimization-Based Thickness Estimation and Depth-Resolved FIB-Induced Damage Characterization via Multislice Electron Ptychography",
       "url": "https://arxiv.org/abs/2610.09465v1",
       "date": "2026-10-07",
       "summary": "Quantitative electron microscopy requires accurate knowledge of specimen thickness because dynamical scattering strongly affects image contrast and diffraction intensities. In multislice electron ptychography (MEP), specimen thickness is a",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2610.10817v1",
+      "title": "Hierarchical Relaxation in Large-twist-angle Moire Drives Supermoire Formation",
+      "url": "https://arxiv.org/abs/2610.10817v1",
+      "date": "2026-10-07",
+      "summary": "Objective: Resolve the microscopic structural mechanism driving supermoire lattice formation in large-angle twisted bilayers. Key finding: Combining force-field simulations with multislice electron ptychography reveals that picometer-scale interlayer Se-Se repulsion drives hierarchical lattice relaxation, which couples short-range (~1 nm) moire relaxation with long-range (~10 nm) supermoire modulation.",
       "tags": [
         "cond-mat-mtrl-sci"
       ]
