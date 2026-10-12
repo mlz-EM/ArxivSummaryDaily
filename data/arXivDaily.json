@@ -2,14 +2,54 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-11T06:29:44-04:00",
+    "generatedAt": "2026-10-12T07:31:44-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 408 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 412 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.13859v1",
+      "title": "Doubly Metastable Synthesis for Accelerated Quantum Materials Discovery",
+      "url": "https://arxiv.org/abs/2610.13859v1",
+      "date": "2026-10-09",
+      "summary": "This study aims to accelerate quantum materials discovery by developing diffusion-activated epitaxy, a doubly metastable synthesis technique combining diffusion and epitaxy. The authors demonstrate that this approach enlarges the metastable synthesis window, successfully stabilizing four distinct phases, three of which exhibit crystal structures not present in existing inorganic structure databases.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2610.13383v1",
+      "title": "Pulse-by-pulse imaging of reversible, collective reshaping in laser-excited gold nanorods",
+      "url": "https://arxiv.org/abs/2610.13383v1",
+      "date": "2026-10-09",
+      "summary": "This paper aims to track the spatiotemporal dynamics of laser-excited gold nanorods frame by frame using pulse-synchronized in situ transmission electron microscopy. The authors discovered a dynamic regime where nanorods exhibit collective reshaping, twin boundary nucleation and propagation, and unexpected structural memory, with individual rods recovering their original shapes after almost vanishing under optical excitation.",
+      "tags": [
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2610.13381v1",
+      "title": "Bottom-Up Surface-Enhanced Raman Scattering for the Detection of Micro-Objects and Globular Analytes",
+      "url": "https://arxiv.org/abs/2610.13381v1",
+      "date": "2026-10-09",
+      "summary": "The authors propose a bottom-up surface-enhanced Raman scattering (SERS) approach that deposits metal onto target dielectric objects to enhance analyte detection. Using polystyrene microspheres as model globular analytes integrated into metal-dielectric resonators, they achieved up to a four-orders-of-magnitude signal enhancement for a single globular object while maintaining full spectral fidelity.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2610.13115v1",
+      "title": "Assessing quantitative phase reliability in electron ptychography using a twisted trilayer WS2 thickness staircase",
+      "url": "https://arxiv.org/abs/2610.13115v1",
+      "date": "2026-10-09",
+      "summary": "This study aims to evaluate quantitative phase reliability in electron ptychography using a twisted trilayer WS2 thickness staircase reference. The authors found a nonlinear thickness dependence, where the W-column phase increased by 13.2% from monolayer to bilayer but only 4.7% from bilayer to trilayer, and observed that short-range projected W-W overlap increases the phase by 8–9%.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2610.11977v1",
       "title": "Homogeneous Charge Relaxation in Organic Mixed Ionic-Electronic Conductors",
