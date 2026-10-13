@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-12T07:32:01-04:00",
+    "generatedAt": "2026-10-13T07:19:23-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -11,6 +11,28 @@
   },
   "items": [
     {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Department of Microbiology",
+      "url": "https://www.indeed.com/viewjob?jk=df120d85bf86c66c",
+      "date": "2026-10-12",
+      "location": "NYU Langone Health at New York, NY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Cognitive Psychology",
+      "url": "https://www.indeed.com/viewjob?jk=c0327041f04858b8",
+      "date": "2026-10-12",
+      "location": "Wilkes University at Wilkes-Barre, PA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
       "id": "www-4477505998",
       "title": "L. S. Skaggs Presidential Endowed Chair in Acute and Critical Care Nursing",
       "url": "https://www.linkedin.com/jobs/view/4477505998",
@@ -18,7 +40,7 @@
       "location": "University of Utah at Salt Lake City, UT, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,29 +51,7 @@
       "location": "University of Utah at Salt Lake City, UT, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4474854260",
-      "title": "Nursing Faculty (Tenured and Tenure-Track)",
-      "url": "https://www.linkedin.com/jobs/view/4474854260",
-      "date": "2026-10-08",
-      "location": "University at Buffalo at Buffalo, NY, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4468315181",
-      "title": "Annual Faculty, Pediatrcis ABSN",
-      "url": "https://www.linkedin.com/jobs/view/4468315181",
-      "date": "2026-09-16",
-      "location": "Samuel Merritt University at Sacramento, CA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -572,6 +572,17 @@
         "microelectronics",
         "quantum integrated systems"
       ]
+    },
+    {
+      "id": "www-4474854260",
+      "title": "Nursing Faculty (Tenured and Tenure-Track)",
+      "url": "https://www.linkedin.com/jobs/view/4474854260",
+      "date": "2026-10-08",
+      "location": "University at Buffalo at Buffalo, NY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
     },
     {
       "id": "www-viewjob",
@@ -9074,6 +9085,17 @@
       "url": "https://www.indeed.com/viewjob?jk=da54991de1fd6a98",
       "date": "2026-09-17",
       "location": "LeTourneau University at Longview, TX, US",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4468315181",
+      "title": "Annual Faculty, Pediatrcis ABSN",
+      "url": "https://www.linkedin.com/jobs/view/4468315181",
+      "date": "2026-09-16",
+      "location": "Samuel Merritt University at Sacramento, CA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
