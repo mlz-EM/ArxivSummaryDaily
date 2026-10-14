@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-13T07:19:23-04:00",
+    "generatedAt": "2026-10-14T05:13:01-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -18,7 +18,7 @@
       "location": "NYU Langone Health at New York, NY, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +29,7 @@
       "location": "Wilkes University at Wilkes-Barre, PA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -54082,38 +54082,6 @@
         "computer engineering",
         "photonics",
         "electromagnetics"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor",
-      "url": "https://www.indeed.com/viewjob?jk=236f0a1e3a2f8d8d",
-      "date": "2025-10-13",
-      "location": "Charlotte, NC, US",
-      "description": "Tenure-track role specializing in battery materials characterization and degradation mechanisms within mechanical engineering.",
-      "fitScore": 2,
-      "isNew": false,
-      "keywords": [
-        "batteries",
-        "energy storage",
-        "materials characterization",
-        "electrochemistry"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor",
-      "url": "https://www.indeed.com/viewjob?jk=e53a420bd323c645",
-      "date": "2025-10-13",
-      "location": "Charlotte, NC, US",
-      "description": "Tenure-track role specializing in battery materials, energy storage, and advanced materials characterization.",
-      "fitScore": 3,
-      "isNew": false,
-      "keywords": [
-        "battery materials",
-        "materials characterization",
-        "energy storage",
-        "electrochemistry"
       ]
     },
     {

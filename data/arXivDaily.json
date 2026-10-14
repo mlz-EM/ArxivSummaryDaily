@@ -2,14 +2,99 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-13T07:19:10-04:00",
+    "generatedAt": "2026-10-14T05:11:15-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 412 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 420 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.18448v1",
+      "title": "Substrate-controlled epitaxial-like growth and photochromic properties of yttrium oxyhydride thin films",
+      "url": "https://arxiv.org/abs/2610.18448v1",
+      "date": "2026-10-13",
+      "summary": "Yttrium oxyhydride (YHO) thin films are synthesised by reactive magnetron sputtering of \\b{eta}-YHx precursor films onto single-crystalline yttria-stabilised zirconia (YSZ) (111) and (100) substrates at 200 °C, followed by post-deposition o",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2610.17879v1",
+      "title": "Imaging atomic-scale surface structure and superconducting gap of the misfit layered compound (SnS)1.17NbS2",
+      "url": "https://arxiv.org/abs/2610.17879v1",
+      "date": "2026-10-13",
+      "summary": "Superlattices of van der Waals-coupled two-dimensional materials offer a platform for engineering electronic band structure and fostering emergent quantum states. Misfit layered compounds provide naturally assembled superlattices, in which",
+      "tags": [
+        "cond-mat-supr-con"
+      ]
+    },
+    {
+      "id": "arxiv-2610.17417v1",
+      "title": "High-Resolution X-ray Spectro-Microscopy of Au Microcrystallites",
+      "url": "https://arxiv.org/abs/2610.17417v1",
+      "date": "2026-10-12",
+      "summary": "Understanding the functionalities of heterogeneous catalysts requires high-resolution nanoscale chemical imaging tools. X-ray spectro-ptychography offers this capability by enabling X-ray absorption near edge structure (XANES) based amplitu",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2610.17341v1",
+      "title": "Progress in Cavitated Front Gridline Ag Paste for PERC Solar Cell Architecture",
+      "url": "https://arxiv.org/abs/2610.17341v1",
+      "date": "2026-10-12",
+      "summary": "This paper reports on the progress made with the cavitated silver paste on passivated emitter rear contact cells (PERC) to reduce the series resistance. Thus, electrical and microscopy characterizations are used to examine these resistive l",
+      "tags": [
+        "physics-app-ph",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2610.15303v1",
+      "title": "Three-dimensional reconstruction of weakly scattering objects from single-defocus 4D-STEM data",
+      "url": "https://arxiv.org/abs/2610.15303v1",
+      "date": "2026-10-11",
+      "summary": "Three-dimensional (3D) atomic-structure analysis is of central importance in (scanning) transmission electron microscopy (STEM). STEM techniques to reconstruct 3D structure include tilt-series or defocus-series annular dark-field, best suit",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2610.15238v1",
+      "title": "Localized Joule heating and carbonization process optimization of 3D printed polymer structures for lab-on-CMOS applications",
+      "url": "https://arxiv.org/abs/2610.15238v1",
+      "date": "2026-10-11",
+      "summary": "Use of carbon electrodes integrated with CMOS technology has great promise for lab-on-chip, biomedical, environmental, and industrial applications. One method of developing carbon electrodes is to 3D print polymer nanostructures on a CMOS c",
+      "tags": [
+        "cs-et",
+        "cond-mat-mtrl-sci",
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2610.15022v1",
+      "title": "Graphene-Confined Growth of Few-Layer PtSe2 via One-Step Selenization",
+      "url": "https://arxiv.org/abs/2610.15022v1",
+      "date": "2026-10-10",
+      "summary": "Platinum diselenide (PtSe$_2$), a member of the transition metal dichalcogenide (TMD) family, is a promising material for next-generation electronic and optoelectronic applications due to its thickness-dependent properties, transitioning fr",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2610.14947v1",
+      "title": "Investigation on Thermal Stability of Epi-GeSn Directly on Si (001)",
+      "url": "https://arxiv.org/abs/2610.14947v1",
+      "date": "2026-10-10",
+      "summary": "In this paper we investigate the structural properties and thermal stability of metastable Ge1-xSnx epilayers (~4.5 at.% Sn) grown directly on Si(001) substrates by high-resolution X-ray diffraction (HRXRD) and Raman spectroscopy. Our resul",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
     {
       "id": "arxiv-2610.13859v1",
       "title": "Doubly Metastable Synthesis for Accelerated Quantum Materials Discovery",
