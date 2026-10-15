@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-14T05:11:15-04:00",
+    "generatedAt": "2026-10-15T04:46:56-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 420 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 422 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.19978v1",
+      "title": "Interactive event-driven 4D-STEM with Timepix4 and live analytical ptychography",
+      "url": "https://arxiv.org/abs/2610.19978v1",
+      "date": "2026-10-14",
+      "summary": "This paper develops a high-throughput, real-time 4D-STEM workflow using a Timepix4 detector to enable interactive operation during acquisitions. By combining hardware-level synchronization with parallel processing, the system continuously processes electron event streams without latency, demonstrating live virtual annular detector imaging, center of mass tracking, and direct electron ptychography at microsecond dwell times.",
+      "tags": [
+        "physics-ins-det"
+      ]
+    },
     {
       "id": "arxiv-2610.18448v1",
       "title": "Substrate-controlled epitaxial-like growth and photochromic properties of yttrium oxyhydride thin films",
@@ -28,6 +38,16 @@
       "summary": "Superlattices of van der Waals-coupled two-dimensional materials offer a platform for engineering electronic band structure and fostering emergent quantum states. Misfit layered compounds provide naturally assembled superlattices, in which",
       "tags": [
         "cond-mat-supr-con"
+      ]
+    },
+    {
+      "id": "arxiv-2610.18448v2",
+      "title": "Substrate-controlled epitaxial-like growth of photochromic yttrium oxyhydride thin films",
+      "url": "https://arxiv.org/abs/2610.18448v2",
+      "date": "2026-10-13",
+      "summary": "This paper investigates the substrate-controlled epitaxial-like growth and photochromic properties of yttrium oxyhydride (YHO) thin films on single-crystalline YSZ substrates. The authors found that substrate orientation dictates microstructure and texture, but photochromic performance is primarily governed by chemical composition rather than structural epitaxy, with bleaching time constants scaling exponentially with illumination contrast.",
+      "tags": [
+        "cond-mat-mtrl-sci"
       ]
     },
     {
