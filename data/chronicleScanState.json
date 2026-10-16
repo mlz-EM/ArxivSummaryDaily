@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "bootstrapComplete": true,
-  "lastRunAt": "2026-10-15T08:46:32Z",
+  "lastRunAt": "2026-10-16T08:40:16Z",
   "lastSitemapCount": 21099,
   "lastSitemapMaxId": 38051876,
   "seenIds": [
@@ -48888,6 +48888,7 @@
     38050735,
     38050736,
     38050737,
+    38050738,
     38050739,
     38050740,
     38050741,
@@ -49980,11 +49981,5 @@
     38051875,
     38051876
   ],
-  "pendingErrors": {
-    "38050738": {
-      "attempts": 1,
-      "lastFailedAt": "2026-10-15T08:46:01Z",
-      "error": "HTTP 502"
-    }
-  }
+  "pendingErrors": {}
 }

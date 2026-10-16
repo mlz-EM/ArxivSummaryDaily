@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-15T04:46:56-04:00",
+    "generatedAt": "2026-10-16T04:40:39-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 422 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 423 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.21704v1",
+      "title": "Indirect Control of Buried CoB Spin Textures via C$_{60}$-Induced Modification of Ir Spin-Orbit Coupling",
+      "url": "https://arxiv.org/abs/2610.21704v1",
+      "date": "2026-10-15",
+      "summary": "This study investigates how C60 molecular films modulate buried magnetic spin textures in Pt/CoB/Ir multilayers. Using TEM techniques and micromagnetic simulations, the authors demonstrate that C60 deposition enhances interfacial Dzyaloshinskii-Moriya interaction and magnetic anisotropy via spin-orbit coupling at the C60/Ir interface, reducing magnetic domain periodicity and increasing spin texture density throughout the stack.",
+      "tags": [
+        "cond-mat-mes-hall"
+      ]
+    },
     {
       "id": "arxiv-2610.19978v1",
       "title": "Interactive event-driven 4D-STEM with Timepix4 and live analytical ptychography",
