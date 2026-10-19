@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-18T04:27:30-04:00",
+    "generatedAt": "2026-10-19T05:28:18-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 423 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 424 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.23556v1",
+      "title": "Magnetic order in epitaxial (La2/3Sr1/3MnO3)3/(BaTiO3)3 trilayer heterostructures: Evidence for quasi-two-dimensional ferrimagnetism",
+      "url": "https://arxiv.org/abs/2610.23556v1",
+      "date": "2026-10-16",
+      "summary": "This study aims to elucidate the magnetic structure of epitaxial (La2/3Sr1/3MnO3)3/(BaTiO3)3 trilayer heterostructures. Using neutron diffraction and magnetization measurements, the authors rule out antiferromagnetism and observe ferromagnetism with a remanent moment of about 0.5 Bohr magneton per Mn atom at room temperature and a remarkably high critical temperature near 600 K due to weak interlayer coupling.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2610.21704v1",
       "title": "Indirect Control of Buried CoB Spin Textures via C$_{60}$-Induced Modification of Ir Spin-Orbit Coupling",
