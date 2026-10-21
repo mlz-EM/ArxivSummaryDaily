@@ -2,20 +2,51 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-20T05:03:46-04:00",
+    "generatedAt": "2026-10-21T05:03:54-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 424 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 432 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.27460v1",
+      "title": "Nanocrystalline cubic boron arsenide growth on GaAs(100) by gas source molecular beam epitaxy",
+      "url": "https://arxiv.org/abs/2610.27460v1",
+      "date": "2026-10-20",
+      "summary": "Cubic boron arsenide (c-BAs) is a promising ultrahigh thermal conductivity semiconductor, but its direct synthesis on lattice-mismatched substrates remains challenging. Here, we demonstrate the synthesis of nanocrystalline c-BAs thin films",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2610.26611v1",
+      "title": "Stabilization of Ferroelectric Domains via Interfacial Strain in HoFeO3- BaTiO3 Nanofiber Heterostructures for Enhanced Hybrid Energy Harvesting",
+      "url": "https://arxiv.org/abs/2610.26611v1",
+      "date": "2026-10-19",
+      "summary": "Piezoelectric nanogenerators (PENGs) are an attractive platform for self-powered mechanical-energy harvesting, but their output is often limited by depolarization fields, charge leakage, and inefficient stress transfer to the active dipoles",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
     {
       "id": "arxiv-2610.23556v1",
       "title": "Magnetic order in epitaxial (La2/3Sr1/3MnO3)3/(BaTiO3)3 trilayer heterostructures: Evidence for quasi-two-dimensional ferrimagnetism",
       "url": "https://arxiv.org/abs/2610.23556v1",
       "date": "2026-10-16",
       "summary": "This study aims to elucidate the magnetic structure of epitaxial (La2/3Sr1/3MnO3)3/(BaTiO3)3 trilayer heterostructures. Using neutron diffraction and magnetization measurements, the authors rule out antiferromagnetism and observe ferromagnetism with a remanent moment of about 0.5 Bohr magneton per Mn atom at room temperature and a remarkably high critical temperature near 600 K due to weak interlayer coupling.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2610.23556v2",
+      "title": "Magnetic order in epitaxial (La2/3Sr1/3MnO3)3/(BaTiO3)3 trilayer heterostructures",
+      "url": "https://arxiv.org/abs/2610.23556v2",
+      "date": "2026-10-16",
+      "summary": "The realization of artificial magnetic structures with high epitaxial quality and elevated critical temperatures remains a key challenge for spintronics. Here, we report the fabrication and characterization of epitaxial (La2/3Sr1/3MnO3)3/(B",
       "tags": [
         "cond-mat-mtrl-sci"
       ]
@@ -38,6 +69,16 @@
       "summary": "This paper develops a high-throughput, real-time 4D-STEM workflow using a Timepix4 detector to enable interactive operation during acquisitions. By combining hardware-level synchronization with parallel processing, the system continuously processes electron event streams without latency, demonstrating live virtual annular detector imaging, center of mass tracking, and direct electron ptychography at microsecond dwell times.",
       "tags": [
         "physics-ins-det"
+      ]
+    },
+    {
+      "id": "arxiv-2610.22394v1",
+      "title": "Visualizing surface-reaction-driven chloride migration and cascading failure in sulfide solid electrolytes",
+      "url": "https://arxiv.org/abs/2610.22394v1",
+      "date": "2026-10-14",
+      "summary": "Moisture instability of sulfide solid electrolytes limits practical use in all-solid-state batteries. Spatially resolving gas--solid reactions during moisture exposure remains challenging. Here, cryogenic four-dimensional scanning transmiss",
+      "tags": [
+        "cond-mat-mtrl-sci"
       ]
     },
     {
@@ -176,6 +217,16 @@
       ]
     },
     {
+      "id": "arxiv-2610.14147v1",
+      "title": "In-Situ TEM Observation of Solid-State Phase Evolution in High-Entropy Alloy Nanoparticles",
+      "url": "https://arxiv.org/abs/2610.14147v1",
+      "date": "2026-10-09",
+      "summary": "The emergence of new materials has gone beyond conventional design principles. Among them are high entropy alloys (HEAs), in which multiple metallic elements coexist within a single unit cell. In this case, each atomic position in a solid m",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
       "id": "arxiv-2610.11977v1",
       "title": "Homogeneous Charge Relaxation in Organic Mixed Ionic-Electronic Conductors",
       "url": "https://arxiv.org/abs/2610.11977v1",
@@ -209,6 +260,20 @@
       "tags": [
         "physics-ins-det",
         "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2610.11892v2",
+      "title": "Femtosecond Three-Dimensional Imaging of Single-Protein with Hard X-ray Laser",
+      "url": "https://arxiv.org/abs/2610.11892v2",
+      "date": "2026-10-08",
+      "summary": "The extremely intense pulses of X-ray free-electron lasers (XFELs) have enabled imaging of radiation-sensitive samples, such as macromolecular microcrystals, beyond radiation damage limits. These sources have the potential to deliver biomol",
+      "tags": [
+        "physics-bio-ph",
+        "physics-acc-ph",
+        "physics-comp-ph",
+        "physics-ins-det",
+        "physics-optics"
       ]
     },
     {
@@ -301,6 +366,17 @@
       "url": "https://arxiv.org/abs/2610.00877v1",
       "date": "2026-10-01",
       "summary": "This study investigates the structural, electronic, and magnetic properties of magnetically intercalated Cr1+xTe2. The authors uncover a rich magnetic phase diagram featuring field-induced Néel-type skyrmions near the Curie temperature. Lorentz TEM directly reveals these skyrmions exhibit pronounced thermal hysteresis and coexist with stripe domains due to competing local Dzyaloshinskii-Moriya, anisotropy, and dipolar interactions.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2610.00877v2",
+      "title": "Complex Magnetic Phases and Unconventional Skyrmion Thermodynamics in Magnetically Intercalated Cr$_{1+x}$Te$_2$Compounds",
+      "url": "https://arxiv.org/abs/2610.00877v2",
+      "date": "2026-10-01",
+      "summary": "Chemical intercalation provides a powerful route for tuning the electronic and magnetic properties of transition metal dichalcogenides (TMDs), enabling the emergence of magnetic phases and phenomena that are otherwise inaccessible in their",
       "tags": [
         "cond-mat-mtrl-sci",
         "cond-mat-mes-hall"
@@ -408,6 +484,16 @@
       "tags": [
         "astro-ph-ga",
         "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2609.36402v2",
+      "title": "Enhanced Critical Currents and Irreversibility Fields in YBa$_2$Cu$_4$O$_8$ Films through Ca-Substitution",
+      "url": "https://arxiv.org/abs/2609.36402v2",
+      "date": "2026-09-28",
+      "summary": "The intrinsic carrier concentration of superconducting materials may not be optimal, and different superconducting properties may have distinct optimal doping levels. Here, we show that Ca substitution increases the hole concentration in in",
+      "tags": [
+        "cond-mat-supr-con"
       ]
     },
     {
