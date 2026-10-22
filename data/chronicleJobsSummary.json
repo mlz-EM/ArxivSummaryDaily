@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-21T06:51:09-04:00",
+    "generatedAt": "2026-10-22T06:56:14-04:00",
     "source": "Chronicle Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from The Chronicle of Higher Education Jobs.",
@@ -10,64 +10,6 @@
     ]
   },
   "items": [
-    {
-      "id": "jobs-38035799",
-      "title": "Tenure Track Faculty or Professor of Practice in Mathematics for 2027-2028",
-      "url": "https://jobs.chronicle.com/job/38035799",
-      "date": "2026-09-16",
-      "location": "Rose-Hulman Institute of Technology at Terre Haute, IN, US",
-      "description": "Seeks tenure-track faculty in mathematics to support data science and artificial intelligence programs.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "mathematics",
-        "data science",
-        "artificial intelligence"
-      ]
-    },
-    {
-      "id": "jobs-38035730",
-      "title": "Open rank Tenure-Track or Technical Computer Science Faculty",
-      "url": "https://jobs.chronicle.com/job/38035730",
-      "date": "2026-09-15",
-      "location": "King's College at Wilkes Barre, PA, US",
-      "description": "Seeks tenure-track or technical faculty to teach undergraduate computer science courses.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "computer science"
-      ]
-    },
-    {
-      "id": "jobs-38035732",
-      "title": "Assistant Professor of Computer Science, Montana State University (multiple positions)",
-      "url": "https://jobs.chronicle.com/job/38035732",
-      "date": "2026-09-15",
-      "location": "Montana State University at Bozeman, MT, US",
-      "description": "Seeks tenure-track Assistant Professors in computer science areas including AI, cybersecurity, and data science.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "computer science",
-        "artificial intelligence",
-        "cybersecurity",
-        "data science"
-      ]
-    },
-    {
-      "id": "jobs-38035744",
-      "title": "Assistant Professor - Human-Computer Interaction (HCI) - School of Information",
-      "url": "https://jobs.chronicle.com/job/38035744",
-      "date": "2026-09-15",
-      "location": "University of California Berkeley at Berkeley, CA, US",
-      "description": "Invites applications for a tenure-track Assistant Professor in Human-Computer Interaction.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "human-computer interaction",
-        "computer science"
-      ]
-    },
     {
       "id": "jobs-38042504",
       "title": "Associate Professor of Electrical Engineering",
@@ -313,6 +255,21 @@
         "quantum materials",
         "quantum devices",
         "quantum sensing"
+      ]
+    },
+    {
+      "id": "jobs-38035799",
+      "title": "Tenure Track Faculty or Professor of Practice in Mathematics for 2027-2028",
+      "url": "https://jobs.chronicle.com/job/38035799",
+      "date": "2026-09-16",
+      "location": "Rose-Hulman Institute of Technology at Terre Haute, IN, US",
+      "description": "Seeks tenure-track faculty in mathematics to support data science and artificial intelligence programs.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "mathematics",
+        "data science",
+        "artificial intelligence"
       ]
     },
     {
@@ -685,6 +642,49 @@
         "advanced materials",
         "energy storage",
         "nanotechnology"
+      ]
+    },
+    {
+      "id": "jobs-38035730",
+      "title": "Open rank Tenure-Track or Technical Computer Science Faculty",
+      "url": "https://jobs.chronicle.com/job/38035730",
+      "date": "2026-09-15",
+      "location": "King's College at Wilkes Barre, PA, US",
+      "description": "Seeks tenure-track or technical faculty to teach undergraduate computer science courses.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "computer science"
+      ]
+    },
+    {
+      "id": "jobs-38035732",
+      "title": "Assistant Professor of Computer Science, Montana State University (multiple positions)",
+      "url": "https://jobs.chronicle.com/job/38035732",
+      "date": "2026-09-15",
+      "location": "Montana State University at Bozeman, MT, US",
+      "description": "Seeks tenure-track Assistant Professors in computer science areas including AI, cybersecurity, and data science.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "computer science",
+        "artificial intelligence",
+        "cybersecurity",
+        "data science"
+      ]
+    },
+    {
+      "id": "jobs-38035744",
+      "title": "Assistant Professor - Human-Computer Interaction (HCI) - School of Information",
+      "url": "https://jobs.chronicle.com/job/38035744",
+      "date": "2026-09-15",
+      "location": "University of California Berkeley at Berkeley, CA, US",
+      "description": "Invites applications for a tenure-track Assistant Professor in Human-Computer Interaction.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "human-computer interaction",
+        "computer science"
       ]
     },
     {

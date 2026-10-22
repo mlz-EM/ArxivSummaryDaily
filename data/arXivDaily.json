@@ -2,14 +2,34 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-21T05:03:54-04:00",
+    "generatedAt": "2026-10-22T05:06:07-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 432 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 434 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.29694v1",
+      "title": "Effect of Annealing on Maze Domains in Topological Insulator - Magnetic Multilayer Heterostructures",
+      "url": "https://arxiv.org/abs/2610.29694v1",
+      "date": "2026-10-21",
+      "summary": "This study investigates the impact of annealing on topological insulator-magnetic multilayer heterostructures. Through in-situ annealing and neutron reflectometry, the authors found that the magnetic interface remains robust up to 350 °C, while annealing at ~200 °C optimizes domain ordering for field-induced skyrmion nucleation without significantly degrading the Bi2Se3 epilayer.",
+      "tags": [
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2610.29599v1",
+      "title": "Microstructural evolution during isothermal tempering of a highly supersaturated metastable austenitic state of a PM high-speed steel",
+      "url": "https://arxiv.org/abs/2610.29599v1",
+      "date": "2026-10-21",
+      "summary": "This paper investigates microstructural evolution and carbide spheroidization during isothermal tempering of PM HS 3-3-4 high-speed steel. Isothermal holding increased carbide circularity and hardness. High-resolution analysis revealed a ~15 nm compositional gradient at the carbide-matrix interface, providing evidence for epitaxial, interface-controlled carbide growth that depletes surrounding austenite solutes and alters martensite start temperatures.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2610.27460v1",
       "title": "Nanocrystalline cubic boron arsenide growth on GaAs(100) by gas source molecular beam epitaxy",
