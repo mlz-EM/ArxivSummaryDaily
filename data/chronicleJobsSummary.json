@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-22T06:56:14-04:00",
+    "generatedAt": "2026-10-23T06:53:45-04:00",
     "source": "Chronicle Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from The Chronicle of Higher Education Jobs.",
@@ -10,6 +10,22 @@
     ]
   },
   "items": [
+    {
+      "id": "jobs-38042823",
+      "title": "Assistant Professor",
+      "url": "https://jobs.chronicle.com/job/38042823",
+      "date": "2026-09-22",
+      "location": "Virginia Tech at Blacksburg, VA, US",
+      "description": "Seeks tenure-track faculty in chemical engineering focusing on AI-guided materials discovery, synthesis, and characterization.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "chemical engineering",
+        "materials discovery",
+        "materials characterization",
+        "artificial intelligence"
+      ]
+    },
     {
       "id": "jobs-38042504",
       "title": "Associate Professor of Electrical Engineering",
