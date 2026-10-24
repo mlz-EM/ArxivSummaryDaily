@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-23T05:02:08-04:00",
+    "generatedAt": "2026-10-24T04:34:58-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -11,6 +11,157 @@
   },
   "items": [
     {
+      "id": "www-viewjob",
+      "title": "Assistant/ Associate/ Full Professor - Electrical Engineering & Computer Sciences",
+      "url": "https://www.indeed.com/viewjob?jk=fe63a6505547b446",
+      "date": "2026-10-24",
+      "location": "University of California Berkeley at Berkeley, CA, US",
+      "description": "Seeks tenure-track faculty in electrical engineering and computer sciences across all research areas.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "electrical engineering",
+        "computer science",
+        "quantum computing"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Culture, Literature, a",
+      "url": "https://www.indeed.com/viewjob?jk=e82d981a7b414334",
+      "date": "2026-10-24",
+      "location": "Wesleyan College at Macon, GA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Special Education (Graduate Level)",
+      "url": "https://www.indeed.com/viewjob?jk=22cdd4a231fd8dee",
+      "date": "2026-10-24",
+      "location": "National Louis University at Chicago, IL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4481011385",
+      "title": "Assistant Professor of Anesthesiology (Research Track) — Brain Health & Pain Research",
+      "url": "https://www.linkedin.com/jobs/view/4481011385",
+      "date": "2026-10-24",
+      "location": "Emory University at Atlanta, GA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Music - Instructor/Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=fdd2bf5d65fae955",
+      "date": "2026-10-23",
+      "location": "Western Connecticut State University at Danbury, CT, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4481697501",
+      "title": "General Dentistry Faculty and Director of the Advanced Placement International Dental Program",
+      "url": "https://www.linkedin.com/jobs/view/4481697501",
+      "date": "2026-10-23",
+      "location": "University of Pikeville at Pikeville, KY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4481939991",
+      "title": "Assistant Professor of Instruction, College of Nursing - FNP Program",
+      "url": "https://www.linkedin.com/jobs/view/4481939991",
+      "date": "2026-10-23",
+      "location": "Xavier University at Cincinnati, OH, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4480688236",
+      "title": "Assistant Professor- IL- Physician Assistant Studies",
+      "url": "https://www.linkedin.com/jobs/view/4480688236",
+      "date": "2026-10-23",
+      "location": "Midwestern University at Downers Grove, IL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4481960237",
+      "title": "Assistant Professor of Instructions, College of Nursing - DNP & MIDAS Program",
+      "url": "https://www.linkedin.com/jobs/view/4481960237",
+      "date": "2026-10-23",
+      "location": "Xavier University at Cincinnati, OH, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Interior Design",
+      "url": "https://www.indeed.com/viewjob?jk=aa163f4b7c0d55b3",
+      "date": "2026-10-22",
+      "location": "Converse College at Spartanburg, SC, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor: Genotypes to Phenotypes",
+      "url": "https://www.indeed.com/viewjob?jk=b4e7b72c42553c73",
+      "date": "2026-10-22",
+      "location": "Colorado State University at Fort Collins, CO, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Associate Professor, Professor",
+      "url": "https://www.indeed.com/viewjob?jk=0c18589de8124776",
+      "date": "2026-10-19",
+      "location": "University of Maryland University College at College Park, MD, US",
+      "description": "Seeks tenure-track faculty positions across all areas of computer science.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "computer science",
+        "artificial intelligence",
+        "quantum computing"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "University of Florida – College of the Arts – Assistant Professor of Movement & Acting",
+      "url": "https://www.indeed.com/viewjob?jk=a30df8d1a822a72b",
+      "date": "2026-10-19",
+      "location": "Gainesville, FL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
       "id": "www-4482841151",
       "title": "Assistant, Associate, or Full Professor (HS Clinical, Clinical X, In-Residence, Adjunct) Anesthesiology Faculty",
       "url": "https://www.linkedin.com/jobs/view/4482841151",
@@ -18,7 +169,7 @@
       "location": "UC San Diego Academic Jobs at San Diego, CA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +180,7 @@
       "location": "Franciscan School of Theology at San Diego, CA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +191,7 @@
       "location": "The University of Austin (UATX) at Austin, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +202,7 @@
       "location": "The University of Austin (UATX) at Austin, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +213,7 @@
       "location": "The University of Austin (UATX) at Austin, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +224,7 @@
       "location": "The University of Austin (UATX) at Austin, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +235,7 @@
       "location": "The University of Austin (UATX) at Austin, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +246,7 @@
       "location": "Augusta University at Augusta, GA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +257,7 @@
       "location": "University of Southern California at Los Angeles, CA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +268,7 @@
       "location": "University of Mary Hardin-Baylor at Belton, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,7 +279,7 @@
       "location": "CHEManager International at Cedarville, OH, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -139,7 +290,7 @@
       "location": "Widener University at Chester, PA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -150,7 +301,7 @@
       "location": "Michigan Medicine at Ann Arbor, MI, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -161,7 +312,7 @@
       "location": "The University of Arizona College of Nursing at Gilbert, AZ, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -172,7 +323,7 @@
       "location": "Ball State University at Muncie, IN, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -183,7 +334,7 @@
       "location": "The University of Austin (UATX) at Austin, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -194,7 +345,7 @@
       "location": "Boston University at Boston, MA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -205,7 +356,7 @@
       "location": "The University of Akron at Akron, OH, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -216,7 +367,7 @@
       "location": "Ball State University at Muncie, IN, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -227,7 +378,7 @@
       "location": "The University of Austin (UATX) at Austin, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -238,7 +389,7 @@
       "location": "The University of Austin (UATX) at Austin, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -249,7 +400,7 @@
       "location": "The University of Austin (UATX) at Austin, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -260,7 +411,7 @@
       "location": "University of Southern California at Los Angeles, CA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -271,7 +422,7 @@
       "location": "The University of Austin (UATX) at Austin, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -282,7 +433,7 @@
       "location": "University of California Berkeley at Berkeley, CA, US",
       "description": "Offers a tenure-track Assistant Professor position in stochastic modeling, machine learning, and financial technology risk management.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "industrial engineering",
         "operations research",
@@ -298,7 +449,7 @@
       "location": "ST EDWARDS UNIVERSITY at Austin, TX, US",
       "description": "Seeks a tenure-track assistant professor in analytical chemistry to teach courses and lead undergraduate research.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "analytical chemistry",
         "instrumental analysis",
@@ -313,7 +464,7 @@
       "location": "UT MD Anderson at Houston, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -324,7 +475,7 @@
       "location": "University of Pittsburgh School of Dental Medicine at Pittsburgh, PA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -335,7 +486,7 @@
       "location": "International Association for Dental, Oral, and Craniofacial Research at Buffalo, NY, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -346,7 +497,7 @@
       "location": "COSGP - Council of Osteopathic Student Government Presidents at Indiana, PA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -357,7 +508,7 @@
       "location": "University of Minnesota Physicians at Minneapolis, MN, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -368,7 +519,7 @@
       "location": "American Association of Colleges of Nursing (AACN) at Louisville, KY, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -379,7 +530,7 @@
       "location": "Western Connecticut State University at Danbury, CT, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -390,7 +541,7 @@
       "location": "University Of Washington at Seattle, WA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -401,7 +552,7 @@
       "location": "ST EDWARDS UNIVERSITY at Austin, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -412,7 +563,7 @@
       "location": "Western Connecticut State University at Danbury, CT, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -423,71 +574,7 @@
       "location": "Ashland University at Ashland, OH, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor - Electrical Engineering Technology",
-      "url": "https://www.indeed.com/viewjob?jk=1abfbc721db74d50",
-      "date": "2026-10-20",
-      "location": "Farmingdale State College at Farmingdale, NY, US",
-      "description": "Offers a tenure-track assistant professor position in electrical and computer engineering technology with focus on RF systems.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "electrical engineering",
-        "RF technology",
-        "microwave systems"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Tenured/Tenure-Track: Assistant or Associate Professor - PK12 Educational Leadership and Policy",
-      "url": "https://www.indeed.com/viewjob?jk=52bbdb07ab15c6c6",
-      "date": "2026-10-20",
-      "location": "Texas A&M University at College Station, TX, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Anthropology",
-      "url": "https://www.indeed.com/viewjob?jk=4a853a7554261827",
-      "date": "2026-10-20",
-      "location": "COLLEGE OF CHARLESTON at Charleston, SC, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Faculty Position in Physical AI and Assured Autonomous Systems",
-      "url": "https://www.indeed.com/viewjob?jk=22e6a846be647d65",
-      "date": "2026-10-19",
-      "location": "Virginia Tech at Blacksburg, VA, US",
-      "description": "Seeks tenure-track faculty in electrical and computer engineering focusing on physical AI and assured autonomous systems.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "electrical engineering",
-        "physical AI",
-        "autonomous systems",
-        "cyber-physical systems"
-      ]
-    },
-    {
-      "id": "www-4480591925",
-      "title": "MOSDOH - Clinical General Dentistry Faculty Assistant Professor DMD",
-      "url": "https://www.linkedin.com/jobs/view/4480591925",
-      "date": "2026-10-17",
-      "location": "A.T. Still University at Kirksville, MO, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -507,6 +594,43 @@
       "url": "https://www.indeed.com/viewjob?jk=ca32d248f0417137",
       "date": "2026-10-21",
       "location": "Bates College at Lewiston, ME, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Electrical Engineering Technology",
+      "url": "https://www.indeed.com/viewjob?jk=1abfbc721db74d50",
+      "date": "2026-10-20",
+      "location": "Farmingdale State College at Farmingdale, NY, US",
+      "description": "Offers a tenure-track assistant professor position in electrical and computer engineering technology with focus on RF systems.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "electrical engineering",
+        "RF technology",
+        "microwave systems"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenured/Tenure-Track: Assistant or Associate Professor - PK12 Educational Leadership and Policy",
+      "url": "https://www.indeed.com/viewjob?jk=52bbdb07ab15c6c6",
+      "date": "2026-10-20",
+      "location": "Texas A&M University at College Station, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Anthropology",
+      "url": "https://www.indeed.com/viewjob?jk=4a853a7554261827",
+      "date": "2026-10-20",
+      "location": "COLLEGE OF CHARLESTON at Charleston, SC, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -621,6 +745,22 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Faculty Position in Physical AI and Assured Autonomous Systems",
+      "url": "https://www.indeed.com/viewjob?jk=22e6a846be647d65",
+      "date": "2026-10-19",
+      "location": "Virginia Tech at Blacksburg, VA, US",
+      "description": "Seeks tenure-track faculty in electrical and computer engineering focusing on physical AI and assured autonomous systems.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "electrical engineering",
+        "physical AI",
+        "autonomous systems",
+        "cyber-physical systems"
+      ]
     },
     {
       "id": "www-viewjob",
@@ -803,6 +943,17 @@
       "url": "https://www.linkedin.com/jobs/view/4480877890",
       "date": "2026-10-18",
       "location": "American Association of Colleges of Nursing (AACN) at Ann Arbor, MI, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4480591925",
+      "title": "MOSDOH - Clinical General Dentistry Faculty Assistant Professor DMD",
+      "url": "https://www.linkedin.com/jobs/view/4480591925",
+      "date": "2026-10-17",
+      "location": "A.T. Still University at Kirksville, MO, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,

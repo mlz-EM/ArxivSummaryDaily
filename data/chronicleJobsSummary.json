@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-23T06:53:45-04:00",
+    "generatedAt": "2026-10-24T06:19:21-04:00",
     "source": "Chronicle Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from The Chronicle of Higher Education Jobs.",
@@ -11,19 +11,140 @@
   },
   "items": [
     {
-      "id": "jobs-38042823",
-      "title": "Assistant Professor",
-      "url": "https://jobs.chronicle.com/job/38042823",
+      "id": "jobs-38042275",
+      "title": "Assistant Professor in Electrical or Computer Engineering",
+      "url": "https://jobs.chronicle.com/job/38042275",
       "date": "2026-09-22",
-      "location": "Virginia Tech at Blacksburg, VA, US",
-      "description": "Seeks tenure-track faculty in chemical engineering focusing on AI-guided materials discovery, synthesis, and characterization.",
+      "location": "Penn State Behrend at State College, PA, US",
+      "description": "Seeks tenure-track faculty in electrical or computer engineering with research relevant to polymers and batteries.",
       "fitScore": 2,
       "isNew": true,
       "keywords": [
-        "chemical engineering",
-        "materials discovery",
-        "materials characterization",
-        "artificial intelligence"
+        "advanced polymers",
+        "battery testing",
+        "devices",
+        "sensors"
+      ]
+    },
+    {
+      "id": "jobs-38042295",
+      "title": "Assistant or Associate Professor, Engineering Technology (Up to 3 Positions)",
+      "url": "https://jobs.chronicle.com/job/38042295",
+      "date": "2026-09-22",
+      "location": "University of Illinois Springfield / CHST at Springfield, IL, US",
+      "description": "Seeks tenure-track faculty in engineering technology covering areas including materials, manufacturing, and quality systems.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "engineering technology",
+        "materials",
+        "manufacturing systems",
+        "quality systems"
+      ]
+    },
+    {
+      "id": "jobs-38042302",
+      "title": "Assistant Professor of Applied Mathematics (Tenure-Track)",
+      "url": "https://jobs.chronicle.com/job/38042302",
+      "date": "2026-09-22",
+      "location": "Virginia Military Institute at Lexington, VA, US",
+      "description": "Invites applications for a tenure-track assistant professor position in applied mathematics and undergraduate mentoring.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "applied mathematics",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "jobs-38042303",
+      "title": "Assistant Professor of Computer Science",
+      "url": "https://jobs.chronicle.com/job/38042303",
+      "date": "2026-09-22",
+      "location": "University of North Carolina at Greensboro at Greensboro, NC, US",
+      "description": "Seeks tenure-track assistant professor in computer science focusing on systems, theory, or related areas.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "computer science",
+        "computer systems",
+        "theoretical computer science"
+      ]
+    },
+    {
+      "id": "jobs-38042099",
+      "title": "Computing and Mathematical Sciences Division – Open Rank Faculty Positions in Mathematics for AI",
+      "url": "https://jobs.chronicle.com/job/38042099",
+      "date": "2026-09-21",
+      "location": "Mohamed bin Zayed University of Artificial Intelligence at Abu Dhabi, AE",
+      "description": "Invites applications for open-rank faculty positions in mathematics for artificial intelligence.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "mathematics",
+        "artificial intelligence",
+        "deep learning",
+        "applied mathematics"
+      ]
+    },
+    {
+      "id": "jobs-38042206",
+      "title": "Assistant Professor in Manufacturing, Materials, or Mechanics",
+      "url": "https://jobs.chronicle.com/job/38042206",
+      "date": "2026-09-21",
+      "location": "University of Minnesota at Twin Cities, MN, US",
+      "description": "Seeks tenure-track faculty in manufacturing, materials, or mechanics with potential joint materials science appointment.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "materials",
+        "manufacturing",
+        "mechanics"
+      ]
+    },
+    {
+      "id": "jobs-38042207",
+      "title": "Assistant Professor - Physics",
+      "url": "https://jobs.chronicle.com/job/38042207",
+      "date": "2026-09-21",
+      "location": "University of Minnesota at Twin Cities, MN, US",
+      "description": "Seeks tenure-track assistant professor in physics focusing on quantum information science and quantum devices.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "quantum information science",
+        "quantum devices",
+        "physics"
+      ]
+    },
+    {
+      "id": "jobs-38042240",
+      "title": "Assistant Professor Coastal Engineering",
+      "url": "https://jobs.chronicle.com/job/38042240",
+      "date": "2026-09-21",
+      "location": "Coastal Carolina University at Conway, SC, US",
+      "description": "Invites applications for a tenure-track assistant professor in coastal, ocean, civil, or environmental engineering.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "coastal engineering",
+        "ocean engineering",
+        "civil engineering"
+      ]
+    },
+    {
+      "id": "jobs-38042282",
+      "title": "Assistant Professor - Operations Research",
+      "url": "https://jobs.chronicle.com/job/38042282",
+      "date": "2026-09-21",
+      "location": "Virginia Tech at Blacksburg, VA, US",
+      "description": "Invites applications for a tenure-track assistant professor position in operations research and stochastic modeling.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "operations research",
+        "stochastic modeling",
+        "industrial engineering"
       ]
     },
     {
@@ -39,6 +160,22 @@
         "electrical engineering",
         "circuits",
         "electronics"
+      ]
+    },
+    {
+      "id": "jobs-38042823",
+      "title": "Assistant Professor",
+      "url": "https://jobs.chronicle.com/job/38042823",
+      "date": "2026-09-22",
+      "location": "Virginia Tech at Blacksburg, VA, US",
+      "description": "Seeks tenure-track faculty in chemical engineering focusing on AI-guided materials discovery, synthesis, and characterization.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "chemical engineering",
+        "materials discovery",
+        "materials characterization",
+        "artificial intelligence"
       ]
     },
     {
