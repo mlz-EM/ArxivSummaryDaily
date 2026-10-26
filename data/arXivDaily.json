@@ -2,14 +2,36 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-25T04:53:07-04:00",
+    "generatedAt": "2026-10-26T05:32:07-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 434 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 436 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.32419v1",
+      "title": "Electron Wavefronts Capture Nanoscale Movies of Hypersound at Surfaces",
+      "url": "https://arxiv.org/abs/2610.32419v1",
+      "date": "2026-10-23",
+      "summary": "This study aims to image nanoscale acoustic wave interactions with local surface structures using ultrafast low-energy electron microscopy (ULEEM). By reflecting coherent electron pulses off surface layers, the authors successfully capture picometre-amplitude surface acoustic waves in a van der Waals material, using dispersion relations to identify interfacial contact variations and detect scattering from buried mechanical defects.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-ins-det",
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2610.31934v1",
+      "title": "Structural characterization of the rutile-GeO2/TiO2 (001) heterointerface",
+      "url": "https://arxiv.org/abs/2610.31934v1",
+      "date": "2026-10-22",
+      "summary": "This study aims to characterize the structural properties of rutile-GeO2 thin films grown on rutile-TiO2 (001) substrates at different temperatures. High-resolution TEM reveals that 925°C growth yields a fully epitaxial interface with minimal chemical intermixing, strain-relieving interfacial dislocations accommodating ~4% lattice mismatch, and thermally driven {101} substrate faceting, whereas 840°C growth results in an amorphous heterostructure.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2610.29694v1",
       "title": "Effect of Annealing on Maze Domains in Topological Insulator - Magnetic Multilayer Heterostructures",

@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-25T06:40:58-04:00",
+    "generatedAt": "2026-10-26T07:21:51-04:00",
     "source": "Chronicle Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from The Chronicle of Higher Education Jobs.",
@@ -18,7 +18,7 @@
       "location": "University of Illinois Urbana-Champaign at Urbana, IL, US",
       "description": "Invites applications for open-rank tenure-track faculty positions in data-driven, theoretical, and computational materials science.",
       "fitScore": 3,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "materials science",
         "computational materials science",
@@ -34,7 +34,7 @@
       "location": "University of Macau at Macau, MO",
       "description": "Seeks tenure-track faculty in IoT infrastructure, sensing technologies, embedded systems, and network communication.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "sensing technologies",
         "IoT",
@@ -49,7 +49,7 @@
       "location": "University of Macau at Macau, MO",
       "description": "Seeks tenure-track faculty in urban sustainability, climate change, hydroclimate, and safety of urban systems.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "urban sustainability",
         "climate change",
@@ -64,7 +64,7 @@
       "location": "Saint Francis University at Loretto, PA, US",
       "description": "Seeks a tenure-track Assistant Professor in physical chemistry to teach courses and mentor undergraduate research.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "physical chemistry",
         "chemistry education"
@@ -78,7 +78,7 @@
       "location": "Washington State University at Pullman, WA, US",
       "description": "Seeks a tenure-track Assistant Professor in structural engineering with expertise in timber engineering and composite materials.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "composite materials",
         "structural engineering",
@@ -93,7 +93,7 @@
       "location": "Northeastern University at Boston, MA, US",
       "description": "Seeks tenure-track faculty in civil and environmental engineering focused on coastal infrastructure resilience and digital twins.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "civil engineering",
         "infrastructure resilience",
@@ -108,7 +108,7 @@
       "location": "Northeastern University at Boston, MA, US",
       "description": "Seeks tenure-track faculty in electrical and computer engineering specializing in physical AI, sensing, and robotics.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "electrical engineering",
         "physical AI",
@@ -124,7 +124,7 @@
       "location": "Appalachian State University, NC, US",
       "description": "Seeks a tenure-track Assistant Professor in physics focusing on nanoscience, advanced materials, and nanoscale characterization.",
       "fitScore": 3,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "advanced materials",
         "nanoscale imaging",
@@ -140,7 +140,7 @@
       "location": "Seton Hall University at South Orange, NJ, US",
       "description": "Invites applications for a tenure-track Assistant Professor of Computer Science specializing in cloud computing, cyber-physical systems, or AI.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "computer science",
         "cyber-physical systems",
@@ -155,7 +155,7 @@
       "location": "University of Houston at Houston, TX, US",
       "description": "Seeks a tenure-track Assistant Professor in sedimentology and stratigraphy focusing on coastal and marine system dynamics.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "sedimentology",
         "stratigraphy",
@@ -170,152 +170,11 @@
       "location": "University at Albany, SUNY at Albany, NY, US",
       "description": "Seeks a tenure-track Assistant Professor in chemistry focusing on advanced materials design, semiconductor chemistry, and sustainable chemistry.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "advanced materials design",
         "semiconductor chemistry",
         "sustainable chemistry"
-      ]
-    },
-    {
-      "id": "jobs-38041497",
-      "title": "Tenure-Track Faculty in Electrical, Computer and Energy Engineering",
-      "url": "https://jobs.chronicle.com/job/38041497",
-      "date": "2026-09-21",
-      "location": "University of Colorado Boulder at Boulder, CO, US",
-      "description": "Seeks tenure-track faculty in electrical and computer engineering including computing hardware and quantum technologies.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "electrical engineering",
-        "computer engineering",
-        "computing hardware",
-        "quantum technologies"
-      ]
-    },
-    {
-      "id": "jobs-38041555",
-      "title": "Tenure-Track Faculty in Electrical, Computer and Energy Engineering",
-      "url": "https://jobs.chronicle.com/job/38041555",
-      "date": "2026-09-21",
-      "location": "University of Colorado System at Boulder, CO, US",
-      "description": "Seeks tenure-track faculty in electrical and computer engineering including computing hardware and quantum technologies.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "electrical engineering",
-        "computer engineering",
-        "computing hardware",
-        "quantum technologies"
-      ]
-    },
-    {
-      "id": "jobs-38041672",
-      "title": "Assistant Professor, Chemistry and Chemical Biology",
-      "url": "https://jobs.chronicle.com/job/38041672",
-      "date": "2026-09-21",
-      "location": "Northeastern University at Boston, MA, US",
-      "description": "Seeks tenure-track faculty in physical AI and robotics for automated self-driving laboratories accelerating materials and chemistry discovery.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "self-driving laboratories",
-        "materials discovery",
-        "physical AI",
-        "automation",
-        "chemistry"
-      ]
-    },
-    {
-      "id": "jobs-38041698",
-      "title": "Assistant Professor of Construction Management - Civil Engineering and Construction Management #27-08",
-      "url": "https://jobs.chronicle.com/job/38041698",
-      "date": "2026-09-21",
-      "location": "California State University, Northridge at Northridge, CA, US",
-      "description": "Seeks tenure-track faculty in construction management and construction engineering.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "construction management",
-        "construction engineering",
-        "civil engineering"
-      ]
-    },
-    {
-      "id": "jobs-38041720",
-      "title": "Assistant Professor of Civil Engineering - Civil Engineering and Construction Management #27-09",
-      "url": "https://jobs.chronicle.com/job/38041720",
-      "date": "2026-09-21",
-      "location": "California State University, Northridge at Northridge, CA, US",
-      "description": "Seeks tenure-track faculty in civil engineering with focus on structural and geotechnical engineering.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "civil engineering",
-        "geotechnical engineering",
-        "structural engineering"
-      ]
-    },
-    {
-      "id": "jobs-38041750",
-      "title": "Assistant Professor of Organic Chemistry - Department of Chemistry and Biochemistry #27-02",
-      "url": "https://jobs.chronicle.com/job/38041750",
-      "date": "2026-09-21",
-      "location": "California State University, Northridge at Northridge, CA, US",
-      "description": "Seeks tenure-track assistant professor specializing in organic chemistry research and teaching.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "organic chemistry",
-        "chemistry"
-      ]
-    },
-    {
-      "id": "jobs-38041802",
-      "title": "Assistant Professor",
-      "url": "https://jobs.chronicle.com/job/38041802",
-      "date": "2026-09-21",
-      "location": "Washington State University at Pullman, WA, US",
-      "description": "Seeks tenure-track faculty in robotics and autonomous systems within mechanical and materials engineering.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "robotics",
-        "autonomous systems",
-        "mechanical engineering",
-        "materials engineering"
-      ]
-    },
-    {
-      "id": "jobs-38041446",
-      "title": "Assistant/Associate Professor - ECE",
-      "url": "https://jobs.chronicle.com/job/38041446",
-      "date": "2026-09-18",
-      "location": "Miami University (Ohio) at Oxford, OH, US",
-      "description": "Seeks tenure-track ECE faculty with research interests in quantum technologies, robotics, or power engineering.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "electrical engineering",
-        "computer engineering",
-        "quantum technologies",
-        "robotics"
-      ]
-    },
-    {
-      "id": "jobs-38041637",
-      "title": "Assistant/Associate/Full Professor",
-      "url": "https://jobs.chronicle.com/job/38041637",
-      "date": "2026-09-18",
-      "location": "Virginia Tech at Blacksburg, VA, US",
-      "description": "Seeks tenure-track faculty in mechanical engineering focusing on robotics, artificial intelligence, and autonomous systems.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "robotics",
-        "artificial intelligence",
-        "autonomous systems",
-        "mechanical engineering"
       ]
     },
     {
@@ -472,6 +331,115 @@
       ]
     },
     {
+      "id": "jobs-38041497",
+      "title": "Tenure-Track Faculty in Electrical, Computer and Energy Engineering",
+      "url": "https://jobs.chronicle.com/job/38041497",
+      "date": "2026-09-21",
+      "location": "University of Colorado Boulder at Boulder, CO, US",
+      "description": "Seeks tenure-track faculty in electrical and computer engineering including computing hardware and quantum technologies.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "electrical engineering",
+        "computer engineering",
+        "computing hardware",
+        "quantum technologies"
+      ]
+    },
+    {
+      "id": "jobs-38041555",
+      "title": "Tenure-Track Faculty in Electrical, Computer and Energy Engineering",
+      "url": "https://jobs.chronicle.com/job/38041555",
+      "date": "2026-09-21",
+      "location": "University of Colorado System at Boulder, CO, US",
+      "description": "Seeks tenure-track faculty in electrical and computer engineering including computing hardware and quantum technologies.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "electrical engineering",
+        "computer engineering",
+        "computing hardware",
+        "quantum technologies"
+      ]
+    },
+    {
+      "id": "jobs-38041672",
+      "title": "Assistant Professor, Chemistry and Chemical Biology",
+      "url": "https://jobs.chronicle.com/job/38041672",
+      "date": "2026-09-21",
+      "location": "Northeastern University at Boston, MA, US",
+      "description": "Seeks tenure-track faculty in physical AI and robotics for automated self-driving laboratories accelerating materials and chemistry discovery.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "self-driving laboratories",
+        "materials discovery",
+        "physical AI",
+        "automation",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "jobs-38041698",
+      "title": "Assistant Professor of Construction Management - Civil Engineering and Construction Management #27-08",
+      "url": "https://jobs.chronicle.com/job/38041698",
+      "date": "2026-09-21",
+      "location": "California State University, Northridge at Northridge, CA, US",
+      "description": "Seeks tenure-track faculty in construction management and construction engineering.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "construction management",
+        "construction engineering",
+        "civil engineering"
+      ]
+    },
+    {
+      "id": "jobs-38041720",
+      "title": "Assistant Professor of Civil Engineering - Civil Engineering and Construction Management #27-09",
+      "url": "https://jobs.chronicle.com/job/38041720",
+      "date": "2026-09-21",
+      "location": "California State University, Northridge at Northridge, CA, US",
+      "description": "Seeks tenure-track faculty in civil engineering with focus on structural and geotechnical engineering.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "civil engineering",
+        "geotechnical engineering",
+        "structural engineering"
+      ]
+    },
+    {
+      "id": "jobs-38041750",
+      "title": "Assistant Professor of Organic Chemistry - Department of Chemistry and Biochemistry #27-02",
+      "url": "https://jobs.chronicle.com/job/38041750",
+      "date": "2026-09-21",
+      "location": "California State University, Northridge at Northridge, CA, US",
+      "description": "Seeks tenure-track assistant professor specializing in organic chemistry research and teaching.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "organic chemistry",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "jobs-38041802",
+      "title": "Assistant Professor",
+      "url": "https://jobs.chronicle.com/job/38041802",
+      "date": "2026-09-21",
+      "location": "Washington State University at Pullman, WA, US",
+      "description": "Seeks tenure-track faculty in robotics and autonomous systems within mechanical and materials engineering.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "robotics",
+        "autonomous systems",
+        "mechanical engineering",
+        "materials engineering"
+      ]
+    },
+    {
       "id": "jobs-38042099",
       "title": "Computing and Mathematical Sciences Division – Open Rank Faculty Positions in Mathematics for AI",
       "url": "https://jobs.chronicle.com/job/38042099",
@@ -577,6 +545,38 @@
         "geology",
         "geomorphology",
         "hydrogeology"
+      ]
+    },
+    {
+      "id": "jobs-38041446",
+      "title": "Assistant/Associate Professor - ECE",
+      "url": "https://jobs.chronicle.com/job/38041446",
+      "date": "2026-09-18",
+      "location": "Miami University (Ohio) at Oxford, OH, US",
+      "description": "Seeks tenure-track ECE faculty with research interests in quantum technologies, robotics, or power engineering.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "electrical engineering",
+        "computer engineering",
+        "quantum technologies",
+        "robotics"
+      ]
+    },
+    {
+      "id": "jobs-38041637",
+      "title": "Assistant/Associate/Full Professor",
+      "url": "https://jobs.chronicle.com/job/38041637",
+      "date": "2026-09-18",
+      "location": "Virginia Tech at Blacksburg, VA, US",
+      "description": "Seeks tenure-track faculty in mechanical engineering focusing on robotics, artificial intelligence, and autonomous systems.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "robotics",
+        "artificial intelligence",
+        "autonomous systems",
+        "mechanical engineering"
       ]
     },
     {
