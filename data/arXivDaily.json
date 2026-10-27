@@ -2,14 +2,36 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-26T05:32:07-04:00",
+    "generatedAt": "2026-10-27T05:37:22-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 436 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 438 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.35454v1",
+      "title": "Pulsed Laser Deposition of Ferroelectric SrTiO3 Shells Enables Polarization-Controlled Charge Separation in TiO2 Photoanode",
+      "url": "https://arxiv.org/abs/2610.35454v1",
+      "date": "2026-10-26",
+      "summary": "This study uses pulsed laser deposition to fabricate stoichiometric ferroelectric SrTiO3 shells on TiO2 nanorod arrays for polarization-controlled charge separation. The authors identified coherent interfacial strain as the origin of ferroelectric order, creating a polarization-induced built-in electric field. The optimized core-shell photoanode achieved a peak photocurrent density of 1.9 mA cm-2 at 1.23 V vs RHE, improving solar water-splitting performance.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-chem-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2610.33595v1",
+      "title": "Co layer Thickness Driven Structural Evolution and Magnetic Behaviour of Co/Ir/Co Trilayers",
+      "url": "https://arxiv.org/abs/2610.33595v1",
+      "date": "2026-10-24",
+      "summary": "This paper investigates the influence of Co-layer thickness (2 to 10 nm) on the structural and magnetic properties of sputter-deposited Co/Ir/Co trilayers. The authors found that crystallite size and saturation magnetization increased with thickness, whereas coercivity and interface roughness peaked non-monotonically at intermediate thicknesses. Additionally, low-temperature exchange-bias-like shifts occurred in 2 to 4 nm Co layers.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
     {
       "id": "arxiv-2610.32419v1",
       "title": "Electron Wavefronts Capture Nanoscale Movies of Hypersound at Surfaces",
