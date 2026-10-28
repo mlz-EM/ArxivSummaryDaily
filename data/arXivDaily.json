@@ -2,14 +2,55 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-27T05:37:22-04:00",
+    "generatedAt": "2026-10-28T06:12:36-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 438 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 445 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.37366v1",
+      "title": "Superconductivity and local stacking polymorphism in LaNiGa2 thin films",
+      "url": "https://arxiv.org/abs/2610.37366v1",
+      "date": "2026-10-27",
+      "summary": "LaNiGa2 has attracted considerable interest as a candidate unconventional superconductor, particularly due to its reported time-reversal symmetry breaking and nonsymmorphic crystal structure hosting symmetry-protected electronic band degene",
+      "tags": [
+        "cond-mat-supr-con"
+      ]
+    },
+    {
+      "id": "arxiv-2610.37023v1",
+      "title": "Prussian blue and Prussian white thin-film electrodes: Single-step electrodeposition for anode and cathode applications",
+      "url": "https://arxiv.org/abs/2610.37023v1",
+      "date": "2026-10-27",
+      "summary": "This study examines how deposition potential influences the composition and nanoscale structure of Prussian Blue (PB)/Prussian White (PW)-family films, providing an experimental basis for assessing their proposed functions. Films were grown",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2610.36498v1",
+      "title": "Learning Multiscale Dynamics of Nanoparticle Self-Assembly",
+      "url": "https://arxiv.org/abs/2610.36498v1",
+      "date": "2026-10-27",
+      "summary": "Nanoparticle self-assembly offers a powerful route to programmable functional materials, but its dynamics remain difficult to understand because they arise from multiscale, many-body, and environment-dependent interactions. Liquid-phase tra",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2610.36482v1",
+      "title": "Nano-Nb Superconducting 3D Josephson Junctions Arrays in Cu-Normal Matrix: Superconducting Phase Coherence and Quantum Fluctuations Properties",
+      "url": "https://arxiv.org/abs/2610.36482v1",
+      "date": "2026-10-27",
+      "summary": "To address the complex interplay of microstructural evolution, phase separation, superconductivity coherence and quantum fluctuations, we prepared Cuxwt%Nb series of granular samples by rapidly cooling, where the niobium concentration varie",
+      "tags": [
+        "cond-mat-supr-con"
+      ]
+    },
     {
       "id": "arxiv-2610.35454v1",
       "title": "Pulsed Laser Deposition of Ferroelectric SrTiO3 Shells Enables Polarization-Controlled Charge Separation in TiO2 Photoanode",
@@ -19,6 +60,37 @@
       "tags": [
         "cond-mat-mtrl-sci",
         "physics-chem-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2610.36313v1",
+      "title": "Oxygen partial pressure induced dielectric phase evolution in PLD deposited Barium Strontium Titanate thin films",
+      "url": "https://arxiv.org/abs/2610.36313v1",
+      "date": "2026-10-26",
+      "summary": "Barium Strontium Titanate ((BaxSr1-x)TiO3, BST) thin films are amongst the most extensively studied dielectric alloys over the last decade. This is due to the tunability of the dielectric constant and dissipation factor in the underlying fe",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2610.36182v1",
+      "title": "Ultrafast light-electron modulation for free-electron quantum optics: fundamentals and applications",
+      "url": "https://arxiv.org/abs/2610.36182v1",
+      "date": "2026-10-26",
+      "summary": "Coherent optical modulation of free-electron wavepackets offers a route to ultrafast beam steering, energy exchange, temporal compression, and quantum-state shaping. Recent advances in photon-induced near-field electron microscopy (PINEM),",
+      "tags": [
+        "physics-optics",
+        "quant-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2610.36086v1",
+      "title": "STEM-Bank-26: An Open Dataset of Analytical Scanning Transmission Electron Microscopy Images and Spectra",
+      "url": "https://arxiv.org/abs/2610.36086v1",
+      "date": "2026-10-26",
+      "summary": "Scanning transmission electron microscopy (STEM) is a versatile, multi-modal method for studying materials at the nanoscale. It integrates multiple signal sources to provide atomic resolution imaging alongside spectroscopy for elemental com",
+      "tags": [
+        "cond-mat-mtrl-sci"
       ]
     },
     {

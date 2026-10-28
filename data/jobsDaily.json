@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-27T05:38:02-04:00",
+    "generatedAt": "2026-10-28T06:12:52-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,117 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Piano",
+      "url": "https://www.indeed.com/viewjob?jk=d8a081fc70c414eb",
+      "date": "2026-10-28",
+      "location": "Abilene Christian University at Abilene, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, (TT)",
+      "url": "https://www.indeed.com/viewjob?jk=022b73983080c368",
+      "date": "2026-10-27",
+      "location": "The University of Akron at Akron, OH, US",
+      "description": "Seeks tenure-track faculty in mechanical engineering with a focus on advanced materials research.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "advanced materials",
+        "battery materials",
+        "high-entropy materials",
+        "materials modeling"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Visual Arts, Painting, tenure-track",
+      "url": "https://www.indeed.com/viewjob?jk=b71f3340a23048df",
+      "date": "2026-10-27",
+      "location": "Eckerd College at Saint Petersburg, FL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4484097895",
+      "title": "Academic Professional Track (Non-Tenure): Clinical Open Rank and Title – FNP Specialty",
+      "url": "https://www.linkedin.com/jobs/view/4484097895",
+      "date": "2026-10-27",
+      "location": "Texas A&M University at Bryan, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Teaching Professor in Music, Media, Production",
+      "url": "https://www.indeed.com/viewjob?jk=504ce02406b2e96f",
+      "date": "2026-10-27",
+      "location": "Ball State University at Muncie, IN, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenured/Tenure Track: Open Rank",
+      "url": "https://www.indeed.com/viewjob?jk=a418d3092e34e841",
+      "date": "2026-10-27",
+      "location": "Texas A&M University at College Station, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4483209452",
+      "title": "Assistant/Associate Professor of Clinical Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4483209452",
+      "date": "2026-10-26",
+      "location": "Marian University at Indianapolis, IN, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Music (Director of Orchestral Activities)",
+      "url": "https://www.indeed.com/viewjob?jk=16587d075226fcbd",
+      "date": "2026-10-23",
+      "location": "UNC Charlotte at Charlotte, NC, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4473805640",
+      "title": "Tenure Track Faculty Position, Assistant Professor – Pulmonary, Allergy and Critical Care Division",
+      "url": "https://www.linkedin.com/jobs/view/4473805640",
+      "date": "2026-10-02",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor, Department of Childhood Studies",
       "url": "https://www.indeed.com/viewjob?jk=96e85f62a0df2845",
       "date": "2026-10-27",
       "location": "Bridgewater State University at Bridgewater, MA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +133,7 @@
       "location": "The Ohio State University Wexner Medical Center at Columbus, OH, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +144,7 @@
       "location": "Case Western Reserve University at Cleveland, OH, US",
       "description": "Seeks tenure-track faculty in polymer science and engineering focusing on advanced materials.",
       "fitScore": 3,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "polymer science",
         "advanced materials",
@@ -55,7 +159,7 @@
       "location": "University of Texas at Dallas at Richardson, TX, US",
       "description": "Seeks tenure-track faculty in experimental condensed matter physics focusing on quantum materials and semiconductors.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "condensed matter physics",
         "quantum materials",
@@ -71,7 +175,7 @@
       "location": "Ball State University at Muncie, IN, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -82,7 +186,7 @@
       "location": "Lebanon Valley College at Annville, PA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -93,7 +197,7 @@
       "location": "University of Pikeville at Pikeville, KY, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -104,7 +208,7 @@
       "location": "Sam Houston State University at Huntsville, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -115,7 +219,7 @@
       "location": "Samuel Merritt University at Oakland, CA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -126,87 +230,7 @@
       "location": "Virginia Tech at Blacksburg, VA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Open Level Faculty Position in the Area of Computer Architecture and Systems",
-      "url": "https://www.indeed.com/viewjob?jk=0afd4c5a9e14076c",
-      "date": "2026-10-23",
-      "location": "University of California, Santa Barbara at Santa Barbara, CA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor",
-      "url": "https://www.indeed.com/viewjob?jk=6af8bca09a1cf225",
-      "date": "2026-10-23",
-      "location": "Emory University at Oxford, GA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Chemistry",
-      "url": "https://www.indeed.com/viewjob?jk=7c7a3d25d944c8bd",
-      "date": "2026-10-22",
-      "location": "St. Catherine University at Saint Paul, MN, US",
-      "description": "Seeks tenure-track faculty in organic chemistry to teach undergraduate courses and conduct research.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "organic chemistry",
-        "polymers"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Open Rank Faculty Position in International Relations",
-      "url": "https://www.indeed.com/viewjob?jk=d590fae2c481d0b5",
-      "date": "2026-10-22",
-      "location": "University of Southern California at Los Angeles, CA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor",
-      "url": "https://www.indeed.com/viewjob?jk=8a0b2e217cbb3ef1",
-      "date": "2026-10-22",
-      "location": "UNC Charlotte at Charlotte, NC, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Practice in Acting (Professional Track)",
-      "url": "https://www.indeed.com/viewjob?jk=55a454203b050db0",
-      "date": "2026-10-21",
-      "location": "University of Texas at Austin at Austin, TX, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Tenure Track Assistant Professor - Mechanical and Industrial Engineering",
-      "url": "https://www.indeed.com/viewjob?jk=1e2d442333549bab",
-      "date": "2026-10-21",
-      "location": "Umass Lowell at Lowell, MA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -263,6 +287,28 @@
       "url": "https://www.linkedin.com/jobs/view/4481011385",
       "date": "2026-10-24",
       "location": "Emory University at Atlanta, GA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Open Level Faculty Position in the Area of Computer Architecture and Systems",
+      "url": "https://www.indeed.com/viewjob?jk=0afd4c5a9e14076c",
+      "date": "2026-10-23",
+      "location": "University of California, Santa Barbara at Santa Barbara, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=6af8bca09a1cf225",
+      "date": "2026-10-23",
+      "location": "Emory University at Oxford, GA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -351,6 +397,42 @@
       "url": "https://www.linkedin.com/jobs/view/4481638666",
       "date": "2026-10-23",
       "location": "Franciscan School of Theology at San Diego, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Chemistry",
+      "url": "https://www.indeed.com/viewjob?jk=7c7a3d25d944c8bd",
+      "date": "2026-10-22",
+      "location": "St. Catherine University at Saint Paul, MN, US",
+      "description": "Seeks tenure-track faculty in organic chemistry to teach undergraduate courses and conduct research.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "organic chemistry",
+        "polymers"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Open Rank Faculty Position in International Relations",
+      "url": "https://www.indeed.com/viewjob?jk=d590fae2c481d0b5",
+      "date": "2026-10-22",
+      "location": "University of Southern California at Los Angeles, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=8a0b2e217cbb3ef1",
+      "date": "2026-10-22",
+      "location": "UNC Charlotte at Charlotte, NC, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -637,6 +719,28 @@
       "url": "https://www.indeed.com/viewjob?jk=ef2ec03191657cdf",
       "date": "2026-10-22",
       "location": "The University of Austin (UATX) at Austin, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Practice in Acting (Professional Track)",
+      "url": "https://www.indeed.com/viewjob?jk=55a454203b050db0",
+      "date": "2026-10-21",
+      "location": "University of Texas at Austin at Austin, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track Assistant Professor - Mechanical and Industrial Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=1e2d442333549bab",
+      "date": "2026-10-21",
+      "location": "Umass Lowell at Lowell, MA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
