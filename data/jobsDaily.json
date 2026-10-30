@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-29T06:42:17-04:00",
+    "generatedAt": "2026-10-30T06:45:57-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,104 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Tenure-Track Assistant Professor of Physics",
+      "url": "https://www.indeed.com/viewjob?jk=316497038225c06d",
+      "date": "2026-10-29",
+      "location": "UNIVERSITY OF EVANSVILLE at Evansville, IN, US",
+      "description": "Seeks a tenure-track Assistant Professor in Physics with focus on undergraduate education, engagement, and science outreach.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "physics",
+        "undergraduate education",
+        "science outreach"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Mechanical Engineering (Tenure-Track)",
+      "url": "https://www.indeed.com/viewjob?jk=29dd33d1f66733ac",
+      "date": "2026-10-29",
+      "location": "City University of New York at New York, NY, US",
+      "description": "Invites applications for a tenure-track Assistant Professor in Mechanical Engineering focused on thermal-hydraulics and energy systems.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "mechanical engineering",
+        "thermal-hydraulics",
+        "advanced materials",
+        "energy systems"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Physics (Tenure-Track)",
+      "url": "https://www.indeed.com/viewjob?jk=12072f82b067ebb8",
+      "date": "2026-10-29",
+      "location": "City University of New York at New York, NY, US",
+      "description": "Seeking a tenure-track Assistant Professor in computational condensed matter physics specializing in quantum materials.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "condensed matter physics",
+        "quantum materials",
+        "computational physics"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Faculty - Tenure-Track, Assistant Professor - Physics",
+      "url": "https://www.indeed.com/viewjob?jk=510d6f38faa054e4",
+      "date": "2026-10-27",
+      "location": "Utah Valley University at Orem, UT, US",
+      "description": "Invites applications for a tenure-track Assistant Professor of Physics with potential research in condensed matter and material physics.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "physics",
+        "condensed matter physics",
+        "material physics"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - CASFER",
+      "url": "https://www.indeed.com/viewjob?jk=21f0496a1e8bf40e",
+      "date": "2026-10-22",
+      "location": "Texas Tech University at TX, US",
+      "description": "Seeking tenure-track Assistant Professors in Chemical Engineering focusing on sustainable fertilizer production and circular economy.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "chemical engineering",
+        "sustainability",
+        "circular economy"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor 129550",
+      "url": "https://www.indeed.com/viewjob?jk=a907f5ace199fcca",
+      "date": "2026-10-20",
+      "location": "University of West Florida at Pensacola, FL, US",
+      "description": "Seeking a tenure-track Assistant Professor in AI and intelligent systems within engineering and robotics.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "artificial intelligence",
+        "robotics",
+        "intelligent systems"
+      ]
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor of Chemistry",
       "url": "https://www.indeed.com/viewjob?jk=94724df146c474ef",
       "date": "2026-10-29",
       "location": "Lincoln University at Jefferson City, MO, US",
       "description": "Seeks tenure-track chemistry faculty to teach undergraduate and graduate courses and establish an active research program.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "chemistry",
         "physical chemistry",
@@ -33,7 +124,7 @@
       "location": "Loyola University New Orleans at New Orleans, LA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -44,7 +135,7 @@
       "location": "SUNY Downstate Health Sciences University at Brooklyn, NY, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -55,7 +146,7 @@
       "location": "UNC Charlotte at Charlotte, NC, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -66,143 +157,7 @@
       "location": "Texas A&M University at College Station, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Psychology",
-      "url": "https://www.indeed.com/viewjob?jk=1573fc55054e12d4",
-      "date": "2026-10-26",
-      "location": "Delta State University at Cleveland, MS, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4480690629",
-      "title": "Assistant Professor",
-      "url": "https://www.linkedin.com/jobs/view/4480690629",
-      "date": "2026-10-23",
-      "location": "University of Colorado at Aurora, CO, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor",
-      "url": "https://www.indeed.com/viewjob?jk=8615cfb81af75623",
-      "date": "2026-10-23",
-      "location": "Emory University at Oxford, GA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Philosophy",
-      "url": "https://www.indeed.com/viewjob?jk=0db77099f1ee695f",
-      "date": "2026-10-21",
-      "location": "University of Pittsburgh at Pittsburgh, PA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Psychology, Non-Tenure Track - College of Arts and Sciences",
-      "url": "https://www.indeed.com/viewjob?jk=4d61718cb59f0def",
-      "date": "2026-10-21",
-      "location": "Ashland University at Ashland, OH, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of History, Tenure Track - College of Arts and Sciences",
-      "url": "https://www.indeed.com/viewjob?jk=fd08a790746d5c15",
-      "date": "2026-10-21",
-      "location": "Ashland University at Ashland, OH, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor (History)",
-      "url": "https://www.indeed.com/viewjob?jk=d9b926a5c55f35b9",
-      "date": "2026-10-20",
-      "location": "Southern Illinois University Carbondale at Carbondale, IL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "The University of Georgia – Family and Consumer Sciences – Associate Professor of Nutritional Sciences & Nursing",
-      "url": "https://www.indeed.com/viewjob?jk=ffc23fca445ae043",
-      "date": "2026-10-19",
-      "location": "Athens, GA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4479312814",
-      "title": "Professor (Open Rank) of Nursing",
-      "url": "https://www.linkedin.com/jobs/view/4479312814",
-      "date": "2026-10-16",
-      "location": "University of Louisville at Louisville, KY, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Instruction - General Chemistry",
-      "url": "https://www.indeed.com/viewjob?jk=397878e5a7d7358a",
-      "date": "2026-10-16",
-      "location": "University of Texas at Austin at Austin, TX, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Chemistry - College of Arts and Sciences",
-      "url": "https://www.indeed.com/viewjob?jk=1a34e9773a6f4605",
-      "date": "2026-10-14",
-      "location": "Ashland University at Ashland, OH, US",
-      "description": "Seeks tenure-track assistant professor of chemistry with preferred specialization in inorganic or analytical chemistry.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "inorganic chemistry",
-        "analytical chemistry",
-        "chemistry"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Tenure-Track, Rank Open Faculty; Kinesiology (Health Promotion)",
-      "url": "https://www.indeed.com/viewjob?jk=10bb356bc81349d4",
-      "date": "2026-10-13",
-      "location": "University of North Alabama at Florence, AL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -293,6 +248,17 @@
       "url": "https://www.linkedin.com/jobs/view/4483772732",
       "date": "2026-10-27",
       "location": "The Ohio State University Wexner Medical Center at Columbus, OH, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Psychology",
+      "url": "https://www.indeed.com/viewjob?jk=1573fc55054e12d4",
+      "date": "2026-10-26",
+      "location": "Delta State University at Cleveland, MS, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -460,6 +426,28 @@
       "url": "https://www.linkedin.com/jobs/view/4481011385",
       "date": "2026-10-24",
       "location": "Emory University at Atlanta, GA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4480690629",
+      "title": "Assistant Professor",
+      "url": "https://www.linkedin.com/jobs/view/4480690629",
+      "date": "2026-10-23",
+      "location": "University of Colorado at Aurora, CO, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=8615cfb81af75623",
+      "date": "2026-10-23",
+      "location": "Emory University at Oxford, GA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -910,6 +898,39 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Philosophy",
+      "url": "https://www.indeed.com/viewjob?jk=0db77099f1ee695f",
+      "date": "2026-10-21",
+      "location": "University of Pittsburgh at Pittsburgh, PA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Psychology, Non-Tenure Track - College of Arts and Sciences",
+      "url": "https://www.indeed.com/viewjob?jk=4d61718cb59f0def",
+      "date": "2026-10-21",
+      "location": "Ashland University at Ashland, OH, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of History, Tenure Track - College of Arts and Sciences",
+      "url": "https://www.indeed.com/viewjob?jk=fd08a790746d5c15",
+      "date": "2026-10-21",
+      "location": "Ashland University at Ashland, OH, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor of Practice in Acting (Professional Track)",
       "url": "https://www.indeed.com/viewjob?jk=55a454203b050db0",
       "date": "2026-10-21",
@@ -1106,6 +1127,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor (History)",
+      "url": "https://www.indeed.com/viewjob?jk=d9b926a5c55f35b9",
+      "date": "2026-10-20",
+      "location": "Southern Illinois University Carbondale at Carbondale, IL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor - Electrical Engineering Technology",
       "url": "https://www.indeed.com/viewjob?jk=1abfbc721db74d50",
       "date": "2026-10-20",
@@ -1246,6 +1278,17 @@
       "url": "https://www.indeed.com/viewjob?jk=33f4b0f7188fcc7a",
       "date": "2026-10-20",
       "location": "Assumption University at Worcester, MA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "The University of Georgia – Family and Consumer Sciences – Associate Professor of Nutritional Sciences & Nursing",
+      "url": "https://www.indeed.com/viewjob?jk=ffc23fca445ae043",
+      "date": "2026-10-19",
+      "location": "Athens, GA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1520,6 +1563,28 @@
       "url": "https://www.indeed.com/viewjob?jk=c8637a2125e87a2d",
       "date": "2026-10-17",
       "location": "University of Southern California at Los Angeles, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4479312814",
+      "title": "Professor (Open Rank) of Nursing",
+      "url": "https://www.linkedin.com/jobs/view/4479312814",
+      "date": "2026-10-16",
+      "location": "University of Louisville at Louisville, KY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Instruction - General Chemistry",
+      "url": "https://www.indeed.com/viewjob?jk=397878e5a7d7358a",
+      "date": "2026-10-16",
+      "location": "University of Texas at Austin at Austin, TX, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1917,6 +1982,21 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Chemistry - College of Arts and Sciences",
+      "url": "https://www.indeed.com/viewjob?jk=1a34e9773a6f4605",
+      "date": "2026-10-14",
+      "location": "Ashland University at Ashland, OH, US",
+      "description": "Seeks tenure-track assistant professor of chemistry with preferred specialization in inorganic or analytical chemistry.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "inorganic chemistry",
+        "analytical chemistry",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor of Global Studies, General Faculty",
       "url": "https://www.indeed.com/viewjob?jk=31d06cc5f565f1ec",
       "date": "2026-10-14",
@@ -2095,6 +2175,17 @@
       "url": "https://www.indeed.com/viewjob?jk=01937c7646e2b9b1",
       "date": "2026-10-14",
       "location": "The Cooper Union for the Advancement of Science and Art at New York, NY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track, Rank Open Faculty; Kinesiology (Health Promotion)",
+      "url": "https://www.indeed.com/viewjob?jk=10bb356bc81349d4",
+      "date": "2026-10-13",
+      "location": "University of North Alabama at Florence, AL, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,

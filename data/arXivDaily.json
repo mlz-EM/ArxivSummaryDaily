@@ -2,14 +2,60 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-10-29T06:41:55-04:00",
+    "generatedAt": "2026-10-30T06:43:17-04:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 445 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 449 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.39770v1",
+      "title": "Growth and morphology of core-shell nanowires incorporating dissimilar hexagonal semiconductors: the case of InAs-ZnTe",
+      "url": "https://arxiv.org/abs/2610.39770v1",
+      "date": "2026-10-29",
+      "summary": "This study investigates the molecular beam epitaxy growth and morphology of InAs-ZnTe core-shell nanowires. The authors demonstrate that the defect-free wurtzite core structure is replicated in the ZnTe shell up to 25 nm thick due to high lattice matching, with m-facets progressively replacing sidewall a-facets during shell growth.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2610.39694v1",
+      "title": "Exceptional Superconducting Interfaces between Graphene and Atomic Chains in A15-MoRe",
+      "url": "https://arxiv.org/abs/2610.39694v1",
+      "date": "2026-10-29",
+      "summary": "This study investigates the microscopic origin of highly transparent superconducting contacts between graphene and MoRe alloys. The authors discover that as-deposited MoRe spontaneously forms an A15 superconducting phase whose 1D atomic chains achieve near-perfect lattice matching (<1% mismatch) with graphene edges, whereas annealing transitions the alloy into an hcp structure that degrades Josephson transparency.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall",
+        "cond-mat-supr-con"
+      ]
+    },
+    {
+      "id": "arxiv-2610.39525v1",
+      "title": "Near-Field Engineering of Silica-Shelled Plasmonic Nanoparticles toward Enhanced Near-Infrared Fluorescence",
+      "url": "https://arxiv.org/abs/2610.39525v1",
+      "date": "2026-10-29",
+      "summary": "This study aims to engineer silica shells on anisotropic plasmonic nanoparticles to optimize near-field extension for enhanced near-infrared fluorescence. Using STEM-EELS mapping and electromagnetic simulations, the authors demonstrate that ultra-thin silica shells (3.1–4.4 nm for gold, 7.0 nm for silver) effectively preserve near-field access beyond the dielectric boundary while providing structural protection.",
+      "tags": [
+        "physics-optics",
+        "physics-chem-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2610.38203v1",
+      "title": "Converting a superseded Raith electron beam pattern generator into an unattended Critical Dimension SEM",
+      "url": "https://arxiv.org/abs/2610.38203v1",
+      "date": "2026-10-28",
+      "summary": "This paper addresses low-throughput electron beam lithography metrology by developing a software methodology to convert superseded Raith pattern generators into automated Critical Dimension SEMs. The resulting GDSII-to-SEM workflow successfully enables unattended, chip-scale image acquisition and accurate extraction of critical dimensions and line edge roughness across wafer-scale datasets.",
+      "tags": [
+        "physics-ins-det",
+        "physics-app-ph",
+        "physics-data-an",
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2610.37366v1",
       "title": "Superconductivity and local stacking polymorphism in LaNiGa2 thin films",
