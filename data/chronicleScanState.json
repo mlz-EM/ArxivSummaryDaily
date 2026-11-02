@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "bootstrapComplete": true,
-  "lastRunAt": "2026-11-02T15:17:17Z",
+  "lastRunAt": "2026-11-02T15:56:56Z",
   "lastSitemapCount": 29071,
   "lastSitemapMaxId": 38058755,
   "seenIds": [
@@ -56671,5 +56671,17 @@
     38058752,
     38058755
   ],
-  "pendingErrors": {}
+  "pendingErrors": {},
+  "lastScanReport": {
+    "sitemapJobs": 29071,
+    "requests": 0,
+    "knownSkipped": 29071,
+    "queued": 0,
+    "titleExcluded": 0,
+    "profileExcluded": 0,
+    "dateExcluded": 0,
+    "expired": 0,
+    "missing": 0,
+    "errors": 0
+  }
 }

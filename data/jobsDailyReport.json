@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-11-02T10:47:59-05:00",
+  "model": "gemini-3.8-flash",
+  "runId": "41471583038",
+  "inputJobs": 200,
+  "alreadyProcessed": 191,
+  "prefiltered": 3,
+  "prefilterReasons": {
+    "humanities_or_social_science": 2,
+    "non_tenure_track": 1
+  },
+  "accepted": 0,
+  "rejected": 0,
+  "unsummarized": 6,
+  "complete": false,
+  "stopReason": "batch failure or incomplete response",
+  "pendingJobs": [
+    {
+      "url": "https://www.indeed.com/viewjob?jk=d6aa7385dbdee385",
+      "title": "Assistant Professor of Chemistry-Tenure Track"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=87786da28aae9e85",
+      "title": "Assistant Professor"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=43839162e6df7e75",
+      "title": "Assistant Professor of Health and Wellness Design"
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4481976956",
+      "title": "Assistant Professor, Tenure Track, CHOP Division of Hematology"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=1144aa1e56e40f2f",
+      "title": "Assistant Professor in Anglophone Poetry Studies"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=fb2f360f6b244ea2",
+      "title": "Assistant Professor, Mathematics and Statistics"
+    }
+  ],
+  "prefilterExamples": [
+    {
+      "url": "https://www.indeed.com/viewjob?jk=4bba9fd4d947f2c8",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4483700027",
+      "reason": "non_tenure_track"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=889b1b3d90c2133e",
+      "reason": "humanities_or_social_science"
+    }
+  ]
+}

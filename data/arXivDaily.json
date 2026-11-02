@@ -1,15 +1,25 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.6-flash",
-    "generatedAt": "2026-11-01T06:00:38-05:00",
+    "model": "gemini-3.8-flash",
+    "generatedAt": "2026-11-02T10:41:16-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 449 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 451 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2610.42064v1",
+      "title": "Soft X-Ray Detection Down to the Nitrogen K-Edge Using a Pixelated iLGAD Sensor",
+      "url": "https://arxiv.org/abs/2610.42064v1",
+      "date": "2026-10-30",
+      "summary": "This paper aims to develop soft X-ray hybrid pixel detectors using thin-window inverse low-gain avalanche diode (iLGAD) sensors. The authors achieve single-photon resolution down to 390 eV with a signal-to-noise ratio of 5, observe a multiplication-depth-dependent double-peak spectral feature, and establish a phenomenological fitting model to extract layer parameters, advancing high-frame-rate soft X-ray science.",
+      "tags": [
+        "physics-ins-det"
+      ]
+    },
     {
       "id": "arxiv-2610.39770v1",
       "title": "Growth and morphology of core-shell nanowires incorporating dissimilar hexagonal semiconductors: the case of InAs-ZnTe",
@@ -41,6 +51,17 @@
       "tags": [
         "physics-optics",
         "physics-chem-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2610.40737v1",
+      "title": "Thermal Stability and Structural Relaxation Kinetics of Commercially Pure Titanium",
+      "url": "https://arxiv.org/abs/2610.40737v1",
+      "date": "2026-10-29",
+      "summary": "This study investigates the thermal stability and structural relaxation kinetics of nanostructured, cryorolled commercially pure titanium during annealing. Annealing promoted grain growth from initial 30–50 nm crystallites to complete recrystallization at 945 K, following Lifshitz-Slyozov-Wagner kinetics with an exponent of ~4 and an activation energy of ~97 kJ/mol governed by grain boundary diffusion.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-other"
       ]
     },
     {
