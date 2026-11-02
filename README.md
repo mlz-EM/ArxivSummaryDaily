@@ -18,6 +18,9 @@ transient errors have bounded retries. `*SummaryReport.json` files (and
 `jobsDailyReport.json`) list unresolved URLs and reasons; the Actions job summary
 also shows the remaining queue counts.
 
+Repeated HTTP 5xx failures also open a shared five-minute cooldown, preserving
+queued work instead of retrying every source during a provider outage.
+
 The local profile filter excludes only explicit unrelated title fields and
 appointment types. Unknown titles and potential engineering/physical-science
 fits continue to the LLM. Materials evidence preserves interdisciplinary

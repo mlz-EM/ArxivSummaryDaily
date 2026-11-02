@@ -27,5 +27,17 @@
       "feedItems": 4084,
       "visibleFitJobs": 431
     }
-  }
+  },
+  "followUpReview": {
+    "generatedAt": "2026-11-02T11:02:51-05:00",
+    "reviewed": 8,
+    "accepted": 1,
+    "rejected": 7,
+    "unsummarized": 0,
+    "decisionSha256": "421295fb61c2f902ef58bcbed1c0c03463e6b62fce1e4516ebfb380afbaa1c47",
+    "reason": "New jobs deferred during the live Gemini3.8 verification because of provider HTTP503 overload"
+  },
+  "reviewedTotal": 7285,
+  "acceptedTotal": 616,
+  "rejectedTotal": 6669
 }

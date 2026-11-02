@@ -12,7 +12,7 @@ from src import chronicle_cli, insidehighered_cli
 from src.madgex_client import MadgexStore
 from src.interfolio_client import is_summary_candidate
 from src.job_summarizer import JobSummarizer
-from src.llm_client import LLMContextLimit, LLMModelClient, LLMQuotaExhausted
+from src.llm_client import LLMContextLimit, LLMModelClient, LLMQuotaExhausted, LLMServiceUnavailable
 
 
 def job(number, title="Assistant Professor of Materials Science"):
@@ -128,6 +128,22 @@ class TestJobRecovery(unittest.TestCase):
 
 class TestQuotaStop(unittest.TestCase):
     @mock.patch("src.llm_client.time.sleep")
+    def test_provider_outage_stops_other_sources_after_bounded_retries(self, sleep):
+        response = mock.Mock(status_code=503, headers={})
+        response.json.return_value = {"error": {"message": "This model is experiencing high demand"}}
+        with tempfile.TemporaryDirectory() as directory, mock.patch.dict(os.environ, {
+            "LLM_QUOTA_STATE_FILE": str(Path(directory) / "quota.json"),
+        }), mock.patch.dict("src.llm_client.LLM_CONFIG", {"retry_count": 2}), mock.patch(
+            "src.llm_client.requests.post", return_value=response
+        ) as post:
+            with self.assertRaises(LLMServiceUnavailable):
+                LLMModelClient("dummy", "gemini-3.8-flash").chat_completion([{"content": "first source"}])
+            with self.assertRaises(LLMServiceUnavailable):
+                LLMModelClient("dummy", "gemini-3.8-flash").chat_completion([{"content": "second source"}])
+            self.assertEqual(post.call_count, 2)
+            sleep.assert_called_once()
+
+    @mock.patch("src.llm_client.time.sleep")
     def test_daily_quota_is_not_retried_and_stops_next_process(self, sleep):
         response = mock.Mock(status_code=429, headers={})
         response.json.return_value = {"error": {"message": "Requests per day exhausted", "details": [
@@ -164,7 +180,7 @@ class TestQuotaStop(unittest.TestCase):
 
 class TestConservativeFilter(unittest.TestCase):
     def test_clear_unrelated_fields_are_excluded(self):
-        for title in ("Assistant Professor of Nursing", "Professor of Accounting", "Assistant Professor of English", "Professor of Neuroscience"):
+        for title in ("Assistant Professor of Nursing", "Professor of Accounting", "Assistant Professor of English", "Professor of Neuroscience", "CHOP Division of Hematology", "Assistant Professor in Anglophone Poetry Studies"):
             with self.subTest(title=title):
                 self.assertTrue(profile_exclusion_reason(job(1, title)))
 

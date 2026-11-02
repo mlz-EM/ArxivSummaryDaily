@@ -21,7 +21,7 @@ from .feed_utils import (
 )
 from config.settings import LLM_CONFIG
 from .job_filter import profile_exclusion_reason
-from .llm_client import LLMModelClient, LLMQuotaExhausted, LLMContextLimit
+from .llm_client import LLMModelClient, LLMQuotaExhausted, LLMContextLimit, LLMServiceUnavailable
 
 
 class JobSummarizer:
@@ -41,6 +41,7 @@ class JobSummarizer:
         self.last_report = {}
         self._checkpoint = None
         self._batch_too_large = False
+        self._last_error = ""
 
     def _filter_new_jobs(self, jobs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         return dedupe_incoming_by_url(jobs, "job_url")
@@ -157,14 +158,17 @@ Job input (JSON lines):
                 print(f"::warning::{len(missing)} jobs were omitted by the model and remain pending.")
             print(f"Batch classified {len(decisions)}/{len(jobs)} jobs: {len(result['accepted'])} accepted, {len(result['rejected'])} rejected.")
             return decisions, not missing
-        except LLMQuotaExhausted as exc:
+        except (LLMQuotaExhausted, LLMServiceUnavailable) as exc:
+            self._last_error = str(exc)
             print(f"::warning::{exc}")
             return [], False
         except LLMContextLimit as exc:
             self._batch_too_large = True
+            self._last_error = str(exc)
             print(f"::warning::{exc}")
             return [], False
         except Exception as exc:
+            self._last_error = str(exc)
             print(f"::warning::Batch generation failed; jobs remain pending: {exc}")
             return [], False
 
@@ -189,7 +193,7 @@ Job input (JSON lines):
                 self._checkpoint(items)
             start_index += len(batch)
             if self.client.stop_reason:
-                print("Stopping LLM work after quota exhaustion; later batches remain pending.")
+                print("Stopping LLM work after provider deferral; later batches remain pending.")
                 break
             if batches:
                 time.sleep(3)
@@ -283,6 +287,7 @@ Job input (JSON lines):
         report_path = output_json.with_name(output_json.stem + "Report.json")
         output_json.parent.mkdir(parents=True, exist_ok=True)
         self.completed_urls = set()
+        self._last_error = ""
         try:
             existing_items = self._load_existing_json_items(output_json)
             merged = {
@@ -346,7 +351,7 @@ Job input (JSON lines):
                 "prefiltered": sum(prefiltered.values()), "prefilterReasons": dict(prefiltered),
                 "accepted": len(accepted), "rejected": len(rejected),
                 "unsummarized": len(unresolved), "complete": not unresolved,
-                "stopReason": self.client.stop_reason or ("batch failure or incomplete response" if not api_success else ""),
+                "stopReason": self.client.stop_reason or ((self._last_error or "incomplete response") if not api_success else ""),
                 "pendingJobs": [{"url": self._to_https_url(job.get("job_url", "")), "title": job.get("title", "")} for job in unresolved],
                 "prefilterExamples": [{"url": url, "reason": reason} for url, reason in list(reasons.items())[:20]],
             }

@@ -1,32 +1,22 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-02T10:47:59-05:00",
+    "model": "gpt-6-luna",
+    "generatedAt": "2026-11-02T11:02:50-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily) and [JobSpy](https://github.com/speedyapply/JobSpy)."
-    ]
+    ],
+    "reasoningEffort": "medium"
   },
   "items": [
     {
       "id": "www-viewjob",
-      "title": "Assistant Professor of Psychology",
-      "url": "https://www.indeed.com/viewjob?jk=4bba9fd4d947f2c8",
-      "date": "2026-10-27",
-      "location": "SUNY Geneseo at Geneseo, NY, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4483700027",
-      "title": "Instructor/Assistant Professor, Nursing",
-      "url": "https://www.linkedin.com/jobs/view/4483700027",
-      "date": "2026-10-26",
-      "location": "Anne Arundel Community College at Maryland, USA",
+      "title": "Assistant Professor of Chemistry-Tenure Track",
+      "url": "https://www.indeed.com/viewjob?jk=d6aa7385dbdee385",
+      "date": "2026-10-31",
+      "location": "University of Montevallo at Montevallo, AL, USA",
       "description": "",
       "fitScore": 0,
       "isNew": true,
@@ -34,10 +24,54 @@
     },
     {
       "id": "www-viewjob",
-      "title": "Assistant Professor, Philosophy (Consciousness) (T/TE)",
-      "url": "https://www.indeed.com/viewjob?jk=889b1b3d90c2133e",
-      "date": "2026-10-14",
-      "location": "University of Arizona at Tucson, AZ, USA",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=87786da28aae9e85",
+      "date": "2026-10-29",
+      "location": "Delaware State University at Dover, DE, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Health and Wellness Design",
+      "url": "https://www.indeed.com/viewjob?jk=43839162e6df7e75",
+      "date": "2026-10-27",
+      "location": "Texas Tech University at TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4481976956",
+      "title": "Assistant Professor, Tenure Track, CHOP Division of Hematology",
+      "url": "https://www.linkedin.com/jobs/view/4481976956",
+      "date": "2026-10-23",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor in Anglophone Poetry Studies",
+      "url": "https://www.indeed.com/viewjob?jk=1144aa1e56e40f2f",
+      "date": "2026-10-23",
+      "location": "University of Florida at Gainesville, FL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Mathematics and Statistics",
+      "url": "https://www.indeed.com/viewjob?jk=fb2f360f6b244ea2",
+      "date": "2026-10-07",
+      "location": "University of Nebraska at Kearney, NE, USA",
       "description": "",
       "fitScore": 0,
       "isNew": true,
@@ -566,6 +600,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Psychology",
+      "url": "https://www.indeed.com/viewjob?jk=4bba9fd4d947f2c8",
+      "date": "2026-10-27",
+      "location": "SUNY Geneseo at Geneseo, NY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "CAS - Philosophy - Associate Professor or Professor",
       "url": "https://www.indeed.com/viewjob?jk=2b943bd04810eba4",
       "date": "2026-10-27",
@@ -722,6 +767,17 @@
       "url": "https://www.linkedin.com/jobs/view/4483772732",
       "date": "2026-10-27",
       "location": "The Ohio State University Wexner Medical Center at Columbus, OH, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4483700027",
+      "title": "Instructor/Assistant Professor, Nursing",
+      "url": "https://www.linkedin.com/jobs/view/4483700027",
+      "date": "2026-10-26",
+      "location": "Anne Arundel Community College at Maryland, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2787,6 +2843,17 @@
       "url": "https://www.linkedin.com/jobs/view/4477339193",
       "date": "2026-10-15",
       "location": "WVU Medicine at Greensburg, PA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Philosophy (Consciousness) (T/TE)",
+      "url": "https://www.indeed.com/viewjob?jk=889b1b3d90c2133e",
+      "date": "2026-10-14",
+      "location": "University of Arizona at Tucson, AZ, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,

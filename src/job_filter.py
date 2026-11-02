@@ -26,14 +26,15 @@ _UNRELATED_FIELDS = {
     "clinical_or_health": r"\b(nursing|dentistry|dental|pediatrics?|surgery|radiology|"
         r"anesthesiolog\w*|obstetrics|gynecology|cardiolog\w*|psychiatry|"
         r"dermatolog\w*|ophthalmolog\w*|otolaryngolog\w*|urolog\w*|"
-        r"clinical medicine|internal medicine|family medicine|public health|"
+        r"clinical medicine|internal medicine|family medicine|hematolog\w*|rheumatolog\w*|"
+        r"gastroenterolog\w*|endocrinolog\w*|pulmonary medicine|infectious diseases?|public health|"
         r"social work|speech[ -]language|occupational therapy|physical therapy)\b",
     "life_sciences": r"\b(biology|biological sciences?|biochemistry|microbiolog\w*|"
         r"neuroscien\w*|physiolog\w*|immunolog\w*|genetics?|genomics?|"
         r"oncolog\w*|cancer|pharmacolog\w*)\b",
     "humanities_or_social_science": r"\b(anthropolog\w*|sociolog\w*|psychology|"
         r"political science|criminal justice|criminolog\w*|literature|"
-        r"english|spanish|french|history|philosophy|theology|religious studies|"
+        r"english|anglophone|poetry|spanish|french|history|philosophy|theology|religious studies|"
         r"music|theat[er]{2}|dance|journalism|linguistics?|fine arts|art history|"
         r"elementary education|special education|educational leadership|counselor education)\b",
     "business_or_law": r"\b(accounting|finance|marketing|economics|business administration|law)\b",

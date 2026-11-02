@@ -1,15 +1,43 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-02T10:57:15-05:00",
+    "model": "gpt-6-luna",
+    "generatedAt": "2026-11-02T11:02:51-05:00",
     "source": "Inside Higher Ed Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from Inside Higher Ed Careers.",
       "The initial feed includes current sitemap jobs posted on or after June 1, 2026; daily runs summarize only newly seen listings."
-    ]
+    ],
+    "reasoningEffort": "medium"
   },
   "items": [
+    {
+      "id": "careers-3569290",
+      "title": "Assistant Professor- Biomedical Engineering",
+      "url": "https://careers.insidehighered.com/job/3569290",
+      "date": "2026-11-02",
+      "location": "University of Rhode Island at Kingston, RI",
+      "description": "Tenure-track BME search includes biomaterials, bioinstrumentation, biomechanics, and biomedical devices.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "biomaterials",
+        "bioinstrumentation",
+        "biomechanics",
+        "medical devices"
+      ]
+    },
+    {
+      "id": "careers-3569211",
+      "title": "Tenure track Assistant Professor in the broad area of Fluid Mechanics",
+      "url": "https://careers.insidehighered.com/job/3569211",
+      "date": "2026-11-01",
+      "location": "Johns Hopkins University at Johns Hopkins University",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
     {
       "id": "careers-3569182",
       "title": "Full Professor in Multiple Disciplines (Yushan Fellow)",
