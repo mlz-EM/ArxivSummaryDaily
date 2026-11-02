@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2026-11-02T10:17:18-05:00",
+  "model": "gpt-6-luna",
+  "runId": "local",
+  "inputJobs": 2422,
+  "alreadyProcessed": 12,
+  "prefiltered": 901,
+  "prefilterReasons": {
+    "clinical_or_health": 261,
+    "non_tenure_track": 95,
+    "humanities_or_social_science": 309,
+    "business_or_law": 114,
+    "life_sciences": 121,
+    "administrative": 1
+  },
+  "accepted": 227,
+  "rejected": 1282,
+  "unsummarized": 0,
+  "complete": true,
+  "stopReason": "",
+  "pendingJobs": [],
+  "prefilterExamples": [
+    {
+      "url": "https://careers.insidehighered.com/job/3515816",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3551934",
+      "reason": "non_tenure_track"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552130",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552131",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552193",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552204",
+      "reason": "business_or_law"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552207",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552208",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552252",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552253",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552254",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552256",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552259",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552313",
+      "reason": "business_or_law"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552319",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552322",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552328",
+      "reason": "non_tenure_track"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552330",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552339",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3552349",
+      "reason": "clinical_or_health"
+    }
+  ],
+  "reasoningEffort": "medium",
+  "decisionSha256": "82d4315a47c727ac95d337c4bb58ca255d97b53a1926f7d27e1872fbfef638e9"
+}

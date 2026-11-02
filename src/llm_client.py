@@ -1,6 +1,10 @@
-"""Shared LLM API client used by summarizers."""
+"""Shared Gemini client with bounded retries and a cross-process quota stop."""
 
+import json
+import os
 import time
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 import requests
@@ -8,82 +12,149 @@ import requests
 from config.settings import LLM_CONFIG
 
 
-class LLMModelClient:
-    """LLM API client for generateContent-compatible endpoints."""
+class LLMQuotaExhausted(RuntimeError):
+    """Further generation must wait for the provider's quota reset."""
 
+
+class LLMContextLimit(RuntimeError):
+    """Retry this workload in smaller batches, without discarding any jobs."""
+
+
+class LLMModelClient:
     def __init__(self, api_key: str, model: Optional[str] = None):
         self.api_key = api_key
         self.model = model or LLM_CONFIG["model"]
         self.api_url = f"{LLM_CONFIG['api_url']}/{self.model}:generateContent"
-        self.timeout = LLM_CONFIG.get("timeout", 30)
+        self.timeout = LLM_CONFIG.get("timeout", 600)
+        self.stop_reason = ""
 
-    def _create_request_body(
-        self,
-        messages: List[Dict[str, str]],
-        temperature: Optional[float] = None,
-        max_tokens: Optional[int] = None,
-    ) -> Dict[str, Any]:
-        prompt = messages[-1]["content"]
-        generation_config: Dict[str, Any] = {
-            "maxOutputTokens": max_tokens or LLM_CONFIG["max_output_tokens"],
-        }
-        if not self.model.startswith("gemini-3.6"):
-            generation_config.update(
-                {
-                    "temperature": temperature or LLM_CONFIG["temperature"],
-                    "topP": LLM_CONFIG["top_p"],
-                    "topK": LLM_CONFIG["top_k"],
-                }
-            )
+    def _create_request_body(self, messages, temperature=None, max_tokens=None):
+        generation_config = {"maxOutputTokens": max_tokens or LLM_CONFIG["max_output_tokens"]}
+        # Gemini 3 and later reject legacy sampling parameters.
+        if not self.model.startswith(("gemini-3", "gemini-4")):
+            generation_config.update({
+                "temperature": LLM_CONFIG["temperature"] if temperature is None else temperature,
+                "topP": LLM_CONFIG["top_p"],
+                "topK": LLM_CONFIG["top_k"],
+            })
         return {
-            "contents": [{"parts": [{"text": prompt}]}],
+            "contents": [{"parts": [{"text": messages[-1]["content"]}]}],
             "generationConfig": generation_config,
         }
 
-    def chat_completion(
-        self,
-        messages: List[Dict[str, str]],
-        temperature: Optional[float] = None,
-        max_tokens: Optional[int] = None,
-    ) -> Dict[str, Any]:
-        headers = {"Content-Type": "application/json"}
-        data = self._create_request_body(messages, temperature, max_tokens)
+    @staticmethod
+    def _quota_path():
+        value = os.getenv("LLM_QUOTA_STATE_FILE", "")
+        return Path(value) if value else None
 
-        for attempt in range(LLM_CONFIG["retry_count"]):
+    def _check_quota(self):
+        if self.stop_reason:
+            raise LLMQuotaExhausted(self.stop_reason)
+        path = self._quota_path()
+        if path and path.exists():
+            try:
+                state = json.loads(path.read_text(encoding="utf-8"))
+                reset_at = datetime.fromisoformat(state["retryAt"])
+                if state["model"] == self.model and reset_at > datetime.now(timezone.utc):
+                    self.stop_reason = str(state["reason"])
+                    raise LLMQuotaExhausted(self.stop_reason)
+            except (OSError, ValueError, KeyError, TypeError):
+                pass
+
+    def _stop_for_quota(self, reason, retry_after):
+        self.stop_reason = reason
+        path = self._quota_path()
+        if path:
+            reset_at = datetime.now(timezone.utc) + timedelta(seconds=max(60, retry_after))
+            path.parent.mkdir(parents=True, exist_ok=True)
+            temporary = path.with_suffix(f".{os.getpid()}.tmp")
+            temporary.write_text(json.dumps({
+                "model": self.model, "reason": reason, "retryAt": reset_at.isoformat(),
+            }), encoding="utf-8")
+            temporary.replace(path)
+        raise LLMQuotaExhausted(reason)
+
+    @staticmethod
+    def _error_details(response):
+        try:
+            error = response.json().get("error", {})
+        except (ValueError, AttributeError):
+            error = {}
+        message = str(error.get("message") or f"HTTP {response.status_code}")
+        quota_ids, retry_after = [], 0.0
+        for detail in error.get("details", []):
+            for violation in detail.get("violations", []):
+                quota_ids.append(str(violation.get("quotaId") or ""))
+            try:
+                retry_after = max(retry_after, float(str(detail.get("retryDelay", "0")).rstrip("s")))
+            except ValueError:
+                pass
+        try:
+            retry_after = max(retry_after, float(response.headers.get("Retry-After", 0)))
+        except (ValueError, TypeError):
+            pass
+        return message, " ".join(quota_ids), retry_after
+
+    def chat_completion(self, messages, temperature=None, max_tokens=None):
+        self._check_quota()
+        data = self._create_request_body(messages, temperature, max_tokens)
+        attempts = max(1, int(LLM_CONFIG.get("retry_count", 3)))
+        for attempt in range(attempts):
             try:
                 response = requests.post(
-                    f"{self.api_url}?key={self.api_key}",
-                    headers=headers,
-                    json=data,
-                    timeout=self.timeout,
+                    self.api_url,
+                    headers={"Content-Type": "application/json", "x-goog-api-key": self.api_key},
+                    json=data, timeout=self.timeout,
                 )
-                if response.status_code != 200:
-                    raise Exception(f"API call failed: {response.text}")
-                result = response.json()
-                return {
-                    "choices": [
-                        {
-                            "message": {
-                                "role": "assistant",
-                                "content": result["candidates"][0]["content"]["parts"][0]["text"],
-                            },
-                            "finish_reason": "stop",
-                        }
-                    ],
-                    "usage": {
-                        "prompt_tokens": 0,
-                        "completion_tokens": 0,
-                        "total_tokens": 0,
-                    },
-                }
-            except requests.Timeout:
-                print(f"Request timed out ({self.timeout}s). Retrying...")
-                if attempt == LLM_CONFIG["retry_count"] - 1:
-                    raise TimeoutError(
-                        f"API did not respond within {self.timeout}s after {LLM_CONFIG['retry_count']} retries"
+            except (requests.Timeout, requests.ConnectionError):
+                if attempt + 1 == attempts:
+                    raise RuntimeError(f"LLM network request failed after {attempts} attempts") from None
+                time.sleep(min(60, LLM_CONFIG["retry_delay"] * (2**attempt)))
+                continue
+            if response.status_code != 200:
+                message, quota_ids, retry_after = self._error_details(response)
+                daily = "perday" in quota_ids.lower() or "per day" in message.lower() or "daily" in message.lower()
+                if response.status_code == 429 and (daily or retry_after > 60):
+                    self._stop_for_quota(
+                        f"{self.model} quota exhausted; remaining work deferred. {message[:600]}",
+                        retry_after or 86400,
                     )
-                time.sleep(LLM_CONFIG["retry_delay"] * (2**attempt))
-            except Exception:
-                if attempt == LLM_CONFIG["retry_count"] - 1:
-                    raise
-                time.sleep(LLM_CONFIG["retry_delay"] * (2**attempt))
+                if response.status_code == 413 or (response.status_code == 400 and any(
+                    text in message.lower() for text in ("token", "context", "too large", "payload")
+                )):
+                    raise LLMContextLimit(message[:600])
+                if response.status_code == 429 and attempt + 1 == attempts:
+                    self._stop_for_quota(
+                        f"{self.model} rate limit persisted after {attempts} attempts; remaining work deferred.",
+                        retry_after or 60,
+                    )
+                if response.status_code not in {429, 500, 502, 503, 504} or attempt + 1 == attempts:
+                    raise RuntimeError(f"LLM HTTP {response.status_code}: {message[:600]}")
+                time.sleep(min(60, max(retry_after, LLM_CONFIG["retry_delay"] * (2**attempt))))
+                continue
+            result = response.json()
+            candidates = result.get("candidates") or []
+            if not candidates:
+                raise RuntimeError("LLM returned no candidate; input remains pending")
+            candidate = candidates[0]
+            finish = candidate.get("finishReason", "STOP")
+            if finish == "MAX_TOKENS":
+                raise LLMContextLimit("LLM output limit reached; retrying a smaller batch")
+            if finish != "STOP":
+                raise RuntimeError(f"LLM stopped with {finish}; input remains pending")
+            content = "".join(
+                str(part.get("text", "")) for part in candidate.get("content", {}).get("parts", [])
+                if not part.get("thought")
+            )
+            if not content.strip():
+                raise RuntimeError("LLM returned empty text; input remains pending")
+            usage = result.get("usageMetadata", {})
+            return {
+                "choices": [{"message": {"role": "assistant", "content": content}, "finish_reason": "stop"}],
+                "usage": {
+                    "prompt_tokens": usage.get("promptTokenCount", 0),
+                    "completion_tokens": usage.get("candidatesTokenCount", 0),
+                    "total_tokens": usage.get("totalTokenCount", 0),
+                },
+            }
+        raise RuntimeError("LLM generation did not complete")

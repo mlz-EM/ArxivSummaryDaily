@@ -137,7 +137,10 @@ def summarize(output_dir: str) -> int:
         return 1
 
     if not success:
-        print("JobSpy summary incomplete; pending records were retained for retry.")
+        completed_urls = getattr(job_summarizer, "completed_urls", set())
+        remaining = [job for job in jobs if job_summarizer._to_https_url(job.get("job_url", "")) not in completed_urls]
+        _write_pending_jobs(path, remaining)
+        print(f"::warning::JobSpy summary incomplete; {len(remaining)} records remain queued.")
         return 1
 
     path.unlink()

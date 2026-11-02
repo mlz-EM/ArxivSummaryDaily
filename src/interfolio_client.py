@@ -24,6 +24,8 @@ from typing import Any, Callable, Dict, Iterable, List, Optional, Set
 
 import requests
 
+from .job_filter import faculty_role_exclusion
+
 
 POSITION_URL = "https://logic.interfolio.com/dossier-api/positions/{position_id}"
 LANDING_URL = "https://apply.interfolio.com/{position_id}"
@@ -765,25 +767,11 @@ def is_summary_candidate(job: Dict[str, Any]) -> bool:
     if "closed" in str(job.get("activeStatus") or "").lower():
         return False
     title = str(job.get("title") or "").lower()
-    exclude = (
-        "adjunct",
-        "chair",
-        "dean",
-        "fellowship",
-        "instructor",
-        "lecturer",
-        "post-doc",
-        "postdoc",
-        "temporary",
-        "visiting",
-    )
-    if any(term in title for term in exclude):
-        return False
-    if re.search(r"\bnon[\s-]+tenure[\s-]+track\b", title):
+    if faculty_role_exclusion(title):
         return False
     return bool(
         re.search(
-            r"\bprofessor\b|\bfaculty\b|\bopen[\s-]+rank\b|\btenure[\s-]+track\b",
+            r"\bprofessor\b|\bfaculty\b|\bchair\b|\bopen[\s-]+rank\b|\btenure[\s-]+track\b",
             title,
         )
     )

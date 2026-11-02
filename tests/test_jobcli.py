@@ -122,6 +122,7 @@ class TestJobCli(unittest.TestCase):
             jobcli._write_pending_jobs(pending_path, jobs)
             summarizer = mock.Mock()
             summarizer.summarize_jobs.return_value = False
+            summarizer.completed_urls = set()
 
             with mock.patch.object(jobcli, "JobSummarizer", return_value=summarizer):
                 result = jobcli.main(["--output-dir", directory, "summarize"])

@@ -31,7 +31,7 @@ class TestLLMModelClient(unittest.TestCase):
 
     def test_summarizer_batch_sizes_are_bounded(self):
         self.assertEqual(PaperSummarizer("dummy", "test-model").max_papers_per_batch, 50)
-        self.assertEqual(JobSummarizer("dummy", "test-model").max_papers_per_batch, 50)
+        self.assertEqual(JobSummarizer("dummy", "test-model").max_papers_per_batch, 500)
 
 
 class TestArxivClient(unittest.TestCase):
@@ -251,25 +251,25 @@ class TestIncrementalJobFlow(unittest.TestCase):
 
         def fake_completion(messages):
             captured["prompt"] = messages[0]["content"]
-            return {"choices": [{"message": {"content": "[]"}}]}
+            return {"choices": [{"message": {"content": json.dumps({"accepted": [], "rejected": [job["job_url"]]})}}]}
 
         summarizer.client.chat_completion = fake_completion
         items, success = summarizer._generate_batch_summaries([job], 1)
 
         self.assertTrue(success)
-        self.assertEqual(items, [])
+        self.assertEqual(items[0]["fitScore"], 0)
         self.assertIn("Remove it entirely; do not output it with fitScore 1", captured["prompt"])
-        self.assertIn("cryo-electron microscopy or tomography", captured["prompt"])
-        self.assertIn("Those techniques do not make a biological position a materials fit", captured["prompt"])
+        self.assertIn("cryo-electron microscopy", captured["prompt"])
+        self.assertIn("do not make a biological position a fit", captured["prompt"])
         self.assertIn(
             'Format location as "<school> at <city/locality>, <state/region code>, <country code>"',
             captured["prompt"],
         )
         self.assertIn(
-            '"Texas A&M University at College Station, TX, US"',
+            'Texas A&M University at College Station, TX, US',
             captured["prompt"],
         )
-        self.assertIn("US rather than USA or United States", captured["prompt"])
+        self.assertIn("two-letter country codes", captured["prompt"])
 
     def test_job_summarizer_skips_jobs_already_present_in_json(self):
         job = {
@@ -388,7 +388,7 @@ class TestIncrementalJobFlow(unittest.TestCase):
             summarizer = JobSummarizer(api_key="dummy", model="test-model")
 
             with mock.patch.object(summarizer, "_filter_new_jobs", return_value=[job]), mock.patch.object(
-                summarizer, "_generate_batch_summary", return_value=([], True)
+                summarizer, "_generate_batch_summary", return_value=([summarizer._build_rejected_job_item(job)], True)
             ):
                 success = summarizer.summarize_jobs([job], output_json)
 

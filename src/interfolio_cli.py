@@ -37,7 +37,7 @@ DEFAULT_CONFIG = {
     "retry_delay": 2,
     "checkpoint_every": 50,
     "workers": 8,
-    "summary_batch_size": 50,
+    "summary_batch_size": 500,
     "minimum_posted_date": "2026-06-01",
 }
 
@@ -210,14 +210,23 @@ def _summarize(args: argparse.Namespace) -> int:
     success = summarizer.summarize_jobs(normalized_jobs, str(output_path))
     if output_path.exists():
         _set_interfolio_header(output_path, summarizer.client.model)
-    if not success:
-        print("Interfolio summary was incomplete; pending IDs were not marked processed.")
-        return 1
-
-    processed_ids.update(int(job["id"]) for job in pending)
+    completed_urls = getattr(summarizer, "completed_urls", set())
+    completed_candidate_ids = {
+        int(job["id"]) for job, normalized in zip(candidates, normalized_jobs)
+        if success or normalized["job_url"] in completed_urls
+    }
+    processed_ids.update(int(job["id"]) for job in pending if not is_summary_candidate(job))
+    processed_ids.update(completed_candidate_ids)
     save_processed_ids(state_path, processed_ids)
-    if pending_path.exists() and all(int(job["id"]) in processed_ids for job in pending_jobs):
-        pending_path.unlink()
+    remaining = [job for job in pending_jobs if int(job["id"]) not in processed_ids]
+    if pending_path.exists():
+        if remaining:
+            InterfolioStore._atomic_write(pending_path, {"schemaVersion": 1, "jobs": remaining})
+        else:
+            pending_path.unlink()
+    if not success:
+        print(f"::warning::Interfolio summary incomplete; {len(remaining)} records remain queued.")
+        return 1
     print(
         f"Processed {len(pending)} post-cutoff Interfolio records: "
         f"sent {len(candidates)} eligible positions to the LLM and skipped "

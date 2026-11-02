@@ -30,7 +30,7 @@ DEFAULT_CONFIG = {
     "retry_delay": 2,
     "checkpoint_every": 200,
     "workers": DEFAULT_WORKERS,
-    "summary_batch_size": 50,
+    "summary_batch_size": 500,
 }
 
 
@@ -147,14 +147,18 @@ def _summarize(args: argparse.Namespace) -> int:
     success = summarizer.summarize_jobs(normalized, str(output_path))
     if output_path.exists():
         _set_header(output_path, summarizer.client.model)
-    if not success:
-        print("Chronicle summary was incomplete; queued records were retained for retry.")
-        return 1
-
-    store.remove_pending(int(job["id"]) for job in pending)
+    completed_urls = getattr(summarizer, "completed_urls", set())
+    completed = [
+        int(job["id"]) for job, summary_input in zip(pending, normalized)
+        if success or summary_input["job_url"] in completed_urls
+    ]
+    store.remove_pending(completed)
     store.save()
     store.remove_pending_file_if_empty()
-    print(f"Summarized {len(pending)} Chronicle jobs and removed them from the pending queue.")
+    if not success:
+        print(f"::warning::Chronicle summary incomplete: {len(completed)} resolved records removed; {len(store.pending_jobs)} records remain queued.")
+        return 1
+    print(f"Resolved {len(completed)} Chronicle jobs; {len(store.pending_jobs)} remain queued.")
     return 0
 
 

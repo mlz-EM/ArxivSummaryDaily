@@ -23,6 +23,8 @@ from typing import Any, Callable, Dict, Iterable, List, Optional, Set
 
 import requests
 
+from .job_filter import faculty_role_exclusion, profile_exclusion_reason
+
 
 DEFAULT_SITEMAP_URL = "https://jobs.chronicle.com/sitemap2-1.xml"
 DEFAULT_JOB_URL = "https://jobs.chronicle.com/job/{job_id}"
@@ -93,25 +95,11 @@ def parse_sitemap(xml_text: str) -> Dict[int, str]:
 def is_title_candidate(title: Any) -> bool:
     """Keep faculty-like titles after applying the shared exclusions."""
     lowered = str(title or "").lower()
-    excluded = (
-        "adjunct",
-        "chair",
-        "dean",
-        "fellowship",
-        "instructor",
-        "lecturer",
-        "post-doc",
-        "postdoc",
-        "temporary",
-        "visiting",
-    )
-    if any(term in lowered for term in excluded):
-        return False
-    if re.search(r"\bnon[\s-]+tenure[\s-]+track\b", lowered):
+    if faculty_role_exclusion(title):
         return False
     return bool(
         re.search(
-            r"\bprofessor\b|\bfaculty\b|\bopen[\s-]+rank\b|\btenure[\s-]+track\b",
+            r"\bprofessor\b|\bfaculty\b|\bchair\b|\bopen[\s-]+rank\b|\btenure[\s-]+track\b",
             lowered,
         )
     )
@@ -329,9 +317,11 @@ class MadgexStore:
         try:
             with open(path, "r", encoding="utf-8") as handle:
                 payload = json.load(handle)
-            return payload if isinstance(payload, dict) else dict(default)
-        except (OSError, json.JSONDecodeError):
-            return dict(default)
+            if not isinstance(payload, dict):
+                raise ValueError(f"Expected a JSON object in {path}; refusing to reset discovery state")
+            return payload
+        except (OSError, json.JSONDecodeError) as exc:
+            raise ValueError(f"Cannot read {path}; refusing to reset discovery state: {exc}") from exc
 
     @staticmethod
     def _atomic_write(path: Path, payload: Dict[str, Any]) -> None:
@@ -421,6 +411,7 @@ class MadgexScanner:
             "knownSkipped": 0,
             "queued": 0,
             "titleExcluded": 0,
+            "profileExcluded": 0,
             "dateExcluded": 0,
             "expired": 0,
             "missing": 0,
@@ -461,6 +452,9 @@ class MadgexScanner:
                     elif not is_title_candidate(result.job.get("title")):
                         self.store.mark_seen(job_id)
                         report["titleExcluded"] += 1
+                    elif profile_exclusion_reason(result.job):
+                        self.store.mark_seen(job_id)
+                        report["profileExcluded"] += 1
                     else:
                         if self.store.add_job(result.job):
                             report["queued"] += 1
@@ -486,6 +480,7 @@ class MadgexScanner:
 
         self.store.state["lastSitemapCount"] = len(sitemap_jobs)
         self.store.state["lastSitemapMaxId"] = max(sitemap_jobs) if sitemap_jobs else None
+        self.store.state["lastScanReport"] = report
         if bootstrap and report["errors"] == 0:
             self.store.state["bootstrapComplete"] = True
         self.store.save()

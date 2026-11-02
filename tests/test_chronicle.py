@@ -89,6 +89,8 @@ class TestChronicleParsing(unittest.TestCase):
         self.assertTrue(is_title_candidate("Open-Rank Position in Materials Science"))
         self.assertTrue(is_title_candidate("Tenure Track Position in Materials Science"))
         self.assertTrue(is_title_candidate("Tenure-Track Position in Materials Science"))
+        self.assertTrue(is_title_candidate("Endowed Chair in Materials Science"))
+        self.assertFalse(is_title_candidate("Department Chair of Materials Science"))
         self.assertFalse(is_title_candidate("Non-Tenure-Track Position in Materials Science"))
         self.assertFalse(is_title_candidate("Research Scientist in Materials Science"))
         self.assertFalse(is_title_candidate("Visiting Assistant Professor"))
@@ -100,6 +102,13 @@ class TestChronicleParsing(unittest.TestCase):
 
 
 class TestChronicleStoreAndScanner(unittest.TestCase):
+    def test_corrupt_state_never_silently_restarts_historical_discovery(self):
+        with tempfile.TemporaryDirectory() as directory:
+            state = Path(directory) / "state.json"
+            state.write_text('{"seenIds": [1,')
+            with self.assertRaisesRegex(ValueError, "refusing to reset"):
+                ChronicleStore(Path(directory) / "pending.json", state)
+
     def test_scan_queues_candidates_and_remembers_excluded_ids(self):
         with tempfile.TemporaryDirectory() as directory:
             store = ChronicleStore(Path(directory) / "pending.json", Path(directory) / "state.json")

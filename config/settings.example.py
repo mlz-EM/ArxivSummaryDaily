@@ -38,13 +38,16 @@ QUERY = '(all:"ptychography" OR all:"electron microscopy")'     # Papers in CATE
 # LLM API settings
 LLM_CONFIG = {
     'api_key': os.getenv("LLM_API_KEY", "YOUR_API_HERE"),                  # API key from the environment
-    'model': os.getenv("LLM_MODEL", "gemini-3.6-flash"),                  # Stable free-tier Gemini model
+    'model': os.getenv("LLM_MODEL", "gemini-3.8-flash"),                  # Latest stable free-tier Flash (verified 2026-11-02)
     'api_url': "https://generativelanguage.googleapis.com/v1beta/models",   # API base URL
     'temperature': 0.5,                                                     # Temperature
-    'max_output_tokens': 32648,                                             # Max output tokens
+    'max_output_tokens': 65536,                                             # Gemini 3.8 output limit
+    'job_batch_size': 500,                                                  # Ceiling; token budgets reduce long batches
+    'job_batch_input_tokens': 750000,                                       # Leave room within the 1M-token context
+    'job_output_tokens_per_item': 256,                                      # Budget for an all-accepted response
     'top_p': 0.8,                                                           # Top P
     'top_k': 40,                                                            # Top K
-    'retry_count': 5,                                                       # Retry attempts on failure
+    'retry_count': 3,                                                       # Transient errors only; daily quota stops immediately
     'retry_delay': 5,                                                       # Retry delay (seconds)
     'timeout': 600,                                                         # Request timeout (seconds)
 }
@@ -81,7 +84,7 @@ INTERFOLIO_CONFIG = {
     'retry_delay': float(os.getenv("INTERFOLIO_RETRY_DELAY", "2")),
     'checkpoint_every': int(os.getenv("INTERFOLIO_CHECKPOINT_EVERY", "50")),
     'workers': int(os.getenv("INTERFOLIO_WORKERS", "8")),
-    'summary_batch_size': int(os.getenv("INTERFOLIO_SUMMARY_BATCH_SIZE", "50")),
+    'summary_batch_size': int(os.getenv("INTERFOLIO_SUMMARY_BATCH_SIZE", "500")),
 }
 
 
@@ -96,7 +99,7 @@ CHRONICLE_CONFIG = {
     'retry_delay': float(os.getenv("CHRONICLE_RETRY_DELAY", "2")),
     'checkpoint_every': int(os.getenv("CHRONICLE_CHECKPOINT_EVERY", "200")),
     'workers': int(os.getenv("CHRONICLE_WORKERS", "16")),
-    'summary_batch_size': int(os.getenv("CHRONICLE_SUMMARY_BATCH_SIZE", "50")),
+    'summary_batch_size': int(os.getenv("CHRONICLE_SUMMARY_BATCH_SIZE", "500")),
 }
 
 
@@ -111,5 +114,5 @@ INSIDE_HIGHER_ED_CONFIG = {
     'retry_delay': float(os.getenv("INSIDE_HIGHER_ED_RETRY_DELAY", "2")),
     'checkpoint_every': int(os.getenv("INSIDE_HIGHER_ED_CHECKPOINT_EVERY", "200")),
     'workers': int(os.getenv("INSIDE_HIGHER_ED_WORKERS", "16")),
-    'summary_batch_size': int(os.getenv("INSIDE_HIGHER_ED_SUMMARY_BATCH_SIZE", "50")),
+    'summary_batch_size': int(os.getenv("INSIDE_HIGHER_ED_SUMMARY_BATCH_SIZE", "500")),
 }

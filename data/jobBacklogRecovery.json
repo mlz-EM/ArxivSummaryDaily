@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-02T10:17:14-05:00",
+  "model": "gpt-6-luna",
+  "reasoningEffort": "medium",
+  "reviewed": 7277,
+  "accepted": 615,
+  "rejected": 6662,
+  "unsummarized": 0,
+  "decisionSha256": "82d4315a47c727ac95d337c4bb58ca255d97b53a1926f7d27e1872fbfef638e9",
+  "sources": {
+    "chronicle": {
+      "queuedBefore": 5046,
+      "newReviewed": 4867,
+      "accepted": 388,
+      "rejected": 4479,
+      "remainingQueued": 0,
+      "feedItems": 6878,
+      "visibleFitJobs": 856
+    },
+    "insideHigherEd": {
+      "queuedBefore": 2422,
+      "newReviewed": 2410,
+      "accepted": 227,
+      "rejected": 2183,
+      "remainingQueued": 0,
+      "feedItems": 4084,
+      "visibleFitJobs": 431
+    }
+  }
+}

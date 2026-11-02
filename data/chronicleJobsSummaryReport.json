@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2026-11-02T10:17:16-05:00",
+  "model": "gpt-6-luna",
+  "runId": "local",
+  "inputJobs": 5046,
+  "alreadyProcessed": 179,
+  "prefiltered": 2097,
+  "prefilterReasons": {
+    "business_or_law": 266,
+    "humanities_or_social_science": 748,
+    "non_tenure_track": 328,
+    "life_sciences": 230,
+    "clinical_or_health": 523,
+    "administrative": 2
+  },
+  "accepted": 388,
+  "rejected": 2382,
+  "unsummarized": 0,
+  "complete": true,
+  "stopReason": "",
+  "pendingJobs": [],
+  "prefilterExamples": [
+    {
+      "url": "https://jobs.chronicle.com/job/38015521",
+      "reason": "business_or_law"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38015583",
+      "reason": "business_or_law"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035457",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035622",
+      "reason": "non_tenure_track"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035627",
+      "reason": "non_tenure_track"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035634",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035640",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035646",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035649",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035653",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035658",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035668",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035669",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035670",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035671",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035672",
+      "reason": "business_or_law"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035673",
+      "reason": "business_or_law"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035674",
+      "reason": "business_or_law"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035678",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38035691",
+      "reason": "humanities_or_social_science"
+    }
+  ],
+  "reasoningEffort": "medium",
+  "decisionSha256": "82d4315a47c727ac95d337c4bb58ca255d97b53a1926f7d27e1872fbfef638e9"
+}
