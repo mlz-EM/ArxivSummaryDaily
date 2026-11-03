@@ -1,14 +1,13 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gpt-6-luna",
-    "generatedAt": "2026-11-02T11:02:51-05:00",
+    "model": "gemini-3.8-flash",
+    "generatedAt": "2026-11-03T07:39:09-05:00",
     "source": "Inside Higher Ed Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from Inside Higher Ed Careers.",
       "The initial feed includes current sitemap jobs posted on or after June 1, 2026; daily runs summarize only newly seen listings."
-    ],
-    "reasoningEffort": "medium"
+    ]
   },
   "items": [
     {
@@ -19,7 +18,7 @@
       "location": "University of Rhode Island at Kingston, RI",
       "description": "Tenure-track BME search includes biomaterials, bioinstrumentation, biomechanics, and biomedical devices.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "biomaterials",
         "bioinstrumentation",
@@ -35,7 +34,7 @@
       "location": "Johns Hopkins University at Johns Hopkins University",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {

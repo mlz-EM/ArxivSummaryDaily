@@ -1,35 +1,106 @@
 {
-  "generatedAt": "2026-11-02T10:56:56-05:00",
+  "generatedAt": "2026-11-03T07:39:09-05:00",
   "model": "gemini-3.8-flash",
-  "runId": "41471583038",
-  "inputJobs": 10,
+  "runId": "41635594463",
+  "inputJobs": 21,
   "alreadyProcessed": 0,
-  "prefiltered": 4,
+  "prefiltered": 13,
   "prefilterReasons": {
-    "clinical_or_health": 3,
+    "clinical_or_health": 8,
+    "business_or_law": 1,
+    "life_sciences": 3,
     "humanities_or_social_science": 1
   },
-  "accepted": 1,
-  "rejected": 5,
-  "unsummarized": 0,
-  "complete": true,
-  "stopReason": "",
-  "pendingJobs": [],
+  "accepted": 0,
+  "rejected": 0,
+  "unsummarized": 8,
+  "complete": false,
+  "stopReason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+  "pendingJobs": [
+    {
+      "url": "https://apply.interfolio.com/196420",
+      "title": "Sports Medicine, Clinical Assistant Professor, Orthopaedics, Sports Medicine"
+    },
+    {
+      "url": "https://apply.interfolio.com/196504",
+      "title": "Professor (All Ranks) in AI-Human Collaboration"
+    },
+    {
+      "url": "https://apply.interfolio.com/196622",
+      "title": "Assistant Professor Tenure-Track Positions in AI for Science for Fall 2027, Courant Institute School of Mathematics, Computing, and Data Science"
+    },
+    {
+      "url": "https://apply.interfolio.com/196753",
+      "title": "Assistant Professor of Economics and Computational Social Science, Tenure-Track"
+    },
+    {
+      "url": "https://apply.interfolio.com/196787",
+      "title": "Faculty Position in HEALTH SERVICES RESEARCH/HEALTH POLICY"
+    },
+    {
+      "url": "https://apply.interfolio.com/196822",
+      "title": "Assistant or Associate Professor of Nephrology"
+    },
+    {
+      "url": "https://apply.interfolio.com/196836",
+      "title": "Associate or Assistant Professor of Physiology and Biophysics, Basic Science Educator Track"
+    },
+    {
+      "url": "https://apply.interfolio.com/196840",
+      "title": "Open-Rank Assistant, Associate, or Full Professor of Instruction in Electrical Engineering"
+    }
+  ],
   "prefilterExamples": [
     {
-      "url": "https://apply.interfolio.com/196513",
+      "url": "https://apply.interfolio.com/196458",
       "reason": "clinical_or_health"
     },
     {
-      "url": "https://apply.interfolio.com/196535",
+      "url": "https://apply.interfolio.com/196512",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/196794",
+      "reason": "business_or_law"
+    },
+    {
+      "url": "https://apply.interfolio.com/196797",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/196798",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/196801",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://apply.interfolio.com/196802",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://apply.interfolio.com/196811",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/196813",
       "reason": "humanities_or_social_science"
     },
     {
-      "url": "https://apply.interfolio.com/196725",
+      "url": "https://apply.interfolio.com/196815",
       "reason": "clinical_or_health"
     },
     {
-      "url": "https://apply.interfolio.com/196727",
+      "url": "https://apply.interfolio.com/196816",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/196830",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://apply.interfolio.com/196831",
       "reason": "clinical_or_health"
     }
   ]

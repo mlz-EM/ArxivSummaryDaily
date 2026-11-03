@@ -1,17 +1,16 @@
 {
-  "generatedAt": "2026-11-02T11:02:51-05:00",
-  "model": "gpt-6-luna",
-  "runId": "local",
-  "inputJobs": 2,
+  "generatedAt": "2026-11-03T07:39:09-05:00",
+  "model": "gemini-3.8-flash",
+  "runId": "41635594463",
+  "inputJobs": 0,
   "alreadyProcessed": 0,
   "prefiltered": 0,
   "prefilterReasons": {},
-  "accepted": 1,
-  "rejected": 1,
+  "accepted": 0,
+  "rejected": 0,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
-  "prefilterExamples": [],
-  "reasoningEffort": "medium"
+  "prefilterExamples": []
 }

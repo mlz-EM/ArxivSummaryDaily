@@ -1,16 +1,92 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gpt-6-luna",
-    "generatedAt": "2026-11-02T11:02:50-05:00",
+    "model": "gemini-3.8-flash",
+    "generatedAt": "2026-11-03T07:39:08-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily) and [JobSpy](https://github.com/speedyapply/JobSpy)."
-    ],
-    "reasoningEffort": "medium"
+    ]
   },
   "items": [
+    {
+      "id": "www-4486013160",
+      "title": "Assistant/Associate/Full Clinical Professor",
+      "url": "https://www.linkedin.com/jobs/view/4486013160",
+      "date": "2026-11-03",
+      "location": "University of the Pacific at Sacramento, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Accounting",
+      "url": "https://www.indeed.com/viewjob?jk=40f4df33513afc67",
+      "date": "2026-11-02",
+      "location": "St. Ambrose University at Davenport, IA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4486462135",
+      "title": "Assistant Professor-Nursing",
+      "url": "https://www.linkedin.com/jobs/view/4486462135",
+      "date": "2026-11-02",
+      "location": "The College of New Jersey at Ewing, NJ, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor Criminal Justice",
+      "url": "https://www.indeed.com/viewjob?jk=968f951c99ec77d9",
+      "date": "2026-11-02",
+      "location": "St. Ambrose University at Davenport, IA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Teaching Professor of Educational Studies",
+      "url": "https://www.indeed.com/viewjob?jk=b33b0b33e8a26bdc",
+      "date": "2026-11-02",
+      "location": "Ball State University at Muncie, IN, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4485162723",
+      "title": "Family Medicine Residency Core Faculty",
+      "url": "https://www.linkedin.com/jobs/view/4485162723",
+      "date": "2026-10-31",
+      "location": "AMN Healthcare at Bryan, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor (Social Work) - 9 month appointment",
+      "url": "https://www.indeed.com/viewjob?jk=507e24b6c5541fd7",
+      "date": "2026-10-12",
+      "location": "Missouri State University at Springfield, MO, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
     {
       "id": "www-viewjob",
       "title": "Assistant Professor of Chemistry-Tenure Track",
@@ -19,62 +95,7 @@
       "location": "University of Montevallo at Montevallo, AL, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor",
-      "url": "https://www.indeed.com/viewjob?jk=87786da28aae9e85",
-      "date": "2026-10-29",
-      "location": "Delaware State University at Dover, DE, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Health and Wellness Design",
-      "url": "https://www.indeed.com/viewjob?jk=43839162e6df7e75",
-      "date": "2026-10-27",
-      "location": "Texas Tech University at TX, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4481976956",
-      "title": "Assistant Professor, Tenure Track, CHOP Division of Hematology",
-      "url": "https://www.linkedin.com/jobs/view/4481976956",
-      "date": "2026-10-23",
-      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor in Anglophone Poetry Studies",
-      "url": "https://www.indeed.com/viewjob?jk=1144aa1e56e40f2f",
-      "date": "2026-10-23",
-      "location": "University of Florida at Gainesville, FL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor, Mathematics and Statistics",
-      "url": "https://www.indeed.com/viewjob?jk=fb2f360f6b244ea2",
-      "date": "2026-10-07",
-      "location": "University of Nebraska at Kearney, NE, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -248,6 +269,17 @@
       "url": "https://www.indeed.com/viewjob?jk=dc8c913b77c97564",
       "date": "2026-10-30",
       "location": "Aquinas College at Grand Rapids, MI, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=87786da28aae9e85",
+      "date": "2026-10-29",
+      "location": "Delaware State University at Dover, DE, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -593,6 +625,17 @@
       "url": "https://www.indeed.com/viewjob?jk=d8a081fc70c414eb",
       "date": "2026-10-28",
       "location": "Abilene Christian University at Abilene, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Health and Wellness Design",
+      "url": "https://www.indeed.com/viewjob?jk=43839162e6df7e75",
+      "date": "2026-10-27",
+      "location": "Texas Tech University at TX, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1044,6 +1087,28 @@
       "url": "https://www.linkedin.com/jobs/view/4481011385",
       "date": "2026-10-24",
       "location": "Emory University at Atlanta, GA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4481976956",
+      "title": "Assistant Professor, Tenure Track, CHOP Division of Hematology",
+      "url": "https://www.linkedin.com/jobs/view/4481976956",
+      "date": "2026-10-23",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor in Anglophone Poetry Studies",
+      "url": "https://www.indeed.com/viewjob?jk=1144aa1e56e40f2f",
+      "date": "2026-10-23",
+      "location": "University of Florida at Gainesville, FL, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -4612,6 +4677,17 @@
         "battery materials",
         "nuclear materials"
       ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Mathematics and Statistics",
+      "url": "https://www.indeed.com/viewjob?jk=fb2f360f6b244ea2",
+      "date": "2026-10-07",
+      "location": "University of Nebraska at Kearney, NE, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
     },
     {
       "id": "www-viewjob",

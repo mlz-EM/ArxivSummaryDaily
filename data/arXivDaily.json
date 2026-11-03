@@ -2,14 +2,58 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-02T10:41:16-05:00",
+    "generatedAt": "2026-11-03T07:39:08-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 451 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 455 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2611.03581v1",
+      "title": "Single-pass stochastic cooling for electron microscopy",
+      "url": "https://arxiv.org/abs/2611.03581v1",
+      "date": "2026-11-02",
+      "summary": "Scientific applications of free electrons, such as in electron microscopes and particle accelerators, are limited by the brightness of available electron sources. Accelerators can use phase space cooling to surpass these source limitations,",
+      "tags": [
+        "physics-acc-ph",
+        "physics-optics",
+        "quant-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2611.03176v1",
+      "title": "A Topology-Based Approach to Representative Volume Element Assessment in Solid Oxide Cell Anodes Using Large Volume Tomography and Persistent Homology",
+      "url": "https://arxiv.org/abs/2611.03176v1",
+      "date": "2026-11-02",
+      "summary": "Determining the representative volume element is essential for establishing statistically meaningful microstructure-property relationships. Conventional approaches rely on the convergence of selected geometric descriptors, which may yield d",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "math-at"
+      ]
+    },
+    {
+      "id": "arxiv-2611.02469v1",
+      "title": "Observation of Superconductivity in a Cu-Rich High-Entropy Alloy",
+      "url": "https://arxiv.org/abs/2611.02469v1",
+      "date": "2026-11-02",
+      "summary": "A Cu-rich multielement alloy containing Zn, Sn, Ag, and Au was synthesized and studied to explore its structural and physical properties. The alloy was prepared by vacuum-sealed melting of high-purity elements followed by rapid quenching in",
+      "tags": [
+        "cond-mat-supr-con"
+      ]
+    },
+    {
+      "id": "arxiv-2611.01660v1",
+      "title": "Structural and Optical Properties of PVP-Modified ZnS Nanoparticles for Photocatalytic Dye Degradation",
+      "url": "https://arxiv.org/abs/2611.01660v1",
+      "date": "2026-11-01",
+      "summary": "Pristine and PVP-modified ZnS nanoparticles were investigated to examine how PVP addition affects structural, surface, optical, and methylene blue (MB) decolorization properties. X-ray diffraction confirmed cubic zinc-blende ZnS in all samp",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-mes-hall"
+      ]
+    },
     {
       "id": "arxiv-2610.42064v1",
       "title": "Soft X-Ray Detection Down to the Nitrogen K-Edge Using a Pixelated iLGAD Sensor",
