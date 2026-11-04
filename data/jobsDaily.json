@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-03T07:39:08-05:00",
+    "generatedAt": "2026-11-04T07:52:09-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -11,6 +11,83 @@
   },
   "items": [
     {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, 9 Month Salaried (English)",
+      "url": "https://www.indeed.com/viewjob?jk=a90265065eafbdc5",
+      "date": "2026-11-04",
+      "location": "Florida State University at Tallahassee, FL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4487077884",
+      "title": "Faculty  Surgery Administration, Research Focus (Open Rank, Tenure-Track)",
+      "url": "https://www.linkedin.com/jobs/view/4487077884",
+      "date": "2026-11-04",
+      "location": "The Ohio State University Wexner Medical Center at Columbus, OH, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Political Science",
+      "url": "https://www.indeed.com/viewjob?jk=ce686ae447e189f7",
+      "date": "2026-11-03",
+      "location": "Niagara University at Niagara University, NY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4487066988",
+      "title": "Core Faculty - Full-time Nursing (FNP)",
+      "url": "https://www.linkedin.com/jobs/view/4487066988",
+      "date": "2026-11-03",
+      "location": "University of St. Augustine for Health Sciences at St Augustine, FL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4487029472",
+      "title": "Nursing Faculty (Adjunct & Full-Time) - Bench Team Opportunities!",
+      "url": "https://www.linkedin.com/jobs/view/4487029472",
+      "date": "2026-11-03",
+      "location": "Rasmussen University at Odessa, FL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4487031547",
+      "title": "Nursing Faculty (Adjunct & Full-Time) - Bench Team Opportunities!",
+      "url": "https://www.linkedin.com/jobs/view/4487031547",
+      "date": "2026-11-03",
+      "location": "Rasmussen University at Overland Park, KS, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4486300413",
+      "title": "Assistant/Associate/Full Clinical Professor",
+      "url": "https://www.linkedin.com/jobs/view/4486300413",
+      "date": "2026-11-03",
+      "location": "University of the Pacific at Stockton, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
       "id": "www-4486013160",
       "title": "Assistant/Associate/Full Clinical Professor",
       "url": "https://www.linkedin.com/jobs/view/4486013160",
@@ -18,7 +95,7 @@
       "location": "University of the Pacific at Sacramento, CA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +106,7 @@
       "location": "St. Ambrose University at Davenport, IA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +117,7 @@
       "location": "The College of New Jersey at Ewing, NJ, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +128,7 @@
       "location": "St. Ambrose University at Davenport, IA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +139,7 @@
       "location": "Ball State University at Muncie, IN, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,18 +150,7 @@
       "location": "AMN Healthcare at Bryan, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor (Social Work) - 9 month appointment",
-      "url": "https://www.indeed.com/viewjob?jk=507e24b6c5541fd7",
-      "date": "2026-10-12",
-      "location": "Missouri State University at Springfield, MO, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -3420,6 +3486,17 @@
       "url": "https://www.indeed.com/viewjob?jk=e58de7b86062887c",
       "date": "2026-10-13",
       "location": "Ramapo College of New Jersey at Mahwah, NJ, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor (Social Work) - 9 month appointment",
+      "url": "https://www.indeed.com/viewjob?jk=507e24b6c5541fd7",
+      "date": "2026-10-12",
+      "location": "Missouri State University at Springfield, MO, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,

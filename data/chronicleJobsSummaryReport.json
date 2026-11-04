@@ -1,16 +1,61 @@
 {
-  "generatedAt": "2026-11-03T07:39:09-05:00",
+  "generatedAt": "2026-11-04T07:52:10-05:00",
   "model": "gemini-3.8-flash",
-  "runId": "41635594463",
-  "inputJobs": 0,
+  "runId": "41830869236",
+  "inputJobs": 11,
   "alreadyProcessed": 0,
   "prefiltered": 0,
   "prefilterReasons": {},
   "accepted": 0,
   "rejected": 0,
-  "unsummarized": 0,
-  "complete": true,
-  "stopReason": "",
-  "pendingJobs": [],
+  "unsummarized": 11,
+  "complete": false,
+  "stopReason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+  "pendingJobs": [
+    {
+      "url": "https://jobs.chronicle.com/job/38054000",
+      "title": "Tenure-Track Assistant Professor in Neurobiology & Behavior"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38054155",
+      "title": "Workforce and Organizational Development Assistant/Associate Professor (Non-Tenured,F0586A)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38055193",
+      "title": "Workforce and Organizational Development Clinical Assistant/Associate Professor (Non-Tenured,F0586A)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058271",
+      "title": "Computing and Mathematical Sciences Division - Open Rank Faculty Positions in Computer Vision"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058411",
+      "title": "Workforce and Organizational Development Clinical Assistant/Associate Professor (Non-Tenured,F0586A)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058764",
+      "title": "Assistant Professor - Master's in Physician Assistant Studies"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058774",
+      "title": "Assistant Professor- Biomedical Engineering"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058777",
+      "title": "Assistant Professor, Film and Media Studies, Interdisciplinary School for Engagement"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058778",
+      "title": "Assistant Professor of Japanese"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058779",
+      "title": "Regional Faculty Director for Admissions and Student Affairs"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058793",
+      "title": "Clinical Assistant Professor, Child Life & Family-Centered Care"
+    }
+  ],
   "prefilterExamples": []
 }

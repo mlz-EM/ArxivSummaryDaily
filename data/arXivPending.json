@@ -1,7 +1,36 @@
 {
   "schemaVersion": 1,
-  "latestEntryId": "http://arxiv.org/abs/2611.03581v1",
+  "latestEntryId": "http://arxiv.org/abs/2611.04858v1",
   "papers": [
+    {
+      "title": "Effect of molybdenum content on phase transformations during continuous heating of metastable β Ti-Mo alloys",
+      "authors": [
+        "Veronika Kočiščáková",
+        "Anna Veverková",
+        "Josef Stráský",
+        "Jana Šmilauerová",
+        "Kristína Bartha",
+        "Petr Harcuba",
+        "Dalibor Preisler",
+        "Jozef Veselý",
+        "Miloš Janeček"
+      ],
+      "published": "2026-11-03T13:18:28+00:00",
+      "updated": "2026-11-03T13:18:28+00:00",
+      "summary": "Three metastable $β$ titanium alloys with different molybdenum contents, Ti-12Mo, Ti-15Mo and Ti-18Mo (wt.%), were investigated to determine the influence of $β$-phase stability on phase transformations during continuous heating. Electrical resistance measurement, dilatometry and differential scanning calorimetry were performed during linear heating at 5 °C/min up to 750 °C. The in-situ experiments were complemented by electron microscopy observations of specimens heated to selected temperatures and subsequently water-quenched. All alloys exhibited a sequence involving partial dissolution of athermal $ω$ phase, stabilization and growth of isothermal $ω$ phase, subsequent $ω$ dissolution and precipitation of $α$ phase. Increasing molybdenum content progressively suppressed $ω$ phase evolution and subsequent $α$ precipitation and narrowed the temperature interval associated with $ω$-related transformations. The excellent agreement between electrical resistance measurements, DSC, dilatometry and electron microscopy enabled a consistent description of phase evolution during heating and demonstrated the benefits of combining complementary experimental techniques for investigation of complex transformation pathways in metastable $β$ titanium alloys.",
+      "doi": null,
+      "primary_category": "cond-mat.mtrl-sci",
+      "categories": [
+        "cond-mat.mtrl-sci"
+      ],
+      "links": [
+        "https://arxiv.org/abs/2611.04858v1",
+        "https://arxiv.org/pdf/2611.04858v1"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2611.04858v1",
+      "entry_id": "http://arxiv.org/abs/2611.04858v1",
+      "comment": "21 pages, 10 figures, submitted to Journal of Alloys and Compounds"
+    },
     {
       "title": "Single-pass stochastic cooling for electron microscopy",
       "authors": [

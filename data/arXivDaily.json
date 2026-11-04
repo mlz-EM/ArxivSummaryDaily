@@ -2,14 +2,24 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-03T07:39:08-05:00",
+    "generatedAt": "2026-11-04T07:52:09-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 455 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 456 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2611.04858v1",
+      "title": "Effect of molybdenum content on phase transformations during continuous heating of metastable β Ti-Mo alloys",
+      "url": "https://arxiv.org/abs/2611.04858v1",
+      "date": "2026-11-03",
+      "summary": "Three metastable $β$ titanium alloys with different molybdenum contents, Ti-12Mo, Ti-15Mo and Ti-18Mo (wt.%), were investigated to determine the influence of $β$-phase stability on phase transformations during continuous heating. Electrical",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2611.03581v1",
       "title": "Single-pass stochastic cooling for electron microscopy",

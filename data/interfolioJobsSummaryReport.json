@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-03T07:39:09-05:00",
+  "generatedAt": "2026-11-04T07:52:10-05:00",
   "model": "gemini-3.8-flash",
-  "runId": "41635594463",
-  "inputJobs": 21,
+  "runId": "41830869236",
+  "inputJobs": 24,
   "alreadyProcessed": 0,
-  "prefiltered": 13,
+  "prefiltered": 5,
   "prefilterReasons": {
-    "clinical_or_health": 8,
-    "business_or_law": 1,
-    "life_sciences": 3,
-    "humanities_or_social_science": 1
+    "humanities_or_social_science": 1,
+    "clinical_or_health": 2,
+    "life_sciences": 1,
+    "business_or_law": 1
   },
   "accepted": 0,
   "rejected": 0,
-  "unsummarized": 8,
+  "unsummarized": 19,
   "complete": false,
   "stopReason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
   "pendingJobs": [
@@ -26,16 +26,40 @@
       "title": "Professor (All Ranks) in AI-Human Collaboration"
     },
     {
+      "url": "https://apply.interfolio.com/196539",
+      "title": "Associate Professor, Endowed Chair in Community Practice"
+    },
+    {
       "url": "https://apply.interfolio.com/196622",
       "title": "Assistant Professor Tenure-Track Positions in AI for Science for Fall 2027, Courant Institute School of Mathematics, Computing, and Data Science"
+    },
+    {
+      "url": "https://apply.interfolio.com/196675",
+      "title": "Environmental Engineering Faculty Position"
+    },
+    {
+      "url": "https://apply.interfolio.com/196702",
+      "title": "Assistant Professor (Tenure Track), Hydrodynamic Modeling"
+    },
+    {
+      "url": "https://apply.interfolio.com/196744",
+      "title": "Open Rank Thoracic Surgeon"
     },
     {
       "url": "https://apply.interfolio.com/196753",
       "title": "Assistant Professor of Economics and Computational Social Science, Tenure-Track"
     },
     {
+      "url": "https://apply.interfolio.com/196771",
+      "title": "2027 Actuarial Science Tenure-Track Assistant/Associate Professor"
+    },
+    {
       "url": "https://apply.interfolio.com/196787",
       "title": "Faculty Position in HEALTH SERVICES RESEARCH/HEALTH POLICY"
+    },
+    {
+      "url": "https://apply.interfolio.com/196791",
+      "title": "Artist Faculty in Trombone"
     },
     {
       "url": "https://apply.interfolio.com/196822",
@@ -48,60 +72,48 @@
     {
       "url": "https://apply.interfolio.com/196840",
       "title": "Open-Rank Assistant, Associate, or Full Professor of Instruction in Electrical Engineering"
+    },
+    {
+      "url": "https://apply.interfolio.com/196865",
+      "title": "Artist Faculty in Guitar"
+    },
+    {
+      "url": "https://apply.interfolio.com/196878",
+      "title": "Assistant Professor- Child Clinical Psychologist"
+    },
+    {
+      "url": "https://apply.interfolio.com/196879",
+      "title": "Assistant Professor- Child Clinical Psychologist"
+    },
+    {
+      "url": "https://apply.interfolio.com/196883",
+      "title": "Faculty Position in Experimental Condensed Matter Physics 2026"
+    },
+    {
+      "url": "https://apply.interfolio.com/196909",
+      "title": "FA27-044: Assistant Professor, Electrical and Computer Engineering"
     }
   ],
   "prefilterExamples": [
     {
-      "url": "https://apply.interfolio.com/196458",
-      "reason": "clinical_or_health"
-    },
-    {
-      "url": "https://apply.interfolio.com/196512",
-      "reason": "clinical_or_health"
-    },
-    {
-      "url": "https://apply.interfolio.com/196794",
-      "reason": "business_or_law"
-    },
-    {
-      "url": "https://apply.interfolio.com/196797",
-      "reason": "clinical_or_health"
-    },
-    {
-      "url": "https://apply.interfolio.com/196798",
-      "reason": "clinical_or_health"
-    },
-    {
-      "url": "https://apply.interfolio.com/196801",
-      "reason": "life_sciences"
-    },
-    {
-      "url": "https://apply.interfolio.com/196802",
-      "reason": "life_sciences"
-    },
-    {
-      "url": "https://apply.interfolio.com/196811",
-      "reason": "clinical_or_health"
-    },
-    {
-      "url": "https://apply.interfolio.com/196813",
+      "url": "https://apply.interfolio.com/196701",
       "reason": "humanities_or_social_science"
     },
     {
-      "url": "https://apply.interfolio.com/196815",
+      "url": "https://apply.interfolio.com/196762",
       "reason": "clinical_or_health"
     },
     {
-      "url": "https://apply.interfolio.com/196816",
+      "url": "https://apply.interfolio.com/196868",
       "reason": "clinical_or_health"
     },
     {
-      "url": "https://apply.interfolio.com/196830",
+      "url": "https://apply.interfolio.com/196897",
       "reason": "life_sciences"
     },
     {
-      "url": "https://apply.interfolio.com/196831",
-      "reason": "clinical_or_health"
+      "url": "https://apply.interfolio.com/196920",
+      "reason": "business_or_law"
     }
   ]
 }

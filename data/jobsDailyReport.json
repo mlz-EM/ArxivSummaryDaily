@@ -1,50 +1,54 @@
 {
-  "generatedAt": "2026-11-03T07:39:08-05:00",
+  "generatedAt": "2026-11-04T07:52:09-05:00",
   "model": "gemini-3.8-flash",
-  "runId": "41635594463",
+  "runId": "41830869236",
   "inputJobs": 200,
-  "alreadyProcessed": 193,
+  "alreadyProcessed": 192,
   "prefiltered": 7,
   "prefilterReasons": {
-    "non_tenure_track": 2,
-    "business_or_law": 1,
-    "clinical_or_health": 3,
-    "humanities_or_social_science": 1
+    "humanities_or_social_science": 2,
+    "clinical_or_health": 2,
+    "non_tenure_track": 3
   },
   "accepted": 0,
   "rejected": 0,
-  "unsummarized": 0,
-  "complete": true,
-  "stopReason": "",
-  "pendingJobs": [],
+  "unsummarized": 1,
+  "complete": false,
+  "stopReason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+  "pendingJobs": [
+    {
+      "url": "https://www.linkedin.com/jobs/view/4487088999",
+      "title": "Professor Term (Open Rank) – ..."
+    }
+  ],
   "prefilterExamples": [
     {
-      "url": "https://www.linkedin.com/jobs/view/4486013160",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=40f4df33513afc67",
-      "reason": "business_or_law"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4486462135",
-      "reason": "clinical_or_health"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=968f951c99ec77d9",
+      "url": "https://www.indeed.com/viewjob?jk=a90265065eafbdc5",
       "reason": "humanities_or_social_science"
     },
     {
-      "url": "https://www.indeed.com/viewjob?jk=b33b0b33e8a26bdc",
+      "url": "https://www.linkedin.com/jobs/view/4487077884",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=ce686ae447e189f7",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4487066988",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4487029472",
       "reason": "non_tenure_track"
     },
     {
-      "url": "https://www.linkedin.com/jobs/view/4485162723",
-      "reason": "clinical_or_health"
+      "url": "https://www.linkedin.com/jobs/view/4487031547",
+      "reason": "non_tenure_track"
     },
     {
-      "url": "https://www.indeed.com/viewjob?jk=507e24b6c5541fd7",
-      "reason": "clinical_or_health"
+      "url": "https://www.linkedin.com/jobs/view/4486300413",
+      "reason": "non_tenure_track"
     }
   ]
 }

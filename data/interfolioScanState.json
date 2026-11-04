@@ -3,9 +3,9 @@
   "startId": 180000,
   "bootstrapComplete": true,
   "bootstrapNextId": 192067,
-  "highestDiscoveredId": 196858,
-  "lastScannedId": 197258,
-  "lastRunAt": "2026-11-03T12:38:41Z",
+  "highestDiscoveredId": 196920,
+  "lastScannedId": 197320,
+  "lastRunAt": "2026-11-04T12:50:47Z",
   "missing": {
     "189947": {
       "kind": "empty",
@@ -47,13 +47,6 @@
       "nextLargerPostedDate": "2026-11-10",
       "status": "deferred"
     },
-    "195774": {
-      "kind": "not_found",
-      "firstCheckedAt": "2026-10-16T08:37:02Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 195775,
-      "nextLargerPostedDate": "2026-10-27"
-    },
     "195811": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-17T08:07:05Z",
@@ -73,14 +66,14 @@
     "195964": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-20T09:00:14Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 195966,
       "nextLargerPostedDate": "2026-10-29"
     },
     "195965": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-20T09:00:14Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 195966,
       "nextLargerPostedDate": "2026-10-29"
     },
@@ -95,14 +88,14 @@
     "195996": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-21T08:59:26Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 195998,
       "nextLargerPostedDate": "2026-11-02"
     },
     "195997": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-21T08:59:26Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 195998,
       "nextLargerPostedDate": "2026-11-02"
     },
@@ -117,525 +110,336 @@
     "196169": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-22T09:02:26Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196175,
-      "nextLargerPostedDate": "2026-10-28"
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
+      "nextLargerId": 196173,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196170": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-22T09:02:26Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196175,
-      "nextLargerPostedDate": "2026-10-28"
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
+      "nextLargerId": 196173,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196171": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-22T09:02:26Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196175,
-      "nextLargerPostedDate": "2026-10-28"
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
+      "nextLargerId": 196173,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196172": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-22T09:02:26Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196175,
-      "nextLargerPostedDate": "2026-10-28"
-    },
-    "196173": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-22T09:02:26Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196175,
-      "nextLargerPostedDate": "2026-10-28"
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
+      "nextLargerId": 196173,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196174": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-22T09:02:26Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196175,
       "nextLargerPostedDate": "2026-10-28"
-    },
-    "196195": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-23T08:56:58Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196196,
-      "nextLargerPostedDate": "2026-10-27"
-    },
-    "196198": {
-      "kind": "not_found",
-      "firstCheckedAt": "2026-10-23T08:56:58Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196199,
-      "nextLargerPostedDate": "2026-10-27"
     },
     "196245": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-23T08:57:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196246,
       "nextLargerPostedDate": "2026-10-29"
-    },
-    "196270": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-23T08:57:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196271,
-      "nextLargerPostedDate": "2026-10-27"
-    },
-    "196286": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-24T08:30:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196287,
-      "nextLargerPostedDate": "2026-10-27"
-    },
-    "196311": {
-      "kind": "not_found",
-      "firstCheckedAt": "2026-10-24T08:30:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196312,
-      "nextLargerPostedDate": "2026-10-27"
     },
     "196318": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-24T08:30:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196321,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196319": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-24T08:30:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196321,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196320": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-24T08:30:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196321,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196330": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-27T09:27:00Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196333,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196331": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-27T09:27:00Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196333,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196332": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-27T09:27:00Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196333,
       "nextLargerPostedDate": "2026-10-29"
-    },
-    "196334": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-27T09:27:00Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196335,
-      "nextLargerPostedDate": "2026-10-27"
     },
     "196336": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-27T09:27:00Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196337,
       "nextLargerPostedDate": "2026-10-29"
-    },
-    "196338": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-27T09:27:00Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196339,
-      "nextLargerPostedDate": "2026-10-27"
     },
     "196354": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-27T09:27:00Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196355,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196369": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196372,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196370": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196372,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196371": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196372,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196375": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196376,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196385": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196389,
-      "nextLargerPostedDate": "2026-11-02"
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
+      "nextLargerId": 196388,
+      "nextLargerPostedDate": "2026-10-26"
     },
     "196386": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196389,
-      "nextLargerPostedDate": "2026-11-02"
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
+      "nextLargerId": 196388,
+      "nextLargerPostedDate": "2026-10-26"
     },
     "196387": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196389,
-      "nextLargerPostedDate": "2026-11-02"
-    },
-    "196388": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196389,
-      "nextLargerPostedDate": "2026-11-02"
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
+      "nextLargerId": 196388,
+      "nextLargerPostedDate": "2026-10-26"
     },
     "196391": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196392,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196393": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196395,
       "nextLargerPostedDate": "2026-11-01"
     },
     "196394": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196395,
       "nextLargerPostedDate": "2026-11-01"
-    },
-    "196407": {
-      "kind": "not_found",
-      "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196411,
-      "nextLargerPostedDate": "2026-10-27"
-    },
-    "196408": {
-      "kind": "not_found",
-      "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196411,
-      "nextLargerPostedDate": "2026-10-27"
-    },
-    "196409": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196411,
-      "nextLargerPostedDate": "2026-10-27"
-    },
-    "196410": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-27T09:27:25Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196411,
-      "nextLargerPostedDate": "2026-10-27"
     },
     "196415": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196416,
       "nextLargerPostedDate": "2026-11-03"
     },
     "196419": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196420,
       "nextLargerPostedDate": "2026-11-02"
-    },
-    "196421": {
-      "kind": "not_found",
-      "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
-      "nextLargerId": 196422,
-      "nextLargerPostedDate": "2026-10-27"
     },
     "196426": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:25Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196429,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196427": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196429,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196428": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196429,
       "nextLargerPostedDate": "2026-10-29"
-    },
-    "196431": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196432,
-      "nextLargerPostedDate": "2026-10-27"
     },
     "196433": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196434,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196437": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196439,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196438": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196439,
       "nextLargerPostedDate": "2026-10-28"
-    },
-    "196440": {
-      "kind": "not_found",
-      "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196441,
-      "nextLargerPostedDate": "2026-10-27"
-    },
-    "196443": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196444,
-      "nextLargerPostedDate": "2026-10-27"
-    },
-    "196451": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196452,
-      "nextLargerPostedDate": "2026-10-27"
-    },
-    "196455": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196457,
-      "nextLargerPostedDate": "2026-10-27"
-    },
-    "196456": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196457,
-      "nextLargerPostedDate": "2026-10-27"
-    },
-    "196460": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-28T10:07:59Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196461,
-      "nextLargerPostedDate": "2026-10-28"
-    },
-    "196466": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-28T10:08:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196467,
-      "nextLargerPostedDate": "2026-10-27"
-    },
-    "196471": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-28T10:08:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196472,
-      "nextLargerPostedDate": "2026-10-27"
-    },
-    "196474": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-28T10:08:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196475,
-      "nextLargerPostedDate": "2026-10-27"
     },
     "196477": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-28T10:08:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196481,
       "nextLargerPostedDate": "2026-10-31"
     },
     "196478": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-28T10:08:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196481,
       "nextLargerPostedDate": "2026-10-31"
     },
     "196479": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-28T10:08:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196481,
       "nextLargerPostedDate": "2026-10-31"
     },
     "196480": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-28T10:08:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196481,
       "nextLargerPostedDate": "2026-10-31"
     },
     "196488": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-28T10:08:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196489,
       "nextLargerPostedDate": "2026-11-02"
-    },
-    "196490": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-28T10:08:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196491,
-      "nextLargerPostedDate": "2026-10-27"
     },
     "196493": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-28T10:08:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196494,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196502": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-28T10:08:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196503,
       "nextLargerPostedDate": "2026-10-28"
     },
-    "196505": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-28T10:08:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196508,
-      "nextLargerPostedDate": "2026-10-30"
-    },
-    "196506": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-28T10:08:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196508,
-      "nextLargerPostedDate": "2026-10-30"
-    },
     "196507": {
-      "kind": "empty",
+      "kind": "not_found",
       "firstCheckedAt": "2026-10-28T10:08:23Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196508,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196509": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:40:39Z",
       "nextLargerId": 196510,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196511": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196512,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196514": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196515,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196518": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196519,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196523": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196524,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196526": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196528,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196527": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196528,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196529": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196530,
       "nextLargerPostedDate": "2026-10-29"
     },
@@ -658,70 +462,63 @@
     "196536": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196537,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196538": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196542,
-      "nextLargerPostedDate": "2026-10-28"
-    },
-    "196539": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
-      "nextLargerId": 196542,
-      "nextLargerPostedDate": "2026-10-28"
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
+      "nextLargerId": 196539,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196540": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196542,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196541": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196542,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196546": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196547,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196551": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196553,
       "nextLargerPostedDate": "2026-11-01"
     },
     "196552": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196553,
       "nextLargerPostedDate": "2026-11-01"
     },
     "196555": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:33:36Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196556,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196557": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:35:00Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196558,
       "nextLargerPostedDate": "2026-10-28"
     },
@@ -760,189 +557,182 @@
     "196570": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:35:00Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196571,
       "nextLargerPostedDate": "2026-11-01"
     },
     "196575": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-29T10:35:00Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196581,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196576": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:35:00Z",
-      "lastCheckedAt": "2026-11-03T12:28:50Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196581,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196577": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:35:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196581,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196578": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:35:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196581,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196579": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:35:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196581,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196580": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-29T10:35:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196581,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196589": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196590,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196591": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196592,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196593": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196594,
       "nextLargerPostedDate": "2026-10-29"
-    },
-    "196596": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
-      "nextLargerId": 196600,
-      "nextLargerPostedDate": "2026-11-02"
     },
     "196597": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196600,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196598": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196600,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196599": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196600,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196601": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196602,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196603": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196604,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196605": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196606,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196607": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196610,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196608": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196610,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196609": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196610,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196615": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196617,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196616": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196617,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196618": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196620,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196619": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196620,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196621": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196622,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196623": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196624,
       "nextLargerPostedDate": "2026-10-28"
     },
     "196626": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-30T10:36:00Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196627,
       "nextLargerPostedDate": "2026-10-28"
     },
@@ -989,413 +779,350 @@
     "196634": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196635,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196636": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196638,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196637": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196638,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196639": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196640,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196641": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:41:05Z",
       "nextLargerId": 196642,
       "nextLargerPostedDate": "2026-10-29"
-    },
-    "196646": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
-      "nextLargerId": 196649,
-      "nextLargerPostedDate": "2026-10-30"
     },
     "196647": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196649,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196648": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196649,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196650": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196651,
-      "nextLargerPostedDate": "2026-10-29"
-    },
-    "196652": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
-      "nextLargerId": 196653,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196654": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196655,
       "nextLargerPostedDate": "2026-10-29"
-    },
-    "196662": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
-      "nextLargerId": 196663,
-      "nextLargerPostedDate": "2026-10-30"
-    },
-    "196664": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
-      "nextLargerId": 196665,
-      "nextLargerPostedDate": "2026-10-29"
-    },
-    "196668": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
-      "nextLargerId": 196669,
-      "nextLargerPostedDate": "2026-10-30"
     },
     "196670": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196672,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196671": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196672,
       "nextLargerPostedDate": "2026-10-29"
     },
     "196674": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
-      "nextLargerId": 196682,
-      "nextLargerPostedDate": "2026-11-01"
-    },
-    "196675": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
-      "nextLargerId": 196682,
-      "nextLargerPostedDate": "2026-11-01"
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
+      "nextLargerId": 196675,
+      "nextLargerPostedDate": "2026-10-30"
     },
     "196676": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196682,
       "nextLargerPostedDate": "2026-11-01"
     },
     "196677": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196682,
       "nextLargerPostedDate": "2026-11-01"
     },
     "196678": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196682,
       "nextLargerPostedDate": "2026-11-01"
     },
     "196679": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196682,
       "nextLargerPostedDate": "2026-11-01"
     },
     "196680": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:14Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196682,
       "nextLargerPostedDate": "2026-11-01"
     },
     "196681": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-30T10:36:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196682,
       "nextLargerPostedDate": "2026-11-01"
     },
     "196685": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196687,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196686": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196687,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196689": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196690,
       "nextLargerPostedDate": "2026-10-31"
     },
     "196691": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196692,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196694": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196695,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196697": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
-      "nextLargerId": 196703,
-      "nextLargerPostedDate": "2026-10-30"
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
+      "nextLargerId": 196701,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196698": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
-      "nextLargerId": 196703,
-      "nextLargerPostedDate": "2026-10-30"
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
+      "nextLargerId": 196701,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196699": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
-      "nextLargerId": 196703,
-      "nextLargerPostedDate": "2026-10-30"
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
+      "nextLargerId": 196701,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196700": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
-      "nextLargerId": 196703,
-      "nextLargerPostedDate": "2026-10-30"
-    },
-    "196701": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
-      "nextLargerId": 196703,
-      "nextLargerPostedDate": "2026-10-30"
-    },
-    "196702": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
-      "nextLargerId": 196703,
-      "nextLargerPostedDate": "2026-10-30"
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
+      "nextLargerId": 196701,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196704": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196706,
       "nextLargerPostedDate": "2026-11-01"
     },
     "196705": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196706,
       "nextLargerPostedDate": "2026-11-01"
     },
     "196708": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196710,
       "nextLargerPostedDate": "2026-11-01"
     },
     "196709": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196710,
       "nextLargerPostedDate": "2026-11-01"
     },
     "196712": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196715,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196713": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196715,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196714": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196715,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196723": {
       "kind": "not_found",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196724,
       "nextLargerPostedDate": "2026-10-31"
     },
     "196726": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196727,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196728": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196730,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196729": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196730,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196731": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196733,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196732": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:04:06Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196733,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196735": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:05:30Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196736,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196738": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:05:30Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196739,
       "nextLargerPostedDate": "2026-10-30"
     },
     "196741": {
       "kind": "empty",
       "firstCheckedAt": "2026-10-31T10:05:30Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196742,
       "nextLargerPostedDate": "2026-11-01"
-    },
-    "196744": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-01T10:54:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
-      "nextLargerId": 196747,
-      "nextLargerPostedDate": "2026-10-31"
     },
     "196745": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-01T10:54:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196747,
       "nextLargerPostedDate": "2026-10-31"
     },
     "196746": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-01T10:54:25Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196747,
       "nextLargerPostedDate": "2026-10-31"
     },
     "196749": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-02T15:33:07Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196753,
       "nextLargerPostedDate": "2026-11-03"
     },
     "196750": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-02T15:33:07Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:29Z",
       "nextLargerId": 196753,
       "nextLargerPostedDate": "2026-11-03"
     },
     "196751": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-02T15:33:07Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196753,
       "nextLargerPostedDate": "2026-11-03"
     },
     "196752": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-02T15:33:07Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196753,
       "nextLargerPostedDate": "2026-11-03"
     },
     "196755": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-02T15:33:07Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196756,
       "nextLargerPostedDate": "2026-11-02"
     },
@@ -1410,78 +1137,43 @@
     "196760": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-02T15:33:07Z",
-      "lastCheckedAt": "2026-11-03T12:30:34Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196761,
-      "nextLargerPostedDate": "2026-11-02"
-    },
-    "196762": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196764,
-      "nextLargerPostedDate": "2026-11-02"
-    },
-    "196763": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196764,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196766": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196767,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196769": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196776,
-      "nextLargerPostedDate": "2026-11-02"
-    },
-    "196770": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196776,
-      "nextLargerPostedDate": "2026-11-02"
-    },
-    "196771": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196776,
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
+      "nextLargerId": 196770,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196772": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196776,
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
+      "nextLargerId": 196775,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196773": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196776,
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
+      "nextLargerId": 196775,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196774": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196776,
-      "nextLargerPostedDate": "2026-11-02"
-    },
-    "196775": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196776,
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
+      "nextLargerId": 196775,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196778": {
@@ -1489,243 +1181,189 @@
       "firstCheckedAt": "2026-11-03T12:31:59Z",
       "lastCheckedAt": "2026-11-03T12:31:59Z",
       "nextLargerId": 196787,
-      "nextLargerPostedDate": "2026-11-06"
+      "nextLargerPostedDate": "2026-11-06",
+      "status": "deferred"
     },
     "196779": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
       "lastCheckedAt": "2026-11-03T12:31:59Z",
       "nextLargerId": 196787,
-      "nextLargerPostedDate": "2026-11-06"
+      "nextLargerPostedDate": "2026-11-06",
+      "status": "deferred"
     },
     "196780": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
       "lastCheckedAt": "2026-11-03T12:31:59Z",
       "nextLargerId": 196787,
-      "nextLargerPostedDate": "2026-11-06"
+      "nextLargerPostedDate": "2026-11-06",
+      "status": "deferred"
     },
     "196781": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
       "lastCheckedAt": "2026-11-03T12:31:59Z",
       "nextLargerId": 196787,
-      "nextLargerPostedDate": "2026-11-06"
+      "nextLargerPostedDate": "2026-11-06",
+      "status": "deferred"
     },
     "196782": {
       "kind": "not_found",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
       "lastCheckedAt": "2026-11-03T12:31:59Z",
       "nextLargerId": 196787,
-      "nextLargerPostedDate": "2026-11-06"
+      "nextLargerPostedDate": "2026-11-06",
+      "status": "deferred"
     },
     "196783": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
       "lastCheckedAt": "2026-11-03T12:31:59Z",
       "nextLargerId": 196787,
-      "nextLargerPostedDate": "2026-11-06"
+      "nextLargerPostedDate": "2026-11-06",
+      "status": "deferred"
     },
     "196784": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
       "lastCheckedAt": "2026-11-03T12:31:59Z",
       "nextLargerId": 196787,
-      "nextLargerPostedDate": "2026-11-06"
+      "nextLargerPostedDate": "2026-11-06",
+      "status": "deferred"
     },
     "196785": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
       "lastCheckedAt": "2026-11-03T12:31:59Z",
       "nextLargerId": 196787,
-      "nextLargerPostedDate": "2026-11-06"
+      "nextLargerPostedDate": "2026-11-06",
+      "status": "deferred"
     },
     "196786": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
       "lastCheckedAt": "2026-11-03T12:31:59Z",
       "nextLargerId": 196787,
-      "nextLargerPostedDate": "2026-11-06"
+      "nextLargerPostedDate": "2026-11-06",
+      "status": "deferred"
     },
     "196788": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196794,
-      "nextLargerPostedDate": "2026-11-02"
-    },
-    "196789": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196794,
-      "nextLargerPostedDate": "2026-11-02"
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
+      "nextLargerId": 196789,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196790": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196794,
-      "nextLargerPostedDate": "2026-11-02"
-    },
-    "196791": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196794,
-      "nextLargerPostedDate": "2026-11-02"
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
+      "nextLargerId": 196791,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196792": {
-      "kind": "empty",
+      "kind": "not_found",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196794,
-      "nextLargerPostedDate": "2026-11-02"
-    },
-    "196793": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196794,
-      "nextLargerPostedDate": "2026-11-02"
-    },
-    "196795": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196797,
-      "nextLargerPostedDate": "2026-11-02"
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
+      "nextLargerId": 196793,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196796": {
       "kind": "not_found",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196797,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196799": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196801,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196800": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196801,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196803": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196807,
-      "nextLargerPostedDate": "2026-10-29"
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
+      "nextLargerId": 196805,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196804": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196807,
-      "nextLargerPostedDate": "2026-10-29"
-    },
-    "196805": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196807,
-      "nextLargerPostedDate": "2026-10-29"
-    },
-    "196806": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196807,
-      "nextLargerPostedDate": "2026-10-29"
-    },
-    "196808": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196811,
-      "nextLargerPostedDate": "2026-11-02"
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
+      "nextLargerId": 196805,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196809": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196811,
-      "nextLargerPostedDate": "2026-11-02"
-    },
-    "196810": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:31:59Z",
-      "lastCheckedAt": "2026-11-03T12:31:59Z",
-      "nextLargerId": 196811,
-      "nextLargerPostedDate": "2026-11-02"
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
+      "nextLargerId": 196810,
+      "nextLargerPostedDate": "2026-11-03"
     },
     "196812": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196813,
-      "nextLargerPostedDate": "2026-11-02"
-    },
-    "196814": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
-      "nextLargerId": 196815,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196817": {
       "kind": "not_found",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196818,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196819": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196820,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196823": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196828,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196824": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196828,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196825": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196828,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196826": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196828,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196827": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196828,
       "nextLargerPostedDate": "2026-11-02"
     },
@@ -1734,12 +1372,13 @@
       "firstCheckedAt": "2026-11-03T12:32:23Z",
       "lastCheckedAt": "2026-11-03T12:32:23Z",
       "nextLargerId": 196833,
-      "nextLargerPostedDate": "2026-11-09"
+      "nextLargerPostedDate": "2026-11-09",
+      "status": "deferred"
     },
     "196834": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196835,
       "nextLargerPostedDate": "2026-11-02"
     },
@@ -1748,123 +1387,349 @@
       "firstCheckedAt": "2026-11-03T12:32:23Z",
       "lastCheckedAt": "2026-11-03T12:32:23Z",
       "nextLargerId": 196839,
-      "nextLargerPostedDate": "2026-11-09"
+      "nextLargerPostedDate": "2026-11-09",
+      "status": "deferred"
     },
     "196838": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
       "lastCheckedAt": "2026-11-03T12:32:23Z",
       "nextLargerId": 196839,
-      "nextLargerPostedDate": "2026-11-09"
+      "nextLargerPostedDate": "2026-11-09",
+      "status": "deferred"
     },
     "196841": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
       "nextLargerId": 196842,
       "nextLargerPostedDate": "2026-11-02"
     },
     "196843": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
-      "nextLargerId": 196857,
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
+      "nextLargerId": 196845,
       "nextLargerPostedDate": "2026-11-03"
     },
     "196844": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
-      "nextLargerId": 196857,
-      "nextLargerPostedDate": "2026-11-03"
-    },
-    "196845": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
-      "nextLargerId": 196857,
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
+      "nextLargerId": 196845,
       "nextLargerPostedDate": "2026-11-03"
     },
     "196846": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
-      "nextLargerId": 196857,
-      "nextLargerPostedDate": "2026-11-03"
-    },
-    "196847": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
-      "nextLargerId": 196857,
-      "nextLargerPostedDate": "2026-11-03"
-    },
-    "196848": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
-      "nextLargerId": 196857,
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
+      "nextLargerId": 196847,
       "nextLargerPostedDate": "2026-11-03"
     },
     "196849": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
-      "nextLargerId": 196857,
-      "nextLargerPostedDate": "2026-11-03"
-    },
-    "196850": {
-      "kind": "empty",
-      "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
-      "nextLargerId": 196857,
+      "lastCheckedAt": "2026-11-04T12:42:55Z",
+      "nextLargerId": 196850,
       "nextLargerPostedDate": "2026-11-03"
     },
     "196851": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:57Z",
       "nextLargerId": 196857,
       "nextLargerPostedDate": "2026-11-03"
     },
     "196852": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:57Z",
       "nextLargerId": 196857,
       "nextLargerPostedDate": "2026-11-03"
     },
     "196853": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:57Z",
       "nextLargerId": 196857,
       "nextLargerPostedDate": "2026-11-03"
     },
     "196854": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:57Z",
       "nextLargerId": 196857,
       "nextLargerPostedDate": "2026-11-03"
     },
     "196855": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:57Z",
       "nextLargerId": 196857,
       "nextLargerPostedDate": "2026-11-03"
     },
     "196856": {
       "kind": "empty",
       "firstCheckedAt": "2026-11-03T12:32:23Z",
-      "lastCheckedAt": "2026-11-03T12:32:23Z",
+      "lastCheckedAt": "2026-11-04T12:42:57Z",
       "nextLargerId": 196857,
       "nextLargerPostedDate": "2026-11-03"
+    },
+    "196862": {
+      "kind": "not_found",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196865,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196863": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196865,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196864": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196865,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196867": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196868,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196875": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196876,
+      "nextLargerPostedDate": "2026-11-04"
+    },
+    "196877": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196878,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196880": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196881,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196882": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196883,
+      "nextLargerPostedDate": "2026-11-04"
+    },
+    "196884": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196888,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196885": {
+      "kind": "not_found",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196888,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196886": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196888,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196887": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196888,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196889": {
+      "kind": "not_found",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196896,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196890": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196896,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196891": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196896,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196892": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196896,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196893": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196896,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196894": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196896,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196895": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196896,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196898": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196899,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196900": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196902,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196901": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196902,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196903": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196907,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196904": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196907,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196905": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196907,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196906": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:43:22Z",
+      "lastCheckedAt": "2026-11-04T12:43:22Z",
+      "nextLargerId": 196907,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196908": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:44:47Z",
+      "lastCheckedAt": "2026-11-04T12:44:47Z",
+      "nextLargerId": 196909,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196910": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:44:47Z",
+      "lastCheckedAt": "2026-11-04T12:44:47Z",
+      "nextLargerId": 196912,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196911": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:44:47Z",
+      "lastCheckedAt": "2026-11-04T12:44:47Z",
+      "nextLargerId": 196912,
+      "nextLargerPostedDate": "2026-11-03"
+    },
+    "196913": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:44:47Z",
+      "lastCheckedAt": "2026-11-04T12:44:47Z",
+      "nextLargerId": 196920,
+      "nextLargerPostedDate": "2026-11-04"
+    },
+    "196914": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:44:47Z",
+      "lastCheckedAt": "2026-11-04T12:44:47Z",
+      "nextLargerId": 196920,
+      "nextLargerPostedDate": "2026-11-04"
+    },
+    "196915": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:44:47Z",
+      "lastCheckedAt": "2026-11-04T12:44:47Z",
+      "nextLargerId": 196920,
+      "nextLargerPostedDate": "2026-11-04"
+    },
+    "196916": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:44:47Z",
+      "lastCheckedAt": "2026-11-04T12:44:47Z",
+      "nextLargerId": 196920,
+      "nextLargerPostedDate": "2026-11-04"
+    },
+    "196917": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:44:47Z",
+      "lastCheckedAt": "2026-11-04T12:44:47Z",
+      "nextLargerId": 196920,
+      "nextLargerPostedDate": "2026-11-04"
+    },
+    "196918": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:44:47Z",
+      "lastCheckedAt": "2026-11-04T12:44:47Z",
+      "nextLargerId": 196920,
+      "nextLargerPostedDate": "2026-11-04"
+    },
+    "196919": {
+      "kind": "empty",
+      "firstCheckedAt": "2026-11-04T12:44:47Z",
+      "lastCheckedAt": "2026-11-04T12:44:47Z",
+      "nextLargerId": 196920,
+      "nextLargerPostedDate": "2026-11-04"
     }
   },
   "pendingErrors": {},
-  "scanUpperBound": 197258,
+  "scanUpperBound": 197320,
   "completedMissingIds": [
     180001,
     180002,
@@ -7481,6 +7346,7 @@
     195766,
     195768,
     195769,
+    195774,
     195778,
     195780,
     195782,
@@ -7654,6 +7520,8 @@
     196187,
     196188,
     196190,
+    196195,
+    196198,
     196201,
     196202,
     196204,
@@ -7684,6 +7552,8 @@
     196264,
     196266,
     196267,
+    196270,
+    196286,
     196289,
     196290,
     196293,
@@ -7691,7 +7561,10 @@
     196301,
     196302,
     196305,
+    196311,
     196323,
+    196334,
+    196338,
     196344,
     196345,
     196346,
@@ -7709,7 +7582,22 @@
     196398,
     196400,
     196401,
-    196403
+    196403,
+    196407,
+    196408,
+    196409,
+    196410,
+    196421,
+    196431,
+    196440,
+    196443,
+    196451,
+    196455,
+    196456,
+    196466,
+    196471,
+    196474,
+    196490
   ],
   "missingPolicy": {
     "strategy": "nearest-larger-position-date",
