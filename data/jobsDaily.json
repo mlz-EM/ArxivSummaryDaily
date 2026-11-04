@@ -1,15 +1,27 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-04T07:52:09-05:00",
+    "model": "gpt-6-luna",
+    "generatedAt": "2026-11-04T08:31:04-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily) and [JobSpy](https://github.com/speedyapply/JobSpy)."
-    ]
+    ],
+    "reasoningEffort": "medium"
   },
   "items": [
+    {
+      "id": "www-4487088999",
+      "title": "Professor Term (Open Rank) – ...",
+      "url": "https://www.linkedin.com/jobs/view/4487088999",
+      "date": "2026-11-04",
+      "location": "Alliance for Academic Internal Medicine at Paducah, KY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
     {
       "id": "www-viewjob",
       "title": "Assistant Professor, 9 Month Salaried (English)",
@@ -18,7 +30,7 @@
       "location": "Florida State University at Tallahassee, FL, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +41,7 @@
       "location": "The Ohio State University Wexner Medical Center at Columbus, OH, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +52,7 @@
       "location": "Niagara University at Niagara University, NY, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +63,7 @@
       "location": "University of St. Augustine for Health Sciences at St Augustine, FL, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +74,7 @@
       "location": "Rasmussen University at Odessa, FL, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +85,7 @@
       "location": "Rasmussen University at Overland Park, KS, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +96,7 @@
       "location": "University of the Pacific at Stockton, CA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {

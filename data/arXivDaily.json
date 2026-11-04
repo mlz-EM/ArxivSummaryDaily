@@ -1,13 +1,14 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-04T07:52:09-05:00",
+    "model": "gpt-6-luna",
+    "generatedAt": "2026-11-04T08:31:05-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes the most recent 456 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
-    ]
+    ],
+    "reasoningEffort": "medium"
   },
   "items": [
     {
@@ -15,7 +16,7 @@
       "title": "Effect of molybdenum content on phase transformations during continuous heating of metastable β Ti-Mo alloys",
       "url": "https://arxiv.org/abs/2611.04858v1",
       "date": "2026-11-03",
-      "summary": "Three metastable $β$ titanium alloys with different molybdenum contents, Ti-12Mo, Ti-15Mo and Ti-18Mo (wt.%), were investigated to determine the influence of $β$-phase stability on phase transformations during continuous heating. Electrical",
+      "summary": "The study compares three metastable Ti-Mo alloys during continuous heating using resistance, dilatometry, calorimetry, and electron microscopy. All show sequential omega-phase evolution and alpha precipitation; increasing Mo suppresses omega evolution and shifts transformations to higher temperatures.",
       "tags": [
         "cond-mat-mtrl-sci"
       ]
@@ -25,7 +26,7 @@
       "title": "Single-pass stochastic cooling for electron microscopy",
       "url": "https://arxiv.org/abs/2611.03581v1",
       "date": "2026-11-02",
-      "summary": "Scientific applications of free electrons, such as in electron microscopes and particle accelerators, are limited by the brightness of available electron sources. Accelerators can use phase space cooling to surpass these source limitations,",
+      "summary": "The authors propose single-pass stochastic cooling of electron beams in microscopes through strong electron-light coupling in nanophotonic structures. Their quantum model predicts lossless reduction of longitudinal energy spread, offering a laser-free approach compatible with continuous-wave microscope operation.",
       "tags": [
         "physics-acc-ph",
         "physics-optics",
@@ -37,7 +38,7 @@
       "title": "A Topology-Based Approach to Representative Volume Element Assessment in Solid Oxide Cell Anodes Using Large Volume Tomography and Persistent Homology",
       "url": "https://arxiv.org/abs/2611.03176v1",
       "date": "2026-11-02",
-      "summary": "Determining the representative volume element is essential for establishing statistically meaningful microstructure-property relationships. Conventional approaches rely on the convergence of selected geometric descriptors, which may yield d",
+      "summary": "The study applies persistent homology to tomography of a nickel-yttria-stabilized-zirconia solid-oxide-cell anode to assess representative volume size. Comparing normalized persistence images across subvolumes provides a continuous topological-similarity measure for identifying the scale needed to capture pore-network structure.",
       "tags": [
         "cond-mat-mtrl-sci",
         "math-at"
@@ -48,7 +49,7 @@
       "title": "Observation of Superconductivity in a Cu-Rich High-Entropy Alloy",
       "url": "https://arxiv.org/abs/2611.02469v1",
       "date": "2026-11-02",
-      "summary": "A Cu-rich multielement alloy containing Zn, Sn, Ag, and Au was synthesized and studied to explore its structural and physical properties. The alloy was prepared by vacuum-sealed melting of high-purity elements followed by rapid quenching in",
+      "summary": "The authors synthesize and characterize a Cu-rich Zn-Sn-Ag-Au alloy with an FCC Cu-type structure and uniform mapped elemental distribution. Magnetic measurements show a low-temperature superconducting transition, while resistivity remains metallic without zero resistance, suggesting the superconducting state may be local or partial.",
       "tags": [
         "cond-mat-supr-con"
       ]
@@ -58,7 +59,7 @@
       "title": "Structural and Optical Properties of PVP-Modified ZnS Nanoparticles for Photocatalytic Dye Degradation",
       "url": "https://arxiv.org/abs/2611.01660v1",
       "date": "2026-11-01",
-      "summary": "Pristine and PVP-modified ZnS nanoparticles were investigated to examine how PVP addition affects structural, surface, optical, and methylene blue (MB) decolorization properties. X-ray diffraction confirmed cubic zinc-blende ZnS in all samp",
+      "summary": "The study examines structural, optical, and photocatalytic properties of pristine and PVP-modified ZnS nanoparticles. It reports cubic zinc-blende ZnS, nanoscale coherent domains, altered optical response, and methylene-blue decolorization under UV illumination, with higher reported degradation for the most modified sample.",
       "tags": [
         "cond-mat-mtrl-sci",
         "cond-mat-mes-hall"

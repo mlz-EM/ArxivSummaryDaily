@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-04T08:31:04-05:00",
+  "model": "gpt-6-luna",
+  "reasoningEffort": "medium",
+  "reviewed": 209,
+  "accepted": 12,
+  "rejected": 197,
+  "unsummarized": 0,
+  "decisionSha256": "aa2ef65f4e4068e88d2c577154a342306e3f4bcad0e75d6fd6d7ab157001c355",
+  "sources": {
+    "jobSpy": {
+      "reviewed": 1,
+      "accepted": 0,
+      "rejected": 1,
+      "remainingQueued": 0
+    },
+    "interfolio": {
+      "reviewed": 19,
+      "accepted": 3,
+      "rejected": 16,
+      "remainingQueued": 0
+    },
+    "chronicle": {
+      "reviewed": 11,
+      "accepted": 1,
+      "rejected": 10,
+      "remainingQueued": 0
+    },
+    "insideHigherEd": {
+      "reviewed": 178,
+      "accepted": 8,
+      "rejected": 170,
+      "remainingQueued": 0
+    }
+  },
+  "papersReviewed": 5,
+  "papersUnfinished": 0
+}

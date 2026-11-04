@@ -38,18 +38,19 @@ QUERY = '(all:"ptychography" OR all:"electron microscopy")'     # Papers in CATE
 # LLM API settings
 LLM_CONFIG = {
     'api_key': os.getenv("LLM_API_KEY", "YOUR_API_HERE"),                  # API key from the environment
-    'model': os.getenv("LLM_MODEL", "gemini-3.8-flash"),                  # Latest stable free-tier Flash (verified 2026-11-02)
+    'model': os.getenv("LLM_MODEL", "gemini-3.6-flash"),                  # Free-tier primary, avoids recurrent 3.8 overload
+    'fallback_models': [name.strip() for name in os.getenv("LLM_FALLBACK_MODELS", "gemini-3.5-flash-lite").split(",") if name.strip()],
     'api_url': "https://generativelanguage.googleapis.com/v1beta/models",   # API base URL
     'temperature': 0.5,                                                     # Temperature
-    'max_output_tokens': 65536,                                             # Gemini 3.8 output limit
+    'max_output_tokens': 65536,                                             # Supported by both configured models
     'job_batch_size': 500,                                                  # Ceiling; token budgets reduce long batches
     'job_batch_input_tokens': 750000,                                       # Leave room within the 1M-token context
     'job_output_tokens_per_item': 256,                                      # Budget for an all-accepted response
     'top_p': 0.8,                                                           # Top P
     'top_k': 40,                                                            # Top K
-    'retry_count': 3,                                                       # Transient errors only; daily quota stops immediately
+    'retry_count': 2,                                                       # Per model; then try configured fallback
     'retry_delay': 5,                                                       # Retry delay (seconds)
-    'timeout': 600,                                                         # Request timeout (seconds)
+    'timeout': 180,                                                         # Bound each attempt before trying the fallback
 }
 
 # Output settings

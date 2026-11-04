@@ -347,6 +347,8 @@ Job input (JSON lines):
             self.last_report = {
                 "generatedAt": self._eastern_generated_at(), "model": self.client.model,
                 "runId": os.getenv("GITHUB_RUN_ID", "local"),
+                "modelsUsed": self.client.models_used,
+                "modelFallbacks": self.client.fallback_events,
                 "inputJobs": len(candidates), "alreadyProcessed": already_processed,
                 "prefiltered": sum(prefiltered.values()), "prefilterReasons": dict(prefiltered),
                 "accepted": len(accepted), "rejected": len(rejected),

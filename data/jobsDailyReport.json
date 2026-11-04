@@ -1,54 +1,21 @@
 {
-  "generatedAt": "2026-11-04T07:52:09-05:00",
-  "model": "gemini-3.8-flash",
-  "runId": "41830869236",
-  "inputJobs": 200,
-  "alreadyProcessed": 192,
-  "prefiltered": 7,
-  "prefilterReasons": {
-    "humanities_or_social_science": 2,
-    "clinical_or_health": 2,
-    "non_tenure_track": 3
-  },
-  "accepted": 0,
-  "rejected": 0,
-  "unsummarized": 1,
-  "complete": false,
-  "stopReason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-  "pendingJobs": [
-    {
-      "url": "https://www.linkedin.com/jobs/view/4487088999",
-      "title": "Professor Term (Open Rank) – ..."
-    }
+  "generatedAt": "2026-11-04T08:31:04-05:00",
+  "model": "gpt-6-luna",
+  "runId": "local",
+  "modelsUsed": [
+    "gpt-6-luna"
   ],
-  "prefilterExamples": [
-    {
-      "url": "https://www.indeed.com/viewjob?jk=a90265065eafbdc5",
-      "reason": "humanities_or_social_science"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4487077884",
-      "reason": "clinical_or_health"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=ce686ae447e189f7",
-      "reason": "humanities_or_social_science"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4487066988",
-      "reason": "clinical_or_health"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4487029472",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4487031547",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4486300413",
-      "reason": "non_tenure_track"
-    }
-  ]
+  "modelFallbacks": [],
+  "inputJobs": 1,
+  "alreadyProcessed": 0,
+  "prefiltered": 0,
+  "prefilterReasons": {},
+  "accepted": 0,
+  "rejected": 1,
+  "unsummarized": 0,
+  "complete": true,
+  "stopReason": "",
+  "pendingJobs": [],
+  "prefilterExamples": [],
+  "reasoningEffort": "medium"
 }

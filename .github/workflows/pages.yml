@@ -10,7 +10,8 @@ on:
 jobs:
   build:
     env:
-      LLM_MODEL: gemini-3.8-flash
+      LLM_MODEL: gemini-3.6-flash
+      LLM_FALLBACK_MODELS: gemini-3.5-flash-lite
       LLM_QUOTA_STATE_FILE: /tmp/arxivsummary-llm-quota-state.json
       PYTHONUNBUFFERED: '1'
     concurrency:

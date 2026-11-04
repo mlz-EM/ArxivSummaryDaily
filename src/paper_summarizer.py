@@ -222,6 +222,8 @@ Paper input:
 
             for paper in new_papers:
                 url = self._to_https_url(paper.get("entry_id", ""))
+                if not summary_map.get(url):
+                    continue
                 normalized = self._normalize_paper_item(paper, summary_map.get(url, ""))
                 if normalized:
                     merged_by_url[url] = normalized
@@ -237,7 +239,10 @@ Paper input:
                 json.dump(feed_payload, f, indent=2, ensure_ascii=False)
             print(f"JSON feed updated: {output_json}")
 
-            return api_success
+            missing = sum(not summary_map.get(self._to_https_url(paper.get("entry_id", ""))) for paper in new_papers)
+            if missing:
+                print(f"::warning::{missing} papers were NOT summarized and remain queued.")
+            return bool(api_success and missing == 0)
         except Exception as e:
             print(f"Error generating paper feeds: {e}")
             return False

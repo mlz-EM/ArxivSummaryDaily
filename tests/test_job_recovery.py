@@ -127,6 +127,11 @@ class TestJobRecovery(unittest.TestCase):
 
 
 class TestQuotaStop(unittest.TestCase):
+    def setUp(self):
+        patcher = mock.patch.dict("src.llm_client.LLM_CONFIG", {"fallback_models": []})
+        patcher.start()
+        self.addCleanup(patcher.stop)
+
     @mock.patch("src.llm_client.time.sleep")
     def test_provider_outage_stops_other_sources_after_bounded_retries(self, sleep):
         response = mock.Mock(status_code=503, headers={})

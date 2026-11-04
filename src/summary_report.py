@@ -37,6 +37,8 @@ def build_report(directory):
             print(f"::warning::{source}: {len(pending)} jobs remain queued; they have not all been summarized.")
         if report.get("stopReason"):
             notes.extend(["", f"**{source}:** {report['stopReason']}", ""])
+        if report.get("modelsUsed"):
+            notes.extend(["", f"**{source} models:** {', '.join(report['modelsUsed'])}", ""])
     return "\n".join(lines + notes) + "\n"
 
 

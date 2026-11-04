@@ -28,6 +28,14 @@ class LLMModelClient:
     def __init__(self, api_key: str, model: Optional[str] = None):
         self.api_key = api_key
         self.model = model or LLM_CONFIG["model"]
+        self.preferred_model = self.model
+        configured = LLM_CONFIG.get("fallback_models", [])
+        if isinstance(configured, str):
+            configured = [name.strip() for name in configured.split(",") if name.strip()]
+        self.models = list(dict.fromkeys([self.model, *configured]))
+        self.models_used = []
+        self.fallback_events = []
+        self._local_deferred = {}
         self.api_url = f"{LLM_CONFIG['api_url']}/{self.model}:generateContent"
         self.timeout = LLM_CONFIG.get("timeout", 600)
         self.stop_reason = ""
@@ -52,34 +60,51 @@ class LLMModelClient:
         value = os.getenv("LLM_QUOTA_STATE_FILE", "")
         return Path(value) if value else None
 
-    def _check_deferred(self):
-        if self.stop_reason:
-            raise self._deferred_error(self.stop_reason)
+    def _deferred_models(self):
         path = self._quota_path()
-        if path and path.exists():
-            try:
-                state = json.loads(path.read_text(encoding="utf-8"))
-                reset_at = datetime.fromisoformat(state["retryAt"])
-                if state["model"] == self.model and reset_at > datetime.now(timezone.utc):
-                    self.stop_reason = str(state["reason"])
-                    if state.get("errorType") == "LLMServiceUnavailable":
-                        self._deferred_error = LLMServiceUnavailable
-                    raise self._deferred_error(self.stop_reason)
-            except (OSError, ValueError, KeyError, TypeError):
-                pass
+        if not path or not path.exists():
+            return dict(self._local_deferred)
+        try:
+            state = json.loads(path.read_text(encoding="utf-8"))
+            if not isinstance(state, dict):
+                return dict(self._local_deferred)
+            if isinstance(state.get("models"), dict):
+                return {**state["models"], **self._local_deferred}
+            # Read the original one-model marker without losing its cooldown.
+            if state.get("model"):
+                return {state["model"]: state, **self._local_deferred}
+        except (OSError, ValueError, TypeError):
+            pass
+        return dict(self._local_deferred)
+
+    def _check_deferred(self):
+        state = self._deferred_models().get(self.model)
+        if not state:
+            return
+        try:
+            reset_at = datetime.fromisoformat(state["retryAt"])
+            run_id = os.getenv("GITHUB_RUN_ID", "")
+            same_run = bool(run_id and state.get("runId") == run_id)
+            if same_run or reset_at > datetime.now(timezone.utc):
+                error_type = LLMServiceUnavailable if state.get("errorType") == "LLMServiceUnavailable" else LLMQuotaExhausted
+                raise error_type(str(state["reason"]))
+        except (ValueError, KeyError, TypeError):
+            pass
 
     def _defer_requests(self, reason, retry_after, error_type=LLMQuotaExhausted):
         self.stop_reason = reason
         self._deferred_error = error_type
+        reset_at = datetime.now(timezone.utc) + timedelta(seconds=max(60, retry_after))
+        self._local_deferred[self.model] = {
+            "reason": reason, "retryAt": reset_at.isoformat(),
+            "errorType": error_type.__name__, "runId": os.getenv("GITHUB_RUN_ID", ""),
+        }
         path = self._quota_path()
         if path:
-            reset_at = datetime.now(timezone.utc) + timedelta(seconds=max(60, retry_after))
             path.parent.mkdir(parents=True, exist_ok=True)
+            models = self._deferred_models()
             temporary = path.with_suffix(f".{os.getpid()}.tmp")
-            temporary.write_text(json.dumps({
-                "model": self.model, "reason": reason, "retryAt": reset_at.isoformat(),
-                "errorType": error_type.__name__,
-            }), encoding="utf-8")
+            temporary.write_text(json.dumps({"schemaVersion": 2, "models": models}), encoding="utf-8")
             temporary.replace(path)
         raise error_type(reason)
 
@@ -105,7 +130,34 @@ class LLMModelClient:
         return message, " ".join(quota_ids), retry_after
 
     def chat_completion(self, messages, temperature=None, max_tokens=None):
-        self._check_deferred()
+        failures = []
+        last_error = None
+        for index, model in enumerate(self.models):
+            self.model = model
+            self.api_url = f"{LLM_CONFIG['api_url']}/{model}:generateContent"
+            self.stop_reason = ""
+            try:
+                self._check_deferred()
+                result = self._request_completion(messages, temperature, max_tokens)
+            except (LLMQuotaExhausted, LLMServiceUnavailable) as exc:
+                failures.append(str(exc))
+                last_error = exc
+                if index + 1 < len(self.models):
+                    event = {"model": model, "reason": str(exc), "nextModel": self.models[index + 1]}
+                    if event not in self.fallback_events:
+                        self.fallback_events.append(event)
+                        print(f"::warning::{model} deferred; trying configured fallback {self.models[index + 1]}.")
+                continue
+            self.stop_reason = ""
+            if model not in self.models_used:
+                self.models_used.append(model)
+            print(f"LLM request completed with {model}.")
+            return result
+        self.stop_reason = "All configured models are deferred. " + " | ".join(failures)
+        error_type = type(last_error) if last_error else LLMServiceUnavailable
+        raise error_type(self.stop_reason)
+
+    def _request_completion(self, messages, temperature=None, max_tokens=None):
         data = self._create_request_body(messages, temperature, max_tokens)
         attempts = max(1, int(LLM_CONFIG.get("retry_count", 3)))
         for attempt in range(attempts):
@@ -117,7 +169,10 @@ class LLMModelClient:
                 )
             except (requests.Timeout, requests.ConnectionError):
                 if attempt + 1 == attempts:
-                    raise RuntimeError(f"LLM network request failed after {attempts} attempts") from None
+                    self._defer_requests(
+                        f"{self.model} network request failed after {attempts} attempts; remaining work deferred.",
+                        300, LLMServiceUnavailable,
+                    )
                 time.sleep(min(60, LLM_CONFIG["retry_delay"] * (2**attempt)))
                 continue
             if response.status_code != 200:
