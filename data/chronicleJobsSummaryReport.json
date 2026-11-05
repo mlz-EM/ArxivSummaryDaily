@@ -1,21 +1,861 @@
 {
-  "generatedAt": "2026-11-04T08:31:04-05:00",
-  "model": "gpt-6-luna",
-  "runId": "local",
-  "modelsUsed": [
-    "gpt-6-luna"
+  "generatedAt": "2026-11-05T08:02:12-05:00",
+  "model": "gemini-3.5-flash-lite",
+  "runId": "42030176097",
+  "modelsUsed": [],
+  "modelFallbacks": [
+    {
+      "model": "gemini-3.6-flash",
+      "reason": "gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "nextModel": "gemini-3.5-flash-lite"
+    }
   ],
-  "modelFallbacks": [],
-  "inputJobs": 11,
+  "inputJobs": 209,
   "alreadyProcessed": 0,
   "prefiltered": 0,
   "prefilterReasons": {},
-  "accepted": 1,
-  "rejected": 10,
-  "unsummarized": 0,
-  "complete": true,
-  "stopReason": "",
-  "pendingJobs": [],
-  "prefilterExamples": [],
-  "reasoningEffort": "medium"
+  "accepted": 0,
+  "rejected": 0,
+  "unsummarized": 209,
+  "complete": false,
+  "stopReason": "All configured models are deferred. gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. | gemini-3.5-flash-lite temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+  "pendingJobs": [
+    {
+      "url": "https://jobs.chronicle.com/job/38006303",
+      "title": "Assistant Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058806",
+      "title": "Assistant Professor (OTD)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058813",
+      "title": "Assistant Professor of Art and Visual Culture"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058815",
+      "title": "Professional Assistant Professor - Department of Curriculum and Instruction, College of Education"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058818",
+      "title": "Assistant/Associate Professor of Global Production and Trade Governance"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058826",
+      "title": "Assistant Professor of Crime Studies (Corrections and Reentry)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058840",
+      "title": "Teaching Faculty I"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058843",
+      "title": "Assistant/Associate/Full Professor in Electrical & Computer Engineering - Physical AI"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058844",
+      "title": "Assistant or Associate Professor of Environmental Health Science - RISE EARTH"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058849",
+      "title": "Open Rank Professor of AI and Games In Education"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058871",
+      "title": "Associate Professor / Full Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058873",
+      "title": "Assistant Professor, Electrical Engineering - Embedded systems"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058877",
+      "title": "Assistant Professor of Medicine (NTT)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058888",
+      "title": "Open Rank - Assistant/Associate/Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058909",
+      "title": "Assistant Professor of Physics"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058910",
+      "title": "Faculty - Respiratory Care Clinical Coordinator"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058912",
+      "title": "Assistant Professor, Biomedical Engineering"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058916",
+      "title": "Assistant Professor, Tenure Track, AI and Business Strategy"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058924",
+      "title": "Assistant Professor in Photography, tenure track"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058927",
+      "title": "Open Rank: Laboratory OR Lead, Laboratory Research Specialist (Sign-On Bonus)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058930",
+      "title": "OPEN RANK: SPA Contracts Administrator I or II - ORD Sponsored Programs Admin"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058946",
+      "title": "Professor - SOM Radiation Oncology Physics"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058952",
+      "title": "Open Rank Clinical Assistant or Associate Professor - SOD Orthodontics"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058954",
+      "title": "Open Rank Assistant Professor or Associate Professor - SOD Microbial Pathogenesis"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058966",
+      "title": "Open Rank - Assistant/ Associate/ Professor -SOM Kahlert Institute"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38058967",
+      "title": "Faculty: Cardiac Surgeon"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059095",
+      "title": "Assistant Professor of Rehabilitation Counseling"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059110",
+      "title": "COA Assistant Professor, Tenure-Track"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059112",
+      "title": "OEMS Assistant Professor in Ocean Engineering (tenure-track)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059115",
+      "title": "Assistant Professor of Electrical Engineering"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059116",
+      "title": "Assistant Professor of Speech Communication in Ministry"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059118",
+      "title": "Assistant Professor, Tenure Track, Chemistry"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059125",
+      "title": "Assistant Professor - Forensic Science"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059131",
+      "title": "Assistant Professor - Teaching, Learning, & Communication Science"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059165",
+      "title": "Aerospace/Mechanical Engineering Faculty (Open Rank)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059166",
+      "title": "Assistant or Associate Professor of Civil Engineering"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059169",
+      "title": "Chemistry Faculty (Open Rank)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059172",
+      "title": "Electrical and Computer Engineering Faculty (Open Rank, Multiple Positions)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059174",
+      "title": "Industrial Engineering/Mechanical Engineering Faculty (Open Rank)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059176",
+      "title": "Physics Faculty (Open Rank)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059178",
+      "title": "Technical and Professional Communication Faculty (Open Rank)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059181",
+      "title": "Animal and Veterinary Sciences (Meat Sciences), Assistant Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059207",
+      "title": "Bernice and Morton Lerner Chair in Judaic Studies"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059230",
+      "title": "Assistant or Associate Professor of Electrical Engineering, Department of Engineering"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059233",
+      "title": "Assistant Professor - Educator, American Politics and Political Thought, College of Arts and Science"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059234",
+      "title": "Tenure Track Faculty Position in Population Health / Implementation Science"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059239",
+      "title": "Open Rank Project/Program Manager"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059240",
+      "title": "Faculty Position Clinical Research in Cardiovascular Science - Virginia Tech"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059241",
+      "title": "Tenure- Track Assistant Professor in Cardiovascular Science- Virginia Tech"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059245",
+      "title": "Assistant Professor, Nephrology"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059249",
+      "title": "Ramapo College of New Jersey - Tenure Track Faculty Openings for 2027/2028 Academic Year"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059251",
+      "title": "Assistant Professor in AI Computing"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059252",
+      "title": "Teaching Faculty I, 9 Month Salaried- Dept of Business Analytics, Information Systems & Supply Chain"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059253",
+      "title": "Assistant Professor of Pharmacy Practice"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059254",
+      "title": "Teaching Faculty I, 9 Month Salaried (Risk Management/Insurance, Real Estate, and Legal Studies)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059258",
+      "title": "Assistant or Associate Professor in Safe and Trustworthy AI Systems"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059260",
+      "title": "Assistant Professor in Agentic AI and Autonomous Systems"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059261",
+      "title": "FA27-036: Assistant Professor of Nutrition"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059264",
+      "title": "Open Rank Faculty Position in Early Modern Art"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059274",
+      "title": "Senior Faculty in Medicinal Chemistry / Chemical Biology"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059282",
+      "title": "Interior Design Assistant Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059283",
+      "title": "Assistant Professor of Mathematics"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059285",
+      "title": "Part-time and Limited Term Faculty Positions in School of Communication and Media"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059289",
+      "title": "Faculty Position (Assistant or Associate Professor) in Large Animal Anesthesia - Academic Clinician"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059290",
+      "title": "Faculty Position (Assistant or Associate Professor) in Large Animal Anesthesia - Clinician-Educator"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059304",
+      "title": "Assistant/Associate Professor (Open Rank) - Electrical"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059311",
+      "title": "Teaching Faculty - American Indian Studies Program"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059375",
+      "title": "Faculty, Assistant or Associate Professor - Public Policy"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059395",
+      "title": "Assistant Professor, Risk Management"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059396",
+      "title": "Assistant Professor Civil Engineering and Construction"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059414",
+      "title": "Assistant Professor in Environmental Studies/College of Liberal Arts"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059421",
+      "title": "Assistant Professor of Digital Humanities and Mexican American Studies/College of Liberal Arts"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059425",
+      "title": "Assistant Professor of Medical and Health Humanities/College of Liberal Arts"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059426",
+      "title": "Assistant Professor of Counseling"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059427",
+      "title": "Open Rank Assistant/Associate/Professor Rehabilitation Services"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059428",
+      "title": "Assistant Professor in American Politics/College of Liberal Arts"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059432",
+      "title": "Faculty - Assistant Professor - MSW/BSW Programs"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059437",
+      "title": "Assistant Professor, Entertainment and Hospitality Management"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059445",
+      "title": "Assistant Professor, Operations and Supply Chain Management"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059450",
+      "title": "Assistant Professor in Transportation Engineering (Tenure Track)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059451",
+      "title": "Global Hispanophone Studies and Digital Humanitie at the rank of Assist. Professor–Assoc. Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059468",
+      "title": "Clinical Assistant Professor of Pharmacy Practice, Acute Care"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059483",
+      "title": "Faculty Support Coordinator"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059520",
+      "title": "Tenure Track Assistant Professor, Experience Design"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059523",
+      "title": "Art Full-Time Tenure Track Faculty"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059526",
+      "title": "Assistant Professor - Kinesiology - Implementation Science and Digital Health  - (497109 )"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059550",
+      "title": "Open Rank, Tenured/Tenure-track Faculty Position in Environmental Fate and Effects of Microplastics"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059560",
+      "title": "Faculty Support Coordinator for School of Behavioral Sciences"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059565",
+      "title": "Endowed Chair in Computer Science in Artificial Intelligence"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059566",
+      "title": "Assistant Professor of Supply Chain Management"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059582",
+      "title": "Instructional Assistant Professor of Stage Management and Production Management"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059604",
+      "title": "Assistant Professor of Management Information Systems and Business Analytics"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059610",
+      "title": "Assistant Professor - Kinesiology"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059648",
+      "title": "Assistant Professor, Electrical Engineering - Semiconductor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059655",
+      "title": "Assistant Professor in Virtual Reality/Augmented Reality"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059668",
+      "title": "Professor of Trumpet"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059669",
+      "title": "Assistant or Associate Professor of Computational Astrophysics"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059674",
+      "title": "Assistant Professor of Art (Studio Art)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059675",
+      "title": "Assistant Professor of Graphic Design"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059690",
+      "title": "Assistant Professor of Leadership"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059706",
+      "title": "Assistant Professor - SOM Med Pulmonary"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059715",
+      "title": "Research Assistant Professor, Digital Engineering & Autonomous Systems"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059723",
+      "title": "Assistant Professor in Construction Management"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059725",
+      "title": "Margaret and Herman Sokol Endowed Chair of Chemistry"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059728",
+      "title": "Margaret and Herman Sokol Endowed Chair of Medicinal Chemistry"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059755",
+      "title": "Assistant Professor of Interior Design"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059772",
+      "title": "Assistant Professor of Marine/Coastal Remote Sensing"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059782",
+      "title": "Assistant Professor of Computer Networking & Infrastructure Engineering/Cybersecurity"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059819",
+      "title": "Professor - Director of Clinical and Translational Research"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059830",
+      "title": "Assistant/Associate Professor of Hospitality, Resort, and Tourism Management"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059836",
+      "title": "Associate/Full Professor Faculty Positions in Human–Computer Interaction"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059840",
+      "title": "Assistant/Associate Professor Faculty Positions in Human–Computer Interaction"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059841",
+      "title": "Asst Professor of Instruction - Chemistry"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059845",
+      "title": "Computing and Mathematical Sciences Division – Assistant/Associate Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059858",
+      "title": "Computing and Mathematical Sciences Division - Open Rank Faculty Positions in Computer Vision"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059870",
+      "title": "Open Rank Professor - Educator, Sonography Clinical Coordinator (AMIT), College of Allied Health"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059876",
+      "title": "Assistant or Associate Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059878",
+      "title": "Assistant Professor of Communication"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059879",
+      "title": "Assistant Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059883",
+      "title": "Assistant or Associate Professor of Wetland Plant Ecology"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059884",
+      "title": "Assistant or Associate Professor, Hematopathology, Molecular Pathology, Stem Cell Transplant, FHCC"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059888",
+      "title": "Assistant Professor of Acting"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059911",
+      "title": "Research Assistant Professor of Neurosurgery specializing in Translational Immunotherapy in the"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059921",
+      "title": "Part-Time Faculty, Fire and Safety Engineering Technology"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059957",
+      "title": "Pro Tem Faculty (School of Architecture and Environment)  - Open Pool"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059961",
+      "title": "Assistant/Associate/Full Professor of Bioengineering: Synthetic Biology (2 positions)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38059994",
+      "title": "Meierjurgen Faculty Fellow - Earth Sciences"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060006",
+      "title": "Assistant/Associate/Full Professor and DSW Program Director"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060013",
+      "title": "Assistant/Associate/Full Professor of Bioengineering: Biomaterials"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060028",
+      "title": "Tenured Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060033",
+      "title": "Faculty - Professional In Residence - RMI"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060038",
+      "title": "Assistant Professor, School of Accountancy"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060039",
+      "title": "Assistant Professor, Asian American Studies (with an emphasis of ethnic studies or related fields"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060040",
+      "title": "Assistant Professor of Civil"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060041",
+      "title": "Assistant Professor of Public Relations"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060042",
+      "title": "Assistant Professor in the areas of Motor Control, Motor Learning"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060047",
+      "title": "Professor (All Ranks) in Embodied AI and Learning-Enabled Autonomy"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060050",
+      "title": "Professor (All Ranks) in AI-Human Collaboration"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060067",
+      "title": "Associate or Full Professor of Engineering"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060077",
+      "title": "Nontenure Line Faculty Pool - World Languages"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060078",
+      "title": "Assistant Professor of Instruction - Residency"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060088",
+      "title": "Open Rank: Professor of Kinesiology"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060144",
+      "title": "Medical Laboratory Science Faculty"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060153",
+      "title": "Assistant, Associate, or Full Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060154",
+      "title": "Professor and Head"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060165",
+      "title": "Assistant Studio Art Professor, Studio & Digital Arts"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060176",
+      "title": "Assistant Professor, Biomedical Engineering"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060177",
+      "title": "Assistant Professor, Civil Engineering"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060186",
+      "title": "Research Assistant Professor - Center for Graphene Research and Innovation"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060187",
+      "title": "Research Assistant Professor - Center for Graphene Research and Innovation"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060204",
+      "title": "Assoc. Professor, Maternal Fetal Medicine - Permian Basin, Part-time"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060216",
+      "title": "Assistant Professor of Early Childhood, Youth, and Family Studies"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060218",
+      "title": "Full Time Faculty, Nurse AY Spring 2026"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060239",
+      "title": "Assistant Professor in Artificial Intelligence"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060240",
+      "title": "Assistant/Associate Extension Professor - Labor & Workforce Development State Specialist"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060248",
+      "title": "Assistant Professor of Agribusiness Management & Inaugural Program Coordinator"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060257",
+      "title": "Regular Faculty, Maternity"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060277",
+      "title": "Physician Assistant - Full Time Principal Faculty - Physician Assistant"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060304",
+      "title": "Assistant Professor of Mathematical Sciences"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060305",
+      "title": "Associate Professor of Art & Design"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060308",
+      "title": "Assistant, Associate or Full Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060335",
+      "title": "Assistant Professor in Roman Art and Archaeology (Tenure Track)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060338",
+      "title": "​Tenure Track Assistant Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060346",
+      "title": "Assistant or Associate Professor of Meteorology"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060349",
+      "title": "HR Faculty Transaction Lead - KSAS (Human Resources)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060360",
+      "title": "Part-Time Faculty, Fashion"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060361",
+      "title": "Part-Time Faculty, Management"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060362",
+      "title": "Assistant Professor and Lab Manager, EMS Programs"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060409",
+      "title": "Business Analytics/Operations and Engineering Management Faculty (Open Rank)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060415",
+      "title": "Assistant Professor in Roman Art and Archaeology (Tenure Track)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060419",
+      "title": "​Tenure Track Assistant Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060427",
+      "title": "Assistant Professor - Military Leader Development"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060434",
+      "title": "Faculty Position in Computational Chemistry / AI-Driven Drug Discovery (Open Rank)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060438",
+      "title": "Assistant Professor of Economics and Computational Social Science, Tenure-Track"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060439",
+      "title": "Assistant Professor (0082272)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060449",
+      "title": "Associate Professor, Endowed Chair in Community Practice"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060451",
+      "title": "Grant Director, Non Faculty"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060470",
+      "title": "Research Assistant Professor, Research Associate Professor and Research Professor in Cyber Security"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060480",
+      "title": "Assistant/Associate Professor in Poultry Nutrition and Health"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060486",
+      "title": "Assistant Professor in Science and Technology Policy (Tenure-Track)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060490",
+      "title": "Tenure-Track Faculty Position in Supply Chain, Operations, and Technology"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060497",
+      "title": "Open Rank Faculty Position Future of Work and Emerging Technologies"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060498",
+      "title": "Open Rank Faculty Position - Exercise Science & Kinesiology"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060504",
+      "title": "Assistant/Associate/Full Professor in Electrical & Computer Engineering - Physical AI"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060507",
+      "title": "Assistant Professor in Artificial Intelligence and Public Policy (Tenure-Track)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060513",
+      "title": "University Faculty Life Sciences Education"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060542",
+      "title": "Assistant Professor of Analytical and Forensic Chemistry - 888"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060548",
+      "title": "Open Rank, Tenured/Tenure Track, PhD or OD/PhD - Optometric Medicine - 3602"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060549",
+      "title": "Open Rank, Tenured/Tenure Track, OD - Optometric Medicine - 3601"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060550",
+      "title": "ASSISTANT/ ASSOCIATE PROFESSOR IN KINESIOLOGY- HEALTH AND EXERCISE SCIENCE"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060551",
+      "title": "Open Rank Tenure Track Faculty (Assistant/Associate/Full Professor)"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060555",
+      "title": "Assistant Professor - 2874"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060558",
+      "title": "Assistant Professor - 2479"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060559",
+      "title": "Assistant/ Associate Professor - 3284"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060560",
+      "title": "Assistant Professor - 3443"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060602",
+      "title": "Program Coordinator, Student and Faculty Success"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060606",
+      "title": "Research Assistant Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060619",
+      "title": "Electronic Resources Librarian and Assistant Professor"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060626",
+      "title": "Instructional Faculty (Academic Professional) Position in Inorganic and Organic Chemistry"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060636",
+      "title": "Clinical Faculty"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060639",
+      "title": "Chair, Department of Agricultural Sciences"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060650",
+      "title": "Assistant Professor (Clinical)/ Associate Professor (Clinical)/ Professor (Clinical)- PM"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060657",
+      "title": "Assistant or Associate Professor - Athletic Training"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060671",
+      "title": "Associate/Professor of Geology"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060731",
+      "title": "Professor and Director of the School of Communication, Language, and Culture, College of Liberal"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060736",
+      "title": "Faculty - Tenure Track, Assistant Professor - Forensic Science Investigations"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060737",
+      "title": "Open Rank Professor of Instruction, The Klesse College of Engineering and Integrated Design"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060739",
+      "title": "Open-Rank Professorship in Information Systems"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/38060745",
+      "title": "Nuclear Medicine Physician, Assistant, Associate, or Full Professor"
+    }
+  ],
+  "prefilterExamples": []
 }

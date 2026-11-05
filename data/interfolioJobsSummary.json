@@ -1,234 +1,32 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gpt-6-luna",
-    "generatedAt": "2026-11-04T08:31:04-05:00",
+    "model": "gemini-3.5-flash-lite",
+    "generatedAt": "2026-11-05T08:02:12-05:00",
     "source": "Interfolio Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from public Interfolio job pages.",
       "Only the compact scan state and AI summary are retained after queued records are processed."
-    ],
-    "reasoningEffort": "medium"
+    ]
   },
   "items": [
     {
-      "id": "apply-196787",
-      "title": "Faculty Position in HEALTH SERVICES RESEARCH/HEALTH POLICY",
-      "url": "https://apply.interfolio.com/196787",
-      "date": "2026-11-06",
-      "location": "University of Michigan-Ann Arbor: School of Public Health at Ann Arbor, MI",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196883",
-      "title": "Faculty Position in Experimental Condensed Matter Physics 2026",
-      "url": "https://apply.interfolio.com/196883",
+      "id": "apply-196993",
+      "title": "Assistant Professor - Hematology",
+      "url": "https://apply.interfolio.com/196993",
       "date": "2026-11-04",
-      "location": "Carnegie Mellon University at Pittsburgh, PA, USA",
-      "description": "Tenure-track experimental quantum-materials role explicitly seeks synthesis and characterization expertise in coordination with materials science.",
-      "fitScore": 3,
+      "location": "Johns Hopkins University: Hematology at Baltimore, MD, 21287",
+      "description": "",
+      "fitScore": 0,
       "isNew": true,
-      "keywords": [
-        "condensed matter physics",
-        "quantum materials",
-        "materials synthesis",
-        "materials characterization"
-      ]
+      "keywords": []
     },
     {
-      "id": "apply-196539",
-      "title": "Associate Professor, Endowed Chair in Community Practice",
-      "url": "https://apply.interfolio.com/196539",
+      "id": "apply-196886",
+      "title": "Assistant Professor of Economics and Public Policy",
+      "url": "https://apply.interfolio.com/196886",
       "date": "2026-11-03",
-      "location": "Johns Hopkins University: School of Education at Baltimore, MD, 21218",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196702",
-      "title": "Assistant Professor (Tenure Track), Hydrodynamic Modeling",
-      "url": "https://apply.interfolio.com/196702",
-      "date": "2026-11-03",
-      "location": "Stony Brook University at Stony Brook, NY, USA",
-      "description": "Tenure-track marine-science search includes computational sediment transport and coupled physical modeling.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "marine sciences",
-        "hydrodynamic modeling",
-        "sediment transport",
-        "computational modeling"
-      ]
-    },
-    {
-      "id": "apply-196753",
-      "title": "Assistant Professor of Economics and Computational Social Science, Tenure-Track",
-      "url": "https://apply.interfolio.com/196753",
-      "date": "2026-11-03",
-      "location": "New York University: AD_Computational Social Science at Abu Dhabi",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196771",
-      "title": "2027 Actuarial Science Tenure-Track Assistant/Associate Professor",
-      "url": "https://apply.interfolio.com/196771",
-      "date": "2026-11-03",
-      "location": "Wenzhou-Kean University: Mathematics at Wenzhou, China",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196791",
-      "title": "Artist Faculty in Trombone",
-      "url": "https://apply.interfolio.com/196791",
-      "date": "2026-11-03",
-      "location": "Stony Brook University: Music at Music",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196840",
-      "title": "Open-Rank Assistant, Associate, or Full Professor of Instruction in Electrical Engineering",
-      "url": "https://apply.interfolio.com/196840",
-      "date": "2026-11-03",
-      "location": "Columbia University in the City of New York: Electrical Engineering at 01",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196865",
-      "title": "Artist Faculty in Guitar",
-      "url": "https://apply.interfolio.com/196865",
-      "date": "2026-11-03",
-      "location": "Stony Brook University: Music at Music",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196878",
-      "title": "Assistant Professor- Child Clinical Psychologist",
-      "url": "https://apply.interfolio.com/196878",
-      "date": "2026-11-03",
-      "location": "Yale University: Child Study Center at New Haven, CT",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196879",
-      "title": "Assistant Professor- Child Clinical Psychologist",
-      "url": "https://apply.interfolio.com/196879",
-      "date": "2026-11-03",
-      "location": "Yale University: Child Study Center at New Haven, CT",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196909",
-      "title": "FA27-044: Assistant Professor, Electrical and Computer Engineering",
-      "url": "https://apply.interfolio.com/196909",
-      "date": "2026-11-03",
-      "location": "Southern Illinois University Edwardsville: Electrical and Computer Engineering at Edwardsville, Il",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196420",
-      "title": "Sports Medicine, Clinical Assistant Professor, Orthopaedics, Sports Medicine",
-      "url": "https://apply.interfolio.com/196420",
-      "date": "2026-11-02",
-      "location": "Stony Brook University: Orthopaedics at Stony Brook, New York",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196504",
-      "title": "Professor (All Ranks) in AI-Human Collaboration",
-      "url": "https://apply.interfolio.com/196504",
-      "date": "2026-11-02",
-      "location": "Arizona State University: The Polytechnic School at Arizona State University – Polytechnic Campus",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196744",
-      "title": "Open Rank Thoracic Surgeon",
-      "url": "https://apply.interfolio.com/196744",
-      "date": "2026-11-02",
-      "location": "University of Virginia: Surgery at Charlottesville, VA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196822",
-      "title": "Assistant or Associate Professor of Nephrology",
-      "url": "https://apply.interfolio.com/196822",
-      "date": "2026-11-02",
-      "location": "Howard University College of Medicine: Nephrology at Washington, D.C.",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196836",
-      "title": "Associate or Assistant Professor of Physiology and Biophysics, Basic Science Educator Track",
-      "url": "https://apply.interfolio.com/196836",
-      "date": "2026-11-02",
-      "location": "Howard University College of Medicine: Physiology and Biophysics at Washington, D.C.",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196675",
-      "title": "Environmental Engineering Faculty Position",
-      "url": "https://apply.interfolio.com/196675",
-      "date": "2026-10-30",
-      "location": "Vanderbilt University at Nashville, TN, US",
-      "description": "Nuclear environmental engineering includes experimental and computational work on nuclear systems, waste, and materials characterization.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "environmental engineering",
-        "nuclear energy",
-        "materials characterization"
-      ]
-    },
-    {
-      "id": "apply-196622",
-      "title": "Assistant Professor Tenure-Track Positions in AI for Science for Fall 2027, Courant Institute School of Mathematics, Computing, and Data Science",
-      "url": "https://apply.interfolio.com/196622",
-      "date": "2026-10-29",
-      "location": "New York University: Center for Data Science at New York",
+      "location": "Carnegie Mellon University: Heinz College at Pittsburgh, PA",
       "description": "",
       "fitScore": 0,
       "isNew": true,
@@ -268,11 +66,153 @@
       "keywords": []
     },
     {
+      "id": "apply-196787",
+      "title": "Faculty Position in HEALTH SERVICES RESEARCH/HEALTH POLICY",
+      "url": "https://apply.interfolio.com/196787",
+      "date": "2026-11-06",
+      "location": "University of Michigan-Ann Arbor: School of Public Health at Ann Arbor, MI",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196883",
+      "title": "Faculty Position in Experimental Condensed Matter Physics 2026",
+      "url": "https://apply.interfolio.com/196883",
+      "date": "2026-11-04",
+      "location": "Carnegie Mellon University at Pittsburgh, PA, USA",
+      "description": "Tenure-track experimental quantum-materials role explicitly seeks synthesis and characterization expertise in coordination with materials science.",
+      "fitScore": 3,
+      "isNew": false,
+      "keywords": [
+        "condensed matter physics",
+        "quantum materials",
+        "materials synthesis",
+        "materials characterization"
+      ]
+    },
+    {
       "id": "apply-196920",
       "title": "Assistant Professor of Finance (Tenure-Track)",
       "url": "https://apply.interfolio.com/196920",
       "date": "2026-11-04",
       "location": "Frankfurt School of Finance & Management: Finance Department at Frankfurt am Main",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196539",
+      "title": "Associate Professor, Endowed Chair in Community Practice",
+      "url": "https://apply.interfolio.com/196539",
+      "date": "2026-11-03",
+      "location": "Johns Hopkins University: School of Education at Baltimore, MD, 21218",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196702",
+      "title": "Assistant Professor (Tenure Track), Hydrodynamic Modeling",
+      "url": "https://apply.interfolio.com/196702",
+      "date": "2026-11-03",
+      "location": "Stony Brook University at Stony Brook, NY, USA",
+      "description": "Tenure-track marine-science search includes computational sediment transport and coupled physical modeling.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "marine sciences",
+        "hydrodynamic modeling",
+        "sediment transport",
+        "computational modeling"
+      ]
+    },
+    {
+      "id": "apply-196753",
+      "title": "Assistant Professor of Economics and Computational Social Science, Tenure-Track",
+      "url": "https://apply.interfolio.com/196753",
+      "date": "2026-11-03",
+      "location": "New York University: AD_Computational Social Science at Abu Dhabi",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196771",
+      "title": "2027 Actuarial Science Tenure-Track Assistant/Associate Professor",
+      "url": "https://apply.interfolio.com/196771",
+      "date": "2026-11-03",
+      "location": "Wenzhou-Kean University: Mathematics at Wenzhou, China",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196791",
+      "title": "Artist Faculty in Trombone",
+      "url": "https://apply.interfolio.com/196791",
+      "date": "2026-11-03",
+      "location": "Stony Brook University: Music at Music",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196840",
+      "title": "Open-Rank Assistant, Associate, or Full Professor of Instruction in Electrical Engineering",
+      "url": "https://apply.interfolio.com/196840",
+      "date": "2026-11-03",
+      "location": "Columbia University in the City of New York: Electrical Engineering at 01",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196865",
+      "title": "Artist Faculty in Guitar",
+      "url": "https://apply.interfolio.com/196865",
+      "date": "2026-11-03",
+      "location": "Stony Brook University: Music at Music",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196878",
+      "title": "Assistant Professor- Child Clinical Psychologist",
+      "url": "https://apply.interfolio.com/196878",
+      "date": "2026-11-03",
+      "location": "Yale University: Child Study Center at New Haven, CT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196879",
+      "title": "Assistant Professor- Child Clinical Psychologist",
+      "url": "https://apply.interfolio.com/196879",
+      "date": "2026-11-03",
+      "location": "Yale University: Child Study Center at New Haven, CT",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196909",
+      "title": "FA27-044: Assistant Professor, Electrical and Computer Engineering",
+      "url": "https://apply.interfolio.com/196909",
+      "date": "2026-11-03",
+      "location": "Southern Illinois University Edwardsville: Electrical and Computer Engineering at Edwardsville, Il",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -328,6 +268,61 @@
       "url": "https://apply.interfolio.com/196721",
       "date": "2026-11-03",
       "location": "Bates College: Art and Visual Culture at Lewiston, Maine",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196420",
+      "title": "Sports Medicine, Clinical Assistant Professor, Orthopaedics, Sports Medicine",
+      "url": "https://apply.interfolio.com/196420",
+      "date": "2026-11-02",
+      "location": "Stony Brook University: Orthopaedics at Stony Brook, New York",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196504",
+      "title": "Professor (All Ranks) in AI-Human Collaboration",
+      "url": "https://apply.interfolio.com/196504",
+      "date": "2026-11-02",
+      "location": "Arizona State University: The Polytechnic School at Arizona State University – Polytechnic Campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196744",
+      "title": "Open Rank Thoracic Surgeon",
+      "url": "https://apply.interfolio.com/196744",
+      "date": "2026-11-02",
+      "location": "University of Virginia: Surgery at Charlottesville, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196822",
+      "title": "Assistant or Associate Professor of Nephrology",
+      "url": "https://apply.interfolio.com/196822",
+      "date": "2026-11-02",
+      "location": "Howard University College of Medicine: Nephrology at Washington, D.C.",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196836",
+      "title": "Associate or Assistant Professor of Physiology and Biophysics, Basic Science Educator Track",
+      "url": "https://apply.interfolio.com/196836",
+      "date": "2026-11-02",
+      "location": "Howard University College of Medicine: Physiology and Biophysics at Washington, D.C.",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -670,6 +665,21 @@
       "keywords": []
     },
     {
+      "id": "apply-196675",
+      "title": "Environmental Engineering Faculty Position",
+      "url": "https://apply.interfolio.com/196675",
+      "date": "2026-10-30",
+      "location": "Vanderbilt University at Nashville, TN, US",
+      "description": "Nuclear environmental engineering includes experimental and computational work on nuclear systems, waste, and materials characterization.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "environmental engineering",
+        "nuclear energy",
+        "materials characterization"
+      ]
+    },
+    {
       "id": "apply-196725",
       "title": "Anesthesiology, Pain, Assistant/Associate Professor, (2441)",
       "url": "https://apply.interfolio.com/196725",
@@ -812,6 +822,17 @@
       "url": "https://apply.interfolio.com/194773",
       "date": "2026-10-30",
       "location": "University of Michigan-Flint: College of Arts, Sciences and Education at UM-Flint",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196622",
+      "title": "Assistant Professor Tenure-Track Positions in AI for Science for Fall 2027, Courant Institute School of Mathematics, Computing, and Data Science",
+      "url": "https://apply.interfolio.com/196622",
+      "date": "2026-10-29",
+      "location": "New York University: Center for Data Science at New York",
       "description": "",
       "fitScore": 0,
       "isNew": false,

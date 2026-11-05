@@ -1,16 +1,25 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gpt-6-luna",
-    "generatedAt": "2026-11-04T08:31:05-05:00",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-11-05T07:58:58-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 456 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 457 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
-    ],
-    "reasoningEffort": "medium"
+    ]
   },
   "items": [
+    {
+      "id": "arxiv-2611.06274v1",
+      "title": "Quantitatively Probing the Tilt Angle Failures in 4D-STEM Polarisation Analysis",
+      "url": "https://arxiv.org/abs/2611.06274v1",
+      "date": "2026-11-04",
+      "summary": "This study quantitatively probes the tilt sensitivity of diffraction disc and Kikuchi band intensity signals in 4D-STEM polarisation analysis across three ferroelectrics. It finds that tiny sample tilts (0.01°–0.18°) can reverse Friedel-pair asymmetries and disrupt Kikuchi contrast, generating false polarization signals. The authors establish critical tilt tolerances to distinguish true polar order from local lattice misorientations.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2611.04858v1",
       "title": "Effect of molybdenum content on phase transformations during continuous heating of metastable β Ti-Mo alloys",
