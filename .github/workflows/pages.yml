@@ -1,17 +1,18 @@
 name: pages
 on:
   schedule:
-    # Runs at 12:00 AM Eastern Time every day
-    - cron: '0 0 * * *'
+    # Runs at 4:17 AM Eastern, after the Pacific daily-quota reset and off the hour.
+    - cron: '17 4 * * *'
       timezone: 'America/New_York'
   # Or you can trigger it manually
   workflow_dispatch:
   
 jobs:
   build:
+    timeout-minutes: 120
     env:
-      LLM_MODEL: gemini-3.6-flash
-      LLM_FALLBACK_MODELS: gemini-3.5-flash-lite
+      LLM_MODEL: gemini-3.8-flash
+      LLM_FALLBACK_MODELS: gemini-3.6-flash,gemini-3.5-flash-lite
       LLM_QUOTA_STATE_FILE: /tmp/arxivsummary-llm-quota-state.json
       PYTHONUNBUFFERED: '1'
     concurrency:
@@ -182,6 +183,13 @@ jobs:
             insidehigheredjobs --output-dir data summarize
           fi
 
+      - name: Retry unfinished queues after provider cooldowns
+        id: retry-pending
+        continue-on-error: true
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+        run: python -m src.retry_pending
+
       - name: Report deferred source work
         if: always()
         run: |
@@ -194,19 +202,19 @@ jobs:
           if [ "${{ steps.scrape-inside-higher-ed.outcome }}" = "failure" ]; then
             echo "::warning::Inside Higher Ed scrape failed; previously queued records remain available."
           fi
-          if [ "${{ steps.summarize-arxiv.outcome }}" = "failure" ]; then
+          if [ "${{ steps.summarize-arxiv.outcome }}" = "failure" ] && [ -s data/arXivPending.json ]; then
             echo "::warning::arXiv summary incomplete; its pending queue will be committed for retry."
           fi
-          if [ "${{ steps.summarize-jobspy.outcome }}" = "failure" ]; then
+          if [ "${{ steps.summarize-jobspy.outcome }}" = "failure" ] && [ -s data/jobSpyJobsPending.json ]; then
             echo "::warning::JobSpy summary incomplete; its shared pending queue will be committed for retry."
           fi
-          if [ "${{ steps.summarize-interfolio.outcome }}" = "failure" ]; then
+          if [ "${{ steps.summarize-interfolio.outcome }}" = "failure" ] && [ -s data/interfolioJobsPending.json ]; then
             echo "::warning::Interfolio summary incomplete; its pending queue will be committed for retry."
           fi
-          if [ "${{ steps.summarize-chronicle.outcome }}" = "failure" ]; then
+          if [ "${{ steps.summarize-chronicle.outcome }}" = "failure" ] && [ -s data/chronicleJobsPending.json ]; then
             echo "::warning::Chronicle summary incomplete; its pending queue will be committed for retry."
           fi
-          if [ "${{ steps.summarize-inside-higher-ed.outcome }}" = "failure" ]; then
+          if [ "${{ steps.summarize-inside-higher-ed.outcome }}" = "failure" ] && [ -s data/insideHigherEdJobsPending.json ]; then
             echo "::warning::Inside Higher Ed summary incomplete; its pending queue will be committed for retry."
           fi
 
@@ -218,10 +226,6 @@ jobs:
           git add -A data
           git commit -m "Update database tracking files" || echo "No database changes"
           bash scripts/push_with_retry.sh origin main
-
-      - name: Report job processing totals
-        if: always()
-        run: python -m src.summary_report
 
       - name: Copy JSON feed files to personal-site/src/data
         run: |
@@ -254,3 +258,8 @@ jobs:
           fi
           git commit -m "Update JSON feeds from run ${{ github.run_id }}" || echo "No changes to commit"
           bash ../scripts/push_with_retry.sh origin main
+
+      # Persist and publish partial progress before marking an unfinished run red.
+      - name: Report job processing totals
+        if: always()
+        run: python -m src.summary_report --require-complete

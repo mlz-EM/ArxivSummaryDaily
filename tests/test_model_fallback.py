@@ -72,7 +72,7 @@ class TestFreeModelFallback(unittest.TestCase):
             self.assertEqual(client.model, "gemini-3.5-flash-lite")
             self.assertEqual(client.stop_reason, "")
 
-    def test_expired_provider_cooldown_remains_blocked_within_same_action_run(self):
+    def test_expired_provider_cooldown_allows_primary_within_same_action_run(self):
         with tempfile.TemporaryDirectory() as directory, mock.patch.dict(os.environ, {
             "LLM_QUOTA_STATE_FILE": str(Path(directory) / "state.json"), "GITHUB_RUN_ID": "same-run",
         }), mock.patch("src.llm_client.requests.post", return_value=success()) as post:
@@ -82,7 +82,7 @@ class TestFreeModelFallback(unittest.TestCase):
             client = LLMModelClient("dummy", "gemini-3.6-flash")
             client.chat_completion([{"content": "hello"}])
             self.assertEqual(post.call_count, 1)
-            self.assertIn("gemini-3.5-flash-lite", post.call_args.args[0])
+            self.assertIn("gemini-3.6-flash", post.call_args.args[0])
 
     def test_legacy_single_model_marker_is_respected(self):
         with tempfile.TemporaryDirectory() as directory, mock.patch.dict(os.environ, {

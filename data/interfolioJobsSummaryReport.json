@@ -1,89 +1,22 @@
 {
-  "generatedAt": "2026-11-05T08:02:12-05:00",
-  "model": "gemini-3.5-flash-lite",
-  "runId": "42030176097",
-  "modelsUsed": [],
-  "modelFallbacks": [
-    {
-      "model": "gemini-3.6-flash",
-      "reason": "gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-      "nextModel": "gemini-3.5-flash-lite"
-    }
+  "generatedAt": "2026-11-05T08:52:58-05:00",
+  "model": "gpt-6-luna",
+  "runId": "local",
+  "modelsUsed": [
+    "gpt-6-luna"
   ],
-  "inputJobs": 15,
+  "modelFallbacks": [],
+  "inputJobs": 13,
   "alreadyProcessed": 0,
-  "prefiltered": 2,
-  "prefilterReasons": {
-    "business_or_law": 1,
-    "clinical_or_health": 1
-  },
-  "accepted": 0,
-  "rejected": 0,
-  "unsummarized": 13,
-  "complete": false,
-  "stopReason": "All configured models are deferred. gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. | gemini-3.5-flash-lite temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-  "pendingJobs": [
-    {
-      "url": "https://apply.interfolio.com/196480",
-      "title": "Assistant Professor of Statistics (Limited Term)"
-    },
-    {
-      "url": "https://apply.interfolio.com/196488",
-      "title": "Faculty Fellow in Museum Studies (2 positions)"
-    },
-    {
-      "url": "https://apply.interfolio.com/196607",
-      "title": "Associate Professor - Neuromuscular Medicine Neurologist – CE Track"
-    },
-    {
-      "url": "https://apply.interfolio.com/196697",
-      "title": "Assistant Professor Academic Clinician – Neurohospitalist"
-    },
-    {
-      "url": "https://apply.interfolio.com/196700",
-      "title": "Professor of Digital Systems, AI and Business* (f/m/d)"
-    },
-    {
-      "url": "https://apply.interfolio.com/196755",
-      "title": "Professor of Digital Systems, AI and Production (f/m/d)"
-    },
-    {
-      "url": "https://apply.interfolio.com/196882",
-      "title": "Research: Research Assistant Professor"
-    },
-    {
-      "url": "https://apply.interfolio.com/196904",
-      "title": "Practice-Track Faculty Position (Goizueta IMPACT)"
-    },
-    {
-      "url": "https://apply.interfolio.com/196923",
-      "title": "First-Year Engineering - Sessional Assistant Professor, Teaching Stream"
-    },
-    {
-      "url": "https://apply.interfolio.com/196944",
-      "title": "Assistant or Associate Professor of Pathology, Hematopathology"
-    },
-    {
-      "url": "https://apply.interfolio.com/196946",
-      "title": "Assistant or Associate Professor: Tenure Track"
-    },
-    {
-      "url": "https://apply.interfolio.com/196996",
-      "title": "Assistant Professor of Analytical Chemistry"
-    },
-    {
-      "url": "https://apply.interfolio.com/197017",
-      "title": "Assistant Professor in Medicinal Chemistry or Pharmacology"
-    }
-  ],
-  "prefilterExamples": [
-    {
-      "url": "https://apply.interfolio.com/196886",
-      "reason": "business_or_law"
-    },
-    {
-      "url": "https://apply.interfolio.com/196993",
-      "reason": "clinical_or_health"
-    }
-  ]
+  "prefiltered": 0,
+  "prefilterReasons": {},
+  "accepted": 1,
+  "rejected": 12,
+  "unsummarized": 0,
+  "complete": true,
+  "stopReason": "",
+  "pendingJobs": [],
+  "prefilterExamples": [],
+  "reasoningEffort": "medium",
+  "recoverySourceRunId": "42030176097"
 }

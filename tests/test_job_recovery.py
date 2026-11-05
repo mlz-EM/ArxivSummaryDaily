@@ -145,8 +145,8 @@ class TestQuotaStop(unittest.TestCase):
                 LLMModelClient("dummy", "gemini-3.8-flash").chat_completion([{"content": "first source"}])
             with self.assertRaises(LLMServiceUnavailable):
                 LLMModelClient("dummy", "gemini-3.8-flash").chat_completion([{"content": "second source"}])
-            self.assertEqual(post.call_count, 2)
-            sleep.assert_called_once()
+            self.assertEqual(post.call_count, 1)
+            sleep.assert_not_called()
 
     @mock.patch("src.llm_client.time.sleep")
     def test_daily_quota_is_not_retried_and_stops_next_process(self, sleep):

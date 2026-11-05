@@ -41,6 +41,19 @@ class TestPagesWorkflow(unittest.TestCase):
         self.assertIn("bash ../scripts/push_with_retry.sh origin main", workflow)
         self.assertNotIn("          git push origin main\n", workflow)
 
+    def test_recovery_precedes_persistence_and_incomplete_status_follows_publication(self):
+        workflow = (Path(__file__).parents[1] / ".github/workflows/pages.yml").read_text(encoding="utf-8")
+        self.assertLess(workflow.index("Retry unfinished queues"), workflow.index("Commit database files"))
+        self.assertLess(workflow.index("Commit and push to personal-site"), workflow.index("Report job processing totals"))
+        self.assertIn("python -m src.summary_report --require-complete", workflow)
+
+    def test_schedule_and_primary_model(self):
+        workflow = (Path(__file__).parents[1] / ".github/workflows/pages.yml").read_text(encoding="utf-8")
+        self.assertIn("cron: '17 4 * * *'", workflow)
+        self.assertIn("timezone: 'America/New_York'", workflow)
+        self.assertIn("LLM_MODEL: gemini-3.8-flash", workflow)
+        self.assertIn("LLM_FALLBACK_MODELS: gemini-3.6-flash,gemini-3.5-flash-lite", workflow)
+
 
 if __name__ == "__main__":
     unittest.main()

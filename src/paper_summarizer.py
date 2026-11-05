@@ -118,6 +118,9 @@ Paper input:
             batch_items, ok = self._process_batch(batch, i + 1)
             all_items.extend(batch_items)
             overall_success = overall_success and ok
+            if self.client.stop_reason:
+                print("Stopping paper requests during provider cooldown; unresolved papers remain queued.")
+                break
             if i + self.max_papers_per_batch < total_papers:
                 print("Batch complete. Waiting 3 seconds...")
                 time.sleep(3)

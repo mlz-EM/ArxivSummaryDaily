@@ -1,32 +1,159 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.5-flash-lite",
-    "generatedAt": "2026-11-05T08:02:12-05:00",
+    "model": "gpt-6-luna",
+    "generatedAt": "2026-11-05T08:52:58-05:00",
     "source": "Interfolio Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from public Interfolio job pages.",
       "Only the compact scan state and AI summary are retained after queued records are processed."
-    ]
+    ],
+    "reasoningEffort": "medium"
   },
   "items": [
     {
-      "id": "apply-196993",
-      "title": "Assistant Professor - Hematology",
-      "url": "https://apply.interfolio.com/196993",
-      "date": "2026-11-04",
-      "location": "Johns Hopkins University: Hematology at Baltimore, MD, 21287",
+      "id": "apply-196996",
+      "title": "Assistant Professor of Analytical Chemistry",
+      "url": "https://apply.interfolio.com/196996",
+      "date": "2026-11-09",
+      "location": "University of Michigan-Dearborn: UM-Dearborn at Dearborn, MI, US",
+      "description": "Tenure-track analytical chemistry search includes instrumental analysis, spectroscopy, and materials characterization among open specialties.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "analytical chemistry",
+        "instrumental analysis",
+        "spectroscopy",
+        "materials characterization"
+      ]
+    },
+    {
+      "id": "apply-197017",
+      "title": "Assistant Professor in Medicinal Chemistry or Pharmacology",
+      "url": "https://apply.interfolio.com/197017",
+      "date": "2026-11-09",
+      "location": "University of Michigan-Dearborn: UM-Dearborn at University of Michigan-Dearborn",
       "description": "",
       "fitScore": 0,
       "isNew": true,
       "keywords": []
     },
     {
-      "id": "apply-196886",
-      "title": "Assistant Professor of Economics and Public Policy",
-      "url": "https://apply.interfolio.com/196886",
+      "id": "apply-196488",
+      "title": "Faculty Fellow in Museum Studies (2 positions)",
+      "url": "https://apply.interfolio.com/196488",
+      "date": "2026-11-06",
+      "location": "New York University: Museum Studies at New York",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-196700",
+      "title": "Professor of Digital Systems, AI and Business* (f/m/d)",
+      "url": "https://apply.interfolio.com/196700",
+      "date": "2026-11-06",
+      "location": "WHU Otto Beisheim School of Management at Düsseldorf",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-196755",
+      "title": "Professor of Digital Systems, AI and Production (f/m/d)",
+      "url": "https://apply.interfolio.com/196755",
+      "date": "2026-11-06",
+      "location": "WHU Otto Beisheim School of Management: Supply Chain Management Group at Düsseldorf",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-196946",
+      "title": "Assistant or Associate Professor: Tenure Track",
+      "url": "https://apply.interfolio.com/196946",
+      "date": "2026-11-06",
+      "location": "Dartmouth College: Department of Epidemiology at Hanover/Lebanon, NH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-196480",
+      "title": "Assistant Professor of Statistics (Limited Term)",
+      "url": "https://apply.interfolio.com/196480",
+      "date": "2026-11-05",
+      "location": "Columbia University in the City of New York: Department of Statistics at 01",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-196923",
+      "title": "First-Year Engineering - Sessional Assistant Professor, Teaching Stream",
+      "url": "https://apply.interfolio.com/196923",
+      "date": "2026-11-05",
+      "location": "York University - Lassonde School of Engineering: Electrical Engineering & Computer Science at Lassonde School of Engineering",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-196607",
+      "title": "Associate Professor - Neuromuscular Medicine Neurologist – CE Track",
+      "url": "https://apply.interfolio.com/196607",
+      "date": "2026-11-04",
+      "location": "University of Pennsylvania: Perelman School of Medicine - Neurology at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-196697",
+      "title": "Assistant Professor Academic Clinician – Neurohospitalist",
+      "url": "https://apply.interfolio.com/196697",
+      "date": "2026-11-04",
+      "location": "University of Pennsylvania: Perelman School of Medicine - Neurology at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-196904",
+      "title": "Practice-Track Faculty Position (Goizueta IMPACT)",
+      "url": "https://apply.interfolio.com/196904",
+      "date": "2026-11-04",
+      "location": "Emory University: Business School at Atlanta, Georgia",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-196944",
+      "title": "Assistant or Associate Professor of Pathology, Hematopathology",
+      "url": "https://apply.interfolio.com/196944",
+      "date": "2026-11-04",
+      "location": "Howard University College of Medicine: Pathology at Washington, D.C.",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-196882",
+      "title": "Research: Research Assistant Professor",
+      "url": "https://apply.interfolio.com/196882",
       "date": "2026-11-03",
-      "location": "Carnegie Mellon University: Heinz College at Pittsburgh, PA",
+      "location": "Texas A&M University: Pharmacy Practice at College Station, Texas",
       "description": "",
       "fitScore": 0,
       "isNew": true,
@@ -77,6 +204,17 @@
       "keywords": []
     },
     {
+      "id": "apply-196993",
+      "title": "Assistant Professor - Hematology",
+      "url": "https://apply.interfolio.com/196993",
+      "date": "2026-11-04",
+      "location": "Johns Hopkins University: Hematology at Baltimore, MD, 21287",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "apply-196883",
       "title": "Faculty Position in Experimental Condensed Matter Physics 2026",
       "url": "https://apply.interfolio.com/196883",
@@ -98,6 +236,17 @@
       "url": "https://apply.interfolio.com/196920",
       "date": "2026-11-04",
       "location": "Frankfurt School of Finance & Management: Finance Department at Frankfurt am Main",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196886",
+      "title": "Assistant Professor of Economics and Public Policy",
+      "url": "https://apply.interfolio.com/196886",
+      "date": "2026-11-03",
+      "location": "Carnegie Mellon University: Heinz College at Pittsburgh, PA",
       "description": "",
       "fitScore": 0,
       "isNew": false,

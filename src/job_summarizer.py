@@ -21,7 +21,7 @@ from .feed_utils import (
 )
 from config.settings import LLM_CONFIG
 from .job_filter import profile_exclusion_reason
-from .llm_client import LLMModelClient, LLMQuotaExhausted, LLMContextLimit, LLMServiceUnavailable
+from .llm_client import LLMModelClient, LLMQuotaExhausted, LLMContextLimit, LLMServiceUnavailable, current_run_id
 
 
 class JobSummarizer:
@@ -83,7 +83,7 @@ class JobSummarizer:
     def _iter_batches(self, jobs):
         # Reserve output even when every job is accepted. Estimate UTF-8 input
         # conservatively; provider context errors trigger an automatic split.
-        input_budget = int(LLM_CONFIG.get("job_batch_input_tokens", 750000))
+        input_budget = int(LLM_CONFIG.get("job_batch_input_tokens", 100000))
         output_budget = int(LLM_CONFIG.get("max_output_tokens", 65536)) - 4096
         output_per_job = int(LLM_CONFIG.get("job_output_tokens_per_item", 256))
         limit = max(1, min(self.max_papers_per_batch, output_budget // output_per_job))
@@ -289,12 +289,18 @@ Job input (JSON lines):
         self.completed_urls = set()
         self._last_error = ""
         try:
+            previous_report = {}
+            run_id = current_run_id()
+            if report_path.exists() and run_id != "local":
+                previous = json.loads(report_path.read_text(encoding="utf-8"))
+                if previous.get("runId") == run_id:
+                    previous_report = previous
             existing_items = self._load_existing_json_items(output_json)
             merged = {
                 self._to_https_url(item.get("url", "")): {
                     **item, "url": self._to_https_url(item.get("url", "")),
                     "id": self._job_id_from_url(self._to_https_url(item.get("url", ""))),
-                    "isNew": False,
+                    "isNew": bool(previous_report and item.get("isNew")),
                 }
                 for item in existing_items if item.get("url")
             }
@@ -307,7 +313,8 @@ Job input (JSON lines):
             already_processed = len(candidates) - len(new_jobs)
             if already_processed:
                 print(f"Skipping {already_processed} jobs already present in JSON feed.")
-            accepted, rejected, prefiltered = set(), set(), Counter()
+            accepted, rejected = set(), set()
+            prefiltered = Counter(previous_report.get("prefilterReasons", {}))
             reasons = {}
             eligible = []
             for job in new_jobs:
@@ -344,21 +351,29 @@ Job input (JSON lines):
                 raw_items, api_success = self._generate_batch_summary(eligible)
                 save_decisions(raw_items)
             unresolved = [job for job in candidates if self._to_https_url(job.get("job_url", "")) not in self.completed_urls]
+            accepted_count = previous_report.get("accepted", 0) + len(accepted)
+            rejected_count = previous_report.get("rejected", 0) + len(rejected)
+            models_used = list(dict.fromkeys(previous_report.get("modelsUsed", []) + self.client.models_used))
+            fallbacks = previous_report.get("modelFallbacks", [])[:]
+            for event in self.client.fallback_events:
+                if event not in fallbacks:
+                    fallbacks.append(event)
             self.last_report = {
                 "generatedAt": self._eastern_generated_at(), "model": self.client.model,
-                "runId": os.getenv("GITHUB_RUN_ID", "local"),
-                "modelsUsed": self.client.models_used,
-                "modelFallbacks": self.client.fallback_events,
-                "inputJobs": len(candidates), "alreadyProcessed": already_processed,
+                "runId": run_id, "summaryPasses": previous_report.get("summaryPasses", 0) + 1,
+                "modelsUsed": models_used,
+                "modelFallbacks": fallbacks,
+                "inputJobs": max(previous_report.get("inputJobs", 0), len(candidates)),
+                "alreadyProcessed": previous_report.get("alreadyProcessed", 0) + already_processed,
                 "prefiltered": sum(prefiltered.values()), "prefilterReasons": dict(prefiltered),
-                "accepted": len(accepted), "rejected": len(rejected),
+                "accepted": accepted_count, "rejected": rejected_count,
                 "unsummarized": len(unresolved), "complete": not unresolved,
                 "stopReason": self.client.stop_reason or ((self._last_error or "incomplete response") if not api_success else ""),
                 "pendingJobs": [{"url": self._to_https_url(job.get("job_url", "")), "title": job.get("title", "")} for job in unresolved],
-                "prefilterExamples": [{"url": url, "reason": reason} for url, reason in list(reasons.items())[:20]],
+                "prefilterExamples": (previous_report.get("prefilterExamples", []) + [{"url": url, "reason": reason} for url, reason in reasons.items()])[:20],
             }
             self._atomic_write(report_path, self.last_report)
-            print(f"Job summary report: {len(accepted)} accepted; {len(rejected)} AI-rejected; {sum(prefiltered.values())} locally excluded; {len(unresolved)} unsummarized.")
+            print(f"Job summary report: {accepted_count} accepted; {rejected_count} AI-rejected; {sum(prefiltered.values())} locally excluded; {len(unresolved)} unsummarized.")
             if unresolved:
                 print(f"::warning::{len(unresolved)} jobs were NOT summarized and remain queued. Details: {report_path}")
             return bool(api_success and not unresolved)
