@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-11-05T07:59:52-05:00",
+    "generatedAt": "2026-11-06T09:44:20-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,134 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor Term (non-tenure track)",
+      "url": "https://www.indeed.com/viewjob?jk=a81ff6a2a49a8bac",
+      "date": "2026-11-06",
+      "location": "University of Louisville at Louisville, KY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Teaching Professor - General Biology",
+      "url": "https://www.indeed.com/viewjob?jk=5075501086a6b64d",
+      "date": "2026-11-06",
+      "location": "Arizona State University at Tempe, AZ, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Health Education",
+      "url": "https://www.indeed.com/viewjob?jk=97fbbcc7808de4c5",
+      "date": "2026-11-06",
+      "location": "City University of New York at Bronx, NY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Finance - Full-Time, Non-Tenure Track Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=aaa586eccbd04086",
+      "date": "2026-11-05",
+      "location": "University of Central Oklahoma at Edmond, OK, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Marine Biology (Tenure-Track)",
+      "url": "https://www.indeed.com/viewjob?jk=ba423ce50889e0fa",
+      "date": "2026-11-05",
+      "location": "University of Massachusetts at Dartmouth, MA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track Assistant/Associate Professor",
+      "url": "https://www.indeed.com/viewjob?jk=eeba29f4d166f0e9",
+      "date": "2026-11-05",
+      "location": "Kettering University at Flint, MI, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Faculty - Tenure Track, Assistant Professor – Forensic Science Investigations",
+      "url": "https://www.indeed.com/viewjob?jk=b05bcc9cdbff5016",
+      "date": "2026-11-05",
+      "location": "Utah Valley University at Orem, UT, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Director and Glucksman Global Distinguished Professor",
+      "url": "https://www.indeed.com/viewjob?jk=23a529610db50b10",
+      "date": "2026-11-02",
+      "location": "New York University at New York, NY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "COA Assistant Professor, Tenure-Track",
+      "url": "https://www.indeed.com/viewjob?jk=9bfd59c7c99f8bc9",
+      "date": "2026-10-30",
+      "location": "Florida Tech at Melbourne, FL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track: Assistant Professor in Tourism",
+      "url": "https://www.indeed.com/viewjob?jk=cf38ac9a008037aa",
+      "date": "2026-10-27",
+      "location": "Texas A&M University at Galveston, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Gilmore School of Music - Tenure Track",
+      "url": "https://www.indeed.com/viewjob?jk=e2609786007d473c",
+      "date": "2026-10-13",
+      "location": "Western Michigan University at Kalamazoo, MI, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor of Political Science (Tenure-Track)",
       "url": "https://www.indeed.com/viewjob?jk=5288c69cfa68e292",
       "date": "2026-11-05",
       "location": "University of Massachusetts at Dartmouth, MA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +150,7 @@
       "location": "UC Irvine at Irvine, CA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +161,7 @@
       "location": "The University of Texas Rio Grande Valley at Brownsville, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +172,7 @@
       "location": "UAMS - University of Arkansas for Medical Sciences at Little Rock, AR, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +183,7 @@
       "location": "Prairie View A&M University at Prairie View, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +194,7 @@
       "location": "University of Pittsburgh at Pittsburgh, PA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +205,7 @@
       "location": "Prairie View A&M University at Prairie View, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +216,7 @@
       "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +227,7 @@
       "location": "Northern Essex Community College at Haverhill, MA, US",
       "description": "Tenure-track engineering faculty position focused on teaching engineering and physics courses across multiple modalities.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "engineering",
         "physics",
@@ -122,7 +243,7 @@
       "location": "University of Mississippi at University, MS, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -133,7 +254,7 @@
       "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -144,221 +265,7 @@
       "location": "US National Defense University at Fort McNair, DC, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor - Biology (Tenure-Track)",
-      "url": "https://www.indeed.com/viewjob?jk=9fb6b3911adc7714",
-      "date": "2026-11-03",
-      "location": "Utah Valley University at Orem, UT, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Teaching Professor in Amplified Voice",
-      "url": "https://www.indeed.com/viewjob?jk=98e0bedfc27e26a9",
-      "date": "2026-11-03",
-      "location": "The University of Rhode Island at Kingston, RI, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor in Transportation Engineering (Tenure Track)",
-      "url": "https://www.indeed.com/viewjob?jk=6e7580dc90ea821b",
-      "date": "2026-11-03",
-      "location": "University Of Washington at Seattle, WA, US",
-      "description": "Tenure-track assistant professor position in transportation engineering within civil and environmental engineering.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "civil engineering",
-        "transportation engineering",
-        "artificial intelligence",
-        "data analysis"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor – Tenure Track",
-      "url": "https://www.indeed.com/viewjob?jk=4b1fbe6f6bc3d758",
-      "date": "2026-11-03",
-      "location": "Villanova University at Villanova, PA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Practice, Early Childhood Education (Career-Track) (COE)",
-      "url": "https://www.indeed.com/viewjob?jk=7602a2b12f69f2f5",
-      "date": "2026-11-02",
-      "location": "University of Arizona at Tucson, AZ, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor, Psychology",
-      "url": "https://www.indeed.com/viewjob?jk=fb49c71d840a94f6",
-      "date": "2026-10-31",
-      "location": "Contra Costa Community College District at Martinez, CA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor, Chemistry (TENURE TRACK)",
-      "url": "https://www.indeed.com/viewjob?jk=5ce479159d5aba73",
-      "date": "2026-10-31",
-      "location": "Contra Costa Community College District at Martinez, CA, US",
-      "description": "Tenure-track chemistry faculty position responsible for teaching transfer-level chemistry courses and supporting student success.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "chemistry",
-        "chemical engineering",
-        "physical science",
-        "higher education"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Master of Public Policy & Administration Program Dir./Tenure-Track Professor of Political Science",
-      "url": "https://www.indeed.com/viewjob?jk=83c098ff96e9d639",
-      "date": "2026-10-30",
-      "location": "York College of Pennsylvania at York, PA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "AST PROF of Philosophy in Philosophy & Ethics of AI",
-      "url": "https://www.indeed.com/viewjob?jk=fcc9ed69477441a1",
-      "date": "2026-10-30",
-      "location": "University of Florida at Gainesville, FL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Tenure-Track Assistant Professor of Economics",
-      "url": "https://www.indeed.com/viewjob?jk=a1d406fd7b0b4b11",
-      "date": "2026-10-30",
-      "location": "University of Illinois at Chicago, IL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor",
-      "url": "https://www.indeed.com/viewjob?jk=eef9b5003ba6456f",
-      "date": "2026-10-30",
-      "location": "University of Maryland University College at College Park, MD, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Biological Sciences",
-      "url": "https://www.indeed.com/viewjob?jk=59aa42e38cf21909",
-      "date": "2026-10-22",
-      "location": "Contra Costa Community College District at Martinez, CA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Serials and Scholarly Communication Librarian",
-      "url": "https://www.indeed.com/viewjob?jk=39583cf75e26ad85",
-      "date": "2026-10-19",
-      "location": "University of Wisconsin at Stevens Point, WI, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Health Information Technology Faculty - Onondaga Community College",
-      "url": "https://www.indeed.com/viewjob?jk=110e6a03f20e1325",
-      "date": "2026-10-19",
-      "location": "Onondaga Community College at Syracuse, NY, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Postdoctoral Research Scholar: Targeted Simons Research on Cosmic Magnetism",
-      "url": "https://www.indeed.com/viewjob?jk=200a3e2bb481c370",
-      "date": "2026-10-15",
-      "location": "Arizona State University at Tempe, AZ, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "F0074 Assistant Professor of Physics Tenure-Track",
-      "url": "https://www.indeed.com/viewjob?jk=9fb8ceca44e00ba5",
-      "date": "2026-10-15",
-      "location": "Norfolk State University at Norfolk, VA, US",
-      "description": "Tenure-track physics position focusing on superconducting quantum circuits, quantum devices, and materials science applications.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "physics",
-        "materials science",
-        "quantum science",
-        "superconducting circuits",
-        "quantum devices"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Open Rank Professor - Organizational Behavior and Management (Tenure-Track)",
-      "url": "https://www.indeed.com/viewjob?jk=63ff5c19a436f55d",
-      "date": "2026-10-13",
-      "location": "Abilene Christian University at Abilene, TX, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Associate Professor (Social Work) - 9 month appointment",
-      "url": "https://www.indeed.com/viewjob?jk=05e1a845601df0a7",
-      "date": "2026-10-12",
-      "location": "Missouri State University at Springfield, MO, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -389,6 +296,55 @@
       "url": "https://www.linkedin.com/jobs/view/4487077884",
       "date": "2026-11-04",
       "location": "The Ohio State University Wexner Medical Center at Columbus, OH, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Biology (Tenure-Track)",
+      "url": "https://www.indeed.com/viewjob?jk=9fb6b3911adc7714",
+      "date": "2026-11-03",
+      "location": "Utah Valley University at Orem, UT, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Teaching Professor in Amplified Voice",
+      "url": "https://www.indeed.com/viewjob?jk=98e0bedfc27e26a9",
+      "date": "2026-11-03",
+      "location": "The University of Rhode Island at Kingston, RI, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor in Transportation Engineering (Tenure Track)",
+      "url": "https://www.indeed.com/viewjob?jk=6e7580dc90ea821b",
+      "date": "2026-11-03",
+      "location": "University Of Washington at Seattle, WA, US",
+      "description": "Tenure-track assistant professor position in transportation engineering within civil and environmental engineering.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "civil engineering",
+        "transportation engineering",
+        "artificial intelligence",
+        "data analysis"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor – Tenure Track",
+      "url": "https://www.indeed.com/viewjob?jk=4b1fbe6f6bc3d758",
+      "date": "2026-11-03",
+      "location": "Villanova University at Villanova, PA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -462,6 +418,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Practice, Early Childhood Education (Career-Track) (COE)",
+      "url": "https://www.indeed.com/viewjob?jk=7602a2b12f69f2f5",
+      "date": "2026-11-02",
+      "location": "University of Arizona at Tucson, AZ, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor of Accounting",
       "url": "https://www.indeed.com/viewjob?jk=40f4df33513afc67",
       "date": "2026-11-02",
@@ -503,6 +470,33 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Psychology",
+      "url": "https://www.indeed.com/viewjob?jk=fb49c71d840a94f6",
+      "date": "2026-10-31",
+      "location": "Contra Costa Community College District at Martinez, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Chemistry (TENURE TRACK)",
+      "url": "https://www.indeed.com/viewjob?jk=5ce479159d5aba73",
+      "date": "2026-10-31",
+      "location": "Contra Costa Community College District at Martinez, CA, US",
+      "description": "Tenure-track chemistry faculty position responsible for teaching transfer-level chemistry courses and supporting student success.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "chemistry",
+        "chemical engineering",
+        "physical science",
+        "higher education"
+      ]
     },
     {
       "id": "www-4485162723",
@@ -554,6 +548,50 @@
       "url": "https://www.linkedin.com/jobs/view/4485666280",
       "date": "2026-10-31",
       "location": "Northland Chapter of the American College of Sports Medicine at Ohio, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Master of Public Policy & Administration Program Dir./Tenure-Track Professor of Political Science",
+      "url": "https://www.indeed.com/viewjob?jk=83c098ff96e9d639",
+      "date": "2026-10-30",
+      "location": "York College of Pennsylvania at York, PA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "AST PROF of Philosophy in Philosophy & Ethics of AI",
+      "url": "https://www.indeed.com/viewjob?jk=fcc9ed69477441a1",
+      "date": "2026-10-30",
+      "location": "University of Florida at Gainesville, FL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Assistant Professor of Economics",
+      "url": "https://www.indeed.com/viewjob?jk=a1d406fd7b0b4b11",
+      "date": "2026-10-30",
+      "location": "University of Illinois at Chicago, IL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=eef9b5003ba6456f",
+      "date": "2026-10-30",
+      "location": "University of Maryland University College at College Park, MD, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1720,6 +1758,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Biological Sciences",
+      "url": "https://www.indeed.com/viewjob?jk=59aa42e38cf21909",
+      "date": "2026-10-22",
+      "location": "Contra Costa Community College District at Martinez, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant/Associate Professor",
       "url": "https://www.indeed.com/viewjob?jk=dd99e0bea8b0e115",
       "date": "2026-10-22",
@@ -2580,6 +2629,28 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Serials and Scholarly Communication Librarian",
+      "url": "https://www.indeed.com/viewjob?jk=39583cf75e26ad85",
+      "date": "2026-10-19",
+      "location": "University of Wisconsin at Stevens Point, WI, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Health Information Technology Faculty - Onondaga Community College",
+      "url": "https://www.indeed.com/viewjob?jk=110e6a03f20e1325",
+      "date": "2026-10-19",
+      "location": "Onondaga Community College at Syracuse, NY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor - English",
       "url": "https://www.indeed.com/viewjob?jk=7d49600502109158",
       "date": "2026-10-19",
@@ -3108,6 +3179,34 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Postdoctoral Research Scholar: Targeted Simons Research on Cosmic Magnetism",
+      "url": "https://www.indeed.com/viewjob?jk=200a3e2bb481c370",
+      "date": "2026-10-15",
+      "location": "Arizona State University at Tempe, AZ, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "F0074 Assistant Professor of Physics Tenure-Track",
+      "url": "https://www.indeed.com/viewjob?jk=9fb8ceca44e00ba5",
+      "date": "2026-10-15",
+      "location": "Norfolk State University at Norfolk, VA, US",
+      "description": "Tenure-track physics position focusing on superconducting quantum circuits, quantum devices, and materials science applications.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "physics",
+        "materials science",
+        "quantum science",
+        "superconducting circuits",
+        "quantum devices"
+      ]
+    },
+    {
+      "id": "www-viewjob",
       "title": "Tenure Track Assistant Professor Sport Management (2027 2028)",
       "url": "https://www.indeed.com/viewjob?jk=ef39e070e5a370c4",
       "date": "2026-10-15",
@@ -3576,6 +3675,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Open Rank Professor - Organizational Behavior and Management (Tenure-Track)",
+      "url": "https://www.indeed.com/viewjob?jk=63ff5c19a436f55d",
+      "date": "2026-10-13",
+      "location": "Abilene Christian University at Abilene, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Associate Professor (Tenure Track)",
       "url": "https://www.indeed.com/viewjob?jk=e39fb434c7e2c499",
       "date": "2026-10-13",
@@ -3848,6 +3958,17 @@
       "url": "https://www.indeed.com/viewjob?jk=e58de7b86062887c",
       "date": "2026-10-13",
       "location": "Ramapo College of New Jersey at Mahwah, NJ, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Associate Professor (Social Work) - 9 month appointment",
+      "url": "https://www.indeed.com/viewjob?jk=05e1a845601df0a7",
+      "date": "2026-10-12",
+      "location": "Missouri State University at Springfield, MO, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -58123,17 +58244,6 @@
       "url": "https://www.indeed.com/viewjob?jk=95fdad252a92d7be",
       "date": "2025-11-13",
       "location": "West Virginia University at Morgantown, WV, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": false,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Art & Design - Digital M...",
-      "url": "https://www.indeed.com/viewjob?jk=6fcc27ed4630f97d",
-      "date": "2025-11-05",
-      "location": "Western Illinois University at Macomb, IL, US",
       "description": "",
       "fitScore": 0,
       "isNew": false,

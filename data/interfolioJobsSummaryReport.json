@@ -1,22 +1,60 @@
 {
-  "generatedAt": "2026-11-05T08:52:58-05:00",
-  "model": "gpt-6-luna",
-  "runId": "local",
+  "generatedAt": "2026-11-06T09:44:38-05:00",
+  "model": "gemini-3.6-flash",
+  "runId": "42234661639",
+  "summaryPasses": 1,
   "modelsUsed": [
-    "gpt-6-luna"
+    "gemini-3.6-flash"
   ],
-  "modelFallbacks": [],
-  "inputJobs": 13,
+  "modelFallbacks": [
+    {
+      "model": "gemini-3.8-flash",
+      "reason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "nextModel": "gemini-3.6-flash"
+    }
+  ],
+  "inputJobs": 21,
   "alreadyProcessed": 0,
-  "prefiltered": 0,
-  "prefilterReasons": {},
+  "prefiltered": 7,
+  "prefilterReasons": {
+    "humanities_or_social_science": 3,
+    "business_or_law": 3,
+    "clinical_or_health": 1
+  },
   "accepted": 1,
-  "rejected": 12,
+  "rejected": 13,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
-  "prefilterExamples": [],
-  "reasoningEffort": "medium",
-  "recoverySourceRunId": "42030176097"
+  "prefilterExamples": [
+    {
+      "url": "https://apply.interfolio.com/197041",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://apply.interfolio.com/197052",
+      "reason": "business_or_law"
+    },
+    {
+      "url": "https://apply.interfolio.com/197064",
+      "reason": "business_or_law"
+    },
+    {
+      "url": "https://apply.interfolio.com/197096",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/197125",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://apply.interfolio.com/197126",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://apply.interfolio.com/197131",
+      "reason": "business_or_law"
+    }
+  ]
 }

@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-11-06T09:47:37-05:00",
+  "runId": "42234661639",
+  "complete": true,
+  "remainingQueued": {
+    "Chronicle": 0,
+    "Inside Higher Ed": 0,
+    "Interfolio": 0,
+    "JobSpy": 0,
+    "arXiv": 0
+  },
+  "stopReason": "",
+  "rounds": [],
+  "runtime": {
+    "runId": "42234661639",
+    "startedAt": 1793976216.722783,
+    "requests": {
+      "gemini-3.8-flash": 1,
+      "gemini-3.6-flash": 6
+    },
+    "serviceFailures": {
+      "gemini-3.8-flash": 1
+    }
+  }
+}

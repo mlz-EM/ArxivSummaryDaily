@@ -1,16 +1,1089 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gpt-6-luna",
-    "generatedAt": "2026-11-05T08:52:59-05:00",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-11-06T09:47:00-05:00",
     "source": "Chronicle Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from The Chronicle of Higher Education Jobs.",
       "Current jobs are discovered from Chronicle's public job sitemap; only newly seen listings are summarized."
-    ],
-    "reasoningEffort": "medium"
+    ]
   },
   "items": [
+    {
+      "id": "jobs-38061219",
+      "title": "Full/Associate/Assistant Professor in Electromechanical Engineering",
+      "url": "https://jobs.chronicle.com/job/38061219",
+      "date": "2026-11-06",
+      "location": "University of Macau at Taipa, MO",
+      "description": "Tenure-track faculty position in electromechanical engineering with emphasis on advanced materials, manufacturing technology, and additive manufacturing.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "advanced materials",
+        "additive manufacturing",
+        "electromechanical engineering",
+        "manufacturing engineering"
+      ]
+    },
+    {
+      "id": "jobs-38062329",
+      "title": "Full-Time Faculty in Engineering",
+      "url": "https://jobs.chronicle.com/job/38062329",
+      "date": "2026-11-06",
+      "location": "University of Dubuque at Dubuque, IA, US",
+      "description": "Founding tenure-track engineering faculty position covering core undergraduate courses including materials, thermodynamics, physics, and electronics.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "engineering",
+        "materials",
+        "thermodynamics",
+        "physics"
+      ]
+    },
+    {
+      "id": "jobs-38061226",
+      "title": "assistant professor",
+      "url": "https://jobs.chronicle.com/job/38061226",
+      "date": "2026-11-06",
+      "location": "INSTITUTE OF SOCIAL INNOVATION, NATIONAL SUN YAT-SEN UNIVERSITY at Kaohsiung",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061229",
+      "title": "Assistant Professor in Early Childhood Leadership, Curriculum and Pedagogy",
+      "url": "https://jobs.chronicle.com/job/38061229",
+      "date": "2026-11-06",
+      "location": "University of Hawaii - College of Education at Honolulu, Hawaii",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061249",
+      "title": "Assistant/Associate/Full Professor of Creative Writing, Nonfiction",
+      "url": "https://jobs.chronicle.com/job/38061249",
+      "date": "2026-11-06",
+      "location": "School of Writing, Literature, and Film at Corvallis, Oregon",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062295",
+      "title": "Faculty",
+      "url": "https://jobs.chronicle.com/job/38062295",
+      "date": "2026-11-06",
+      "location": "University of Utah at Utah, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062327",
+      "title": "Full-Time Faculty in Aviation",
+      "url": "https://jobs.chronicle.com/job/38062327",
+      "date": "2026-11-06",
+      "location": "University of Dubuque at Dubuque, Iowa, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062328",
+      "title": "Full-Time Faculty in Computer Studies",
+      "url": "https://jobs.chronicle.com/job/38062328",
+      "date": "2026-11-06",
+      "location": "University of Dubuque at Dubuque, Iowa, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062330",
+      "title": "Full-Time Faculty in Mathematics",
+      "url": "https://jobs.chronicle.com/job/38062330",
+      "date": "2026-11-06",
+      "location": "University of Dubuque at Dubuque, Iowa, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062339",
+      "title": "Associate Professor / Professor in African Arts, Media and / or Cultural Studies",
+      "url": "https://jobs.chronicle.com/job/38062339",
+      "date": "2026-11-06",
+      "location": "Centre for Comparative Literature at Toronto (City), Ontario",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062351",
+      "title": "Part-time Faculty: Agriculture Horticulture Viticulture - 84164",
+      "url": "https://jobs.chronicle.com/job/38062351",
+      "date": "2026-11-06",
+      "location": "St. Charles Community College at Dardenne Prairie, Missouri, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062375",
+      "title": "Professor and Head of Department of Civil Engineering",
+      "url": "https://jobs.chronicle.com/job/38062375",
+      "date": "2026-11-06",
+      "location": "University of Hong Kong at Hong Kong, HK",
+      "description": "Tenured professor and department head position leading research and education in civil engineering and infrastructure.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "civil engineering",
+        "structural engineering",
+        "infrastructure",
+        "geotechnical engineering"
+      ]
+    },
+    {
+      "id": "jobs-38062376",
+      "title": "Professor and Head of Department of Mechanical Engineering",
+      "url": "https://jobs.chronicle.com/job/38062376",
+      "date": "2026-11-06",
+      "location": "University of Hong Kong at Hong Kong, HK",
+      "description": "Tenured professor and department head position leading research in mechanical engineering, robotics, and microelectronics.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "mechanical engineering",
+        "microelectronics",
+        "advanced manufacturing",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "jobs-38062352",
+      "title": "Part-time Faculty: Precision Agriculture Technology - 84163",
+      "url": "https://jobs.chronicle.com/job/38062352",
+      "date": "2026-11-06",
+      "location": "St. Charles Community College at Dardenne Prairie, Missouri, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062357",
+      "title": "Assistant/Associate/Full Professor positions, Kelley School of Business (Operations and Decision",
+      "url": "https://jobs.chronicle.com/job/38062357",
+      "date": "2026-11-06",
+      "location": "Indiana University Bloomington at Bloomington, Indiana, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062358",
+      "title": "Assistant/Associate/Full Professor positions, Kelley School of Business (Operations and Decision",
+      "url": "https://jobs.chronicle.com/job/38062358",
+      "date": "2026-11-06",
+      "location": "Indiana University Bloomington at Bloomington, Indiana, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062402",
+      "title": "Assistant Professor of Graphic Design",
+      "url": "https://jobs.chronicle.com/job/38062402",
+      "date": "2026-11-06",
+      "location": "Oakland University at Rochester, Michigan (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062409",
+      "title": "Professor of Art and Visual Culture",
+      "url": "https://jobs.chronicle.com/job/38062409",
+      "date": "2026-11-06",
+      "location": "Bates College at Lewiston, Maine",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060753",
+      "title": "Assistant Professor (IMAE & QEM)",
+      "url": "https://jobs.chronicle.com/job/38060753",
+      "date": "2026-11-05",
+      "location": "Southern Illinois University at Carbondale at Carbondale, IL, US",
+      "description": "Tenure-track Assistant Professor position focusing on industrial management, quality engineering, and manufacturing systems.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "industrial engineering",
+        "quality engineering",
+        "manufacturing systems",
+        "applied engineering"
+      ]
+    },
+    {
+      "id": "jobs-38060779",
+      "title": "Tenure-Track Faculty Position in Artificial Intelligence- ECE Department",
+      "url": "https://jobs.chronicle.com/job/38060779",
+      "date": "2026-11-05",
+      "location": "American University of Beirut-Maroun Semaan Faculty of Engineering and Architecture at Lebanon, LB",
+      "description": "Tenure-track faculty position in electrical and computer engineering focusing on artificial intelligence and machine learning.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "electrical engineering",
+        "computer engineering",
+        "artificial intelligence",
+        "machine learning"
+      ]
+    },
+    {
+      "id": "jobs-38060791",
+      "title": "Tenure-Track Faculty Position in Cybersecurity- ECE Department",
+      "url": "https://jobs.chronicle.com/job/38060791",
+      "date": "2026-11-05",
+      "location": "American University of Beirut-Maroun Semaan Faculty of Engineering and Architecture at Lebanon, LB",
+      "description": "Tenure-track faculty position in electrical and computer engineering specializing in cybersecurity and hardware security.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "electrical engineering",
+        "computer engineering",
+        "cybersecurity",
+        "hardware security"
+      ]
+    },
+    {
+      "id": "jobs-38060931",
+      "title": "Smead Endowed Chair in Space Technology",
+      "url": "https://jobs.chronicle.com/job/38060931",
+      "date": "2026-11-05",
+      "location": "University of Colorado Boulder at Boulder, CO, US",
+      "description": "Tenured endowed chair in aerospace engineering focusing on space technology, fluids, structures, and materials.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "aerospace engineering",
+        "space technology",
+        "materials",
+        "structures",
+        "fluids"
+      ]
+    },
+    {
+      "id": "jobs-38061016",
+      "title": "Smead Endowed Chair in Space Technology",
+      "url": "https://jobs.chronicle.com/job/38061016",
+      "date": "2026-11-05",
+      "location": "University of Colorado System at Boulder, CO, US",
+      "description": "Tenured chair in aerospace engineering covering space technology, space materials, structures, and atmospheric re-entry.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "aerospace engineering",
+        "space technology",
+        "materials",
+        "structures"
+      ]
+    },
+    {
+      "id": "jobs-38061081",
+      "title": "Canada Impact+ Emerging Leader. Assistant/Associate Professor in Sustainable Transportation Futures",
+      "url": "https://jobs.chronicle.com/job/38061081",
+      "date": "2026-11-05",
+      "location": "University of Alberta at Edmonton, AB, CA",
+      "description": "Tenure-track engineering position in clean energy systems, electrification, critical minerals, and sustainable transportation infrastructure.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "engineering",
+        "clean energy",
+        "electrification",
+        "critical minerals",
+        "sustainable infrastructure"
+      ]
+    },
+    {
+      "id": "jobs-38061089",
+      "title": "Assistant Professor – Mathematics",
+      "url": "https://jobs.chronicle.com/job/38061089",
+      "date": "2026-11-05",
+      "location": "College of Staten Island at Staten Island, NY, US",
+      "description": "Tenure-track assistant professor position in mathematics focusing on machine learning, artificial intelligence, and computational methods.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "mathematics",
+        "artificial intelligence",
+        "machine learning",
+        "computational methods"
+      ]
+    },
+    {
+      "id": "jobs-38060766",
+      "title": "Radiographic Technology Assistant Professor",
+      "url": "https://jobs.chronicle.com/job/38060766",
+      "date": "2026-11-05",
+      "location": "Los Rios Community College District at Folsom, California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060773",
+      "title": "Assistant Professor (Tenure-Track) - Information Technology and Supply Chain Management",
+      "url": "https://jobs.chronicle.com/job/38060773",
+      "date": "2026-11-05",
+      "location": "University of Wisconsin-Whitewater at Whitewater, Wisconsin, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060796",
+      "title": "Assistant Professor of Management/Executive I",
+      "url": "https://jobs.chronicle.com/job/38060796",
+      "date": "2026-11-05",
+      "location": "Johnson C. Smith University at Charlotte, North Carolina, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060824",
+      "title": "Open-Rank Professorship in Strategic Management",
+      "url": "https://jobs.chronicle.com/job/38060824",
+      "date": "2026-11-05",
+      "location": "Universität Basel at Canton of Basel-Stadt (CH)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060826",
+      "title": "Computer Science Teaching Track Faculty Position - Assistant",
+      "url": "https://jobs.chronicle.com/job/38060826",
+      "date": "2026-11-05",
+      "location": "Emory University at Emory University, Atlanta (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060904",
+      "title": "Probationary (Tenure-Track) or Tenured Faculty Position in Sustainability",
+      "url": "https://jobs.chronicle.com/job/38060904",
+      "date": "2026-11-05",
+      "location": "Ivey Business School, Western University at London, Ontario",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060913",
+      "title": "Teaching Assistant Professor of Psychological and Brain Sciences",
+      "url": "https://jobs.chronicle.com/job/38060913",
+      "date": "2026-11-05",
+      "location": "Department of Psychology at Washington D.C.",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060957",
+      "title": "Associate Professor or Advanced Assistant Professor - Ph.D./M.A. Program in Political Science",
+      "url": "https://jobs.chronicle.com/job/38060957",
+      "date": "2026-11-05",
+      "location": "The Graduate Center, CUNY at New York City, New York",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060992",
+      "title": "Counseling: Assistant Professor - Clinical Mental Health",
+      "url": "https://jobs.chronicle.com/job/38060992",
+      "date": "2026-11-05",
+      "location": "University of North Carolina at Charlotte at Charlotte, North Carolina (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061023",
+      "title": "Open Rank Research Services Clinical Research Coordinator (Entry – Intermediate)",
+      "url": "https://jobs.chronicle.com/job/38061023",
+      "date": "2026-11-05",
+      "location": "University of Colorado System at Aurora, Colorado, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061035",
+      "title": "Chair of Collaborative Arts / Associate or Full Professor (Tenure Line)",
+      "url": "https://jobs.chronicle.com/job/38061035",
+      "date": "2026-11-05",
+      "location": "NYU Tisch School of the Arts at New York City, New York (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061043",
+      "title": "Assistant Professor of Art Education",
+      "url": "https://jobs.chronicle.com/job/38061043",
+      "date": "2026-11-05",
+      "location": "University of Kentucky at Lexington, Kentucky (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061074",
+      "title": "Faculty Director, Imagining America",
+      "url": "https://jobs.chronicle.com/job/38061074",
+      "date": "2026-11-05",
+      "location": "Pennsylvania State University at University Park, Pennsylvania",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061076",
+      "title": "OPEN RANK FACULTY Position in Environmental Health Science at Penn State's College of HHD",
+      "url": "https://jobs.chronicle.com/job/38061076",
+      "date": "2026-11-05",
+      "location": "Pennsylvania State University at University Park, Pennsylvania",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061082",
+      "title": "Assistant/Associate Professor",
+      "url": "https://jobs.chronicle.com/job/38061082",
+      "date": "2026-11-05",
+      "location": "Human Development & Family Science at West Lafayette, Indiana",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061083",
+      "title": "Assistant Professor of Data Science",
+      "url": "https://jobs.chronicle.com/job/38061083",
+      "date": "2026-11-05",
+      "location": "The George Washington University Data Science Program at Washington D.C.",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061086",
+      "title": "Professor",
+      "url": "https://jobs.chronicle.com/job/38061086",
+      "date": "2026-11-05",
+      "location": "Human Development & Family Science at West Lafayette, Indiana",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061093",
+      "title": "Assistant Professor of Lighting Design (Tenure Track)",
+      "url": "https://jobs.chronicle.com/job/38061093",
+      "date": "2026-11-05",
+      "location": "Carnegie Mellon University School of Drama at Pittsburgh, Pennsylvania",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061094",
+      "title": "Paul Dickinson School of Business Chair; Assistant or Associate Professor of Business",
+      "url": "https://jobs.chronicle.com/job/38061094",
+      "date": "2026-11-05",
+      "location": "Oklahoma Baptist University at Shawnee, Oklahoma",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061097",
+      "title": "Assistant Professor of Jazz Studies, Full-time, Tenure-track",
+      "url": "https://jobs.chronicle.com/job/38061097",
+      "date": "2026-11-05",
+      "location": "University of New Mexico at Albuquerque, New Mexico (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061105",
+      "title": "Assistant Professor",
+      "url": "https://jobs.chronicle.com/job/38061105",
+      "date": "2026-11-05",
+      "location": "New Mexico Tech at Socorro, NM, US",
+      "description": "Tenure-track assistant professor position in mineral engineering focusing on geomechanics, underground mining, petrography, and AI applications.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "mineral engineering",
+        "geomechanics",
+        "petrography",
+        "mining engineering"
+      ]
+    },
+    {
+      "id": "jobs-38061129",
+      "title": "Assistant Professor, Mechanical Engineering (AA28005)",
+      "url": "https://jobs.chronicle.com/job/38061129",
+      "date": "2026-11-05",
+      "location": "Minnesota State University, Mankato at Mankato, MN, US",
+      "description": "Tenure-track position in mechanical engineering focusing on robotics, control systems, instrumentation, solid mechanics, and practical engineering education.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "mechanical engineering",
+        "solid mechanics",
+        "instrumentation",
+        "robotics"
+      ]
+    },
+    {
+      "id": "jobs-38061221",
+      "title": "Assistant Professor of Electrical Engineering (Electronics, VLSI and Computer Hardware)",
+      "url": "https://jobs.chronicle.com/job/38061221",
+      "date": "2026-11-05",
+      "location": "California State University, Long Beach at Long Beach, CA, US",
+      "description": "Tenure-track assistant professor position specializing in semiconductor devices, integrated circuits, microelectronics, and hardware development.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "semiconductor devices",
+        "integrated circuits",
+        "electronics",
+        "microelectronics"
+      ]
+    },
+    {
+      "id": "jobs-38061100",
+      "title": "Assistant Professor of Cello",
+      "url": "https://jobs.chronicle.com/job/38061100",
+      "date": "2026-11-05",
+      "location": "UMass Amherst Department of Music and Dance at Amherst, Massachusetts (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061104",
+      "title": "Assistant Professor of Flute",
+      "url": "https://jobs.chronicle.com/job/38061104",
+      "date": "2026-11-05",
+      "location": "University of New Mexico at Albuquerque, New Mexico (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061108",
+      "title": "Assistant Professor, of Management",
+      "url": "https://jobs.chronicle.com/job/38061108",
+      "date": "2026-11-05",
+      "location": "Minnesota State University, Mankato at Minnesota, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061110",
+      "title": "Assistant Professor, Biologist (AA28001)",
+      "url": "https://jobs.chronicle.com/job/38061110",
+      "date": "2026-11-05",
+      "location": "Minnesota State University, Mankato at Minnesota, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061111",
+      "title": "Assistant Professor, Aviation - IFO (AA28018)",
+      "url": "https://jobs.chronicle.com/job/38061111",
+      "date": "2026-11-05",
+      "location": "Minnesota State University, Mankato at Minnesota, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061114",
+      "title": "Assistant Professor, Management",
+      "url": "https://jobs.chronicle.com/job/38061114",
+      "date": "2026-11-05",
+      "location": "Minnesota State University, Mankato at Minnesota, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061116",
+      "title": "Assistant Professor, Computer Information Science (AA28030)",
+      "url": "https://jobs.chronicle.com/job/38061116",
+      "date": "2026-11-05",
+      "location": "Minnesota State University, Mankato at Minnesota, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061118",
+      "title": "Assistant Professor, Human Performance - IFO (AA28012)",
+      "url": "https://jobs.chronicle.com/job/38061118",
+      "date": "2026-11-05",
+      "location": "Minnesota State University, Mankato at Minnesota, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061119",
+      "title": "Assistant Professor, Aviation - IFO (AA28019)",
+      "url": "https://jobs.chronicle.com/job/38061119",
+      "date": "2026-11-05",
+      "location": "Minnesota State University, Mankato at Minnesota, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061122",
+      "title": "Assistant Professor, Human Performance - IFO (AA28014)",
+      "url": "https://jobs.chronicle.com/job/38061122",
+      "date": "2026-11-05",
+      "location": "Minnesota State University, Mankato at Minnesota, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061137",
+      "title": "Assistant Professor Of Statistics",
+      "url": "https://jobs.chronicle.com/job/38061137",
+      "date": "2026-11-05",
+      "location": "University of Tampa at Florida, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061142",
+      "title": "Assistant Professor Academic Clinician - Neurohospitalist",
+      "url": "https://jobs.chronicle.com/job/38061142",
+      "date": "2026-11-05",
+      "location": "University of Pennsylvania at Pennsylvania, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061144",
+      "title": "Associate Professor - Neuromuscular Medicine Neurologist - CE Track",
+      "url": "https://jobs.chronicle.com/job/38061144",
+      "date": "2026-11-05",
+      "location": "University of Pennsylvania at Pennsylvania, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061156",
+      "title": "Assistant Professor - Kinesiology",
+      "url": "https://jobs.chronicle.com/job/38061156",
+      "date": "2026-11-05",
+      "location": "Utah State University at Utah, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061212",
+      "title": "Assistant Professor, Recreation",
+      "url": "https://jobs.chronicle.com/job/38061212",
+      "date": "2026-11-05",
+      "location": "Northwest Missouri State University at Maryville, Missouri (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061213",
+      "title": "Tenure-Track Assistant Professor of Communication",
+      "url": "https://jobs.chronicle.com/job/38061213",
+      "date": "2026-11-05",
+      "location": "Montana State University Billings at Billings, Montana",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061220",
+      "title": "Great Books in the Early Biblical Tradition (Assistant Professor)",
+      "url": "https://jobs.chronicle.com/job/38061220",
+      "date": "2026-11-05",
+      "location": "University of Texas at Austin at Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061233",
+      "title": "University Faculty Art, Printmaking",
+      "url": "https://jobs.chronicle.com/job/38061233",
+      "date": "2026-11-05",
+      "location": "Weber State University at Utah, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061234",
+      "title": "Assistant Professor of Film Studies",
+      "url": "https://jobs.chronicle.com/job/38061234",
+      "date": "2026-11-05",
+      "location": "Weber State University at Utah, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061235",
+      "title": "Assistant Professor School of Computing",
+      "url": "https://jobs.chronicle.com/job/38061235",
+      "date": "2026-11-05",
+      "location": "Weber State University at Utah, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061236",
+      "title": "University Faculty Bioinformatics",
+      "url": "https://jobs.chronicle.com/job/38061236",
+      "date": "2026-11-05",
+      "location": "Weber State University at Utah, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062337",
+      "title": "Executive Administrative Assistant- Faculty Affairs  - (497276 )",
+      "url": "https://jobs.chronicle.com/job/38062337",
+      "date": "2026-11-05",
+      "location": "University of Houston at Houston, Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062342",
+      "title": "Assistant Professor - Turfgrass Management",
+      "url": "https://jobs.chronicle.com/job/38062342",
+      "date": "2026-11-05",
+      "location": "Mississippi State University at Mississippi State, Mississippi, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062346",
+      "title": "Assistant Professor - Cell Biologist",
+      "url": "https://jobs.chronicle.com/job/38062346",
+      "date": "2026-11-05",
+      "location": "Colorado State University - Pueblo at Pueblo, Colorado, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060797",
+      "title": "Assistant Professor - Department of Industrial, Mechatronics & Systems Engineering",
+      "url": "https://jobs.chronicle.com/job/38060797",
+      "date": "2026-11-04",
+      "location": "Morgan State University at Baltimore, MD, US",
+      "description": "Tenure-track position in smart manufacturing systems, quality engineering, mechatronics, and advanced manufacturing.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "smart manufacturing",
+        "advanced manufacturing",
+        "mechatronics",
+        "quality engineering",
+        "mechanical engineering"
+      ]
+    },
+    {
+      "id": "jobs-38060808",
+      "title": "Tenure-Track Associate Professor/Assistant Professor",
+      "url": "https://jobs.chronicle.com/job/38060808",
+      "date": "2026-11-04",
+      "location": "University of Hong Kong at Hong Kong, HK",
+      "description": "Tenure-track faculty position in advanced materials, AI for materials, semiconductors, and energy materials.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "advanced materials",
+        "AI for materials",
+        "semiconductor materials",
+        "energy materials",
+        "materials science"
+      ]
+    },
+    {
+      "id": "jobs-38060809",
+      "title": "Tenure-Track Professor / Associate Professor / Assistant Professor (several posts)",
+      "url": "https://jobs.chronicle.com/job/38060809",
+      "date": "2026-11-04",
+      "location": "University of Hong Kong at Hong Kong, HK",
+      "description": "Tenure-track interdisciplinary faculty positions covering advanced materials and manufacturing among key strategic domains.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "advanced materials",
+        "manufacturing",
+        "interdisciplinary engineering",
+        "innovation"
+      ]
+    },
+    {
+      "id": "jobs-38060849",
+      "title": "Assistant/Associate/full Professor in Electrical Engineering",
+      "url": "https://jobs.chronicle.com/job/38060849",
+      "date": "2026-11-04",
+      "location": "Texas Christian University at Fort Worth, TX, US",
+      "description": "Full-time tenure-track faculty position in electrical engineering focusing on robotics, power systems, or building systems.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "electrical engineering",
+        "robotics",
+        "power systems",
+        "engineering"
+      ]
+    },
+    {
+      "id": "jobs-38060754",
+      "title": "2027 Health, Physical Education & Sports Studies Faculty",
+      "url": "https://jobs.chronicle.com/job/38060754",
+      "date": "2026-11-04",
+      "location": "Winston-Salem State University at Winston-Salem, North Carolina, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060756",
+      "title": "Spring 2027 Computer Science Faculty",
+      "url": "https://jobs.chronicle.com/job/38060756",
+      "date": "2026-11-04",
+      "location": "Winston-Salem State University at Winston-Salem, North Carolina, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060871",
+      "title": "Professor or Advanced Associate Professor of STEM Learning Sciences",
+      "url": "https://jobs.chronicle.com/job/38060871",
+      "date": "2026-11-04",
+      "location": "Virginia Commonwealth University at Richmond, Virginia, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060880",
+      "title": "Assistant Professor - SOM Psych CSMHA School",
+      "url": "https://jobs.chronicle.com/job/38060880",
+      "date": "2026-11-04",
+      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060881",
+      "title": "Faculty New Hire - SOM Institute for Health Computing",
+      "url": "https://jobs.chronicle.com/job/38060881",
+      "date": "2026-11-04",
+      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060945",
+      "title": "Art & Design Faculty",
+      "url": "https://jobs.chronicle.com/job/38060945",
+      "date": "2026-11-04",
+      "location": "Dordt University at Sioux Center, Iowa, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38061065",
+      "title": "Assistant Professor, Computational and Systems Biochemistry",
+      "url": "https://jobs.chronicle.com/job/38061065",
+      "date": "2026-11-04",
+      "location": "Virginia Tech at Blacksburg, Virginia, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38062367",
+      "title": "Environmental Informatics and Computational Environment Science Faculty",
+      "url": "https://jobs.chronicle.com/job/38062367",
+      "date": "2026-11-04",
+      "location": "Morgan State University at Baltimore, Maryland, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060755",
+      "title": "2027 Medical Laboratory Science Faculty",
+      "url": "https://jobs.chronicle.com/job/38060755",
+      "date": "2026-11-03",
+      "location": "Winston-Salem State University at Winston-Salem, North Carolina, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060799",
+      "title": "Ecological Risk Assessment and Management Faculty",
+      "url": "https://jobs.chronicle.com/job/38060799",
+      "date": "2026-11-02",
+      "location": "Morgan State University at Baltimore, Maryland, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38060827",
+      "title": "Faculty, Chemistry (Tenure-Track)",
+      "url": "https://jobs.chronicle.com/job/38060827",
+      "date": "2026-10-23",
+      "location": "Morton College at Cicero, IL, US",
+      "description": "Tenure-track chemistry faculty position emphasizing undergraduate instruction, laboratory research mentoring, and analytical instrumentation.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "chemistry",
+        "spectroscopy",
+        "analytical instrumentation",
+        "FTIR",
+        "NMR"
+      ]
+    },
+    {
+      "id": "jobs-38062368",
+      "title": "Assistant Professor in Nuclear Engineering-UTSI, Fall 2027",
+      "url": "https://jobs.chronicle.com/job/38062368",
+      "date": "2026-10-22",
+      "location": "University of Tennessee, Knoxville at Knoxville, TN, US",
+      "description": "Tenure-track Assistant Professor position in nuclear engineering focusing on aerospace, defense, and nuclear energy applications.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "nuclear engineering",
+        "nuclear science",
+        "aerospace",
+        "defense",
+        "radiation detection"
+      ]
+    },
     {
       "id": "jobs-38060739",
       "title": "Open-Rank Professorship in Information Systems",
@@ -19,7 +1092,7 @@
       "location": "Universität Basel at Canton of Basel-Stadt (CH)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -30,7 +1103,7 @@
       "location": "University of Utah at Utah, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -41,7 +1114,7 @@
       "location": "Ramapo College of NJ at Mahwah, New Jersey - Located 25 miles from New York, NY",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -52,7 +1125,7 @@
       "location": "Texas Tech University - Health Sciences Center at Lubbock, Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -63,7 +1136,7 @@
       "location": "Dallas College at Farmers Branch, Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -74,7 +1147,7 @@
       "location": "Monmouth College at Monmouth, Illinois (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -85,7 +1158,7 @@
       "location": "Samuel Merritt University at Foster City, California, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -96,7 +1169,7 @@
       "location": "University of Connecticut at Storrs, CT, US",
       "description": "Quantum-science chemistry search prioritizes discovery, characterization, and integration of molecules or materials for quantum technologies.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "quantum science",
         "quantum materials",
@@ -112,7 +1185,7 @@
       "location": "University of Colorado Boulder at Boulder, Colorado, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -123,7 +1196,7 @@
       "location": "University of Colorado Boulder at Boulder, Colorado, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -134,7 +1207,7 @@
       "location": "Louisiana State University-Baton Rouge, LA at Baton Rouge, Louisiana",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -145,7 +1218,7 @@
       "location": "Johns Hopkins University at Baltimore, Maryland, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -156,7 +1229,7 @@
       "location": "Marist University at Poughkeepsie, New York, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -167,7 +1240,7 @@
       "location": "Marist University at Poughkeepsie, New York, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -178,7 +1251,7 @@
       "location": "Florida Polytechnic University at Lakeland, Florida, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -189,7 +1262,7 @@
       "location": "University of Colorado System at Boulder, Colorado, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -200,7 +1273,7 @@
       "location": "University of Colorado System at Boulder, Colorado, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -211,7 +1284,7 @@
       "location": "University of Colorado System at Colorado Springs, Colorado, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -222,7 +1295,7 @@
       "location": "University of Virginia at Charlottesville, Virginia",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -233,7 +1306,7 @@
       "location": "University of Hawaii - College of Education at Honolulu, Hawaii (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -244,7 +1317,7 @@
       "location": "Texas State University at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -255,7 +1328,7 @@
       "location": "University of Maryland, School of Public Policy at College Park, Maryland (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -266,7 +1339,7 @@
       "location": "Washington University in St. Louis at Saint Louis, Missouri (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -277,7 +1350,7 @@
       "location": "University of South Florida at Tampa, Florida (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -288,7 +1361,7 @@
       "location": "University of South Florida at Tampa, Florida (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -299,7 +1372,7 @@
       "location": "College of Engineering/UW Madison at Madison, Wisconsin",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -310,7 +1383,7 @@
       "location": "University of Maryland, School of Public Policy at College Park, Maryland (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -321,7 +1394,7 @@
       "location": "Weber State University at Utah, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -332,7 +1405,7 @@
       "location": "University of North Carolina at Pembroke at Pembroke, NC, US",
       "description": "Analytical chemistry and instrumentation provide an adjacent route; forensic-chemistry teaching preparation needs review.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "analytical chemistry",
         "instrumental analysis",
@@ -347,7 +1420,7 @@
       "location": "University of North Carolina at Pembroke at North Carolina, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -358,7 +1431,7 @@
       "location": "University of North Carolina at Pembroke at North Carolina, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -369,7 +1442,7 @@
       "location": "The Ohio State University at Columbus, Ohio",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -380,7 +1453,7 @@
       "location": "University of Illinois Chicago (UIC) at Chicago, Illinois (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -391,7 +1464,7 @@
       "location": "University of North Carolina at Pembroke at North Carolina, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -402,7 +1475,7 @@
       "location": "University of North Carolina at Pembroke at North Carolina, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -413,7 +1486,7 @@
       "location": "University of North Carolina at Pembroke at North Carolina, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -424,7 +1497,7 @@
       "location": "University of North Carolina at Pembroke at North Carolina, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -435,7 +1508,7 @@
       "location": "Kennesaw State University at Georgia, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -446,7 +1519,7 @@
       "location": "University of Wisconsin - Milwaukee at Wisconsin, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -457,7 +1530,7 @@
       "location": "Georgia Southern University at Georgia, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -468,7 +1541,7 @@
       "location": "Georgia Institute of Technology at Atlanta, Georgia",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -479,7 +1552,7 @@
       "location": "University of Idaho at Idaho, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -490,7 +1563,7 @@
       "location": "Texas State University at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -501,7 +1574,7 @@
       "location": "University of Utah at Utah, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -512,7 +1585,7 @@
       "location": "University of North Carolina Wilmington at North Carolina, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -523,7 +1596,7 @@
       "location": "University of Utah at Utah, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -534,7 +1607,7 @@
       "location": "University of Texas at San Antonio at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -545,7 +1618,7 @@
       "location": "Utah Valley University at Utah, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -556,7 +1629,7 @@
       "location": "University of Texas at San Antonio at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -567,7 +1640,7 @@
       "location": "Bates College at Lewiston, Maine, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -578,7 +1651,7 @@
       "location": "Bentley University at Massachusetts, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -589,7 +1662,7 @@
       "location": "Harper College at Palatine, Illinois, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -600,7 +1673,7 @@
       "location": "Indiana University Bloomington at Bloomington, Indiana, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -611,7 +1684,7 @@
       "location": "Purdue University Fort Wayne at Fort Wayne, Indiana",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -622,7 +1695,7 @@
       "location": "The University of Texas at Dallas at Richardson, Texas",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -633,7 +1706,7 @@
       "location": "Presbyterian College at Clinton, South Carolina (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -644,7 +1717,7 @@
       "location": "University of Arkansas School of Art at Fayetteville, Arkansas",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -655,7 +1728,7 @@
       "location": "Andrews University at Berrien Springs, Michigan (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -666,7 +1739,7 @@
       "location": "California Polytechnic State University, San Luis Obispo at San Luis Obispo, California",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -677,7 +1750,7 @@
       "location": "Montclair State University at Montclair, New Jersey, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -688,7 +1761,7 @@
       "location": "Montclair State University at Montclair, New Jersey, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -699,7 +1772,7 @@
       "location": "Louisiana State University-Baton Rouge, LA at Baton Rouge, Louisiana",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -710,7 +1783,7 @@
       "location": "University of Wisconsin-Stout at Menomonie, Wisconsin, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -721,7 +1794,7 @@
       "location": "University of Colorado System at Aurora, Colorado, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -732,7 +1805,7 @@
       "location": "Mohamed bin Zayed University of Artificial Intelligence at Abu Dhabi, UAE",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -743,7 +1816,7 @@
       "location": "Mohamed bin Zayed University of Artificial Intelligence at Abu Dhabi, UAE",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -754,7 +1827,7 @@
       "location": "University of Texas at Tyler at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -765,7 +1838,7 @@
       "location": "Mohamed bin Zayed University of Artificial Intelligence at Abu Dhabi, UAE",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -776,7 +1849,7 @@
       "location": "Mohamed bin Zayed University of Artificial Intelligence at Abu Dhabi, UAE",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -787,7 +1860,7 @@
       "location": "University of Cincinnati at Cincinnati, Ohio, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -798,7 +1871,7 @@
       "location": "New Mexico Tech at Socorro, NM, US",
       "description": "Tenure-track materials engineering search directly seeks expertise in microstructure analysis, phase transitions, and materials characterization.",
       "fitScore": 3,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "materials engineering",
         "metallurgy",
@@ -815,7 +1888,7 @@
       "location": "Montana State University Billings at Billings, Montana",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -826,7 +1899,7 @@
       "location": "New Mexico Tech at Socorro, New Mexico (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -837,7 +1910,7 @@
       "location": "Louisiana State University-Baton Rouge, LA at Baton Rouge, Louisiana",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -848,7 +1921,7 @@
       "location": "University of Washington Department of Laboratory Medicine and Pathology at Seattle, Washington State",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -859,7 +1932,7 @@
       "location": "Utah State University at Utah, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -870,7 +1943,7 @@
       "location": "University of Pennsylvania at Pennsylvania, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -881,7 +1954,7 @@
       "location": "Eastern Kentucky University at Kentucky, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -892,7 +1965,7 @@
       "location": "University of Oregon at Oregon, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -903,7 +1976,7 @@
       "location": "University of Oregon at Oregon, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -914,7 +1987,7 @@
       "location": "University of Oregon at Oregon, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -925,7 +1998,7 @@
       "location": "Pacific Lutheran University at Tacoma, Washington State",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -936,7 +2009,7 @@
       "location": "University of Oregon at Eugene, OR, US",
       "description": "Biomaterials search accepts materials-science doctorates; a transition from materials physics to biomedical applications would need justification.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "bioengineering",
         "biomaterials",
@@ -952,7 +2025,7 @@
       "location": "University of Texas at Austin at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -963,7 +2036,7 @@
       "location": "Utah Valley University at Utah, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -974,7 +2047,7 @@
       "location": "California State University, Fullerton at California, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -985,7 +2058,7 @@
       "location": "California State University, Fullerton at California, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -996,7 +2069,7 @@
       "location": "California State University, Fullerton at California, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1007,7 +2080,7 @@
       "location": "California State University, Fullerton at California, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1018,7 +2091,7 @@
       "location": "California State University, Fullerton at California, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1029,7 +2102,7 @@
       "location": "School of Electrcial, Computer and Energy Engineering at Tempe, Arizona (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1040,7 +2113,7 @@
       "location": "Arizona State University at Mesa, Arizona (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1051,7 +2124,7 @@
       "location": "California Lutheran University at California, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1062,7 +2135,7 @@
       "location": "Texas State University at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1073,7 +2146,7 @@
       "location": "Texas State University at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1084,7 +2157,7 @@
       "location": "University of Texas at Tyler at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1095,7 +2168,7 @@
       "location": "Winston-Salem State University at Winston-Salem, North Carolina, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1106,7 +2179,7 @@
       "location": "Mississippi State University at Mississippi State, Mississippi, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1117,7 +2190,7 @@
       "location": "Mississippi State University at Mississippi State, Mississippi, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1128,7 +2201,7 @@
       "location": "Liberty University at Lynchburg, Virginia, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1139,7 +2212,7 @@
       "location": "Wentworth Institute of Technology at Boston, Massachusetts, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1150,7 +2223,7 @@
       "location": "Wentworth Institute of Technology at Boston, Massachusetts, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1161,7 +2234,7 @@
       "location": "University of Mississippi at Oxford, Mississippi, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1172,7 +2245,7 @@
       "location": "University of Mississippi at Oxford, Mississippi, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1183,7 +2256,7 @@
       "location": "Ball State University at Muncie, Indiana, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1194,7 +2267,7 @@
       "location": "University of Missouri - Columbia at Columbia, Missouri, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1205,7 +2278,7 @@
       "location": "University of Missouri - Columbia at Columbia, Missouri, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1216,7 +2289,7 @@
       "location": "South University at Tampa, Florida, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1227,7 +2300,7 @@
       "location": "Shenandoah University at Winchester, VA, US",
       "description": "Applied-mathematics opening offers a possible computational-imaging route; proof-based teaching preparation and appointment track need confirmation.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "applied mathematics",
         "scientific computing",
@@ -1242,7 +2315,7 @@
       "location": "Shenandoah University at Winchester, Virginia, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1253,7 +2326,7 @@
       "location": "Santa Fe College at Gainesville, Florida, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1264,7 +2337,7 @@
       "location": "New York University Abu Dhabi at United Arab Emirates",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1275,7 +2348,7 @@
       "location": "Johns Hopkins University at Baltimore, Maryland, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1286,7 +2359,7 @@
       "location": "Virginia Tech at Arlington, Virginia, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1297,7 +2370,7 @@
       "location": "Virginia Tech at Blacksburg, Virginia, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1308,7 +2381,7 @@
       "location": "Southern Illinois University at Carbondale at Carbondale, Illinois, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1319,7 +2392,7 @@
       "location": "Indiana University Bloomington at Bloomington, Indiana, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1330,7 +2403,7 @@
       "location": "Louisiana State University at E. J. Ourso College of Business",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1341,7 +2414,7 @@
       "location": "North Carolina State University, Mechanical and Aerospace Engineering at Raleigh, NC, US",
       "description": "Advanced manufacturing and process monitoring offer a possible materials-characterization connection within this mechanical and aerospace search.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "advanced manufacturing",
         "multifunctional structures",
@@ -1357,7 +2430,7 @@
       "location": "Mercer University at Macon, GA, US",
       "description": "Tenure-track physics search accepts related doctorates and supports undergraduate research, offering a broad physical-science fit.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "physics",
         "materials physics",
@@ -1372,7 +2445,7 @@
       "location": "College of Central Florida at Ocala, Florida",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1383,7 +2456,7 @@
       "location": "Mercer University at School Of Engineering",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1394,7 +2467,7 @@
       "location": "Arcadia University at Glenside, Pennsylvania (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1405,7 +2478,7 @@
       "location": "Kenyon College at Gambier, Ohio (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1416,7 +2489,7 @@
       "location": "Wilberforce University at 45384, Wilberforce",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1427,7 +2500,7 @@
       "location": "Wilberforce University at 45384, Wilberforce",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1438,7 +2511,7 @@
       "location": "Princeton Theological Seminary at Princeton, New Jersey, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1449,7 +2522,7 @@
       "location": "University of North Dakota at Grand Forks, ND, US",
       "description": "Experimental physical chemistry search targets molecular and materials discovery using computational, AI, or data-driven methods.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "physical chemistry",
         "materials discovery",
@@ -1465,7 +2538,7 @@
       "location": "Texas Tech University, Environmental Toxicology and Forensics at Lubbock, Texas",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1476,7 +2549,7 @@
       "location": "Florida Polytechnic University at Lakeland, Florida, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1487,7 +2560,7 @@
       "location": "Florida Polytechnic University at Lakeland, Florida, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1498,7 +2571,7 @@
       "location": "Florida Polytechnic University at Lakeland, FL, US",
       "description": "Open-rank chemistry search accepts closely related doctorates and supports applied undergraduate research alongside general and organic chemistry teaching.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "chemistry",
         "analytical chemistry",
@@ -1513,7 +2586,7 @@
       "location": "Florida Polytechnic University at Lakeland, Florida, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1524,7 +2597,7 @@
       "location": "Florida Polytechnic University at Lakeland, FL, US",
       "description": "Open-rank engineering search accepts closely related doctorates and emphasizes manufacturing, fabrication, and materials processing.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "manufacturing engineering",
         "materials processing",
@@ -1540,7 +2613,7 @@
       "location": "Florida Polytechnic University at Lakeland, FL, US",
       "description": "Condensed-matter physics aligns with the candidate’s materials physics and quantitative characterization methods in this tenure-equivalent faculty search.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "condensed matter",
         "materials physics",
@@ -1555,7 +2628,7 @@
       "location": "Florida Polytechnic University at Lakeland, Florida, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1566,7 +2639,7 @@
       "location": "Cal Poly Pomona at California, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1577,7 +2650,7 @@
       "location": "Duke University - Department of Religious Studies at Durham, North Carolina (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1588,7 +2661,7 @@
       "location": "University of Cincinnati at Cincinnati, Ohio, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1599,7 +2672,7 @@
       "location": "University of Cincinnati at Cincinnati, Ohio, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1610,7 +2683,7 @@
       "location": "University of Virginia at Charlottesville, Virginia",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1621,7 +2694,7 @@
       "location": "University of Hawaii at Hawaii, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1632,7 +2705,7 @@
       "location": "Florida State University College of Business at Tallahassee, Florida",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1643,7 +2716,7 @@
       "location": "Ohio Northern University at Ada, Ohio (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1654,7 +2727,7 @@
       "location": "Florida State University College of Business at Tallahassee, Florida",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1665,7 +2738,7 @@
       "location": "University of Hawaii at Manoa at Hawaii, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1676,7 +2749,7 @@
       "location": "University of Hawaii at Manoa at Hawaii, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1687,7 +2760,7 @@
       "location": "SIUE at Edwardsville, Illinois (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1698,7 +2771,7 @@
       "location": "University of Southern California at Los Angeles, California (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1709,7 +2782,7 @@
       "location": "University of Virginia at Charlottesville, Virginia",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1720,7 +2793,7 @@
       "location": "Appalachian State University at North Carolina, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1731,7 +2804,7 @@
       "location": "Kennesaw State University at Georgia, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1742,7 +2815,7 @@
       "location": "Kennesaw State University at Georgia, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1753,7 +2826,7 @@
       "location": "University of Pennsylvania at Pennsylvania, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1764,7 +2837,7 @@
       "location": "University of Pennsylvania at Pennsylvania, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1775,7 +2848,7 @@
       "location": "University of Texas - Rio Grande Valley at Rio Grande Valley, TX, US",
       "description": "Tenure-track ECE search is broad, favors microelectronics, and provides materials-science and nanotechnology collaborations.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "electrical engineering",
         "microelectronics",
@@ -1791,7 +2864,7 @@
       "location": "University of Wisconsin - Milwaukee at Wisconsin, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1802,7 +2875,7 @@
       "location": "Utah Valley University at Utah, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1813,7 +2886,7 @@
       "location": "St. John at New York, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1824,7 +2897,7 @@
       "location": "Georgia Southern University at Georgia, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1835,7 +2908,7 @@
       "location": "University of Texas - Rio Grande Valley at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1846,7 +2919,7 @@
       "location": "University of Texas - Rio Grande Valley at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1857,7 +2930,7 @@
       "location": "University of Texas - Rio Grande Valley at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1868,7 +2941,7 @@
       "location": "University of Texas at Tyler at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1879,7 +2952,7 @@
       "location": "University of Texas - Rio Grande Valley at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1890,7 +2963,7 @@
       "location": "University of Texas - Rio Grande Valley at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1901,7 +2974,7 @@
       "location": "Utah Valley University at Utah, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1912,7 +2985,7 @@
       "location": "California State University, Fullerton at California, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1923,7 +2996,7 @@
       "location": "California State University, Fullerton at California, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1934,7 +3007,7 @@
       "location": "University of Washington, Department of Civil & Environmental Engineering at University of Washington, Seattle",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1945,7 +3018,7 @@
       "location": "Department of Modern Languages and Literatures at University of Miami, Miami",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1956,7 +3029,7 @@
       "location": "University of Rhode Island at Rhode Island, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1967,7 +3040,7 @@
       "location": "University of Oregon at Oregon, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1978,7 +3051,7 @@
       "location": "University of Houston at Houston, Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1989,7 +3062,7 @@
       "location": "Liberty University at Lynchburg, Virginia, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -2000,7 +3073,7 @@
       "location": "Morgan State University at Baltimore, Maryland, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -2011,7 +3084,7 @@
       "location": "SUNY Oneonta at Oneonta, New York, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -2022,7 +3095,7 @@
       "location": "University of Mississippi at Oxford, Mississippi, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -2033,7 +3106,7 @@
       "location": "Butler University at Indianapolis, Indiana, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -2044,7 +3117,7 @@
       "location": "San Jose State University at San Jose, California, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -2055,7 +3128,7 @@
       "location": "University of Georgia at Athens, Georgia, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -2066,7 +3139,7 @@
       "location": "University of Georgia at Athens, Georgia, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -2077,7 +3150,7 @@
       "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -2088,7 +3161,7 @@
       "location": "George Mason University at Fairfax, Virginia, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -2099,7 +3172,7 @@
       "location": "South Dakota State University at Brookings, South Dakota, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -2110,265 +3183,7 @@
       "location": "Coastal Carolina University at Conway, South Carolina, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058840",
-      "title": "Teaching Faculty I",
-      "url": "https://jobs.chronicle.com/job/38058840",
-      "date": "2026-11-01",
-      "location": "University of Wisconsin-Madison at Madison, Wisconsin, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38059131",
-      "title": "Assistant Professor - Teaching, Learning, & Communication Science",
-      "url": "https://jobs.chronicle.com/job/38059131",
-      "date": "2026-10-31",
-      "location": "The College of New Jersey at Ewing Township, New Jersey, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058815",
-      "title": "Professional Assistant Professor - Department of Curriculum and Instruction, College of Education",
-      "url": "https://jobs.chronicle.com/job/38058815",
-      "date": "2026-10-30",
-      "location": "Tarleton State University at Fort Worth, Texas, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058826",
-      "title": "Assistant Professor of Crime Studies (Corrections and Reentry)",
-      "url": "https://jobs.chronicle.com/job/38058826",
-      "date": "2026-10-30",
-      "location": "SUNY Oneonta at Oneonta, New York, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058843",
-      "title": "Assistant/Associate/Full Professor in Electrical & Computer Engineering - Physical AI",
-      "url": "https://jobs.chronicle.com/job/38058843",
-      "date": "2026-10-30",
-      "location": "University of Wisconsin-Madison at Madison, Wisconsin, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058844",
-      "title": "Assistant or Associate Professor of Environmental Health Science - RISE EARTH",
-      "url": "https://jobs.chronicle.com/job/38058844",
-      "date": "2026-10-30",
-      "location": "University of Wisconsin-Madison at Madison, Wisconsin, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058849",
-      "title": "Open Rank Professor of AI and Games In Education",
-      "url": "https://jobs.chronicle.com/job/38058849",
-      "date": "2026-10-30",
-      "location": "University of Wisconsin-Madison at Madison, Wisconsin, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058873",
-      "title": "Assistant Professor, Electrical Engineering - Embedded systems",
-      "url": "https://jobs.chronicle.com/job/38058873",
-      "date": "2026-10-30",
-      "location": "San Jose State University at San Jose, California, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058877",
-      "title": "Assistant Professor of Medicine (NTT)",
-      "url": "https://jobs.chronicle.com/job/38058877",
-      "date": "2026-10-30",
-      "location": "University of Missouri - Columbia at Columbia, Missouri, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058927",
-      "title": "Open Rank: Laboratory OR Lead, Laboratory Research Specialist (Sign-On Bonus)",
-      "url": "https://jobs.chronicle.com/job/38058927",
-      "date": "2026-10-30",
-      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058930",
-      "title": "OPEN RANK: SPA Contracts Administrator I or II - ORD Sponsored Programs Admin",
-      "url": "https://jobs.chronicle.com/job/38058930",
-      "date": "2026-10-30",
-      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058946",
-      "title": "Professor - SOM Radiation Oncology Physics",
-      "url": "https://jobs.chronicle.com/job/38058946",
-      "date": "2026-10-30",
-      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058952",
-      "title": "Open Rank Clinical Assistant or Associate Professor - SOD Orthodontics",
-      "url": "https://jobs.chronicle.com/job/38058952",
-      "date": "2026-10-30",
-      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058954",
-      "title": "Open Rank Assistant Professor or Associate Professor - SOD Microbial Pathogenesis",
-      "url": "https://jobs.chronicle.com/job/38058954",
-      "date": "2026-10-30",
-      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38059110",
-      "title": "COA Assistant Professor, Tenure-Track",
-      "url": "https://jobs.chronicle.com/job/38059110",
-      "date": "2026-10-30",
-      "location": "Florida Institute of Technology at Melbourne, Florida, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38059112",
-      "title": "OEMS Assistant Professor in Ocean Engineering (tenure-track)",
-      "url": "https://jobs.chronicle.com/job/38059112",
-      "date": "2026-10-30",
-      "location": "Florida Institute of Technology at Melbourne, FL, US",
-      "description": "The tenure-track ocean engineering role explicitly seeks marine materials research, including composites and metals in marine environments.",
-      "fitScore": 3,
-      "isNew": true,
-      "keywords": [
-        "marine materials",
-        "composites",
-        "metals",
-        "ocean engineering"
-      ]
-    },
-    {
-      "id": "jobs-38059230",
-      "title": "Assistant or Associate Professor of Electrical Engineering, Department of Engineering",
-      "url": "https://jobs.chronicle.com/job/38059230",
-      "date": "2026-10-30",
-      "location": "Central Connecticut State University at Britain, Connecticut, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38059239",
-      "title": "Open Rank Project/Program Manager",
-      "url": "https://jobs.chronicle.com/job/38059239",
-      "date": "2026-10-30",
-      "location": "Virginia Tech at Blacksburg, Virginia, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38059240",
-      "title": "Faculty Position Clinical Research in Cardiovascular Science - Virginia Tech",
-      "url": "https://jobs.chronicle.com/job/38059240",
-      "date": "2026-10-30",
-      "location": "Virginia Tech at Roanoke, Virginia, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38059241",
-      "title": "Tenure- Track Assistant Professor in Cardiovascular Science- Virginia Tech",
-      "url": "https://jobs.chronicle.com/job/38059241",
-      "date": "2026-10-30",
-      "location": "Virginia Tech at Roanoke, Virginia, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058966",
-      "title": "Open Rank - Assistant/ Associate/ Professor -SOM Kahlert Institute",
-      "url": "https://jobs.chronicle.com/job/38058966",
-      "date": "2026-10-29",
-      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38058967",
-      "title": "Faculty: Cardiac Surgeon",
-      "url": "https://jobs.chronicle.com/job/38058967",
-      "date": "2026-10-29",
-      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38006303",
-      "title": "Assistant Professor",
-      "url": "https://jobs.chronicle.com/job/38006303",
-      "date": "2026-06-24",
-      "location": "Coppin State University at Baltimore, Maryland, United States",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -2410,6 +3225,17 @@
       "url": "https://jobs.chronicle.com/job/38058411",
       "date": "2026-11-02",
       "location": "Old Dominion University at Norfolk, Virginia, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058840",
+      "title": "Teaching Faculty I",
+      "url": "https://jobs.chronicle.com/job/38058840",
+      "date": "2026-11-01",
+      "location": "University of Wisconsin-Madison at Madison, Wisconsin, United States",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2508,6 +3334,17 @@
       "keywords": []
     },
     {
+      "id": "jobs-38059131",
+      "title": "Assistant Professor - Teaching, Learning, & Communication Science",
+      "url": "https://jobs.chronicle.com/job/38059131",
+      "date": "2026-10-31",
+      "location": "The College of New Jersey at Ewing Township, New Jersey, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "jobs-38058656",
       "title": "Assistant Professor of History - Tenure Track",
       "url": "https://jobs.chronicle.com/job/38058656",
@@ -2579,6 +3416,209 @@
       "url": "https://jobs.chronicle.com/job/38058755",
       "date": "2026-10-31",
       "location": "University of Medicine and Health Sciences at Saint Kitts and Nevis",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058815",
+      "title": "Professional Assistant Professor - Department of Curriculum and Instruction, College of Education",
+      "url": "https://jobs.chronicle.com/job/38058815",
+      "date": "2026-10-30",
+      "location": "Tarleton State University at Fort Worth, Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058826",
+      "title": "Assistant Professor of Crime Studies (Corrections and Reentry)",
+      "url": "https://jobs.chronicle.com/job/38058826",
+      "date": "2026-10-30",
+      "location": "SUNY Oneonta at Oneonta, New York, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058843",
+      "title": "Assistant/Associate/Full Professor in Electrical & Computer Engineering - Physical AI",
+      "url": "https://jobs.chronicle.com/job/38058843",
+      "date": "2026-10-30",
+      "location": "University of Wisconsin-Madison at Madison, Wisconsin, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058844",
+      "title": "Assistant or Associate Professor of Environmental Health Science - RISE EARTH",
+      "url": "https://jobs.chronicle.com/job/38058844",
+      "date": "2026-10-30",
+      "location": "University of Wisconsin-Madison at Madison, Wisconsin, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058849",
+      "title": "Open Rank Professor of AI and Games In Education",
+      "url": "https://jobs.chronicle.com/job/38058849",
+      "date": "2026-10-30",
+      "location": "University of Wisconsin-Madison at Madison, Wisconsin, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058873",
+      "title": "Assistant Professor, Electrical Engineering - Embedded systems",
+      "url": "https://jobs.chronicle.com/job/38058873",
+      "date": "2026-10-30",
+      "location": "San Jose State University at San Jose, California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058877",
+      "title": "Assistant Professor of Medicine (NTT)",
+      "url": "https://jobs.chronicle.com/job/38058877",
+      "date": "2026-10-30",
+      "location": "University of Missouri - Columbia at Columbia, Missouri, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058927",
+      "title": "Open Rank: Laboratory OR Lead, Laboratory Research Specialist (Sign-On Bonus)",
+      "url": "https://jobs.chronicle.com/job/38058927",
+      "date": "2026-10-30",
+      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058930",
+      "title": "OPEN RANK: SPA Contracts Administrator I or II - ORD Sponsored Programs Admin",
+      "url": "https://jobs.chronicle.com/job/38058930",
+      "date": "2026-10-30",
+      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058946",
+      "title": "Professor - SOM Radiation Oncology Physics",
+      "url": "https://jobs.chronicle.com/job/38058946",
+      "date": "2026-10-30",
+      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058952",
+      "title": "Open Rank Clinical Assistant or Associate Professor - SOD Orthodontics",
+      "url": "https://jobs.chronicle.com/job/38058952",
+      "date": "2026-10-30",
+      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058954",
+      "title": "Open Rank Assistant Professor or Associate Professor - SOD Microbial Pathogenesis",
+      "url": "https://jobs.chronicle.com/job/38058954",
+      "date": "2026-10-30",
+      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38059110",
+      "title": "COA Assistant Professor, Tenure-Track",
+      "url": "https://jobs.chronicle.com/job/38059110",
+      "date": "2026-10-30",
+      "location": "Florida Institute of Technology at Melbourne, Florida, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38059112",
+      "title": "OEMS Assistant Professor in Ocean Engineering (tenure-track)",
+      "url": "https://jobs.chronicle.com/job/38059112",
+      "date": "2026-10-30",
+      "location": "Florida Institute of Technology at Melbourne, FL, US",
+      "description": "The tenure-track ocean engineering role explicitly seeks marine materials research, including composites and metals in marine environments.",
+      "fitScore": 3,
+      "isNew": false,
+      "keywords": [
+        "marine materials",
+        "composites",
+        "metals",
+        "ocean engineering"
+      ]
+    },
+    {
+      "id": "jobs-38059230",
+      "title": "Assistant or Associate Professor of Electrical Engineering, Department of Engineering",
+      "url": "https://jobs.chronicle.com/job/38059230",
+      "date": "2026-10-30",
+      "location": "Central Connecticut State University at Britain, Connecticut, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38059239",
+      "title": "Open Rank Project/Program Manager",
+      "url": "https://jobs.chronicle.com/job/38059239",
+      "date": "2026-10-30",
+      "location": "Virginia Tech at Blacksburg, Virginia, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38059240",
+      "title": "Faculty Position Clinical Research in Cardiovascular Science - Virginia Tech",
+      "url": "https://jobs.chronicle.com/job/38059240",
+      "date": "2026-10-30",
+      "location": "Virginia Tech at Roanoke, Virginia, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38059241",
+      "title": "Tenure- Track Assistant Professor in Cardiovascular Science- Virginia Tech",
+      "url": "https://jobs.chronicle.com/job/38059241",
+      "date": "2026-10-30",
+      "location": "Virginia Tech at Roanoke, Virginia, United States",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -3865,6 +4905,28 @@
       "url": "https://jobs.chronicle.com/job/38058721",
       "date": "2026-10-30",
       "location": "University of Oregon at Oregon, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058966",
+      "title": "Open Rank - Assistant/ Associate/ Professor -SOM Kahlert Institute",
+      "url": "https://jobs.chronicle.com/job/38058966",
+      "date": "2026-10-29",
+      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38058967",
+      "title": "Faculty: Cardiac Surgeon",
+      "url": "https://jobs.chronicle.com/job/38058967",
+      "date": "2026-10-29",
+      "location": "University of Maryland, Baltimore at Baltimore, Maryland, United States",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -81461,6 +82523,17 @@
       ],
       "id": "jobs-38006452",
       "isNew": false
+    },
+    {
+      "id": "jobs-38006303",
+      "title": "Assistant Professor",
+      "url": "https://jobs.chronicle.com/job/38006303",
+      "date": "2026-06-24",
+      "location": "Coppin State University at Baltimore, Maryland, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
     },
     {
       "title": "Tenure-Track Assistant Professor of Mechanical Engineering",

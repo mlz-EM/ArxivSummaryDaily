@@ -1,16 +1,340 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gpt-6-luna",
-    "generatedAt": "2026-11-05T08:53:36-05:00",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-11-06T09:47:37-05:00",
     "source": "Inside Higher Ed Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from Inside Higher Ed Careers.",
       "The initial feed includes current sitemap jobs posted on or after June 1, 2026; daily runs summarize only newly seen listings."
-    ],
-    "reasoningEffort": "medium"
+    ]
   },
   "items": [
+    {
+      "id": "careers-3571388",
+      "title": "Chair, Department of Audiology",
+      "url": "https://careers.insidehighered.com/job/3571388",
+      "date": "2026-11-06",
+      "location": "San José State University at San Jose, California",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571136",
+      "title": "Assistant Professor - Quantum Experimentalist",
+      "url": "https://careers.insidehighered.com/job/3571136",
+      "date": "2026-11-05",
+      "location": "University of Massachusetts Amherst at Amherst, MA, US",
+      "description": "Tenure-track experimental physics position focused on quantum materials, strongly correlated matter, and quantum many-body phenomena.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "quantum materials",
+        "experimental physics",
+        "quantum matter",
+        "superconductivity",
+        "condensed matter physics"
+      ]
+    },
+    {
+      "id": "careers-3571071",
+      "title": "Assistant Professor of Economics and Computational Social Science, Tenure-Track",
+      "url": "https://careers.insidehighered.com/job/3571071",
+      "date": "2026-11-05",
+      "location": "New York University Abu Dhabi at Abu Dhabi, United Arab Emirates",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571141",
+      "title": "Clinical Assistant Professor, Child Life & Family-Centered Care",
+      "url": "https://careers.insidehighered.com/job/3571141",
+      "date": "2026-11-05",
+      "location": "Boston University at Boston",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571147",
+      "title": "Assistant Professor, Chemical Education, East Carolina University",
+      "url": "https://careers.insidehighered.com/job/3571147",
+      "date": "2026-11-05",
+      "location": "East Carolina University at Greenville",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571174",
+      "title": "Assistant Professor Of Statistics",
+      "url": "https://careers.insidehighered.com/job/3571174",
+      "date": "2026-11-05",
+      "location": "University of Tampa at Tampa",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571180",
+      "title": "Assistant Professor Academic Clinician – Neurohospitalist",
+      "url": "https://careers.insidehighered.com/job/3571180",
+      "date": "2026-11-05",
+      "location": "University of Pennsylvania at Philadelphia",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571182",
+      "title": "Associate Professor - Neuromuscular Medicine Neurologist – CE Track",
+      "url": "https://careers.insidehighered.com/job/3571182",
+      "date": "2026-11-05",
+      "location": "University of Pennsylvania at Philadelphia",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571194",
+      "title": "Teaching Assistant Professor of Psychological and Brain Sciences",
+      "url": "https://careers.insidehighered.com/job/3571194",
+      "date": "2026-11-05",
+      "location": "The George Washington University at Washington D.C.",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571250",
+      "title": "Assistant Professor",
+      "url": "https://careers.insidehighered.com/job/3571250",
+      "date": "2026-11-05",
+      "location": "The University of Nebraska–Lincoln at Lincoln, NE",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571269",
+      "title": "Open Rank Thoracic Surgeon",
+      "url": "https://careers.insidehighered.com/job/3571269",
+      "date": "2026-11-05",
+      "location": "University of Virginia at Charlottesville, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571273",
+      "title": "Faculty, Construction Management",
+      "url": "https://careers.insidehighered.com/job/3571273",
+      "date": "2026-11-05",
+      "location": "Joliet Junior College at MC-Main Campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571277",
+      "title": "Clinical Assistant Professor",
+      "url": "https://careers.insidehighered.com/job/3571277",
+      "date": "2026-11-05",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571279",
+      "title": "Chair, Department of Emergency Medicine",
+      "url": "https://careers.insidehighered.com/job/3571279",
+      "date": "2026-11-05",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571283",
+      "title": "Open Rank",
+      "url": "https://careers.insidehighered.com/job/3571283",
+      "date": "2026-11-05",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571284",
+      "title": "Open Rank",
+      "url": "https://careers.insidehighered.com/job/3571284",
+      "date": "2026-11-05",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571285",
+      "title": "Open Rank Physiatrist",
+      "url": "https://careers.insidehighered.com/job/3571285",
+      "date": "2026-11-05",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571289",
+      "title": "Open Rank",
+      "url": "https://careers.insidehighered.com/job/3571289",
+      "date": "2026-11-05",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571295",
+      "title": "Assistant Professor",
+      "url": "https://careers.insidehighered.com/job/3571295",
+      "date": "2026-11-05",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571299",
+      "title": "Faculty Executive Coordinator",
+      "url": "https://careers.insidehighered.com/job/3571299",
+      "date": "2026-11-05",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571301",
+      "title": "Senior Research Associate for Faculty Analysis",
+      "url": "https://careers.insidehighered.com/job/3571301",
+      "date": "2026-11-05",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571303",
+      "title": "Open Rank Fixed-Term Faculty Interventional Pulmonary",
+      "url": "https://careers.insidehighered.com/job/3571303",
+      "date": "2026-11-05",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571304",
+      "title": "Open Rank",
+      "url": "https://careers.insidehighered.com/job/3571304",
+      "date": "2026-11-05",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571381",
+      "title": "Research Faculty I, 12 Month Salaried - (NHMFL)",
+      "url": "https://careers.insidehighered.com/job/3571381",
+      "date": "2026-11-05",
+      "location": "Florida State University at Tallahassee, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571383",
+      "title": "Clinical Assistant Professor",
+      "url": "https://careers.insidehighered.com/job/3571383",
+      "date": "2026-11-05",
+      "location": "University of North Florida at Jacksonville, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571385",
+      "title": "Assistant Professor - Social Media",
+      "url": "https://careers.insidehighered.com/job/3571385",
+      "date": "2026-11-05",
+      "location": "University of North Florida at Jacksonville, FL",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571427",
+      "title": "Assistant or Associate Professor of Pharmaceutical Sciences (AI Focus)",
+      "url": "https://careers.insidehighered.com/job/3571427",
+      "date": "2026-11-05",
+      "location": "The Ohio State University at Columbus Campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571435",
+      "title": "Professional Practice Assistant Professor",
+      "url": "https://careers.insidehighered.com/job/3571435",
+      "date": "2026-11-05",
+      "location": "The Ohio State University at Columbus Campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3571437",
+      "title": "Retiree-Faculty Emeritus PDE",
+      "url": "https://careers.insidehighered.com/job/3571437",
+      "date": "2026-11-05",
+      "location": "The Ohio State University at Columbus Campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
     {
       "id": "careers-3570981",
       "title": "Electronic Resources Librarian and Assistant Professor",
@@ -19,7 +343,7 @@
       "location": "Georgia Southern University at Statesboro",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -30,7 +354,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -41,7 +365,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -52,7 +376,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -63,7 +387,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -74,7 +398,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -85,7 +409,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -96,7 +420,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -107,7 +431,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -118,7 +442,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -129,7 +453,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -140,7 +464,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -151,7 +475,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -162,7 +486,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -173,7 +497,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -184,7 +508,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -195,7 +519,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -206,7 +530,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -217,7 +541,7 @@
       "location": "University of Toronto at St. George (Downtown Toronto)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -228,7 +552,7 @@
       "location": "West Virginia School of Osteopathic Medicine at Lewisburg, WV",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -239,7 +563,7 @@
       "location": "Lingnan University at Tuen Mun, Hong Kong",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -250,7 +574,7 @@
       "location": "Lingnan University at Tuen Mun, Hong Kong",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -261,7 +585,7 @@
       "location": "Lingnan University at Tuen Mun, Hong Kong",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -272,7 +596,7 @@
       "location": "Florida State University at Tallahassee, FL",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -283,7 +607,7 @@
       "location": "Florida State University at Tallahassee, FL",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -294,7 +618,7 @@
       "location": "Lehigh University at Bethlehem, Pennsylvania",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -305,7 +629,7 @@
       "location": "University of Pennsylvania at Philadelphia, PA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -316,7 +640,7 @@
       "location": "University of Pennsylvania at Philadelphia",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -327,7 +651,7 @@
       "location": "Kennesaw State University at Kennesaw",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -338,7 +662,7 @@
       "location": "San José State University at San José",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -349,7 +673,7 @@
       "location": "Texas Tech University Health Sciences Center at Lubbock",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -360,7 +684,7 @@
       "location": "University of Massachusetts Dartmouth at North Dartmouth, MA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -371,7 +695,7 @@
       "location": "University of Massachusetts Dartmouth at North Dartmouth, MA, US",
       "description": "Mechanical-engineering search includes advanced materials, manufacturing analytics, sensing, and AI-enabled process monitoring aligned with the candidate’s methods.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "advanced materials",
         "manufacturing analytics",
@@ -387,7 +711,7 @@
       "location": "University of Massachusetts Dartmouth at North Dartmouth, MA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -398,7 +722,7 @@
       "location": "Howard University at Downing Hall (College of Engineering)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -409,7 +733,7 @@
       "location": "California Lutheran University at Thousand Oaks",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -420,7 +744,7 @@
       "location": "University of Connecticut at Storrs, CT, US",
       "description": "Quantum-science chemistry search prioritizes discovery, characterization, and integration of molecules or materials for quantum technologies.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "quantum science",
         "quantum materials",
@@ -436,7 +760,7 @@
       "location": "Contra Costa Community College District at Martinez",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -447,7 +771,7 @@
       "location": "Contra Costa Community College District at Martinez",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -458,7 +782,7 @@
       "location": "Contra Costa Community College District at Martinez",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -469,7 +793,7 @@
       "location": "Contra Costa Community College District at Martinez",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -480,7 +804,7 @@
       "location": "Contra Costa Community College District at Martinez",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -491,7 +815,7 @@
       "location": "Contra Costa Community College District at Martinez",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -502,7 +826,7 @@
       "location": "Contra Costa Community College District at Martinez",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -513,7 +837,7 @@
       "location": "Kennesaw State University at Marietta, Georgia",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -524,7 +848,7 @@
       "location": "Santa Fe College at Kirkpatrick Center - Gainesville, FL",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -535,7 +859,7 @@
       "location": "Lamar University at Beaumont, TX, TX",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -546,7 +870,7 @@
       "location": "Texas State University at San Marcos, Other - Kyle Texas, Seguin Texas",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -557,7 +881,7 @@
       "location": "Texas State University at Other - San Antonio, San Marcos, Austin, Other - At partner school district campuses in the Central Texas area",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -568,7 +892,7 @@
       "location": "Texas State University at San Marcos",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -579,7 +903,7 @@
       "location": "Texas State University at Round Rock",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -590,7 +914,7 @@
       "location": "University of South Carolina at Columbia",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {

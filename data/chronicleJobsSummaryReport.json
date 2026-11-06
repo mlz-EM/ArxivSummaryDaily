@@ -1,22 +1,27 @@
 {
-  "generatedAt": "2026-11-05T08:52:59-05:00",
-  "model": "gpt-6-luna",
-  "runId": "local",
+  "generatedAt": "2026-11-06T09:47:00-05:00",
+  "model": "gemini-3.6-flash",
+  "runId": "42234661639",
+  "summaryPasses": 1,
   "modelsUsed": [
-    "gpt-6-luna"
+    "gemini-3.6-flash"
   ],
-  "modelFallbacks": [],
-  "inputJobs": 209,
+  "modelFallbacks": [
+    {
+      "model": "gemini-3.8-flash",
+      "reason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "nextModel": "gemini-3.6-flash"
+    }
+  ],
+  "inputJobs": 88,
   "alreadyProcessed": 0,
   "prefiltered": 0,
   "prefilterReasons": {},
-  "accepted": 13,
-  "rejected": 196,
+  "accepted": 20,
+  "rejected": 68,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
-  "prefilterExamples": [],
-  "reasoningEffort": "medium",
-  "recoverySourceRunId": "42030176097"
+  "prefilterExamples": []
 }
