@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T09:44:38-05:00",
+  "generatedAt": "2026-11-07T06:58:23-05:00",
   "model": "gemini-3.6-flash",
-  "runId": "42234661639",
+  "runId": "42369469390",
   "summaryPasses": 1,
   "modelsUsed": [
     "gemini-3.6-flash"
@@ -13,48 +13,36 @@
       "nextModel": "gemini-3.6-flash"
     }
   ],
-  "inputJobs": 21,
+  "inputJobs": 11,
   "alreadyProcessed": 0,
-  "prefiltered": 7,
+  "prefiltered": 4,
   "prefilterReasons": {
-    "humanities_or_social_science": 3,
-    "business_or_law": 3,
+    "life_sciences": 2,
+    "humanities_or_social_science": 1,
     "clinical_or_health": 1
   },
-  "accepted": 1,
-  "rejected": 13,
+  "accepted": 0,
+  "rejected": 7,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
   "prefilterExamples": [
     {
-      "url": "https://apply.interfolio.com/197041",
+      "url": "https://apply.interfolio.com/196917",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://apply.interfolio.com/197148",
       "reason": "humanities_or_social_science"
     },
     {
-      "url": "https://apply.interfolio.com/197052",
-      "reason": "business_or_law"
-    },
-    {
-      "url": "https://apply.interfolio.com/197064",
-      "reason": "business_or_law"
-    },
-    {
-      "url": "https://apply.interfolio.com/197096",
+      "url": "https://apply.interfolio.com/197162",
       "reason": "clinical_or_health"
     },
     {
-      "url": "https://apply.interfolio.com/197125",
-      "reason": "humanities_or_social_science"
-    },
-    {
-      "url": "https://apply.interfolio.com/197126",
-      "reason": "humanities_or_social_science"
-    },
-    {
-      "url": "https://apply.interfolio.com/197131",
-      "reason": "business_or_law"
+      "url": "https://apply.interfolio.com/197194",
+      "reason": "life_sciences"
     }
   ]
 }

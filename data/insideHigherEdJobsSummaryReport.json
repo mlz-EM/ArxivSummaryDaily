@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T09:47:37-05:00",
+  "generatedAt": "2026-11-07T06:59:24-05:00",
   "model": "gemini-3.6-flash",
-  "runId": "42234661639",
+  "runId": "42369469390",
   "summaryPasses": 1,
   "modelsUsed": [
     "gemini-3.6-flash"
@@ -13,11 +13,11 @@
       "nextModel": "gemini-3.6-flash"
     }
   ],
-  "inputJobs": 29,
+  "inputJobs": 33,
   "alreadyProcessed": 0,
   "prefiltered": 0,
   "prefilterReasons": {},
-  "accepted": 1,
+  "accepted": 5,
   "rejected": 28,
   "unsummarized": 0,
   "complete": true,
