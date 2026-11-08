@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.6-flash",
-    "generatedAt": "2026-11-07T06:58:23-05:00",
+    "model": "gemini-3.8-flash",
+    "generatedAt": "2026-11-08T07:09:17-05:00",
     "source": "Interfolio Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from public Interfolio job pages.",
@@ -10,127 +10,6 @@
     ]
   },
   "items": [
-    {
-      "id": "apply-197060",
-      "title": "Faculty Fellow, Department of Finance and Risk Engineering",
-      "url": "https://apply.interfolio.com/197060",
-      "date": "2026-11-09",
-      "location": "New York University: Finance & Risk Engineering at Brooklyn, NY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-197174",
-      "title": "Associate Professor or Professor at CUMC - Division Chief, Stroke",
-      "url": "https://apply.interfolio.com/197174",
-      "date": "2026-11-07",
-      "location": "Columbia University in the City of New York: Neurology at 02",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196917",
-      "title": "Acting Assistant Professor | Psychologist | Fred Hutch Cancer Center",
-      "url": "https://apply.interfolio.com/196917",
-      "date": "2026-11-06",
-      "location": "University of Washington: Psychiatry and Behavioral Sciences at Seattle, WA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-197148",
-      "title": "Assistant Professor of Architecture - Architectural History and Theory and Design",
-      "url": "https://apply.interfolio.com/197148",
-      "date": "2026-11-06",
-      "location": "Clemson University: School of Architecture at LEE III(001279) BLDG001279 FL01 RM113",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-197162",
-      "title": "Pediatric Faculty, Palliative Care",
-      "url": "https://apply.interfolio.com/197162",
-      "date": "2026-11-06",
-      "location": "Vanderbilt University School of Medicine: Division of Pediatric Hospital Medicine at Nashville, TN",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-197194",
-      "title": "Assistant Professor (Full-time, Tenure Track) - Biological Sciences",
-      "url": "https://apply.interfolio.com/197194",
-      "date": "2026-11-06",
-      "location": "Duquesne University: School of Science and Engineering at Duquesne University, Pittsburgh, PA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196788",
-      "title": "Chair, Department of Pathology",
-      "url": "https://apply.interfolio.com/196788",
-      "date": "2026-11-06",
-      "location": "University of Virginia: Pathology at Charlottesville, VA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-197170",
-      "title": "Faculty Diagnostic Radiologist, Community",
-      "url": "https://apply.interfolio.com/197170",
-      "date": "2026-11-06",
-      "location": "Vanderbilt University School of Medicine: Department of Radiology and Radiological Sciences at Remote",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196745",
-      "title": "Assistant/Associate Director, Center for Teaching Excellence (Assistant/Associate Professor)",
-      "url": "https://apply.interfolio.com/196745",
-      "date": "2026-11-04",
-      "location": "University of Virginia: Center for Teaching Excellence at Charlottesville, VA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196976",
-      "title": "Clinical Assistant Professor",
-      "url": "https://apply.interfolio.com/196976",
-      "date": "2026-11-04",
-      "location": "New York University: Expository Writing at New York, NY",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-196880",
-      "title": "Full and Associate Professor Positions in Computer Science",
-      "url": "https://apply.interfolio.com/196880",
-      "date": "2026-11-03",
-      "location": "Rice University: Computer Science at Houston, Texas",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
     {
       "id": "apply-196758",
       "title": "Clinical Coordinator, Assistant/Associate Clinical-Track Professor, Flint Physician Assistant Department, College of Health Sciences (Hybrid)",
@@ -148,6 +27,17 @@
       "url": "https://apply.interfolio.com/195953",
       "date": "2026-11-20",
       "location": "University of Michigan-Flint: School of Management at UM-Flint",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-197060",
+      "title": "Faculty Fellow, Department of Finance and Risk Engineering",
+      "url": "https://apply.interfolio.com/197060",
+      "date": "2026-11-09",
+      "location": "New York University: Finance & Risk Engineering at Brooklyn, NY",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -208,6 +98,83 @@
       "url": "https://apply.interfolio.com/195374",
       "date": "2026-11-09",
       "location": "University of Michigan-Flint: College of Arts, Sciences and Education at UM-Flint",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-197174",
+      "title": "Associate Professor or Professor at CUMC - Division Chief, Stroke",
+      "url": "https://apply.interfolio.com/197174",
+      "date": "2026-11-07",
+      "location": "Columbia University in the City of New York: Neurology at 02",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196917",
+      "title": "Acting Assistant Professor | Psychologist | Fred Hutch Cancer Center",
+      "url": "https://apply.interfolio.com/196917",
+      "date": "2026-11-06",
+      "location": "University of Washington: Psychiatry and Behavioral Sciences at Seattle, WA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-197148",
+      "title": "Assistant Professor of Architecture - Architectural History and Theory and Design",
+      "url": "https://apply.interfolio.com/197148",
+      "date": "2026-11-06",
+      "location": "Clemson University: School of Architecture at LEE III(001279) BLDG001279 FL01 RM113",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-197162",
+      "title": "Pediatric Faculty, Palliative Care",
+      "url": "https://apply.interfolio.com/197162",
+      "date": "2026-11-06",
+      "location": "Vanderbilt University School of Medicine: Division of Pediatric Hospital Medicine at Nashville, TN",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-197194",
+      "title": "Assistant Professor (Full-time, Tenure Track) - Biological Sciences",
+      "url": "https://apply.interfolio.com/197194",
+      "date": "2026-11-06",
+      "location": "Duquesne University: School of Science and Engineering at Duquesne University, Pittsburgh, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196788",
+      "title": "Chair, Department of Pathology",
+      "url": "https://apply.interfolio.com/196788",
+      "date": "2026-11-06",
+      "location": "University of Virginia: Pathology at Charlottesville, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-197170",
+      "title": "Faculty Diagnostic Radiologist, Community",
+      "url": "https://apply.interfolio.com/197170",
+      "date": "2026-11-06",
+      "location": "Vanderbilt University School of Medicine: Department of Radiology and Radiological Sciences at Remote",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -461,6 +428,28 @@
       "keywords": []
     },
     {
+      "id": "apply-196745",
+      "title": "Assistant/Associate Director, Center for Teaching Excellence (Assistant/Associate Professor)",
+      "url": "https://apply.interfolio.com/196745",
+      "date": "2026-11-04",
+      "location": "University of Virginia: Center for Teaching Excellence at Charlottesville, VA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196976",
+      "title": "Clinical Assistant Professor",
+      "url": "https://apply.interfolio.com/196976",
+      "date": "2026-11-04",
+      "location": "New York University: Expository Writing at New York, NY",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "apply-196927",
       "title": "Professor of Emergency Medicine (RFP-2444)",
       "url": "https://apply.interfolio.com/196927",
@@ -559,6 +548,17 @@
       "url": "https://apply.interfolio.com/196920",
       "date": "2026-11-04",
       "location": "Frankfurt School of Finance & Management: Finance Department at Frankfurt am Main",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196880",
+      "title": "Full and Associate Professor Positions in Computer Science",
+      "url": "https://apply.interfolio.com/196880",
+      "date": "2026-11-03",
+      "location": "Rice University: Computer Science at Houston, Texas",
       "description": "",
       "fitScore": 0,
       "isNew": false,

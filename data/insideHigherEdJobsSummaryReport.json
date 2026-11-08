@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T06:59:24-05:00",
+  "generatedAt": "2026-11-08T07:13:49-05:00",
   "model": "gemini-3.6-flash",
-  "runId": "42369469390",
+  "runId": "42477979243",
   "summaryPasses": 1,
   "modelsUsed": [
     "gemini-3.6-flash"
@@ -9,16 +9,16 @@
   "modelFallbacks": [
     {
       "model": "gemini-3.8-flash",
-      "reason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "reason": "gemini-3.8-flash network request failed; cooling down before retrying unresolved work.",
       "nextModel": "gemini-3.6-flash"
     }
   ],
-  "inputJobs": 33,
+  "inputJobs": 31,
   "alreadyProcessed": 0,
   "prefiltered": 0,
   "prefilterReasons": {},
-  "accepted": 5,
-  "rejected": 28,
+  "accepted": 1,
+  "rejected": 30,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",

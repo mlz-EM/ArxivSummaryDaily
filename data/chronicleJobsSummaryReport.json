@@ -1,16 +1,24 @@
 {
-  "generatedAt": "2026-11-07T06:58:23-05:00",
-  "model": "gemini-3.8-flash",
-  "runId": "42369469390",
+  "generatedAt": "2026-11-08T07:13:16-05:00",
+  "model": "gemini-3.6-flash",
+  "runId": "42477979243",
   "summaryPasses": 1,
-  "modelsUsed": [],
-  "modelFallbacks": [],
-  "inputJobs": 0,
+  "modelsUsed": [
+    "gemini-3.6-flash"
+  ],
+  "modelFallbacks": [
+    {
+      "model": "gemini-3.8-flash",
+      "reason": "gemini-3.8-flash network request failed; cooling down before retrying unresolved work.",
+      "nextModel": "gemini-3.6-flash"
+    }
+  ],
+  "inputJobs": 45,
   "alreadyProcessed": 0,
   "prefiltered": 0,
   "prefilterReasons": {},
-  "accepted": 0,
-  "rejected": 0,
+  "accepted": 3,
+  "rejected": 42,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",

@@ -1,94 +1,35 @@
 {
-  "generatedAt": "2026-11-07T06:58:11-05:00",
-  "model": "gemini-3.6-flash",
-  "runId": "42369469390",
+  "generatedAt": "2026-11-08T07:09:17-05:00",
+  "model": "gemini-3.8-flash",
+  "runId": "42477979243",
   "summaryPasses": 1,
-  "modelsUsed": [
-    "gemini-3.6-flash"
-  ],
-  "modelFallbacks": [
-    {
-      "model": "gemini-3.8-flash",
-      "reason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-      "nextModel": "gemini-3.6-flash"
-    }
-  ],
-  "inputJobs": 200,
-  "alreadyProcessed": 176,
-  "prefiltered": 15,
+  "modelsUsed": [],
+  "modelFallbacks": [],
+  "inputJobs": 160,
+  "alreadyProcessed": 157,
+  "prefiltered": 3,
   "prefilterReasons": {
-    "non_tenure_track": 5,
-    "clinical_or_health": 4,
-    "life_sciences": 2,
-    "humanities_or_social_science": 3,
-    "business_or_law": 1
+    "clinical_or_health": 2,
+    "humanities_or_social_science": 1
   },
-  "accepted": 1,
-  "rejected": 8,
+  "accepted": 0,
+  "rejected": 0,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
   "prefilterExamples": [
     {
-      "url": "https://www.linkedin.com/jobs/view/4488716169",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4488703550",
+      "url": "https://www.linkedin.com/jobs/view/4487621695",
       "reason": "clinical_or_health"
     },
     {
-      "url": "https://www.linkedin.com/jobs/view/4487309490",
+      "url": "https://www.linkedin.com/jobs/view/4487629032",
       "reason": "clinical_or_health"
     },
     {
-      "url": "https://www.linkedin.com/jobs/view/4488410384",
-      "reason": "life_sciences"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4487301752",
-      "reason": "clinical_or_health"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4488059635",
-      "reason": "clinical_or_health"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4487313469",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=4477c6abb2ca627d",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=4e9408c1496f3ed7",
+      "url": "https://www.indeed.com/viewjob?jk=cbe20fb17b008693",
       "reason": "humanities_or_social_science"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=0f94e53d091bc40d",
-      "reason": "business_or_law"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=7435e826c7acb9d6",
-      "reason": "humanities_or_social_science"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=5db190c3ee81d8ff",
-      "reason": "humanities_or_social_science"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=6fb1664fdd3beafa",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=a31f9774f6479328",
-      "reason": "life_sciences"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4487358437",
-      "reason": "non_tenure_track"
     }
   ]
 }
