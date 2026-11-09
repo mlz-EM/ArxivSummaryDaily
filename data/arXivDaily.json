@@ -1,15 +1,26 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-08T07:09:16-05:00",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-11-09T09:07:01-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 457 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 458 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2611.08851v1",
+      "title": "Conformationally frustrated epitaxy at heteromolecular interface",
+      "url": "https://arxiv.org/abs/2611.08851v1",
+      "date": "2026-11-06",
+      "summary": "This study investigates how intramolecular flexibility influences epitaxial matching by examining 1,3,5-tris(4-carboxyphenyl)benzene (BTB) heteroepitaxy on a deprotonated BTB δ-layer on Ag(111). The authors find that competition between molecule-substrate interactions and conformational energy induces conformational frustration, where molecular flexibility alters site preferences to compensate for unfavorable substrate interactions while preserving the intermolecular network.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-soft"
+      ]
+    },
     {
       "id": "arxiv-2611.06274v1",
       "title": "Quantitatively Probing the Tilt Angle Failures in 4D-STEM Polarisation Analysis",

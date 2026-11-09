@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-08T07:09:17-05:00",
+    "model": "gemini-3.5-flash-lite",
+    "generatedAt": "2026-11-09T09:07:18-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -11,6 +11,28 @@
   },
   "items": [
     {
+      "id": "www-viewjob",
+      "title": "Regular Faculty",
+      "url": "https://www.indeed.com/viewjob?jk=66c4b58d7085b8ce",
+      "date": "2026-10-30",
+      "location": "University of Idaho at Moscow, ID, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=6e50a3a025764abf",
+      "date": "2026-10-12",
+      "location": "Tulane University at New Orleans, LA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
       "id": "www-4487621695",
       "title": "Nursing: Assistant, Associate or Full Professor - Spring 2027",
       "url": "https://www.linkedin.com/jobs/view/4487621695",
@@ -18,7 +40,7 @@
       "location": "Georgia Gwinnett College at Lawrenceville, GA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,18 +51,7 @@
       "location": "UVA Comprehensive Cancer Center at Charlottesville, VA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of French and Spanish",
-      "url": "https://www.indeed.com/viewjob?jk=cbe20fb17b008693",
-      "date": "2026-11-05",
-      "location": "CHESTNUT HILL COLLEGE at Philadelphia, PA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -198,6 +209,17 @@
       "url": "https://www.indeed.com/viewjob?jk=97fbbcc7808de4c5",
       "date": "2026-11-06",
       "location": "City University of New York at Bronx, NY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of French and Spanish",
+      "url": "https://www.indeed.com/viewjob?jk=cbe20fb17b008693",
+      "date": "2026-11-05",
+      "location": "CHESTNUT HILL COLLEGE at Philadelphia, PA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
