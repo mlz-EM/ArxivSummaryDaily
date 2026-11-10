@@ -2,14 +2,25 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-11-09T09:07:01-05:00",
+    "generatedAt": "2026-11-10T08:42:10-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 458 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 459 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2611.10853v1",
+      "title": "A Geometry-Guided Feature-Space Framework for Interpretable Unsupervised 4D-STEM Analysis of Complex Multiphase Materials",
+      "url": "https://arxiv.org/abs/2611.10853v1",
+      "date": "2026-11-07",
+      "summary": "This paper presents an unsupervised, physics-informed machine learning framework combining geometric descriptors and weighted embeddings for interpretable 4D-STEM analysis of complex materials. Incorporating spatial weighting significantly improves cluster stability, raising median cluster persistence from 0.04 to 0.55, while providing higher structural cluster fidelity, greater interpretability, and lower dimensionality compared to standard autoencoders.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cs-ai"
+      ]
+    },
     {
       "id": "arxiv-2611.08851v1",
       "title": "Conformationally frustrated epitaxy at heteromolecular interface",

@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-09T09:07:19-05:00",
+    "model": "gemini-3.5-flash-lite",
+    "generatedAt": "2026-11-10T08:42:25-05:00",
     "source": "Interfolio Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from public Interfolio job pages.",
@@ -11,11 +11,147 @@
   },
   "items": [
     {
-      "id": "apply-196832",
-      "title": "Assistant Professor of Economics (Development Economics)",
-      "url": "https://apply.interfolio.com/196832",
-      "date": "2026-11-03",
-      "location": "Middlebury: Department of Economics at Middlebury, VT",
+      "id": "apply-197113",
+      "title": "Advanced Associate/Full Professor in Psychology",
+      "url": "https://apply.interfolio.com/197113",
+      "date": "2026-11-10",
+      "location": "Arizona State University: School of Social and Behavioral Sciences at ASU West Valley campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-197274",
+      "title": "Assistant Professor of Electrical and Computer Engineering",
+      "url": "https://apply.interfolio.com/197274",
+      "date": "2026-11-10",
+      "location": "Rice University: Electrical and Computer Engineering at Houston, TX",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-196887",
+      "title": "Psychiatrist, Clinical Assistant/Associate Professor, Psychiatry, Adult Outpatient (OPD)",
+      "url": "https://apply.interfolio.com/196887",
+      "date": "2026-11-09",
+      "location": "Stony Brook University: Psychiatry and Behavioral Health at Stony Brook, New York",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-197270",
+      "title": "Assistant Professor, Pediatric Oncology Physician Scientist",
+      "url": "https://apply.interfolio.com/197270",
+      "date": "2026-11-09",
+      "location": "Fred Hutchinson Cancer Center: Translational Science and Therapeutics Division at Seattle, WA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-197236",
+      "title": "Fall 2027- Assistant Professor of Instruction - UT Austin Materials Science and Engineering",
+      "url": "https://apply.interfolio.com/197236",
+      "date": "2026-11-09",
+      "location": "The University of Texas at Austin at Austin, TX, US",
+      "description": "Teaching introductory lecture and laboratory classes supporting the new Materials Science and Engineering program.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "Materials Science",
+        "Materials Characterization",
+        "Laboratory"
+      ]
+    },
+    {
+      "id": "apply-197266",
+      "title": "FA27-045: Assistant Professor of Anatomy",
+      "url": "https://apply.interfolio.com/197266",
+      "date": "2026-11-09",
+      "location": "Southern Illinois University Edwardsville: Biological Sciences at Edwardsville, Il",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-197268",
+      "title": "FA27-046: Assistant Professor - Physical Chemistry",
+      "url": "https://apply.interfolio.com/197268",
+      "date": "2026-11-09",
+      "location": "Southern Illinois University Edwardsville: Chemistry at Edwardsville, Il",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-197279",
+      "title": "Architectural Design Faculty – Open Rank (tenure-track or tenured)",
+      "url": "https://apply.interfolio.com/197279",
+      "date": "2026-11-09",
+      "location": "University of Notre Dame: School of Architecture at Notre Dame, IN, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-197280",
+      "title": "Faculty Associate for Title IX and Equal Opportunity",
+      "url": "https://apply.interfolio.com/197280",
+      "date": "2026-11-09",
+      "location": "College of the Holy Cross at College of the Holy Cross, Worcester, MA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-197284",
+      "title": "Architecture & Urbanism Faculty – Open Rank (tenure-track or tenured)",
+      "url": "https://apply.interfolio.com/197284",
+      "date": "2026-11-09",
+      "location": "University of Notre Dame: School of Architecture at Notre Dame, IN, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-197285",
+      "title": "Landscape Architecture Faculty - Open Rank",
+      "url": "https://apply.interfolio.com/197285",
+      "date": "2026-11-09",
+      "location": "University of Notre Dame: School of Architecture at Notre Dame, IN, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-197138",
+      "title": "Associate Professor of Violin and Chamber Music, Violinist in the Ying Quartet (tenure-eligible)",
+      "url": "https://apply.interfolio.com/197138",
+      "date": "2026-11-06",
+      "location": "University of Rochester: Strings, Harp, & Guitar at Eastman School Of Music",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-196953",
+      "title": "Tenured/Tenure-Track Faculty Position in Health Research (Assistant, Associate, Full Professor)",
+      "url": "https://apply.interfolio.com/196953",
+      "date": "2026-11-05",
+      "location": "Arizona State University: Edson College of Nursing and Health Innovation at Downtown Phoenix Campus",
       "description": "",
       "fitScore": 0,
       "isNew": true,
@@ -559,6 +695,17 @@
       "url": "https://apply.interfolio.com/196920",
       "date": "2026-11-04",
       "location": "Frankfurt School of Finance & Management: Finance Department at Frankfurt am Main",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-196832",
+      "title": "Assistant Professor of Economics (Development Economics)",
+      "url": "https://apply.interfolio.com/196832",
+      "date": "2026-11-03",
+      "location": "Middlebury: Department of Economics at Middlebury, VT",
       "description": "",
       "fitScore": 0,
       "isNew": false,
