@@ -2,14 +2,34 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-11-10T08:42:10-05:00",
+    "generatedAt": "2026-11-11T08:01:58-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 459 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 461 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2611.14292v1",
+      "title": "Nanostructuring Semiconductor Surfaces Using Self-Assembled Metal Nanoparticles for Optoelectronic Applications",
+      "url": "https://arxiv.org/abs/2611.14292v1",
+      "date": "2026-11-10",
+      "summary": "This study aims to develop a lithography-free nanostructuring method to enhance light management in optoelectronic materials. The authors demonstrate a two-step process using self-assembled, self-consuming Ga nanoparticle masks during Ar plasma etching. This produces pure nanocones on GaAs, GaP, Si, and perovskite surfaces while preserving crystal structure, reducing sun-weighted reflectance to 11-15% on monocrystalline substrates and 0.5% on perovskite.",
+      "tags": [
+        "physics-app-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2611.14231v1",
+      "title": "From Growth to Devices: Oxygen-Controlled Superconductivity in BSCCO Thin Films",
+      "url": "https://arxiv.org/abs/2611.14231v1",
+      "date": "2026-11-10",
+      "summary": "This paper aims to link annealing conditions and oxygen stoichiometry to superconducting transport in sputtered BSCCO thin films for device integration. The authors identify an optimal annealing condition of 860 °C for 3 hours, achieving the highest transition temperature through optimal CuO2 plane hole doping. Fabricated micro-bridges and planar Josephson junctions demonstrate excellent device compatibility and long-term air stability.",
+      "tags": [
+        "cond-mat-supr-con"
+      ]
+    },
     {
       "id": "arxiv-2611.10853v1",
       "title": "A Geometry-Guided Feature-Space Framework for Interpretable Unsupervised 4D-STEM Analysis of Complex Multiphase Materials",

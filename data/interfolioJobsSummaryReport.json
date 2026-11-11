@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T08:42:25-05:00",
+  "generatedAt": "2026-11-11T08:02:48-05:00",
   "model": "gemini-3.5-flash-lite",
-  "runId": "42825005537",
+  "runId": "43022998497",
   "summaryPasses": 1,
   "modelsUsed": [
     "gemini-3.5-flash-lite"
@@ -9,7 +9,7 @@
   "modelFallbacks": [
     {
       "model": "gemini-3.8-flash",
-      "reason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "reason": "gemini-3.8-flash network request failed; cooling down before retrying unresolved work.",
       "nextModel": "gemini-3.6-flash"
     },
     {
@@ -18,35 +18,47 @@
       "nextModel": "gemini-3.5-flash-lite"
     }
   ],
-  "inputJobs": 13,
+  "inputJobs": 21,
   "alreadyProcessed": 0,
-  "prefiltered": 4,
+  "prefiltered": 7,
   "prefilterReasons": {
-    "clinical_or_health": 2,
-    "humanities_or_social_science": 2
+    "clinical_or_health": 5,
+    "business_or_law": 2
   },
-  "accepted": 1,
-  "rejected": 8,
+  "accepted": 0,
+  "rejected": 14,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
   "prefilterExamples": [
     {
-      "url": "https://apply.interfolio.com/196887",
+      "url": "https://apply.interfolio.com/196913",
       "reason": "clinical_or_health"
     },
     {
-      "url": "https://apply.interfolio.com/197113",
-      "reason": "humanities_or_social_science"
-    },
-    {
-      "url": "https://apply.interfolio.com/197138",
-      "reason": "humanities_or_social_science"
-    },
-    {
-      "url": "https://apply.interfolio.com/197270",
+      "url": "https://apply.interfolio.com/196942",
       "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/197151",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/197304",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/197345",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/197347",
+      "reason": "business_or_law"
+    },
+    {
+      "url": "https://apply.interfolio.com/197363",
+      "reason": "business_or_law"
     }
   ]
 }
