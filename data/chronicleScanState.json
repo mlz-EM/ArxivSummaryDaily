@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "bootstrapComplete": true,
-  "lastRunAt": "2026-11-11T13:04:06Z",
+  "lastRunAt": "2026-11-12T14:04:56Z",
   "lastSitemapCount": 28169,
   "lastSitemapMaxId": 38064558,
   "seenIds": [
@@ -61367,14 +61367,14 @@
   "pendingErrors": {},
   "lastScanReport": {
     "sitemapJobs": 28169,
-    "requests": 1631,
-    "knownSkipped": 26538,
-    "queued": 160,
-    "titleExcluded": 1378,
-    "profileExcluded": 84,
-    "dateExcluded": 8,
+    "requests": 0,
+    "knownSkipped": 28169,
+    "queued": 0,
+    "titleExcluded": 0,
+    "profileExcluded": 0,
+    "dateExcluded": 0,
     "expired": 0,
-    "missing": 1,
+    "missing": 0,
     "errors": 0
   }
 }

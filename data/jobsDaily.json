@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-11-11T08:02:12-05:00",
+    "generatedAt": "2026-11-12T09:04:33-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,130 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Tenure-Track, Assistant Professor of American History and Women’s and Gender Studies",
+      "url": "https://www.indeed.com/viewjob?jk=56457a00ea8dd949",
+      "date": "2026-11-12",
+      "location": "Sewanee at Sewanee, TN, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=d4489b3f2056b0c2",
+      "date": "2026-11-12",
+      "location": "Prairie View A&M University at Prairie View, TX, US",
+      "description": "Tenure-track Assistant Professor position in chemistry with research and teaching duties related to macromolecules.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "chemistry",
+        "macromolecules",
+        "physical science",
+        "organic chemistry",
+        "materials"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor (Tenure Track) - Numerical Ocean Modeling",
+      "url": "https://www.indeed.com/viewjob?jk=48725b4a55fb7648",
+      "date": "2026-11-12",
+      "location": "City University of New York at New York, NY, US",
+      "description": "Tenure-track Assistant Professor position focusing on computational oceanography, numerical modeling, and coastal marine processes.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "numerical ocean modeling",
+        "computational oceanography",
+        "earth sciences",
+        "physical science",
+        "data assimilation"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Physics (Tenure-Track)",
+      "url": "https://www.indeed.com/viewjob?jk=5bc1a1726a509b11",
+      "date": "2026-11-12",
+      "location": "City University of New York at New York, NY, US",
+      "description": "Tenure-track Assistant Professor position in theoretical physics with focus on condensed matter and quantum information.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "physics",
+        "condensed matter physics",
+        "quantum information",
+        "theoretical physics",
+        "quantum field theory"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=87252f4cb01641a6",
+      "date": "2026-11-12",
+      "location": "Prairie View A&M University at Prairie View, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professors: Molecular Cell Biologists (1) Immunology & (2) Virology (#0082921)",
+      "url": "https://www.indeed.com/viewjob?jk=3a32a1123b3fccba",
+      "date": "2026-11-11",
+      "location": "University of Hawaii system at Honolulu, HI, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Faculty - Tenure-Track, Assistant Professor - Public Health",
+      "url": "https://www.indeed.com/viewjob?jk=bd7dce451a087371",
+      "date": "2026-11-11",
+      "location": "Utah Valley University at Orem, UT, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4488241845",
+      "title": "Specialty Medicine Faculty Member",
+      "url": "https://www.linkedin.com/jobs/view/4488241845",
+      "date": "2026-11-11",
+      "location": "COSGP - Council of Osteopathic Student Government Presidents at Boise, ID, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Education - Assistant/Associate Professor of Bilingual / Multilingual Education - Tenure Track",
+      "url": "https://www.indeed.com/viewjob?jk=ca5ec720d270dce2",
+      "date": "2026-11-11",
+      "location": "California Baptist University at Riverside, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor, English (Tenure Track)",
       "url": "https://www.indeed.com/viewjob?jk=eacdb42554a8f52e",
       "date": "2026-11-11",
       "location": "Contra Costa Community College District at Martinez, CA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +146,7 @@
       "location": "Contra Costa Community College District at Martinez, CA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +157,7 @@
       "location": "Florida International University at Miami, FL, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +168,7 @@
       "location": "Newark, NJ, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +179,7 @@
       "location": "Bon Secours Mercy Health at Toledo, OH, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +190,7 @@
       "location": "National Black Nurses Association at Alabama, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +201,7 @@
       "location": "College Station, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +212,7 @@
       "location": "University of Delaware School of Nursing at Newark, DE, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +223,7 @@
       "location": "Augusta University at Augusta, GA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +234,7 @@
       "location": "SUNY Westchester Community College at Valhalla, NY, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,7 +245,7 @@
       "location": "Kettering University at Flint, MI, US",
       "description": "Tenure-track Assistant Professor position in electrical engineering focusing on teaching, laboratory development, and research in electronic systems.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "Electrical Engineering",
         "Energy Storage",
@@ -144,7 +261,7 @@
       "location": "University of Hartford at West Hartford, CT, US",
       "description": "Tenure-track faculty position in aerospace engineering supporting undergraduate education, curriculum development, and active research.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "Aerospace Engineering",
         "Tenure-Track",
@@ -160,51 +277,7 @@
       "location": "Meharry Medical College at Nashville Metropolitan Area",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4487195080",
-      "title": "Visiting Assistant Professor - Physician Associate Studies",
-      "url": "https://www.linkedin.com/jobs/view/4487195080",
-      "date": "2026-11-09",
-      "location": "Miami University at Oxford, OH, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant/Associate Professor of Jazz Piano (Tenure Eligible) (30ESM-300108-JAZ-FY27-1042)",
-      "url": "https://www.indeed.com/viewjob?jk=1f75b0a43108380a",
-      "date": "2026-10-28",
-      "location": "University of Rochester at Rochester, NY, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Tenure-Track Assistant Professor of Business Administration (Marketing)",
-      "url": "https://www.indeed.com/viewjob?jk=1ce479e2b0f1f916",
-      "date": "2026-10-23",
-      "location": "Guilford College at Greensboro, NC, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4482178035",
-      "title": "Faculty Physician - GI Division, Luminal/IBD (Assistant, Associate or Full Professor - Academic or Master Clinician Track)",
-      "url": "https://www.linkedin.com/jobs/view/4482178035",
-      "date": "2026-10-22",
-      "location": "University of Minnesota Physicians at Minneapolis, MN, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -224,6 +297,17 @@
       "url": "https://www.indeed.com/viewjob?jk=21777a07614db1ec",
       "date": "2026-11-10",
       "location": "University of Nebraska at Kearney, NE, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4487195080",
+      "title": "Visiting Assistant Professor - Physician Associate Studies",
+      "url": "https://www.linkedin.com/jobs/view/4487195080",
+      "date": "2026-11-09",
+      "location": "Miami University at Oxford, OH, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1505,6 +1589,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Jazz Piano (Tenure Eligible) (30ESM-300108-JAZ-FY27-1042)",
+      "url": "https://www.indeed.com/viewjob?jk=1f75b0a43108380a",
+      "date": "2026-10-28",
+      "location": "University of Rochester at Rochester, NY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor, Religious Studies",
       "url": "https://www.indeed.com/viewjob?jk=5db190c3ee81d8ff",
       "date": "2026-10-28",
@@ -2143,6 +2238,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Tenure-Track Assistant Professor of Business Administration (Marketing)",
+      "url": "https://www.indeed.com/viewjob?jk=1ce479e2b0f1f916",
+      "date": "2026-10-23",
+      "location": "Guilford College at Greensboro, NC, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor - Art Education",
       "url": "https://www.indeed.com/viewjob?jk=9394ba69e78f0f58",
       "date": "2026-10-23",
@@ -2345,6 +2451,17 @@
       "url": "https://www.linkedin.com/jobs/view/4481638666",
       "date": "2026-10-23",
       "location": "Franciscan School of Theology at San Diego, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4482178035",
+      "title": "Faculty Physician - GI Division, Luminal/IBD (Assistant, Associate or Full Professor - Academic or Master Clinician Track)",
+      "url": "https://www.linkedin.com/jobs/view/4482178035",
+      "date": "2026-10-22",
+      "location": "University of Minnesota Physicians at Minneapolis, MN, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
