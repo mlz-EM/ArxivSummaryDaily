@@ -1,15 +1,46 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-12T09:03:59-05:00",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-11-13T08:24:10-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 461 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 464 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2611.16132v1",
+      "title": "Direct imaging of plasmonic coupling between gold nanoparticles and one-dimensional van der Waals materials",
+      "url": "https://arxiv.org/abs/2611.16132v1",
+      "date": "2026-11-12",
+      "summary": "This study investigates plasmonic coupling between gold nanoparticles and a one-dimensional van der Waals material (NbS3). Direct near-field measurements reveal that Au/NbS3 contacts generate higher near-field intensity and spatial extent than isolated nanoparticles when polarized along the particle-NbS3 axis. Furthermore, Au/NbS3 hybrids enhance Raman scattering by factors of 1.8 to 4.2 relative to isolated nanoparticles.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2611.15818v1",
+      "title": "Lithium redistribution and electrode degradation in commercial NMC/Graphite and LCO/Graphite cells under high-rate cycling conditions",
+      "url": "https://arxiv.org/abs/2611.15818v1",
+      "date": "2026-11-11",
+      "summary": "This study investigates electrode degradation and fast-charging effects in commercial NMC811/graphite and LCO/graphite cells across rates up to 3C. Both cell chemistries show severe stability degradation above 1C. Nuclear reaction analysis reveals maximum lithium accumulation on graphite anodes at 2C alongside rate-dependent cathode structural changes, highlighting anode-side degradation as a critical limitation in high-rate performance.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2611.15037v1",
+      "title": "Depth determination from core-loss 4D-STEM",
+      "url": "https://arxiv.org/abs/2611.15037v1",
+      "date": "2026-11-11",
+      "summary": "This study presents a method for determining 3D dopant depth in specimen structures using momentum-resolved core-loss 4D-STEM. By analyzing fringe frequencies obtained from Fourier-transformed probe positions within a Bayesian framework, the approach achieves nanometer to sub-nanometer depth precision using low electron doses (100–1000 counts), effectively overcoming dynamical scattering degradation.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-other"
+      ]
+    },
     {
       "id": "arxiv-2611.14292v1",
       "title": "Nanostructuring Semiconductor Surfaces Using Self-Assembled Metal Nanoparticles for Optoelectronic Applications",

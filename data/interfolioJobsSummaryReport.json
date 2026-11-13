@@ -1,44 +1,39 @@
 {
-  "generatedAt": "2026-11-12T09:04:56-05:00",
-  "model": "gemini-3.6-flash",
-  "runId": "43230725179",
+  "generatedAt": "2026-11-13T08:24:37-05:00",
+  "model": "gemini-3.5-flash-lite",
+  "runId": "43431144941",
   "summaryPasses": 1,
   "modelsUsed": [
-    "gemini-3.6-flash"
+    "gemini-3.5-flash-lite"
   ],
   "modelFallbacks": [
     {
       "model": "gemini-3.8-flash",
       "reason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
       "nextModel": "gemini-3.6-flash"
+    },
+    {
+      "model": "gemini-3.6-flash",
+      "reason": "gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "nextModel": "gemini-3.5-flash-lite"
     }
   ],
-  "inputJobs": 10,
+  "inputJobs": 8,
   "alreadyProcessed": 0,
-  "prefiltered": 3,
+  "prefiltered": 1,
   "prefilterReasons": {
-    "business_or_law": 1,
-    "clinical_or_health": 1,
-    "humanities_or_social_science": 1
+    "business_or_law": 1
   },
-  "accepted": 2,
-  "rejected": 5,
+  "accepted": 1,
+  "rejected": 6,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
   "prefilterExamples": [
     {
-      "url": "https://apply.interfolio.com/197213",
+      "url": "https://apply.interfolio.com/197475",
       "reason": "business_or_law"
-    },
-    {
-      "url": "https://apply.interfolio.com/197324",
-      "reason": "clinical_or_health"
-    },
-    {
-      "url": "https://apply.interfolio.com/197409",
-      "reason": "humanities_or_social_science"
     }
   ]
 }
