@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T08:30:58-05:00",
-  "runId": "43431144941",
+  "generatedAt": "2026-11-14T07:28:57-05:00",
+  "runId": "43593770017",
   "complete": true,
   "remainingQueued": {
     "Chronicle": 0,
@@ -10,43 +10,18 @@
     "arXiv": 0
   },
   "stopReason": "",
-  "rounds": [
-    {
-      "pass": 1,
-      "waitSeconds": 315.8,
-      "before": {
-        "Chronicle": 0,
-        "Inside Higher Ed": 73,
-        "Interfolio": 0,
-        "JobSpy": 0,
-        "arXiv": 0
-      },
-      "after": {
-        "Chronicle": 0,
-        "Inside Higher Ed": 0,
-        "Interfolio": 0,
-        "JobSpy": 0,
-        "arXiv": 0
-      },
-      "outcomes": [
-        {
-          "source": "Inside Higher Ed",
-          "exitCode": 0
-        }
-      ]
-    }
-  ],
+  "rounds": [],
   "runtime": {
-    "runId": "43431144941",
-    "startedAt": 1794576233.7352417,
+    "runId": "43593770017",
+    "startedAt": 1794659258.3016753,
     "requests": {
-      "gemini-3.8-flash": 2,
-      "gemini-3.6-flash": 4,
-      "gemini-3.5-flash-lite": 9
+      "gemini-3.8-flash": 1,
+      "gemini-3.6-flash": 3,
+      "gemini-3.5-flash-lite": 1
     },
     "serviceFailures": {
-      "gemini-3.8-flash": 2,
-      "gemini-3.6-flash": 2
+      "gemini-3.8-flash": 1,
+      "gemini-3.6-flash": 1
     }
   }
 }

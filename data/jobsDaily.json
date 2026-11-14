@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-11-13T08:24:29-05:00",
+    "generatedAt": "2026-11-14T07:28:22-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,157 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Tenure-Track, Assistant Professor of Music (Voice)",
+      "url": "https://www.indeed.com/viewjob?jk=cb8ae0c923fdfd93",
+      "date": "2026-11-14",
+      "location": "University of North Alabama at Florence, AL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4491019579",
+      "title": "Professor - Clinical",
+      "url": "https://www.linkedin.com/jobs/view/4491019579",
+      "date": "2026-11-14",
+      "location": "The Ohio State University Wexner Medical Center at Columbus, OH, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Finance",
+      "url": "https://www.indeed.com/viewjob?jk=8a7d6ba5cff06a56",
+      "date": "2026-11-13",
+      "location": "Mount Mercy University at Cedar Rapids, IA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of History-Tenure Track",
+      "url": "https://www.indeed.com/viewjob?jk=7e7397a9ab2c0b19",
+      "date": "2026-11-13",
+      "location": "University of Montevallo at Montevallo, AL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate/Full Professor of Civil Engineering - Infrastructure - SUNY Polytechnic Institute",
+      "url": "https://www.indeed.com/viewjob?jk=84f2d46fbb42b140",
+      "date": "2026-11-13",
+      "location": "SUNY Polytechnic Institute at Utica, NY, US",
+      "description": "SUNY Polytechnic Institute invites applications for a tenure-track faculty position in civil and infrastructure engineering.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "civil engineering",
+        "infrastructure",
+        "structural engineering",
+        "smart infrastructure",
+        "data science"
+      ]
+    },
+    {
+      "id": "www-4487874954",
+      "title": "Faculty - Diagnostic Medical Sonography General - Clinical Coordinator",
+      "url": "https://www.linkedin.com/jobs/view/4487874954",
+      "date": "2026-11-12",
+      "location": "Massachusetts College of Pharmacy and Health Sciences at Boston, MA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4489964721",
+      "title": "Open Rank Professor and Site Supervisor - Advanced Education in General Dentistry, Kingsport TN",
+      "url": "https://www.linkedin.com/jobs/view/4489964721",
+      "date": "2026-11-11",
+      "location": "UT Health Sciences at Tennessee, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Teaching Assistant Professor – Renewable Contract - Economics",
+      "url": "https://www.indeed.com/viewjob?jk=a2e9de38ad7b96b2",
+      "date": "2026-11-06",
+      "location": "University of Alabama at AL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate/Full Professor of Creative Writing, Nonfiction",
+      "url": "https://www.indeed.com/viewjob?jk=fc31136198f8a0e7",
+      "date": "2026-11-06",
+      "location": "Oregon State University at Corvallis, OR, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Political Science",
+      "url": "https://www.indeed.com/viewjob?jk=7d690ccdf3974741",
+      "date": "2026-10-28",
+      "location": "University of Arkansas at Fort Smith, AR, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Water, Earth and Environmental Sciences",
+      "url": "https://www.indeed.com/viewjob?jk=ccd77654768c5360",
+      "date": "2026-10-23",
+      "location": "Utah State University at Logan, UT, US",
+      "description": "Utah State University invites applications for a tenure-track assistant professor in Earth, hydrological, and environmental sciences.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "earth sciences",
+        "environmental sciences",
+        "hydrology",
+        "geophysics",
+        "physical sciences"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track Faculty in Accounting - Framingham State University",
+      "url": "https://www.indeed.com/viewjob?jk=f838a7738b9bc7be",
+      "date": "2026-10-19",
+      "location": "Framingham State University at Framingham, MA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Teaching Assistant Professor of Computer Science (Non-Tenure Track, F0761A)",
       "url": "https://www.indeed.com/viewjob?jk=8e72108602b208a0",
       "date": "2026-11-13",
       "location": "Old Dominion University at Norfolk, VA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +173,7 @@
       "location": "University of Utah at Salt Lake City, UT, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +184,7 @@
       "location": "University of Utah at Salt Lake City, UT, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +195,7 @@
       "location": "University of Maryland, Baltimore (UMB) at Baltimore, MD, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +206,7 @@
       "location": "Marshall University at Huntington, WV, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +217,7 @@
       "location": "University of Montevallo at Montevallo, AL, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +228,7 @@
       "location": "Ball State University at Muncie, IN, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +239,7 @@
       "location": "Wilmington College at Wilmington, OH, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +250,7 @@
       "location": "Young Harris College at Young Harris, GA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +261,7 @@
       "location": "St. Bonaventure University at Saint Bonaventure, NY, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,7 +272,7 @@
       "location": "MUSC Health at Charleston, SC, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -139,7 +283,7 @@
       "location": "Rochester Regional Health at Rochester, NY, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -150,364 +294,7 @@
       "location": "Louisiana State University at Baton Rouge, LA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Theatre Costume Design, Assistant/Associate Professor",
-      "url": "https://www.indeed.com/viewjob?jk=9119e0d5a260809d",
-      "date": "2026-11-11",
-      "location": "Alabama State University at Montgomery, AL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor, Emerging Media Arts - Video and Interactive Media",
-      "url": "https://www.indeed.com/viewjob?jk=ef08ec6b15f8f70f",
-      "date": "2026-11-11",
-      "location": "University of Nebraska at Lincoln, NE, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Civil, Construction and Environmental Engineering - Renewable Contract Assistant Professor",
-      "url": "https://www.indeed.com/viewjob?jk=46461b1ef84992d5",
-      "date": "2026-11-11",
-      "location": "University of Alabama at Tuscaloosa, AL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor - Political Science",
-      "url": "https://www.indeed.com/viewjob?jk=461904ad38f38c40",
-      "date": "2026-11-10",
-      "location": "Bethune-Cookman University at Daytona Beach, FL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant or Associate Professor (tenure track) - Mechanical Engineering",
-      "url": "https://www.indeed.com/viewjob?jk=27119e9eb3d47f07",
-      "date": "2026-11-10",
-      "location": "Marquette University at Milwaukee, WI, US",
-      "description": "Marquette University invites applications for tenure-track faculty positions in mechanical engineering with focus areas including manufacturing and materials engineering.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "mechanical engineering",
-        "materials engineering",
-        "manufacturing",
-        "advanced materials processing"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Systems and Digital Services Librarian/Assistant Professor",
-      "url": "https://www.indeed.com/viewjob?jk=b90ce53ba9cab7e4",
-      "date": "2026-11-10",
-      "location": "University of Montevallo at Montevallo, AL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Fiction Writing and Screenwriting",
-      "url": "https://www.indeed.com/viewjob?jk=a6f84fecd265a50d",
-      "date": "2026-11-07",
-      "location": "Utah State University at Logan, UT, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Instruction, Computer Information Systems",
-      "url": "https://www.indeed.com/viewjob?jk=ebdf99b068f45858",
-      "date": "2026-11-06",
-      "location": "The University of Akron at Akron, OH, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Digital Humanities/User Services, Assistant Professor",
-      "url": "https://www.indeed.com/viewjob?jk=c9ffba2cb0e70144",
-      "date": "2026-11-04",
-      "location": "Alabama State University at Montgomery, AL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor, 9 Month Salaried - Spatial Data Science (Multiple Vacancies)",
-      "url": "https://www.indeed.com/viewjob?jk=0790c9d44dc638d6",
-      "date": "2026-11-03",
-      "location": "Florida State University at Tallahassee, FL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Program Director, BFA in Acting for Stage and Screen",
-      "url": "https://www.indeed.com/viewjob?jk=ebe505892f0b4348",
-      "date": "2026-11-03",
-      "location": "Nazareth University at Rochester, NY, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Agribusiness Management & Inaugural Program Coordinator",
-      "url": "https://www.indeed.com/viewjob?jk=1e066182489c9498",
-      "date": "2026-11-03",
-      "location": "Monmouth College at Monmouth, IL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor in Applied Mathematics",
-      "url": "https://www.indeed.com/viewjob?jk=babc6422b63b3f62",
-      "date": "2026-11-01",
-      "location": "University of California Merced at Merced, CA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant/Associate Professor of Secondary Education - Science (Graduate Level)",
-      "url": "https://www.indeed.com/viewjob?jk=3bd94bfdd79878b6",
-      "date": "2026-10-31",
-      "location": "National Louis University at Lisle, IL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Art and Visual Culture",
-      "url": "https://www.indeed.com/viewjob?jk=c2eaa543aabc7b6f",
-      "date": "2026-10-30",
-      "location": "Bates College at Lewiston, ME, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Theatre Design and Technology, tenure-track",
-      "url": "https://www.indeed.com/viewjob?jk=5a87c1bf4657ec3b",
-      "date": "2026-10-29",
-      "location": "Eckerd College at Saint Petersburg, FL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Instructor or Assistant Professor of Business",
-      "url": "https://www.indeed.com/viewjob?jk=8ce817aded8cb448",
-      "date": "2026-10-29",
-      "location": "University of Virginia at Wise, VA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "College of Arts and Sciences-Assistant Professor-Criminal Justice Fall 2027",
-      "url": "https://www.indeed.com/viewjob?jk=b66ede5743822cd4",
-      "date": "2026-10-26",
-      "location": "University of Alabama, Birmingham at Birmingham, AL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Economics",
-      "url": "https://www.indeed.com/viewjob?jk=b674dcbc117e8e39",
-      "date": "2026-10-23",
-      "location": "South Dakota Board of Regents at Aberdeen, SD, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of English - SUNY Maritime College",
-      "url": "https://www.indeed.com/viewjob?jk=a71409b029287f8a",
-      "date": "2026-10-22",
-      "location": "SUNY Maritime College at Bronx, NY, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Professor of Practice in Public Policy or Organizational Leadership – Renewable Contract",
-      "url": "https://www.indeed.com/viewjob?jk=e70225e7fd525772",
-      "date": "2026-10-21",
-      "location": "University of Alabama at AL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Open-Rank Tenure-Track Faculty Position in Information Systems, Operations Management, Supply Chain",
-      "url": "https://www.indeed.com/viewjob?jk=3d9b69f26f9accdc",
-      "date": "2026-10-21",
-      "location": "University of Illinois at Urbana, IL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Practice",
-      "url": "https://www.indeed.com/viewjob?jk=87b550d6350e2239",
-      "date": "2026-10-20",
-      "location": "Virginia Tech at Blacksburg, VA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Practice in Business Administration (Real Estate)",
-      "url": "https://www.indeed.com/viewjob?jk=9c796dbd4050742f",
-      "date": "2026-10-20",
-      "location": "Sam Houston State University at Huntsville, TX, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Tenure-Track, Assistant Professor of Statistics and Data Science - Morris, MN",
-      "url": "https://www.indeed.com/viewjob?jk=0d61e8dea55b545a",
-      "date": "2026-10-20",
-      "location": "University of Minnesota at Morris, MN, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant/Associate Professor of Finance - SUNY Polytechnic Institute",
-      "url": "https://www.indeed.com/viewjob?jk=350e670e1bcfac74",
-      "date": "2026-10-19",
-      "location": "SUNY Polytechnic at Utica, NY, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Anthropology",
-      "url": "https://www.indeed.com/viewjob?jk=9f70f909f80f7c4d",
-      "date": "2026-10-17",
-      "location": "University of California Merced at Merced, CA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Biochemistry Assistant or Associate Professor of Practice (Career Track)",
-      "url": "https://www.indeed.com/viewjob?jk=ff4ee90e789fa7cd",
-      "date": "2026-10-16",
-      "location": "University of Arizona at Tucson, AZ, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor - Integration of Omics in Plant Breeding",
-      "url": "https://www.indeed.com/viewjob?jk=41ff72323dc1b9e8",
-      "date": "2026-10-16",
-      "location": "University of Arkansas at Fayetteville, AR, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of English/Creative Writing",
-      "url": "https://www.indeed.com/viewjob?jk=d534ef616db10cdd",
-      "date": "2026-10-15",
-      "location": "George Washington University at Foggy Bottom, DC, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor in Comparative Politics and International Relations - SUNY Oneonta",
-      "url": "https://www.indeed.com/viewjob?jk=aa3abab2abccfe2c",
-      "date": "2026-10-15",
-      "location": "SUNY Oneonta at Oneonta, NY, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant or Associate Professor",
-      "url": "https://www.indeed.com/viewjob?jk=9d40124c438ae445",
-      "date": "2026-10-14",
-      "location": "University of Maryland University College at College Park, MD, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -578,6 +365,39 @@
       "url": "https://www.indeed.com/viewjob?jk=87252f4cb01641a6",
       "date": "2026-11-12",
       "location": "Prairie View A&M University at Prairie View, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Theatre Costume Design, Assistant/Associate Professor",
+      "url": "https://www.indeed.com/viewjob?jk=9119e0d5a260809d",
+      "date": "2026-11-11",
+      "location": "Alabama State University at Montgomery, AL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Emerging Media Arts - Video and Interactive Media",
+      "url": "https://www.indeed.com/viewjob?jk=ef08ec6b15f8f70f",
+      "date": "2026-11-11",
+      "location": "University of Nebraska at Lincoln, NE, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Civil, Construction and Environmental Engineering - Renewable Contract Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=46461b1ef84992d5",
+      "date": "2026-11-11",
+      "location": "University of Alabama at Tuscaloosa, AL, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -699,6 +519,44 @@
       "url": "https://www.indeed.com/viewjob?jk=2e2622ecf7180d6e",
       "date": "2026-11-11",
       "location": "College Station, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Political Science",
+      "url": "https://www.indeed.com/viewjob?jk=461904ad38f38c40",
+      "date": "2026-11-10",
+      "location": "Bethune-Cookman University at Daytona Beach, FL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor (tenure track) - Mechanical Engineering",
+      "url": "https://www.indeed.com/viewjob?jk=27119e9eb3d47f07",
+      "date": "2026-11-10",
+      "location": "Marquette University at Milwaukee, WI, US",
+      "description": "Marquette University invites applications for tenure-track faculty positions in mechanical engineering with focus areas including manufacturing and materials engineering.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "mechanical engineering",
+        "materials engineering",
+        "manufacturing",
+        "advanced materials processing"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Systems and Digital Services Librarian/Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=b90ce53ba9cab7e4",
+      "date": "2026-11-10",
+      "location": "University of Montevallo at Montevallo, AL, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -837,6 +695,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Fiction Writing and Screenwriting",
+      "url": "https://www.indeed.com/viewjob?jk=a6f84fecd265a50d",
+      "date": "2026-11-07",
+      "location": "Utah State University at Logan, UT, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Faculty - Tenure-Track Professor - International Business",
       "url": "https://www.indeed.com/viewjob?jk=9876955102abfa13",
       "date": "2026-11-07",
@@ -896,6 +765,17 @@
       "url": "https://www.linkedin.com/jobs/view/4487397662",
       "date": "2026-11-07",
       "location": "The University of South Dakota Knudson School of Law at Sioux Falls, SD, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Instruction, Computer Information Systems",
+      "url": "https://www.indeed.com/viewjob?jk=ebdf99b068f45858",
+      "date": "2026-11-06",
+      "location": "The University of Akron at Akron, OH, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1228,6 +1108,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Digital Humanities/User Services, Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=c9ffba2cb0e70144",
+      "date": "2026-11-04",
+      "location": "Alabama State University at Montgomery, AL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Research Assistant Professor - Center for Graphene Research and Innovation",
       "url": "https://www.indeed.com/viewjob?jk=27c1f88c06004d1a",
       "date": "2026-11-04",
@@ -1342,6 +1233,39 @@
       "url": "https://www.linkedin.com/jobs/view/4487077884",
       "date": "2026-11-04",
       "location": "The Ohio State University Wexner Medical Center at Columbus, OH, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, 9 Month Salaried - Spatial Data Science (Multiple Vacancies)",
+      "url": "https://www.indeed.com/viewjob?jk=0790c9d44dc638d6",
+      "date": "2026-11-03",
+      "location": "Florida State University at Tallahassee, FL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Program Director, BFA in Acting for Stage and Screen",
+      "url": "https://www.indeed.com/viewjob?jk=ebe505892f0b4348",
+      "date": "2026-11-03",
+      "location": "Nazareth University at Rochester, NY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Agribusiness Management & Inaugural Program Coordinator",
+      "url": "https://www.indeed.com/viewjob?jk=1e066182489c9498",
+      "date": "2026-11-03",
+      "location": "Monmouth College at Monmouth, IL, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1530,6 +1454,28 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor in Applied Mathematics",
+      "url": "https://www.indeed.com/viewjob?jk=babc6422b63b3f62",
+      "date": "2026-11-01",
+      "location": "University of California Merced at Merced, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Secondary Education - Science (Graduate Level)",
+      "url": "https://www.indeed.com/viewjob?jk=3bd94bfdd79878b6",
+      "date": "2026-10-31",
+      "location": "National Louis University at Lisle, IL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor, Psychology",
       "url": "https://www.indeed.com/viewjob?jk=fb49c71d840a94f6",
       "date": "2026-10-31",
@@ -1605,6 +1551,17 @@
       "url": "https://www.linkedin.com/jobs/view/4485666280",
       "date": "2026-10-31",
       "location": "Northland Chapter of the American College of Sports Medicine at Ohio, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Art and Visual Culture",
+      "url": "https://www.indeed.com/viewjob?jk=c2eaa543aabc7b6f",
+      "date": "2026-10-30",
+      "location": "Bates College at Lewiston, ME, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1825,6 +1782,28 @@
       "url": "https://www.indeed.com/viewjob?jk=dc8c913b77c97564",
       "date": "2026-10-30",
       "location": "Aquinas College at Grand Rapids, MI, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Theatre Design and Technology, tenure-track",
+      "url": "https://www.indeed.com/viewjob?jk=5a87c1bf4657ec3b",
+      "date": "2026-10-29",
+      "location": "Eckerd College at Saint Petersburg, FL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Instructor or Assistant Professor of Business",
+      "url": "https://www.indeed.com/viewjob?jk=8ce817aded8cb448",
+      "date": "2026-10-29",
+      "location": "University of Virginia at Wise, VA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2450,6 +2429,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "College of Arts and Sciences-Assistant Professor-Criminal Justice Fall 2027",
+      "url": "https://www.indeed.com/viewjob?jk=b66ede5743822cd4",
+      "date": "2026-10-26",
+      "location": "University of Alabama, Birmingham at Birmingham, AL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor",
       "url": "https://www.indeed.com/viewjob?jk=0de1ba36930a8441",
       "date": "2026-10-26",
@@ -2738,6 +2728,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Economics",
+      "url": "https://www.indeed.com/viewjob?jk=b674dcbc117e8e39",
+      "date": "2026-10-23",
+      "location": "South Dakota Board of Regents at Aberdeen, SD, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Tenure-Track Assistant Professor of Business Administration (Marketing)",
       "url": "https://www.indeed.com/viewjob?jk=1ce479e2b0f1f916",
       "date": "2026-10-23",
@@ -2951,6 +2952,17 @@
       "url": "https://www.linkedin.com/jobs/view/4481638666",
       "date": "2026-10-23",
       "location": "Franciscan School of Theology at San Diego, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of English - SUNY Maritime College",
+      "url": "https://www.indeed.com/viewjob?jk=a71409b029287f8a",
+      "date": "2026-10-22",
+      "location": "SUNY Maritime College at Bronx, NY, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -3372,6 +3384,28 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Professor of Practice in Public Policy or Organizational Leadership – Renewable Contract",
+      "url": "https://www.indeed.com/viewjob?jk=e70225e7fd525772",
+      "date": "2026-10-21",
+      "location": "University of Alabama at AL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Open-Rank Tenure-Track Faculty Position in Information Systems, Operations Management, Supply Chain",
+      "url": "https://www.indeed.com/viewjob?jk=3d9b69f26f9accdc",
+      "date": "2026-10-21",
+      "location": "University of Illinois at Urbana, IL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor, Communication (T/TE)",
       "url": "https://www.indeed.com/viewjob?jk=e6506198f73ec322",
       "date": "2026-10-21",
@@ -3645,6 +3679,39 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Practice",
+      "url": "https://www.indeed.com/viewjob?jk=87b550d6350e2239",
+      "date": "2026-10-20",
+      "location": "Virginia Tech at Blacksburg, VA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Practice in Business Administration (Real Estate)",
+      "url": "https://www.indeed.com/viewjob?jk=9c796dbd4050742f",
+      "date": "2026-10-20",
+      "location": "Sam Houston State University at Huntsville, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track, Assistant Professor of Statistics and Data Science - Morris, MN",
+      "url": "https://www.indeed.com/viewjob?jk=0d61e8dea55b545a",
+      "date": "2026-10-20",
+      "location": "University of Minnesota at Morris, MN, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor of Theatre (Tenure-Track)",
       "url": "https://www.indeed.com/viewjob?jk=836ae6a7a1980704",
       "date": "2026-10-20",
@@ -3844,6 +3911,17 @@
       "url": "https://www.indeed.com/viewjob?jk=33f4b0f7188fcc7a",
       "date": "2026-10-20",
       "location": "Assumption University at Worcester, MA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Finance - SUNY Polytechnic Institute",
+      "url": "https://www.indeed.com/viewjob?jk=350e670e1bcfac74",
+      "date": "2026-10-19",
+      "location": "SUNY Polytechnic at Utica, NY, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -4144,6 +4222,17 @@
       "keywords": []
     },
     {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Anthropology",
+      "url": "https://www.indeed.com/viewjob?jk=9f70f909f80f7c4d",
+      "date": "2026-10-17",
+      "location": "University of California Merced at Merced, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "www-4480591925",
       "title": "MOSDOH - Clinical General Dentistry Faculty Assistant Professor DMD",
       "url": "https://www.linkedin.com/jobs/view/4480591925",
@@ -4184,6 +4273,28 @@
       "url": "https://www.indeed.com/viewjob?jk=c8637a2125e87a2d",
       "date": "2026-10-17",
       "location": "University of Southern California at Los Angeles, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Biochemistry Assistant or Associate Professor of Practice (Career Track)",
+      "url": "https://www.indeed.com/viewjob?jk=ff4ee90e789fa7cd",
+      "date": "2026-10-16",
+      "location": "University of Arizona at Tucson, AZ, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Integration of Omics in Plant Breeding",
+      "url": "https://www.indeed.com/viewjob?jk=41ff72323dc1b9e8",
+      "date": "2026-10-16",
+      "location": "University of Arkansas at Fayetteville, AR, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -4394,6 +4505,28 @@
       "url": "https://www.indeed.com/viewjob?jk=1e8f1cb3c6d8497f",
       "date": "2026-10-16",
       "location": "East Carolina University at Greenville, NC, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of English/Creative Writing",
+      "url": "https://www.indeed.com/viewjob?jk=d534ef616db10cdd",
+      "date": "2026-10-15",
+      "location": "George Washington University at Foggy Bottom, DC, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor in Comparative Politics and International Relations - SUNY Oneonta",
+      "url": "https://www.indeed.com/viewjob?jk=aa3abab2abccfe2c",
+      "date": "2026-10-15",
+      "location": "SUNY Oneonta at Oneonta, NY, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -4657,6 +4790,17 @@
       "url": "https://www.linkedin.com/jobs/view/4477339193",
       "date": "2026-10-15",
       "location": "WVU Medicine at Greensburg, PA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor",
+      "url": "https://www.indeed.com/viewjob?jk=9d40124c438ae445",
+      "date": "2026-10-14",
+      "location": "University of Maryland University College at College Park, MD, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -59503,17 +59647,6 @@
         "soft matter",
         "theoretical physics"
       ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Musicology - School of Music",
-      "url": "https://www.indeed.com/viewjob?jk=95fdad252a92d7be",
-      "date": "2025-11-13",
-      "location": "West Virginia University at Morgantown, WV, US",
-      "description": "",
-      "fitScore": 0,
-      "isNew": false,
-      "keywords": []
     },
     {
       "id": "www-4472366136",

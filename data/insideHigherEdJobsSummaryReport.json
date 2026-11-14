@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T08:30:58-05:00",
+  "generatedAt": "2026-11-14T07:28:56-05:00",
   "model": "gemini-3.5-flash-lite",
-  "runId": "43431144941",
-  "summaryPasses": 2,
+  "runId": "43593770017",
+  "summaryPasses": 1,
   "modelsUsed": [
     "gemini-3.5-flash-lite"
   ],
@@ -18,12 +18,12 @@
       "nextModel": "gemini-3.5-flash-lite"
     }
   ],
-  "inputJobs": 73,
+  "inputJobs": 32,
   "alreadyProcessed": 0,
   "prefiltered": 0,
   "prefilterReasons": {},
-  "accepted": 2,
-  "rejected": 71,
+  "accepted": 0,
+  "rejected": 32,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
