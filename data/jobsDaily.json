@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.6-flash",
-    "generatedAt": "2026-11-14T07:28:22-05:00",
+    "model": "gemini-3.5-flash-lite",
+    "generatedAt": "2026-11-15T08:00:40-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,112 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor-Library (non-tenure track)",
+      "url": "https://www.indeed.com/viewjob?jk=e8bd2b30ba53f325",
+      "date": "2026-11-15",
+      "location": "Linfield University at McMinnville, OR, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Anatomy",
+      "url": "https://www.indeed.com/viewjob?jk=b18a2b6f4247286e",
+      "date": "2026-11-14",
+      "location": "Southern Illinois University Edwardsville at Edwardsville, IL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor - Environmental Chemistry and Contaminant Hydrology",
+      "url": "https://www.indeed.com/viewjob?jk=285b2caaf59b38f1",
+      "date": "2026-11-10",
+      "location": "University of Nebraska at Lincoln, NE, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor: Literature (Modernism)",
+      "url": "https://www.indeed.com/viewjob?jk=fc57af61b948e69a",
+      "date": "2026-11-02",
+      "location": "Oregon State University at Corvallis, OR, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Ceramics Tenure-Track, Assistant or Associate Professor, Full Time Faculty",
+      "url": "https://www.indeed.com/viewjob?jk=7c0239aa1fd9a321",
+      "date": "2026-11-02",
+      "location": "Commonwealth of Massachusetts at Boston, MA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant or Associate Professor of Curriculum and Instruction",
+      "url": "https://www.indeed.com/viewjob?jk=29e7889be0d5931f",
+      "date": "2026-10-27",
+      "location": "Texas A&M University-Victoria at Victoria, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=1c842128cf08018d",
+      "date": "2026-10-22",
+      "location": "The University of Southern MIssissippi at Hattiesburg, MS, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate Professor of Art - Painting & Drawing",
+      "url": "https://www.indeed.com/viewjob?jk=91770c0249f831ba",
+      "date": "2026-10-21",
+      "location": "Louisiana State University at Baton Rouge, LA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Violin or Viola and Director of Chamber Music Activities",
+      "url": "https://www.indeed.com/viewjob?jk=94a17336f37c01d9",
+      "date": "2026-10-19",
+      "location": "University of Maryland University College at College Park, MD, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Tenure-Track, Assistant Professor of Music (Voice)",
       "url": "https://www.indeed.com/viewjob?jk=cb8ae0c923fdfd93",
       "date": "2026-11-14",
       "location": "University of North Alabama at Florence, AL, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +128,7 @@
       "location": "The Ohio State University Wexner Medical Center at Columbus, OH, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +139,7 @@
       "location": "Mount Mercy University at Cedar Rapids, IA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +150,7 @@
       "location": "University of Montevallo at Montevallo, AL, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +161,7 @@
       "location": "SUNY Polytechnic Institute at Utica, NY, US",
       "description": "SUNY Polytechnic Institute invites applications for a tenure-track faculty position in civil and infrastructure engineering.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "civil engineering",
         "infrastructure",
@@ -70,89 +169,6 @@
         "smart infrastructure",
         "data science"
       ]
-    },
-    {
-      "id": "www-4487874954",
-      "title": "Faculty - Diagnostic Medical Sonography General - Clinical Coordinator",
-      "url": "https://www.linkedin.com/jobs/view/4487874954",
-      "date": "2026-11-12",
-      "location": "Massachusetts College of Pharmacy and Health Sciences at Boston, MA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-4489964721",
-      "title": "Open Rank Professor and Site Supervisor - Advanced Education in General Dentistry, Kingsport TN",
-      "url": "https://www.linkedin.com/jobs/view/4489964721",
-      "date": "2026-11-11",
-      "location": "UT Health Sciences at Tennessee, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Teaching Assistant Professor – Renewable Contract - Economics",
-      "url": "https://www.indeed.com/viewjob?jk=a2e9de38ad7b96b2",
-      "date": "2026-11-06",
-      "location": "University of Alabama at AL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant/Associate/Full Professor of Creative Writing, Nonfiction",
-      "url": "https://www.indeed.com/viewjob?jk=fc31136198f8a0e7",
-      "date": "2026-11-06",
-      "location": "Oregon State University at Corvallis, OR, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor, Political Science",
-      "url": "https://www.indeed.com/viewjob?jk=7d690ccdf3974741",
-      "date": "2026-10-28",
-      "location": "University of Arkansas at Fort Smith, AR, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Water, Earth and Environmental Sciences",
-      "url": "https://www.indeed.com/viewjob?jk=ccd77654768c5360",
-      "date": "2026-10-23",
-      "location": "Utah State University at Logan, UT, US",
-      "description": "Utah State University invites applications for a tenure-track assistant professor in Earth, hydrological, and environmental sciences.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "earth sciences",
-        "environmental sciences",
-        "hydrology",
-        "geophysics",
-        "physical sciences"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Tenure Track Faculty in Accounting - Framingham State University",
-      "url": "https://www.indeed.com/viewjob?jk=f838a7738b9bc7be",
-      "date": "2026-10-19",
-      "location": "Framingham State University at Framingham, MA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
     },
     {
       "id": "www-viewjob",
@@ -204,6 +220,17 @@
       "url": "https://www.linkedin.com/jobs/view/4488586606",
       "date": "2026-11-13",
       "location": "Marshall University at Huntington, WV, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4487874954",
+      "title": "Faculty - Diagnostic Medical Sonography General - Clinical Coordinator",
+      "url": "https://www.linkedin.com/jobs/view/4487874954",
+      "date": "2026-11-12",
+      "location": "Massachusetts College of Pharmacy and Health Sciences at Boston, MA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -365,6 +392,17 @@
       "url": "https://www.indeed.com/viewjob?jk=87252f4cb01641a6",
       "date": "2026-11-12",
       "location": "Prairie View A&M University at Prairie View, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4489964721",
+      "title": "Open Rank Professor and Site Supervisor - Advanced Education in General Dentistry, Kingsport TN",
+      "url": "https://www.linkedin.com/jobs/view/4489964721",
+      "date": "2026-11-11",
+      "location": "UT Health Sciences at Tennessee, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -765,6 +803,28 @@
       "url": "https://www.linkedin.com/jobs/view/4487397662",
       "date": "2026-11-07",
       "location": "The University of South Dakota Knudson School of Law at Sioux Falls, SD, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Teaching Assistant Professor – Renewable Contract - Economics",
+      "url": "https://www.indeed.com/viewjob?jk=a2e9de38ad7b96b2",
+      "date": "2026-11-06",
+      "location": "University of Alabama at AL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant/Associate/Full Professor of Creative Writing, Nonfiction",
+      "url": "https://www.indeed.com/viewjob?jk=fc31136198f8a0e7",
+      "date": "2026-11-06",
+      "location": "Oregon State University at Corvallis, OR, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -2068,6 +2128,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor, Political Science",
+      "url": "https://www.indeed.com/viewjob?jk=7d690ccdf3974741",
+      "date": "2026-10-28",
+      "location": "University of Arkansas at Fort Smith, AR, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant/Associate Professor of Jazz Piano (Tenure Eligible) (30ESM-300108-JAZ-FY27-1042)",
       "url": "https://www.indeed.com/viewjob?jk=1f75b0a43108380a",
       "date": "2026-10-28",
@@ -2725,6 +2796,23 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Water, Earth and Environmental Sciences",
+      "url": "https://www.indeed.com/viewjob?jk=ccd77654768c5360",
+      "date": "2026-10-23",
+      "location": "Utah State University at Logan, UT, US",
+      "description": "Utah State University invites applications for a tenure-track assistant professor in Earth, hydrological, and environmental sciences.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "earth sciences",
+        "environmental sciences",
+        "hydrology",
+        "geophysics",
+        "physical sciences"
+      ]
     },
     {
       "id": "www-viewjob",
@@ -3911,6 +3999,17 @@
       "url": "https://www.indeed.com/viewjob?jk=33f4b0f7188fcc7a",
       "date": "2026-10-20",
       "location": "Assumption University at Worcester, MA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track Faculty in Accounting - Framingham State University",
+      "url": "https://www.indeed.com/viewjob?jk=f838a7738b9bc7be",
+      "date": "2026-10-19",
+      "location": "Framingham State University at Framingham, MA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -59631,21 +59730,6 @@
         "condensed matter",
         "optics",
         "computational physics"
-      ]
-    },
-    {
-      "id": "www-4404858897",
-      "title": "Multiple Faculty Searches - Department of Physics",
-      "url": "https://www.linkedin.com/jobs/view/4404858897",
-      "date": "2025-11-14",
-      "location": "Berkeley, CA",
-      "description": "Tenure-track assistant professor positions in soft condensed matter and theoretical physics.",
-      "fitScore": 2,
-      "isNew": false,
-      "keywords": [
-        "condensed matter physics",
-        "soft matter",
-        "theoretical physics"
       ]
     },
     {
