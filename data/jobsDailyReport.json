@@ -1,48 +1,48 @@
 {
-  "generatedAt": "2026-11-15T08:00:40-05:00",
-  "model": "gemini-3.5-flash-lite",
-  "runId": "43715524648",
+  "generatedAt": "2026-11-16T08:48:26-05:00",
+  "model": "gemini-3.6-flash",
+  "runId": "43878186932",
   "summaryPasses": 1,
   "modelsUsed": [
-    "gemini-3.5-flash-lite"
+    "gemini-3.6-flash"
   ],
   "modelFallbacks": [
     {
       "model": "gemini-3.8-flash",
-      "reason": "gemini-3.8-flash network request failed; cooling down before retrying unresolved work.",
+      "reason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
       "nextModel": "gemini-3.6-flash"
-    },
-    {
-      "model": "gemini-3.6-flash",
-      "reason": "gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-      "nextModel": "gemini-3.5-flash-lite"
     }
   ],
-  "inputJobs": 170,
-  "alreadyProcessed": 161,
-  "prefiltered": 3,
+  "inputJobs": 120,
+  "alreadyProcessed": 112,
+  "prefiltered": 4,
   "prefilterReasons": {
-    "non_tenure_track": 1,
-    "humanities_or_social_science": 2
+    "clinical_or_health": 2,
+    "humanities_or_social_science": 1,
+    "non_tenure_track": 1
   },
   "accepted": 0,
-  "rejected": 6,
+  "rejected": 4,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
   "prefilterExamples": [
     {
-      "url": "https://www.indeed.com/viewjob?jk=e8bd2b30ba53f325",
+      "url": "https://www.linkedin.com/jobs/view/4491505512",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://www.linkedin.com/jobs/view/4486550455",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=74d7341ad9bd8092",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=fa22ed099064786d",
       "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=fc57af61b948e69a",
-      "reason": "humanities_or_social_science"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=94a17336f37c01d9",
-      "reason": "humanities_or_social_science"
     }
   ]
 }

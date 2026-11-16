@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-15T08:00:40-05:00",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-11-16T08:48:34-05:00",
     "source": "Interfolio Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from public Interfolio job pages.",
@@ -10,6 +10,44 @@
     ]
   },
   "items": [
+    {
+      "id": "apply-197615",
+      "title": "Open Rank Faculty Position in Materials Science and Engineering",
+      "url": "https://apply.interfolio.com/197615",
+      "date": "2026-11-16",
+      "location": "Columbia University at New York, NY, US",
+      "description": "Columbia University seeks tenure-track faculty in AI-enabled materials science and engineering.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "materials science",
+        "artificial intelligence",
+        "materials characterization",
+        "machine learning"
+      ]
+    },
+    {
+      "id": "apply-197453",
+      "title": "Professor in Catholic Theology and Robert L. McDevitt, K.S.G., K.C.H.S and Catherine H. McDevitt, L.C.H.S. Chair, Department of Theology & Religious Studies",
+      "url": "https://apply.interfolio.com/197453",
+      "date": "2026-11-15",
+      "location": "Georgetown University: Theology and Religious Studies at Main Campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "apply-195812",
+      "title": "Assistant Professor of Educational Psychology - Learning Experience Design and Technology",
+      "url": "https://apply.interfolio.com/195812",
+      "date": "2026-10-22",
+      "location": "University of Oklahoma Norman Campus: Department of Educational Psychology at Norman, Oklahoma",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
     {
       "id": "apply-197561",
       "title": "Assistant Professor of Early Childhood Education, College of Arts, Sciences & Education (Hybrid)",
