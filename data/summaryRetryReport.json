@@ -1,15 +1,15 @@
 {
   "generatedAt": "2026-11-17T10:36:19-05:00",
   "runId": "44103422828",
-  "complete": false,
+  "complete": true,
   "remainingQueued": {
-    "Chronicle": 31,
+    "Chronicle": 0,
     "Inside Higher Ed": 0,
     "Interfolio": 0,
     "JobSpy": 0,
     "arXiv": 0
   },
-  "stopReason": "Delayed recovery passes exhausted; remaining records will be retried next run.",
+  "stopReason": "",
   "rounds": [
     {
       "pass": 1,
@@ -128,6 +128,21 @@
       "gemini-3.8-flash": 4,
       "gemini-3.6-flash": 4,
       "gemini-3.5-flash-lite": 4
+    }
+  },
+  "manualRecovery": {
+    "generatedAt": "2026-11-17T10:48:13-05:00",
+    "model": "gpt-6-luna",
+    "reasoningEffort": "medium",
+    "reviewed": 31,
+    "accepted": 4,
+    "rejected": 27,
+    "previousRemainingQueued": {
+      "Chronicle": 31,
+      "Inside Higher Ed": 0,
+      "Interfolio": 0,
+      "JobSpy": 0,
+      "arXiv": 0
     }
   }
 }

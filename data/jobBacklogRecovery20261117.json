@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-17T10:48:13-05:00",
+  "sourceRunId": "44103422828",
+  "model": "gpt-6-luna",
+  "reasoningEffort": "medium",
+  "reviewed": 31,
+  "accepted": 4,
+  "rejected": 27,
+  "unsummarized": 0,
+  "decisionSha256": "8dde51b326eb05d19f0f3ec82a3e76cc71c4035f466a5eb8f651cbd6ce4252df",
+  "sources": {
+    "chronicle": {
+      "reviewed": 31,
+      "accepted": 4,
+      "rejected": 27,
+      "remainingQueued": 0
+    }
+  },
+  "dailyChronicleTotals": {
+    "inputJobs": 106,
+    "accepted": 6,
+    "rejected": 100,
+    "unsummarized": 0,
+    "complete": true
+  },
+  "rejectionReasons": {
+    "chronicle:38066933": "Temporary part-time adjunct pool is teaching-only and in computer science, without a research faculty role matching the documented program.",
+    "chronicle:38066935": "Health/allied-health instruction pool; explicitly part-time, temporary, and non-tenure-track.",
+    "chronicle:38066939": "Requires appointment at full-professor rank; applicant is an early-career postdoctoral researcher.",
+    "chronicle:38066941": "Tenured associate/full-level search targets neuroengineering and bioelectronics and requires an outstanding senior research and funding record; neither matches the documented materials-imaging program.",
+    "chronicle:38066947": "General natural-science instruction pool; explicitly part-time, temporary, and non-tenure-track.",
+    "chronicle:38066957": "Wildlife care, rehabilitation, and medicine are the central life-science fields; the remote role is primarily online teaching and course development.",
+    "chronicle:38066961": "Communication research and teaching are central; no demonstrated communication scholarship or teaching record.",
+    "chronicle:38066974": "Interdisciplinary curriculum and online teaching role lacks a defined materials, physics, engineering, or scientific-computing research focus.",
+    "chronicle:38066976": "Three-year renewable humanities and social-science research-stream appointment centers on teaching and mentoring first-year student projects, outside the documented research fields.",
+    "chronicle:38067019": "Dental biomedical-science teaching centers on human anatomy; required gross-anatomy dissection and clinical-sciences remit do not fit.",
+    "chronicle:38067021": "Primary-care clinical faculty role requires an MD/DO, medical residency, and clinical practice.",
+    "chronicle:38067023": "Medical pathology appointment requires an MD or DO and pathology board certification; its teaching and research focus is pathology.",
+    "chronicle:38067034": "Healthcare administration program requires healthcare-administration teaching and scholarship; healthcare-system or clinical research is not the advertised central role.",
+    "chronicle:38067048": "The central work is operations research in data-driven stochastic optimization and network operations such as pricing and supply chains; the applicant has no demonstrated OR or optimization program, and microscopy ML is too distant a bridge.",
+    "chronicle:38067051": "The central work requires experimental ATLAS high-energy physics, detector operations/upgrades, and ATLAS membership, outside the documented research program.",
+    "chronicle:38067065": "Nursing division chair requires nurse faculty experience, nursing or health-science credentials, senior administrative leadership, and applicable Utah licensure.",
+    "chronicle:38067077": "Clinical instruction pool is temporary, part-time, and requires a relevant clinical credential and at least one year of clinical practice.",
+    "chronicle:38067087": "Free-enterprise chair requires an established associate/full professor record in related business, economics, technology, law, or policy scholarship; the advertised research agenda is unrelated.",
+    "chronicle:38067088": "Free-speech scholarship and senior-level public engagement are central; the required humanities, law, or political-science background is unrelated.",
+    "chronicle:38067094": "Two-year professional-development teaching fellowship, not a research faculty appointment; research leadership is not the central role.",
+    "chronicle:38067097": "The role requires demonstrated eye/vision-science expertise and an independent program on biological mechanisms of eye development, function, or disease; general microscopy and computational imaging do not establish that fit.",
+    "chronicle:38067123": "Media, behavior, and human-health research is central; no demonstrated media, communication, psychological, or health-behavior research program.",
+    "chronicle:38067127": "The advertised research and teaching focus is international security studies, unrelated to the documented materials-science program.",
+    "chronicle:38067143": "Three-year renewable humanities and social-science research-stream appointment centers on teaching and mentoring first-year student projects, outside the documented research fields.",
+    "chronicle:38067145": "The role centers computational social science and social-system questions; microscopy-focused materials science and applied ML do not establish that research program.",
+    "chronicle:38067156": "The position centers on undergraduate organic chemistry teaching and research, without a defined materials-physics or characterization focus.",
+    "chronicle:38067158": "Professional-track communication appointment is centered on undergraduate teaching in organizational communication, a field unrelated to the documented research program."
+  },
+  "notes": [
+    "Only unresolved jobs were reviewed; all existing feed records, NEW flags, and discovery state were preserved.",
+    "The original scheduled Actions run remains failed; this manifest records the subsequent manual recovery."
+  ],
+  "verification": {
+    "exactDecisionCoverage": 31,
+    "existingChronicleRecordsPreserved": 7681,
+    "remainingQueued": 0,
+    "fiveLocalFeedsMatch": true,
+    "siteTestsPassed": 33,
+    "siteContentValidation": "passed",
+    "siteProductionBuild": "passed",
+    "scholarUpdateSha256": "c4342572e306d54c142f1cf1b303ba353375fae1d3c5fb13a58911a74466882e"
+  }
+}

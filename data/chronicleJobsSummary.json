@@ -1,15 +1,205 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.5-flash-lite",
-    "generatedAt": "2026-11-17T10:36:19-05:00",
+    "model": "gpt-6-luna",
+    "generatedAt": "2026-11-17T10:48:13-05:00",
     "source": "Chronicle Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from The Chronicle of Higher Education Jobs.",
       "Current jobs are discovered from Chronicle's public job sitemap; only newly seen listings are summarized."
-    ]
+    ],
+    "recoveryModel": "gpt-6-luna",
+    "recoveryReasoningEffort": "medium"
   },
   "items": [
+    {
+      "id": "jobs-38066953",
+      "title": "Tenure-Track Faculty in NanoEngineering for 2027-2028",
+      "url": "https://jobs.chronicle.com/job/38066953",
+      "date": "2026-11-17",
+      "location": "Rose-Hulman Institute of Technology at Terre Haute, IN, US",
+      "description": "Nanoengineering role spanning materials and semiconductor research, with a plausible bridge from quantitative microscopy and materials physics.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "nanoengineering",
+        "materials",
+        "semiconductors",
+        "nanotechnology",
+        "quantum materials"
+      ]
+    },
+    {
+      "id": "jobs-38066961",
+      "title": "Term Assistant Professor of Communication, University of Alaska Anchorage",
+      "url": "https://jobs.chronicle.com/job/38066961",
+      "date": "2026-11-17",
+      "location": "UAA Community & Technical College at Anchorage, Alaska (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067047",
+      "title": "Full-time, Tenure-Track, Open-Rank Position in Statistics and Data Science",
+      "url": "https://jobs.chronicle.com/job/38067047",
+      "date": "2026-11-17",
+      "location": "American University of Beirut at Beirut, LB",
+      "description": "Statistics and data science search welcomes physical-science applications; quantitative microscopy offers a stretch toward high-dimensional inference methods.",
+      "fitScore": 1,
+      "isNew": true,
+      "keywords": [
+        "statistics",
+        "data science",
+        "machine learning",
+        "physical sciences",
+        "high-dimensional data"
+      ]
+    },
+    {
+      "id": "jobs-38067048",
+      "title": "Full-Time, Tenure-Track, Open-Rank Position in Operations Research and Decision Sciences",
+      "url": "https://jobs.chronicle.com/job/38067048",
+      "date": "2026-11-17",
+      "location": "American University of Beirut at Beirut (LB)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067049",
+      "title": "Full-Time, Tenure-Track, Open-Rank Position in Computational Science",
+      "url": "https://jobs.chronicle.com/job/38067049",
+      "date": "2026-11-17",
+      "location": "American University of Beirut at Beirut, LB",
+      "description": "Open computational science role spanning scientific machine learning, inverse problems, simulation, and computation-intensive physical and engineering applications.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "computational science",
+        "scientific machine learning",
+        "inverse problems",
+        "scientific simulation",
+        "materials physics"
+      ]
+    },
+    {
+      "id": "jobs-38067051",
+      "title": "Assistant Professor in Physics - 317830",
+      "url": "https://jobs.chronicle.com/job/38067051",
+      "date": "2026-11-17",
+      "location": "United Arab Emirates University at United Arab Emirates",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067065",
+      "title": "Chair, Division of Graduate Education and Advanced Practice",
+      "url": "https://jobs.chronicle.com/job/38067065",
+      "date": "2026-11-17",
+      "location": "University of Utah at Utah, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067077",
+      "title": "Part-Time Faculty-Clinical",
+      "url": "https://jobs.chronicle.com/job/38067077",
+      "date": "2026-11-17",
+      "location": "Georgia Southern University at Georgia, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067081",
+      "title": "Assistant Professor, Physics",
+      "url": "https://jobs.chronicle.com/job/38067081",
+      "date": "2026-11-17",
+      "location": "Murray State University at Murray, KY, US",
+      "description": "General physics faculty call with research in the candidate’s field; quantitative microscopy and materials physics provide a credible bridge.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "physics",
+        "materials physics",
+        "quantum mechanics",
+        "engineering physics"
+      ]
+    },
+    {
+      "id": "jobs-38067087",
+      "title": "Endowed Bartlett Chair Professor/Associate Professor, Free Enterprise",
+      "url": "https://jobs.chronicle.com/job/38067087",
+      "date": "2026-11-17",
+      "location": "Bentley University at Massachusetts, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067088",
+      "title": "Endowed Bartlett Chair Professor/Associate Professor, Free Speech",
+      "url": "https://jobs.chronicle.com/job/38067088",
+      "date": "2026-11-17",
+      "location": "Bentley University at Massachusetts, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067123",
+      "title": "Assistant Professor in Media, Behavior, and Health",
+      "url": "https://jobs.chronicle.com/job/38067123",
+      "date": "2026-11-17",
+      "location": "Indiana University Bloomington at Bloomington, Indiana, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067127",
+      "title": "Assistant Professor of Global Security Studies",
+      "url": "https://jobs.chronicle.com/job/38067127",
+      "date": "2026-11-17",
+      "location": "Indiana University Bloomington at Bloomington, Indiana, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067156",
+      "title": "Chemistry - (Tenure Track)",
+      "url": "https://jobs.chronicle.com/job/38067156",
+      "date": "2026-11-17",
+      "location": "California Baptist University at Riverside, California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067158",
+      "title": "Teaching Assistant Professor - ICOM",
+      "url": "https://jobs.chronicle.com/job/38067158",
+      "date": "2026-11-17",
+      "location": "College of Information and Communications at Columbia, South Carolina (US)",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
     {
       "id": "jobs-38060990",
       "title": "Assistant Professor of Applied Mathematics",
@@ -728,6 +918,182 @@
       "url": "https://jobs.chronicle.com/job/38066921",
       "date": "2026-11-16",
       "location": "College of the Sequoias at California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38066933",
+      "title": "z-Part-Time Faculty Pool - Computer Science",
+      "url": "https://jobs.chronicle.com/job/38066933",
+      "date": "2026-11-16",
+      "location": "College of the Sequoias at California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38066935",
+      "title": "z-Part-Time Faculty Pool- Health",
+      "url": "https://jobs.chronicle.com/job/38066935",
+      "date": "2026-11-16",
+      "location": "College of the Sequoias at California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38066939",
+      "title": "Faculty Position (Tenured)",
+      "url": "https://jobs.chronicle.com/job/38066939",
+      "date": "2026-11-16",
+      "location": "University of Texas at Austin at Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38066941",
+      "title": "Tenured Faculty Position in Biomedical Engineering - Fall 2027",
+      "url": "https://jobs.chronicle.com/job/38066941",
+      "date": "2026-11-16",
+      "location": "University of Texas at Austin at Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38066947",
+      "title": "z-Part-Time Faculty Pool - Natural Science",
+      "url": "https://jobs.chronicle.com/job/38066947",
+      "date": "2026-11-16",
+      "location": "College of the Sequoias at California, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38066957",
+      "title": "Assistant or Associate Professor of Wildlife Care and Rehabilitation (Remote)",
+      "url": "https://jobs.chronicle.com/job/38066957",
+      "date": "2026-11-16",
+      "location": "Husson University at Maine, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38066974",
+      "title": "Assistant Professor of Interdisciplinary Arts and Sciences",
+      "url": "https://jobs.chronicle.com/job/38066974",
+      "date": "2026-11-16",
+      "location": "Utah Tech University at Utah, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38066976",
+      "title": "Research Assistant Professor, Source Project",
+      "url": "https://jobs.chronicle.com/job/38066976",
+      "date": "2026-11-16",
+      "location": "Binghamton University at New York, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067019",
+      "title": "Assistant/Associate Professor of Foundational Sciences (Anatomy)",
+      "url": "https://jobs.chronicle.com/job/38067019",
+      "date": "2026-11-16",
+      "location": "Kansas City University at Missouri, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067021",
+      "title": "Assistant/Associate Professor of Primary Care - Signing Bonus",
+      "url": "https://jobs.chronicle.com/job/38067021",
+      "date": "2026-11-16",
+      "location": "Kansas City University at Missouri, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067023",
+      "title": "Assistant/Associate Professor of Pathology",
+      "url": "https://jobs.chronicle.com/job/38067023",
+      "date": "2026-11-16",
+      "location": "Kansas City University at Missouri, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067034",
+      "title": "Assistant Professor, Healthcare Administration",
+      "url": "https://jobs.chronicle.com/job/38067034",
+      "date": "2026-11-16",
+      "location": "Texas A&M University - Corpus Christi at Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067094",
+      "title": "LEAD Faculty Fellow",
+      "url": "https://jobs.chronicle.com/job/38067094",
+      "date": "2026-11-16",
+      "location": "Harper College at Palatine, Illinois, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067097",
+      "title": "Assistant, Associate, or Full Professor - Basic and Translational Vision Science  - (497323 )",
+      "url": "https://jobs.chronicle.com/job/38067097",
+      "date": "2026-11-16",
+      "location": "University of Houston at Houston, Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067143",
+      "title": "Research Assistant Professor, Source Project",
+      "url": "https://jobs.chronicle.com/job/38067143",
+      "date": "2026-11-16",
+      "location": "Binghamton University at Binghamton, New York, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067145",
+      "title": "Professor/Associate Professor/Assistant Professor of Computational Social Science in the Faculty of",
+      "url": "https://jobs.chronicle.com/job/38067145",
+      "date": "2026-11-16",
+      "location": "University of Hong Kong at Hong Kong",
       "description": "",
       "fitScore": 0,
       "isNew": true,
