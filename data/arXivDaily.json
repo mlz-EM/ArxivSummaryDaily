@@ -1,15 +1,25 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-16T08:48:16-05:00",
+    "model": "gemini-3.5-flash-lite",
+    "generatedAt": "2026-11-17T09:40:31-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 464 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 465 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2611.20878v1",
+      "title": "Optical writing of Dzyaloshinskii Néel-type skyrmions",
+      "url": "https://arxiv.org/abs/2611.20878v1",
+      "date": "2026-11-16",
+      "summary": "This study aims to optically write nanoscale topological magnetic textures with controlled chirality. The key finding demonstrates that picosecond circularly polarized laser pulses can deterministically write Néel-type, fixed-chirality skyrmions in an ultrathin Co/Pt film, stabilized exclusively by the Dzyaloshinskii-Moriya interaction and verified across multiple length scales.",
+      "tags": [
+        "cond-mat-mes-hall"
+      ]
+    },
     {
       "id": "arxiv-2611.16132v1",
       "title": "Direct imaging of plasmonic coupling between gold nanoparticles and one-dimensional van der Waals materials",

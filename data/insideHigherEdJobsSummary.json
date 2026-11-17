@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.6-flash",
-    "generatedAt": "2026-11-16T08:52:43-05:00",
+    "model": "gemini-3.5-flash-lite",
+    "generatedAt": "2026-11-17T10:05:00-05:00",
     "source": "Inside Higher Ed Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from Inside Higher Ed Careers.",
@@ -11,6 +11,147 @@
   },
   "items": [
     {
+      "id": "careers-3576287",
+      "title": "SUSMAT-RC   Assistant Professor in Interfaces and Colloids",
+      "url": "https://careers.insidehighered.com/job/3576287",
+      "date": "2026-11-16",
+      "location": "Mohammed VI Polytechnic University at Benguerir, MA, MA",
+      "description": "Sustainable materials faculty position focused on polymer science, interfaces, colloids, and structure-property relationships.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "materials science",
+        "polymer science",
+        "interfaces",
+        "colloids",
+        "structure-property relationships"
+      ]
+    },
+    {
+      "id": "careers-3576288",
+      "title": "SUSMAT-RC - Professor in Green Chemistry and Biotechnology",
+      "url": "https://careers.insidehighered.com/job/3576288",
+      "date": "2026-11-16",
+      "location": "Mohammed VI Polytechnic University at Benguerir, MA, MA",
+      "description": "Sustainable materials faculty position emphasizing biobased polymers, characterization, and conversion.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "materials science",
+        "polymer chemistry",
+        "biopolymers",
+        "characterization"
+      ]
+    },
+    {
+      "id": "careers-3576289",
+      "title": "SUSMAT RC - Assistant Professor in Bio-Chemical Process Design",
+      "url": "https://careers.insidehighered.com/job/3576289",
+      "date": "2026-11-16",
+      "location": "Mohammed VI Polytechnic University at Benguerir, MA, MA",
+      "description": "Process engineering and materials engineering faculty role focusing on chemical and sustainable systems.",
+      "fitScore": 2,
+      "isNew": true,
+      "keywords": [
+        "materials engineering",
+        "process engineering",
+        "chemical engineering"
+      ]
+    },
+    {
+      "id": "careers-3576290",
+      "title": "SUSMAT RC - Professor in Sensor Technology - Open Rank Position",
+      "url": "https://careers.insidehighered.com/job/3576290",
+      "date": "2026-11-16",
+      "location": "Mohammed VI Polytechnic University at Benguerir, MA, MA",
+      "description": "Sensor technology and materials science faculty position involving surface chemistry and nanoscale science.",
+      "fitScore": 3,
+      "isNew": true,
+      "keywords": [
+        "materials science",
+        "sensors",
+        "nanoscale science",
+        "surface chemistry"
+      ]
+    },
+    {
+      "id": "careers-3576295",
+      "title": "Open-rank Professor of Entrepreneurship, Tenure - Stern at NYUAD",
+      "url": "https://careers.insidehighered.com/job/3576295",
+      "date": "2026-11-16",
+      "location": "New York University Abu Dhabi at Abu Dhabi, United Arab Emirates",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3576298",
+      "title": "Faculty Position in Information Systems - Research Track (Full Rank)",
+      "url": "https://careers.insidehighered.com/job/3576298",
+      "date": "2026-11-16",
+      "location": "Xi'an Jiaotong - Liverpool University at Suzhou, China",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3576328",
+      "title": "Assistant Professor - Research Track - Humanized models of Liver Disease",
+      "url": "https://careers.insidehighered.com/job/3576328",
+      "date": "2026-11-16",
+      "location": "University of Pennsylvania at Philadelphia",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3576418",
+      "title": "Business Office Technology Faculty, Tenure Track",
+      "url": "https://careers.insidehighered.com/job/3576418",
+      "date": "2026-11-16",
+      "location": "Grossmont-Cuyamaca Community College District at 92020",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3576423",
+      "title": "Contract Faculty, Department of Mechanical and Aerospace Engineering",
+      "url": "https://careers.insidehighered.com/job/3576423",
+      "date": "2026-11-16",
+      "location": "New York University at Brooklyn, New York",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3576429",
+      "title": "Assistant Professor, Indigenous Studies",
+      "url": "https://careers.insidehighered.com/job/3576429",
+      "date": "2026-11-16",
+      "location": "Mount Royal University at Calgary (Region), Alberta",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "careers-3576503",
+      "title": "Psychiatrist, Assistant Professor, Lindner Center of Hope",
+      "url": "https://careers.insidehighered.com/job/3576503",
+      "date": "2026-11-16",
+      "location": "University of Cincinnati at Cincinnati, OH",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
       "id": "careers-3576179",
       "title": "Teaching Assistant Professor, Teaching Associate Professor",
       "url": "https://careers.insidehighered.com/job/3576179",
@@ -18,7 +159,7 @@
       "location": "East Carolina University at Greenville",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +170,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC, US",
       "description": "Tenure-track assistant professor position in environmental sciences and engineering focusing on interdisciplinary environmental, energy, and health solutions.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "environmental engineering",
         "environmental chemistry",
@@ -46,7 +187,7 @@
       "location": "Sam Houston State University at College of Humanities and Social Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -57,7 +198,7 @@
       "location": "Lamar University at Beaumont, TX, TX",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -68,7 +209,7 @@
       "location": "The University of Kansas at University of Kansas Lawrence Campus",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -79,7 +220,7 @@
       "location": "Stanford University at Stanford, CA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -90,7 +231,7 @@
       "location": "Stanford University at Stanford, CA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -101,7 +242,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -112,7 +253,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -123,7 +264,7 @@
       "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -134,7 +275,7 @@
       "location": "University of Toronto at St. George (Downtown Toronto)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -145,7 +286,7 @@
       "location": "University of Toronto at St. George (Downtown Toronto)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -156,7 +297,7 @@
       "location": "Florida State University at Tallahassee, FL",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -167,7 +308,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -178,7 +319,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -189,7 +330,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -200,7 +341,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -211,7 +352,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -222,7 +363,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -233,7 +374,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -244,7 +385,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -255,7 +396,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -266,7 +407,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -277,7 +418,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -288,7 +429,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -299,7 +440,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -310,7 +451,7 @@
       "location": "The Ohio State University at Columbus Campus",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -321,7 +462,7 @@
       "location": "The Ohio State University at Columbus Campus",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -332,7 +473,7 @@
       "location": "The Ohio State University at College of Medicine/Office of Health Sciences",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
