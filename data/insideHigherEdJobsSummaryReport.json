@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-17T10:05:00-05:00",
+  "generatedAt": "2026-11-18T10:03:38-05:00",
   "model": "gemini-3.5-flash-lite",
-  "runId": "44103422828",
-  "summaryPasses": 3,
+  "runId": "44319868734",
+  "summaryPasses": 4,
   "modelsUsed": [
     "gemini-3.5-flash-lite"
   ],
@@ -16,22 +16,138 @@
       "model": "gemini-3.6-flash",
       "reason": "gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
       "nextModel": "gemini-3.5-flash-lite"
-    },
-    {
-      "model": "gemini-3.6-flash",
-      "reason": "gemini-3.6-flash network request failed; cooling down before retrying unresolved work.",
-      "nextModel": "gemini-3.5-flash-lite"
     }
   ],
-  "inputJobs": 11,
+  "inputJobs": 82,
   "alreadyProcessed": 0,
   "prefiltered": 0,
   "prefilterReasons": {},
-  "accepted": 4,
-  "rejected": 7,
-  "unsummarized": 0,
-  "complete": true,
-  "stopReason": "",
-  "pendingJobs": [],
+  "accepted": 2,
+  "rejected": 50,
+  "unsummarized": 30,
+  "complete": false,
+  "stopReason": "All configured models are deferred. gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. | gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. | gemini-3.5-flash-lite temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+  "pendingJobs": [
+    {
+      "url": "https://careers.insidehighered.com/job/3577034",
+      "title": "Photography, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577035",
+      "title": "Automotive Technology, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577044",
+      "title": "Asian American Studies (Asian-American Studies - Ethnic Studies), Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577052",
+      "title": "Interior Design, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577054",
+      "title": "Chicano Studies (Chicanx Studies And/or Latinx Studies Ethnic Studies), Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577055",
+      "title": "Gerontology, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577065",
+      "title": "Social Science, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577068",
+      "title": "Industrial Electrical Technology Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577085",
+      "title": "Graphic Design for Digital Media, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577090",
+      "title": "Full-Time Faculty - Process Technology"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577095",
+      "title": "Radiologic Technology, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577099",
+      "title": "Heating Ventilation Air Conditioning And Refrigeration (HVAC/R), Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577103",
+      "title": "Work Experience, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577107",
+      "title": "Engineering, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577108",
+      "title": "Clinical Associate/Full Professor & Vice Chair of Education"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577110",
+      "title": "Broadcasting, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577113",
+      "title": "Culinary Arts, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577116",
+      "title": "Fashion Design, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577120",
+      "title": "Part-Time Faculty - E.K.G."
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577126",
+      "title": "Athletic Performance, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577128",
+      "title": "Clinical Assistant or Associate Professor of Veterinary Clinical Pathology"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577131",
+      "title": "American Sign Language, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577133",
+      "title": "Native American (Native American/Indian American Studies Ethnic Studies), Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577138",
+      "title": "Aviation Maintenance Technology, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577141",
+      "title": "Astronomy, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577142",
+      "title": "Engineering Graphics and CAD, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577155",
+      "title": "Chemistry, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577157",
+      "title": "Part-Time Faculty - Phlebotomy"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577166",
+      "title": "Communication Studies, Part-Time Faculty Pool"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3577183",
+      "title": "Tenure Track Assistant Professor in Mathematics 2027-28"
+    }
+  ],
   "prefilterExamples": []
 }

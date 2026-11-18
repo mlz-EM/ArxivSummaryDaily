@@ -2,14 +2,47 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.5-flash-lite",
-    "generatedAt": "2026-11-17T09:40:31-05:00",
+    "generatedAt": "2026-11-18T09:10:15-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 465 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 470 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2611.22861v1",
+      "title": "Engineering antiferromagnetic (LaVO3)m/(PrVO3)n superlattices",
+      "url": "https://arxiv.org/abs/2611.22861v1",
+      "date": "2026-11-17",
+      "summary": "Demonstrates atomic-scale engineering of antiferromagnetic (LaVO3)m/(PrVO3)n superlattices via MBE. Results reveal that interface-driven structural distortions, cation displacements, and orbital hybridization can be systematically tuned to control magnetic properties in perovskite oxides.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "cond-mat-str-el"
+      ]
+    },
+    {
+      "id": "arxiv-2611.22341v1",
+      "title": "Zernike-efficient phase contrast with a scanned electron probe",
+      "url": "https://arxiv.org/abs/2611.22341v1",
+      "date": "2026-11-17",
+      "summary": "Proposes APEX, a scanned electron probe mode combining a defocused probe, a phase element, and image-plane detection. Simulations show it transfers nearly full Zernike Fisher information, accurately reconstructing phase and outperforming standard 4D-STEM ptychography.",
+      "tags": [
+        "physics-optics",
+        "quant-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2611.22153v1",
+      "title": "Swift Heavy Ion Tracks in Polymorphs of Titanium Dioxide: The Effects of Electron Beam and Crystal Structures",
+      "url": "https://arxiv.org/abs/2611.22153v1",
+      "date": "2026-11-17",
+      "summary": "Investigates swift heavy ion-induced damage in rutile and anatase TiO2 using TEM and molecular dynamics. Findings show rutile forms hourglass-like tracks while anatase forms uniform cylinders due to distinct recrystallization pathways, and highlight beam-induced recovery effects.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-app-ph"
+      ]
+    },
     {
       "id": "arxiv-2611.20878v1",
       "title": "Optical writing of Dzyaloshinskii Néel-type skyrmions",
@@ -18,6 +51,26 @@
       "summary": "This study aims to optically write nanoscale topological magnetic textures with controlled chirality. The key finding demonstrates that picosecond circularly polarized laser pulses can deterministically write Néel-type, fixed-chirality skyrmions in an ultrathin Co/Pt film, stabilized exclusively by the Dzyaloshinskii-Moriya interaction and verified across multiple length scales.",
       "tags": [
         "cond-mat-mes-hall"
+      ]
+    },
+    {
+      "id": "arxiv-2611.21903v1",
+      "title": "quantEM: Quantitative Electron Microscopy Analysis from Differentiable Physics to Neural Priors",
+      "url": "https://arxiv.org/abs/2611.21903v1",
+      "date": "2026-11-16",
+      "summary": "Introduces quantEM, an open-source PyTorch-based Python package for quantitative electron microscopy that uses differentiable physics forward models and neural priors to solve diverse multimodal inverse problems efficiently.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2611.21848v1",
+      "title": "High-resolution top-down nanopatterning of NbN thin films for superconducting metamaterials",
+      "url": "https://arxiv.org/abs/2611.21848v1",
+      "date": "2026-11-16",
+      "summary": "Reports a high-resolution top-down nanopatterning process for ultrathin epitaxial NbN films using electron-beam lithography and reactive ion etching. Fabricated dense nanowire grids and hole arrays exhibit enhanced vortex pinning and robust superconducting performance.",
+      "tags": [
+        "cond-mat-supr-con"
       ]
     },
     {
