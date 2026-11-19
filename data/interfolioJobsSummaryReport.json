@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-18T09:10:32-05:00",
+  "generatedAt": "2026-11-19T09:43:15-05:00",
   "model": "gemini-3.5-flash-lite",
-  "runId": "44319868734",
+  "runId": "44543953053",
   "summaryPasses": 1,
   "modelsUsed": [
     "gemini-3.5-flash-lite"
@@ -14,25 +14,39 @@
     },
     {
       "model": "gemini-3.6-flash",
-      "reason": "gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "reason": "gemini-3.6-flash network request failed; cooling down before retrying unresolved work.",
       "nextModel": "gemini-3.5-flash-lite"
     }
   ],
-  "inputJobs": 11,
+  "inputJobs": 21,
   "alreadyProcessed": 0,
-  "prefiltered": 1,
+  "prefiltered": 4,
   "prefilterReasons": {
-    "life_sciences": 1
+    "clinical_or_health": 1,
+    "life_sciences": 2,
+    "humanities_or_social_science": 1
   },
-  "accepted": 2,
-  "rejected": 8,
+  "accepted": 0,
+  "rejected": 17,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
   "prefilterExamples": [
     {
-      "url": "https://apply.interfolio.com/197427",
+      "url": "https://apply.interfolio.com/197524",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/197613",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://apply.interfolio.com/197847",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://apply.interfolio.com/197876",
       "reason": "life_sciences"
     }
   ]

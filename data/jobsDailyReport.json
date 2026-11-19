@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-18T09:10:24-05:00",
+  "generatedAt": "2026-11-19T09:43:06-05:00",
   "model": "gemini-3.5-flash-lite",
-  "runId": "44319868734",
+  "runId": "44543953053",
   "summaryPasses": 1,
   "modelsUsed": [
     "gemini-3.5-flash-lite"
@@ -14,35 +14,31 @@
     },
     {
       "model": "gemini-3.6-flash",
-      "reason": "gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "reason": "gemini-3.6-flash network request failed; cooling down before retrying unresolved work.",
       "nextModel": "gemini-3.5-flash-lite"
     }
   ],
-  "inputJobs": 130,
-  "alreadyProcessed": 115,
-  "prefiltered": 3,
+  "inputJobs": 110,
+  "alreadyProcessed": 105,
+  "prefiltered": 2,
   "prefilterReasons": {
-    "non_tenure_track": 2,
-    "life_sciences": 1
+    "life_sciences": 1,
+    "humanities_or_social_science": 1
   },
-  "accepted": 1,
-  "rejected": 11,
+  "accepted": 0,
+  "rejected": 3,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
   "prefilterExamples": [
     {
-      "url": "https://www.indeed.com/viewjob?jk=491e2b1568932d99",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=400c11b68ca12271",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=7aa016929d9cef53",
+      "url": "https://www.indeed.com/viewjob?jk=2169fea217172c3d",
       "reason": "life_sciences"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=a00710e7dbfc0f01",
+      "reason": "humanities_or_social_science"
     }
   ]
 }

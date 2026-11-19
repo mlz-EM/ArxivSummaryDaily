@@ -2,14 +2,61 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.5-flash-lite",
-    "generatedAt": "2026-11-18T09:10:15-05:00",
+    "generatedAt": "2026-11-19T09:42:57-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 470 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 474 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2611.24834v1",
+      "title": "Shedding Light on Quantum Non-Classicality: Witnessing Wigner Negativity with Free Electrons",
+      "url": "https://arxiv.org/abs/2611.24834v1",
+      "date": "2026-11-18",
+      "summary": "Introduces a noise-resilient framework to witness optical Wigner negativity using phase-resolved quantum photon-induced near-field electron microscopy. The protocol bypasses full optical state tomography by mapping electron coherences directly to characteristic functions and constructing a post-measurement witness matrix via Bochner's theorem.",
+      "tags": [
+        "quant-ph",
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2611.24776v1",
+      "title": "4D-TEMPO: Differentiable 4D-STEM ptychography via fast Physics Optimizers",
+      "url": "https://arxiv.org/abs/2611.24776v1",
+      "date": "2026-11-18",
+      "summary": "Proposes 4D-TEMPO, a differentiable physical renderer for 4D-STEM ptychography that fits atoms, microscopes, and detectors directly under a Poisson likelihood. The method successfully outputs per-atom uncertainty alongside reduced in-plane and depth errors while significantly accelerating reconstruction.",
+      "tags": [
+        "physics-ins-det",
+        "cond-mat-mtrl-sci",
+        "cs-cv",
+        "math-ph",
+        "physics-comp-ph"
+      ]
+    },
+    {
+      "id": "arxiv-2611.24232v1",
+      "title": "Stochastic Optimisation for Scalable Ptychographic Image Reconstruction",
+      "url": "https://arxiv.org/abs/2611.24232v1",
+      "date": "2026-11-18",
+      "summary": "Presents a scalable X-ray ptychography reconstruction framework leveraging stochastic optimization and variance reduction. By utilizing randomly sampled subsets of diffraction measurements, the approach reduces peak GPU memory usage and reconstruction time compared to standard maximum-likelihood algorithms.",
+      "tags": [
+        "eess-iv",
+        "physics-comp-ph",
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2611.23698v1",
+      "title": "Fast closed-loop STEM navigation using vision-language models with typed decisions",
+      "url": "https://arxiv.org/abs/2611.23698v1",
+      "date": "2026-11-18",
+      "summary": "Evaluates vision-language models with Typed Decisions for fast, closed-loop STEM navigation. The key finding is that Typed Decision achieves minimal latency and high navigation success rates for targeting defects and grain boundaries using natural-language specification without task-specific training.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2611.22861v1",
       "title": "Engineering antiferromagnetic (LaVO3)m/(PrVO3)n superlattices",

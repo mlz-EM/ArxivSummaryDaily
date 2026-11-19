@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.5-flash-lite",
-    "generatedAt": "2026-11-18T09:10:24-05:00",
+    "generatedAt": "2026-11-19T09:43:06-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,68 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Biology",
+      "url": "https://www.indeed.com/viewjob?jk=2169fea217172c3d",
+      "date": "2026-11-19",
+      "location": "Wesleyan College at Macon, GA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Political Science (Americanist)",
+      "url": "https://www.indeed.com/viewjob?jk=a00710e7dbfc0f01",
+      "date": "2026-11-19",
+      "location": "CENTRAL COLLEGE at Pella, IA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Teaching Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=f94f58e3dd667257",
+      "date": "2026-11-18",
+      "location": "University of North Carolina at Chapel Hill at Chapel Hill, NC, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track",
+      "url": "https://www.indeed.com/viewjob?jk=dba66d95f05e4651",
+      "date": "2026-11-18",
+      "location": "Asbury University at Wilmore, KY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Communications",
+      "url": "https://www.indeed.com/viewjob?jk=8980f0ab307b97af",
+      "date": "2026-11-11",
+      "location": "Texas A&M University Commerce at Commerce, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Teaching Professor, Finance",
       "url": "https://www.indeed.com/viewjob?jk=491e2b1568932d99",
       "date": "2026-11-18",
       "location": "Montclair State University at Montclair, NJ, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +84,7 @@
       "location": "The University of Arizona College of Nursing at Gilbert, AZ, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +95,7 @@
       "location": "US National Defense University at Norfolk, VA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +106,7 @@
       "location": "Alcorn State University at Lorman, MS, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +117,7 @@
       "location": "US National Defense University at Norfolk, VA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +128,7 @@
       "location": "Alcorn State University at Lorman, MS, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,100 +139,7 @@
       "location": "University of Pittsburgh at Pittsburgh, PA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Tenure-Track Assistant Professor of Foundations",
-      "url": "https://www.indeed.com/viewjob?jk=61165e39ab67f562",
-      "date": "2026-11-14",
-      "location": "James Madison University at Harrisonburg, VA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Geology",
-      "url": "https://www.indeed.com/viewjob?jk=51a0ee999a41927d",
-      "date": "2026-11-12",
-      "location": "COLLEGE OF CHARLESTON at Charleston, SC, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Practice",
-      "url": "https://www.indeed.com/viewjob?jk=400c11b68ca12271",
-      "date": "2026-11-10",
-      "location": "Virginia Tech at Blacksburg, VA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor",
-      "url": "https://www.indeed.com/viewjob?jk=051e2a4dceaba1cf",
-      "date": "2026-11-10",
-      "location": "Louisiana State University at Baton Rouge, LA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor - Chemical Biological & Bioengineering",
-      "url": "https://www.indeed.com/viewjob?jk=3aad3b0f9350316a",
-      "date": "2026-11-03",
-      "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
-      "description": "Tenure-track position in chemical engineering featuring advanced materials, battery technologies, and interdisciplinary engineering research.",
-      "fitScore": 3,
-      "isNew": true,
-      "keywords": [
-        "chemical engineering",
-        "advanced materials",
-        "materials characterization",
-        "electrochemical energy"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor in Quantitative Methods and Computational Psychology",
-      "url": "https://www.indeed.com/viewjob?jk=3716d3bc5e851dc1",
-      "date": "2026-10-30",
-      "location": "University of Southern California at Los Angeles, CA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Soil Microbiology",
-      "url": "https://www.indeed.com/viewjob?jk=7aa016929d9cef53",
-      "date": "2026-10-21",
-      "location": "Utah State University at Logan, UT, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor, Sport Management",
-      "url": "https://www.indeed.com/viewjob?jk=d5c9cfa580fd0fdf",
-      "date": "2026-10-21",
-      "location": "Otterbein University at Westerville, OH, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -208,6 +170,17 @@
       "url": "https://www.indeed.com/viewjob?jk=e8bd2b30ba53f325",
       "date": "2026-11-15",
       "location": "Linfield University at McMinnville, OR, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure-Track Assistant Professor of Foundations",
+      "url": "https://www.indeed.com/viewjob?jk=61165e39ab67f562",
+      "date": "2026-11-14",
+      "location": "James Madison University at Harrisonburg, VA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -423,6 +396,17 @@
       "url": "https://www.linkedin.com/jobs/view/4488586606",
       "date": "2026-11-13",
       "location": "Marshall University at Huntington, WV, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Geology",
+      "url": "https://www.indeed.com/viewjob?jk=51a0ee999a41927d",
+      "date": "2026-11-12",
+      "location": "COLLEGE OF CHARLESTON at Charleston, SC, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -793,6 +777,28 @@
       "url": "https://www.indeed.com/viewjob?jk=2e2622ecf7180d6e",
       "date": "2026-11-11",
       "location": "College Station, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Practice",
+      "url": "https://www.indeed.com/viewjob?jk=400c11b68ca12271",
+      "date": "2026-11-10",
+      "location": "Virginia Tech at Blacksburg, VA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=051e2a4dceaba1cf",
+      "date": "2026-11-10",
+      "location": "Louisiana State University at Baton Rouge, LA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -1679,6 +1685,22 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor - Chemical Biological & Bioengineering",
+      "url": "https://www.indeed.com/viewjob?jk=3aad3b0f9350316a",
+      "date": "2026-11-03",
+      "location": "North Carolina Agricultural and Technical State University at Greensboro, NC, US",
+      "description": "Tenure-track position in chemical engineering featuring advanced materials, battery technologies, and interdisciplinary engineering research.",
+      "fitScore": 3,
+      "isNew": false,
+      "keywords": [
+        "chemical engineering",
+        "advanced materials",
+        "materials characterization",
+        "electrochemical energy"
+      ]
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor, 9 Month Salaried - Spatial Data Science (Multiple Vacancies)",
       "url": "https://www.indeed.com/viewjob?jk=0790c9d44dc638d6",
       "date": "2026-11-03",
@@ -2023,6 +2045,17 @@
       "url": "https://www.linkedin.com/jobs/view/4485666280",
       "date": "2026-10-31",
       "location": "Northland Chapter of the American College of Sports Medicine at Ohio, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor in Quantitative Methods and Computational Psychology",
+      "url": "https://www.indeed.com/viewjob?jk=3716d3bc5e851dc1",
+      "date": "2026-10-30",
+      "location": "University of Southern California at Los Angeles, CA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -4042,6 +4075,28 @@
       "url": "https://www.indeed.com/viewjob?jk=ef2ec03191657cdf",
       "date": "2026-10-22",
       "location": "The University of Austin (UATX) at Austin, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Soil Microbiology",
+      "url": "https://www.indeed.com/viewjob?jk=7aa016929d9cef53",
+      "date": "2026-10-21",
+      "location": "Utah State University at Logan, UT, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Sport Management",
+      "url": "https://www.indeed.com/viewjob?jk=d5c9cfa580fd0fdf",
+      "date": "2026-10-21",
+      "location": "Otterbein University at Westerville, OH, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -60391,22 +60446,6 @@
       "fitScore": 0,
       "isNew": false,
       "keywords": []
-    },
-    {
-      "id": "www-4435531847",
-      "title": "Assistant Professor – Physics (Tenure-Track)",
-      "url": "https://www.linkedin.com/jobs/view/4435531847",
-      "date": "2025-11-18",
-      "location": "University of Idaho at Moscow, ID",
-      "description": "Tenure-track faculty role focused on experimental, theoretical, or computational physics research and instruction.",
-      "fitScore": 2,
-      "isNew": false,
-      "keywords": [
-        "physics",
-        "condensed matter",
-        "optics",
-        "computational physics"
-      ]
     },
     {
       "id": "www-4472366136",

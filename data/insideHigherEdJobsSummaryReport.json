@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-11-18T10:17:02-05:00",
-  "model": "gpt-6-luna",
-  "runId": "44319868734",
-  "summaryPasses": 5,
+  "generatedAt": "2026-11-19T09:43:47-05:00",
+  "model": "gemini-3.5-flash-lite",
+  "runId": "44543953053",
+  "summaryPasses": 1,
   "modelsUsed": [
-    "gemini-3.5-flash-lite",
-    "gpt-6-luna"
+    "gemini-3.5-flash-lite"
   ],
   "modelFallbacks": [
     {
@@ -15,26 +14,19 @@
     },
     {
       "model": "gemini-3.6-flash",
-      "reason": "gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "reason": "gemini-3.6-flash network request failed; cooling down before retrying unresolved work.",
       "nextModel": "gemini-3.5-flash-lite"
     }
   ],
-  "inputJobs": 82,
+  "inputJobs": 38,
   "alreadyProcessed": 0,
   "prefiltered": 0,
   "prefilterReasons": {},
-  "accepted": 3,
-  "rejected": 79,
+  "accepted": 0,
+  "rejected": 38,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
-  "prefilterExamples": [],
-  "manualRecovery": {
-    "model": "gpt-6-luna",
-    "reasoningEffort": "medium",
-    "reviewed": 30,
-    "accepted": 1,
-    "excluded": 29
-  }
+  "prefilterExamples": []
 }
