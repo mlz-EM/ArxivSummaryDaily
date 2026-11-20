@@ -1,44 +1,114 @@
 {
-  "generatedAt": "2026-11-19T09:43:06-05:00",
-  "model": "gemini-3.5-flash-lite",
-  "runId": "44543953053",
+  "generatedAt": "2026-11-20T09:17:32-05:00",
+  "model": "gemini-3.6-flash",
+  "runId": "44749810422",
   "summaryPasses": 1,
   "modelsUsed": [
-    "gemini-3.5-flash-lite"
+    "gemini-3.6-flash"
   ],
   "modelFallbacks": [
     {
       "model": "gemini-3.8-flash",
       "reason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
       "nextModel": "gemini-3.6-flash"
-    },
-    {
-      "model": "gemini-3.6-flash",
-      "reason": "gemini-3.6-flash network request failed; cooling down before retrying unresolved work.",
-      "nextModel": "gemini-3.5-flash-lite"
     }
   ],
-  "inputJobs": 110,
-  "alreadyProcessed": 105,
-  "prefiltered": 2,
+  "inputJobs": 140,
+  "alreadyProcessed": 53,
+  "prefiltered": 33,
   "prefilterReasons": {
-    "life_sciences": 1,
-    "humanities_or_social_science": 1
+    "life_sciences": 6,
+    "humanities_or_social_science": 7,
+    "business_or_law": 5,
+    "non_tenure_track": 12,
+    "clinical_or_health": 3
   },
-  "accepted": 0,
-  "rejected": 3,
+  "accepted": 8,
+  "rejected": 46,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
   "prefilterExamples": [
     {
-      "url": "https://www.indeed.com/viewjob?jk=2169fea217172c3d",
+      "url": "https://www.indeed.com/viewjob?jk=cc13cb91dc6b35a2",
       "reason": "life_sciences"
     },
     {
-      "url": "https://www.indeed.com/viewjob?jk=a00710e7dbfc0f01",
+      "url": "https://www.indeed.com/viewjob?jk=5b556e3c28822a9e",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=3e250cac96138347",
       "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=c833ce29d706716a",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=0471723315d77b02",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=c6caecbf41be10f7",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=cf22a0056ecba608",
+      "reason": "business_or_law"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=c01a206ca2a342a3",
+      "reason": "non_tenure_track"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=c89d71827b9e92f8",
+      "reason": "non_tenure_track"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=dc7db593ff0bd7cf",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=692690f32b629f70",
+      "reason": "business_or_law"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=be75b46daf9d36e8",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=532bddf7b1023e3f",
+      "reason": "non_tenure_track"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=814d313bd4a4041f",
+      "reason": "non_tenure_track"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=15f4b96badbccc35",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=326fa6b1d55e0437",
+      "reason": "non_tenure_track"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=cdd7323424f2b3c2",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=8fad674b2dc3e5ca",
+      "reason": "non_tenure_track"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=2444b7c1ba1fb848",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=356895332798c99e",
+      "reason": "non_tenure_track"
     }
   ]
 }

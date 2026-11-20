@@ -1,15 +1,36 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.5-flash-lite",
-    "generatedAt": "2026-11-19T09:42:57-05:00",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-11-20T09:15:44-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 474 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 477 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2611.25828v1",
+      "title": "Helices at Twisted Ferroelectric Interfaces",
+      "url": "https://arxiv.org/abs/2611.25828v1",
+      "date": "2026-11-19",
+      "summary": "This study investigates structural phenomena at twisted interfaces between ferroelectric lithium niobate single crystals. The authors discovered arrays of coherently bonded nanoscale structural and dipolar helices separated by screw dislocations. These topologically distinct, chiral helices generate unique 4D-STEM contrast and optical circular dichroism, establishing a distinct oxide-based twistronics driven by combined elastic and plastic deformation.",
+      "tags": [
+        "cond-mat-mes-hall",
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2611.25739v1",
+      "title": "Thermally driven multiple sliding states and avalanche dynamics in rhombohedral Pb(TaSe2)2 nanoflakes",
+      "url": "https://arxiv.org/abs/2611.25739v1",
+      "date": "2026-11-19",
+      "summary": "This study investigates thermally driven interlayer sliding dynamics in rhombohedral Pb(TaSe2)2 nanoflakes. The authors found that reducing flake thickness induces stepwise resistance jumps governed by power-law avalanche dynamics during domain transitions accompanied by ripplocations. Leveraging these sliding dynamics, they demonstrated controllable, non-volatile multi-level resistive switching via thermal cycling for potential 2D slidetronic applications.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
     {
       "id": "arxiv-2611.24834v1",
       "title": "Shedding Light on Quantum Non-Classicality: Witnessing Wigner Negativity with Free Electrons",
@@ -53,6 +74,16 @@
       "url": "https://arxiv.org/abs/2611.23698v1",
       "date": "2026-11-18",
       "summary": "Evaluates vision-language models with Typed Decisions for fast, closed-loop STEM navigation. The key finding is that Typed Decision achieves minimal latency and high navigation success rates for targeting defects and grain boundaries using natural-language specification without task-specific training.",
+      "tags": [
+        "cond-mat-mtrl-sci"
+      ]
+    },
+    {
+      "id": "arxiv-2611.25225v1",
+      "title": "Single-Crystal Growth, Structure, and Physical Properties of Yb2MoO6",
+      "url": "https://arxiv.org/abs/2611.25225v1",
+      "date": "2026-11-18",
+      "summary": "This work aims to synthesize millimeter-sized single crystals of rare-earth molybdate Yb2MoO6 and evaluate their physical properties. Single-crystal X-ray diffraction confirmed the stoichiometry and crystal structure. Optical analysis revealed a direct bandgap of ~3.28 eV, while magnetic susceptibility measurements demonstrated Curie-Weiss paramagnetic behavior with potential antiferromagnetic correlations and no magnetic ordering down to 10 K.",
       "tags": [
         "cond-mat-mtrl-sci"
       ]

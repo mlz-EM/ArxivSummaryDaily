@@ -1,29 +1,24 @@
 {
-  "generatedAt": "2026-11-19T09:43:47-05:00",
-  "model": "gemini-3.5-flash-lite",
-  "runId": "44543953053",
+  "generatedAt": "2026-11-20T09:19:40-05:00",
+  "model": "gemini-3.6-flash",
+  "runId": "44749810422",
   "summaryPasses": 1,
   "modelsUsed": [
-    "gemini-3.5-flash-lite"
+    "gemini-3.6-flash"
   ],
   "modelFallbacks": [
     {
       "model": "gemini-3.8-flash",
       "reason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
       "nextModel": "gemini-3.6-flash"
-    },
-    {
-      "model": "gemini-3.6-flash",
-      "reason": "gemini-3.6-flash network request failed; cooling down before retrying unresolved work.",
-      "nextModel": "gemini-3.5-flash-lite"
     }
   ],
-  "inputJobs": 38,
+  "inputJobs": 53,
   "alreadyProcessed": 0,
   "prefiltered": 0,
   "prefilterReasons": {},
-  "accepted": 0,
-  "rejected": 38,
+  "accepted": 9,
+  "rejected": 44,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
