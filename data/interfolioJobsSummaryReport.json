@@ -1,38 +1,64 @@
 {
-  "generatedAt": "2026-11-20T09:17:48-05:00",
-  "model": "gemini-3.6-flash",
-  "runId": "44749810422",
+  "generatedAt": "2026-11-21T08:40:06-05:00",
+  "model": "gemini-3.5-flash-lite",
+  "runId": "44909143471",
   "summaryPasses": 1,
   "modelsUsed": [
-    "gemini-3.6-flash"
+    "gemini-3.5-flash-lite"
   ],
   "modelFallbacks": [
     {
       "model": "gemini-3.8-flash",
       "reason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
       "nextModel": "gemini-3.6-flash"
+    },
+    {
+      "model": "gemini-3.6-flash",
+      "reason": "gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "nextModel": "gemini-3.5-flash-lite"
     }
   ],
-  "inputJobs": 8,
+  "inputJobs": 18,
   "alreadyProcessed": 0,
-  "prefiltered": 2,
+  "prefiltered": 7,
   "prefilterReasons": {
-    "clinical_or_health": 2
+    "life_sciences": 2,
+    "clinical_or_health": 5
   },
-  "accepted": 1,
-  "rejected": 5,
+  "accepted": 0,
+  "rejected": 11,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
   "prefilterExamples": [
     {
-      "url": "https://apply.interfolio.com/197668",
+      "url": "https://apply.interfolio.com/197732",
+      "reason": "life_sciences"
+    },
+    {
+      "url": "https://apply.interfolio.com/197961",
       "reason": "clinical_or_health"
     },
     {
-      "url": "https://apply.interfolio.com/197788",
+      "url": "https://apply.interfolio.com/197972",
       "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/197977",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/197978",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/198021",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/198023",
+      "reason": "life_sciences"
     }
   ]
 }
