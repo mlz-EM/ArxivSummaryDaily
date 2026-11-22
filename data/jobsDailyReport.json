@@ -1,120 +1,65 @@
 {
-  "generatedAt": "2026-11-21T08:40:05-05:00",
-  "model": "gemini-3.5-flash-lite",
-  "runId": "44909143471",
+  "generatedAt": "2026-11-22T08:31:19-05:00",
+  "model": "gemini-3.6-flash",
+  "runId": "45027211722",
   "summaryPasses": 1,
   "modelsUsed": [
-    "gemini-3.5-flash-lite"
+    "gemini-3.6-flash"
   ],
   "modelFallbacks": [
     {
       "model": "gemini-3.8-flash",
       "reason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
       "nextModel": "gemini-3.6-flash"
-    },
-    {
-      "model": "gemini-3.6-flash",
-      "reason": "gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-      "nextModel": "gemini-3.5-flash-lite"
     }
   ],
-  "inputJobs": 180,
-  "alreadyProcessed": 135,
-  "prefiltered": 22,
+  "inputJobs": 160,
+  "alreadyProcessed": 144,
+  "prefiltered": 8,
   "prefilterReasons": {
-    "non_tenure_track": 11,
-    "humanities_or_social_science": 2,
-    "life_sciences": 2,
-    "business_or_law": 3,
-    "clinical_or_health": 2,
-    "administrative": 2
+    "non_tenure_track": 4,
+    "business_or_law": 2,
+    "humanities_or_social_science": 1,
+    "clinical_or_health": 1
   },
-  "accepted": 3,
-  "rejected": 20,
+  "accepted": 0,
+  "rejected": 8,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
   "prefilterExamples": [
     {
-      "url": "https://www.linkedin.com/jobs/view/4492858610",
+      "url": "https://www.linkedin.com/jobs/view/4492891989",
       "reason": "non_tenure_track"
     },
     {
-      "url": "https://www.indeed.com/viewjob?jk=f7c82a025769aae0",
+      "url": "https://www.linkedin.com/jobs/view/4492898357",
       "reason": "non_tenure_track"
     },
     {
-      "url": "https://www.indeed.com/viewjob?jk=b0a8560ad90df282",
-      "reason": "humanities_or_social_science"
+      "url": "https://www.indeed.com/viewjob?jk=0d646db2f85f9425",
+      "reason": "non_tenure_track"
     },
     {
-      "url": "https://www.indeed.com/viewjob?jk=e0628bfb9292affc",
-      "reason": "life_sciences"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=4767ff931bb6bbd9",
+      "url": "https://www.indeed.com/viewjob?jk=5b6b9aae5969c21a",
       "reason": "business_or_law"
     },
     {
-      "url": "https://www.indeed.com/viewjob?jk=8b08e3aa14b4469b",
+      "url": "https://www.linkedin.com/jobs/view/4486820050",
       "reason": "non_tenure_track"
     },
     {
-      "url": "https://www.indeed.com/viewjob?jk=e34358907888164e",
+      "url": "https://www.indeed.com/viewjob?jk=c028ed3c5106c3f8",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=c889bc055ce09349",
+      "reason": "business_or_law"
+    },
+    {
+      "url": "https://www.indeed.com/viewjob?jk=76342be8b2a60cbb",
       "reason": "clinical_or_health"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4493201227",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4493203171",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=cdb04cbb2a89e858",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=1075508d351e2d84",
-      "reason": "humanities_or_social_science"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=47b026a468ddfdc7",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=09ee6597b2e995f8",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=5b9eb894fac92b6e",
-      "reason": "business_or_law"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=96a4c6accdf46336",
-      "reason": "administrative"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=641411c839269f96",
-      "reason": "administrative"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=e84c081fa6de835b",
-      "reason": "non_tenure_track"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=146aa06985c213f9",
-      "reason": "business_or_law"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=fca14fa5ba21f0fa",
-      "reason": "life_sciences"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4490947649",
-      "reason": "non_tenure_track"
     }
   ]
 }

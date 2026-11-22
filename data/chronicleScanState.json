@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "bootstrapComplete": true,
-  "lastRunAt": "2026-11-21T13:40:29Z",
-  "lastSitemapCount": 28850,
-  "lastSitemapMaxId": 38069693,
+  "lastRunAt": "2026-11-22T13:31:20Z",
+  "lastSitemapCount": 28496,
+  "lastSitemapMaxId": 38068469,
   "seenIds": [
     939,
     957,
@@ -66406,15 +66406,15 @@
     }
   },
   "lastScanReport": {
-    "sitemapJobs": 28850,
-    "requests": 1196,
-    "knownSkipped": 27654,
-    "queued": 138,
-    "titleExcluded": 996,
-    "profileExcluded": 58,
-    "dateExcluded": 3,
+    "sitemapJobs": 28496,
+    "requests": 0,
+    "knownSkipped": 28496,
+    "queued": 0,
+    "titleExcluded": 0,
+    "profileExcluded": 0,
+    "dateExcluded": 0,
     "expired": 0,
     "missing": 0,
-    "errors": 1
+    "errors": 0
   }
 }
