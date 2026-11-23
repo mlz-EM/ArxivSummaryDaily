@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T08:31:34-05:00",
-  "runId": "45027211722",
+  "generatedAt": "2026-11-23T12:06:27-05:00",
+  "runId": "45211549275",
   "complete": true,
   "remainingQueued": {
     "Chronicle": 0,
@@ -10,16 +10,108 @@
     "arXiv": 0
   },
   "stopReason": "",
-  "rounds": [],
+  "rounds": [
+    {
+      "pass": 1,
+      "waitSeconds": 307.3,
+      "before": {
+        "Chronicle": 13,
+        "Inside Higher Ed": 23,
+        "Interfolio": 9,
+        "JobSpy": 0,
+        "arXiv": 0
+      },
+      "after": {
+        "Chronicle": 0,
+        "Inside Higher Ed": 23,
+        "Interfolio": 9,
+        "JobSpy": 0,
+        "arXiv": 0
+      },
+      "outcomes": [
+        {
+          "source": "Chronicle",
+          "exitCode": 0
+        },
+        {
+          "source": "Inside Higher Ed",
+          "exitCode": 1
+        },
+        {
+          "source": "Interfolio",
+          "exitCode": 1
+        }
+      ]
+    },
+    {
+      "pass": 2,
+      "waitSeconds": 928.0,
+      "before": {
+        "Chronicle": 0,
+        "Inside Higher Ed": 23,
+        "Interfolio": 9,
+        "JobSpy": 0,
+        "arXiv": 0
+      },
+      "after": {
+        "Chronicle": 0,
+        "Inside Higher Ed": 23,
+        "Interfolio": 9,
+        "JobSpy": 0,
+        "arXiv": 0
+      },
+      "outcomes": [
+        {
+          "source": "Inside Higher Ed",
+          "exitCode": 1
+        },
+        {
+          "source": "Interfolio",
+          "exitCode": 1
+        }
+      ]
+    },
+    {
+      "pass": 3,
+      "waitSeconds": 1823.9,
+      "before": {
+        "Chronicle": 0,
+        "Inside Higher Ed": 23,
+        "Interfolio": 9,
+        "JobSpy": 0,
+        "arXiv": 0
+      },
+      "after": {
+        "Chronicle": 0,
+        "Inside Higher Ed": 0,
+        "Interfolio": 0,
+        "JobSpy": 0,
+        "arXiv": 0
+      },
+      "outcomes": [
+        {
+          "source": "Interfolio",
+          "exitCode": 0
+        },
+        {
+          "source": "Inside Higher Ed",
+          "exitCode": 0
+        }
+      ]
+    }
+  ],
   "runtime": {
-    "runId": "45027211722",
-    "startedAt": 1795354201.0052207,
+    "runId": "45211549275",
+    "startedAt": 1795450277.244865,
     "requests": {
-      "gemini-3.8-flash": 1,
-      "gemini-3.6-flash": 2
+      "gemini-3.8-flash": 4,
+      "gemini-3.6-flash": 5,
+      "gemini-3.5-flash-lite": 7
     },
     "serviceFailures": {
-      "gemini-3.8-flash": 1
+      "gemini-3.8-flash": 4,
+      "gemini-3.6-flash": 4,
+      "gemini-3.5-flash-lite": 3
     }
   }
 }

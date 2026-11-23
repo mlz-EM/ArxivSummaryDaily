@@ -1,15 +1,26 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-22T08:30:00-05:00",
+    "model": "gemini-3.5-flash-lite",
+    "generatedAt": "2026-11-23T11:14:20-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 477 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 478 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2611.27583v1",
+      "title": "Edge-dislocation interactions with sub 3 nm vacancy and interstitial clusters in FeCr alloys: Mechanisms, Obstacle strength and Fate",
+      "url": "https://arxiv.org/abs/2611.27583v1",
+      "date": "2026-11-20",
+      "summary": "Investigates edge-dislocation interactions with sub-3 nm vacancy and interstitial clusters in FeCr alloys using molecular dynamics. Findings show vacancy clusters form stronger, surviving platelets, whereas interstitial clusters exhibit variable strength and are mostly absorbed. This reveals that TEM-invisible defects significantly contribute to low-dose alloy hardening, improving physical hardening models.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-comp-ph"
+      ]
+    },
     {
       "id": "arxiv-2611.25828v1",
       "title": "Helices at Twisted Ferroelectric Interfaces",
