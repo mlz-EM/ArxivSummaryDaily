@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.5-flash-lite",
-    "generatedAt": "2026-11-23T11:14:23-05:00",
+    "generatedAt": "2026-11-24T11:58:26-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,145 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Teaching Assistant Professor of Dance",
+      "url": "https://www.indeed.com/viewjob?jk=7015108e5d969c3e",
+      "date": "2026-11-24",
+      "location": "George Washington University at Foggy Bottom, DC, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4493950777",
+      "title": "Lecturer/Assistant Teaching Professor of Nursing (OB-GYN)",
+      "url": "https://www.linkedin.com/jobs/view/4493950777",
+      "date": "2026-11-24",
+      "location": "Penn State University at State College-DuBois Area",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4492628587",
+      "title": "Clinical Assistant Professor - School of Nursing (Charleston Campus)",
+      "url": "https://www.linkedin.com/jobs/view/4492628587",
+      "date": "2026-11-24",
+      "location": "West Virginia University at Charleston, WV, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4492658610",
+      "title": "Term Faculty, School of Nursing",
+      "url": "https://www.linkedin.com/jobs/view/4492658610",
+      "date": "2026-11-24",
+      "location": "VCU School of Nursing at Richmond, VA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4493771162",
+      "title": "Assistant Professor of Neurosurgery, Tenure Track in the Department of Neurosurgery, Perelman School of Medicine at the University of Pennsylvania, specializing in Neuro-Oncology",
+      "url": "https://www.linkedin.com/jobs/view/4493771162",
+      "date": "2026-11-23",
+      "location": "University of Pennsylvania Perelman School of Medicine at Philadelphia, PA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4494074886",
+      "title": "UNIV-Full-time Faculty, Tenure track, DNP Program, Family Nurse Practitioner -College of Nursing",
+      "url": "https://www.linkedin.com/jobs/view/4494074886",
+      "date": "2026-11-23",
+      "location": "MUSC Health at Charleston, South Carolina Metropolitan Area",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Music - Tenure-Track",
+      "url": "https://www.indeed.com/viewjob?jk=994e17d4ddec4ea2",
+      "date": "2026-11-23",
+      "location": "Southwestern University at Georgetown, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Teaching in African Dance",
+      "url": "https://www.indeed.com/viewjob?jk=31b47a9ca407d65c",
+      "date": "2026-11-10",
+      "location": "Wayne State University at Detroit, MI, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Social Work (10 months - Tenure Track)",
+      "url": "https://www.indeed.com/viewjob?jk=32625d85b0db17fa",
+      "date": "2026-11-02",
+      "location": "Ramapo College of New Jersey at Mahwah, NJ, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Teaching Professor",
+      "url": "https://www.indeed.com/viewjob?jk=8db1a57718ada70c",
+      "date": "2026-10-28",
+      "location": "Worcester Polytechnic Institute at Worcester, MA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Accounting",
+      "url": "https://www.indeed.com/viewjob?jk=ee22609e3d7edb8c",
+      "date": "2026-10-28",
+      "location": "University of Tampa at Tampa, FL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, MCBS—AI Biochemistry",
+      "url": "https://www.indeed.com/viewjob?jk=205e569deca68f8a",
+      "date": "2026-10-28",
+      "location": "University System of New Hampshire at Durham, NH, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Open Rank Professor (Assistant/Associate) - Biochemistry",
       "url": "https://www.indeed.com/viewjob?jk=74364f2827028ef4",
       "date": "2026-11-23",
       "location": "Texas A&M University Commerce at Commerce, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +161,7 @@
       "location": "Sewanee at Sewanee, TN, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +172,7 @@
       "location": "Sewanee at Sewanee, TN, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +183,7 @@
       "location": "Texas A&M University Commerce at Commerce, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +194,7 @@
       "location": "Texas A&M University Commerce at Commerce, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +205,7 @@
       "location": "UNC Charlotte at Charlotte, NC, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {

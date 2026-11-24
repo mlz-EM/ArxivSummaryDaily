@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.5-flash-lite",
-    "generatedAt": "2026-11-23T11:19:47-05:00",
+    "generatedAt": "2026-11-24T11:58:26-05:00",
     "source": "Chronicle Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from The Chronicle of Higher Education Jobs.",
@@ -18,7 +18,7 @@
       "location": "Rutgers School of Engineering at Piscataway, NJ, US",
       "description": "Seeking candidates in innovative materials, climate-resilient infrastructure, structural monitoring, and advanced computational mechanics.",
       "fitScore": 1,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "structural engineering",
         "smart materials",
@@ -34,7 +34,7 @@
       "location": "Rutgers School of Engineering at Piscataway, NJ, US",
       "description": "Seeking expertise in advanced materials and manufacturing for space and extreme environments.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "aerospace engineering",
         "advanced materials",
@@ -50,7 +50,7 @@
       "location": "Sarah Lawrence College at New York, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -61,7 +61,7 @@
       "location": "Indiana University Bloomington at Bloomington, Indiana, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -72,7 +72,7 @@
       "location": "Indiana University Bloomington at Bloomington, Indiana, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -83,7 +83,7 @@
       "location": "Indiana University Bloomington at Bloomington, Indiana, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -94,7 +94,7 @@
       "location": "Fairfield University at Fairfield, Connecticut, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -105,7 +105,7 @@
       "location": "Rutgers School of Engineering at Piscataway, New Jersey",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -116,7 +116,7 @@
       "location": "Rutgers School of Engineering at Piscataway, New Jersey",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -127,7 +127,7 @@
       "location": "UCLA Department of Film, Television & Digital Media at Los Angeles, California (US)",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -138,7 +138,7 @@
       "location": "Austin Community College at Texas, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -149,18 +149,7 @@
       "location": "University of Georgia at Athens, Georgia, United States",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "jobs-38067968",
-      "title": "Research Assistant Professor",
-      "url": "https://jobs.chronicle.com/job/38067968",
-      "date": "2026-11-18",
-      "location": "University of Hong Kong at Hong Kong",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -1601,6 +1590,17 @@
       "url": "https://jobs.chronicle.com/job/38068458",
       "date": "2026-11-19",
       "location": "Texas Tech University - Health Sciences Center at Odessa, Texas, United States",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "jobs-38067968",
+      "title": "Research Assistant Professor",
+      "url": "https://jobs.chronicle.com/job/38067968",
+      "date": "2026-11-18",
+      "location": "University of Hong Kong at Hong Kong",
       "description": "",
       "fitScore": 0,
       "isNew": false,

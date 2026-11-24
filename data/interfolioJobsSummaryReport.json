@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T12:06:07-05:00",
-  "model": "gemini-3.6-flash",
-  "runId": "45211549275",
-  "summaryPasses": 4,
+  "generatedAt": "2026-11-24T11:27:49-05:00",
+  "model": "gemini-3.5-flash-lite",
+  "runId": "45431011479",
+  "summaryPasses": 3,
   "modelsUsed": [
-    "gemini-3.6-flash"
+    "gemini-3.5-flash-lite"
   ],
   "modelFallbacks": [
     {
@@ -14,23 +14,24 @@
     },
     {
       "model": "gemini-3.6-flash",
-      "reason": "gemini-3.6-flash network request failed; cooling down before retrying unresolved work.",
+      "reason": "gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
       "nextModel": "gemini-3.5-flash-lite"
     },
     {
       "model": "gemini-3.6-flash",
-      "reason": "gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "reason": "gemini-3.6-flash network request failed; cooling down before retrying unresolved work.",
       "nextModel": "gemini-3.5-flash-lite"
     }
   ],
-  "inputJobs": 13,
+  "inputJobs": 14,
   "alreadyProcessed": 0,
-  "prefiltered": 4,
+  "prefiltered": 6,
   "prefilterReasons": {
-    "clinical_or_health": 3,
+    "clinical_or_health": 4,
+    "humanities_or_social_science": 1,
     "life_sciences": 1
   },
-  "accepted": 1,
+  "accepted": 0,
   "rejected": 8,
   "unsummarized": 0,
   "complete": true,
@@ -38,19 +39,27 @@
   "pendingJobs": [],
   "prefilterExamples": [
     {
-      "url": "https://apply.interfolio.com/197714",
+      "url": "https://apply.interfolio.com/197720",
       "reason": "clinical_or_health"
     },
     {
-      "url": "https://apply.interfolio.com/198041",
+      "url": "https://apply.interfolio.com/197886",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/198039",
+      "reason": "humanities_or_social_science"
+    },
+    {
+      "url": "https://apply.interfolio.com/198079",
+      "reason": "clinical_or_health"
+    },
+    {
+      "url": "https://apply.interfolio.com/198082",
       "reason": "life_sciences"
     },
     {
-      "url": "https://apply.interfolio.com/198052",
-      "reason": "clinical_or_health"
-    },
-    {
-      "url": "https://apply.interfolio.com/198060",
+      "url": "https://apply.interfolio.com/198106",
       "reason": "clinical_or_health"
     }
   ]

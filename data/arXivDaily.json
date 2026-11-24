@@ -1,15 +1,37 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.5-flash-lite",
-    "generatedAt": "2026-11-23T11:14:20-05:00",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-11-24T11:03:46-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 478 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 480 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2611.29563v1",
+      "title": "Ballistic propagation-mediated super-resolution light-element imaging: in-situ tracking dynamic hydrogen migration",
+      "url": "https://arxiv.org/abs/2611.29563v1",
+      "date": "2026-11-22",
+      "summary": "This study aims to resolve atomic-scale hydrogen dynamics in materials using transmission electron microscopy. The authors demonstrate that ballistic propagation of particle-like electrons in aberration-corrected TEM achieves super-resolution light-element imaging down to 14 pm with ~24% hydrogen contrast. This enables in-situ tracking of dynamic hydrogen aggregation, inter-site migration, and tunneling-induced polarization surges in functional oxides.",
+      "tags": [
+        "cond-mat-mtrl-sci",
+        "physics-chem-ph",
+        "physics-ins-det"
+      ]
+    },
+    {
+      "id": "arxiv-2611.28912v1",
+      "title": "MCP-based EUV ptychography with physics-simulation-trained residual learning",
+      "url": "https://arxiv.org/abs/2611.28912v1",
+      "date": "2026-11-21",
+      "summary": "This study aims to overcome spatial blur and nonlinear detector responses in microchannel-plate-based extreme-ultraviolet (EUV) ptychography. Using a residual-learning neural network trained on simulated detector degradation to restore diffraction patterns, the system significantly improves image quality, achieving an effective edge-response width of 1.08 μm and enabling high-resolution wavelength-multiplexed EUV imaging.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
     {
       "id": "arxiv-2611.27583v1",
       "title": "Edge-dislocation interactions with sub 3 nm vacancy and interstitial clusters in FeCr alloys: Mechanisms, Obstacle strength and Fate",
