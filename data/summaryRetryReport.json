@@ -1,15 +1,15 @@
 {
   "generatedAt": "2026-11-24T11:58:27-05:00",
   "runId": "45431011479",
-  "complete": false,
+  "complete": true,
   "remainingQueued": {
-    "Chronicle": 92,
+    "Chronicle": 0,
     "Inside Higher Ed": 0,
     "Interfolio": 0,
-    "JobSpy": 20,
+    "JobSpy": 0,
     "arXiv": 0
   },
-  "stopReason": "Delayed recovery passes exhausted; remaining records will be retried next run.",
+  "stopReason": "",
   "rounds": [
     {
       "pass": 1,
@@ -125,5 +125,38 @@
       "gemini-3.6-flash": 4,
       "gemini-3.5-flash-lite": 4
     }
+  },
+  "manualRecovery": {
+    "schemaVersion": 1,
+    "generatedAt": "2026-11-24T12:08:20-05:00",
+    "sourceRunId": "45431011479",
+    "model": "gpt-6-luna",
+    "reasoningEffort": "medium",
+    "reviewed": 112,
+    "accepted": 11,
+    "rejected": 101,
+    "unsummarized": 0,
+    "sources": {
+      "chronicle": {
+        "reviewed": 92,
+        "accepted": 10,
+        "rejected": 82,
+        "remainingQueued": 0
+      },
+      "jobSpy": {
+        "reviewed": 20,
+        "accepted": 1,
+        "rejected": 19,
+        "remainingQueued": 0
+      }
+    },
+    "previousRemainingQueued": {
+      "Chronicle": 92,
+      "Inside Higher Ed": 0,
+      "Interfolio": 0,
+      "JobSpy": 20,
+      "arXiv": 0
+    },
+    "previousStopReason": "Delayed recovery passes exhausted; remaining records will be retried next run."
   }
 }

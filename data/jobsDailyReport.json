@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-24T11:58:26-05:00",
-  "model": "gemini-3.5-flash-lite",
+  "generatedAt": "2026-11-24T12:08:20-05:00",
+  "model": "gpt-6-luna",
   "runId": "45431011479",
-  "summaryPasses": 4,
-  "modelsUsed": [],
+  "summaryPasses": 5,
+  "modelsUsed": [
+    "gpt-6-luna"
+  ],
   "modelFallbacks": [
     {
       "model": "gemini-3.8-flash",
@@ -31,93 +33,12 @@
     "life_sciences": 2,
     "business_or_law": 1
   },
-  "accepted": 0,
-  "rejected": 0,
-  "unsummarized": 20,
-  "complete": false,
-  "stopReason": "All configured models are deferred. gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. | gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. | gemini-3.5-flash-lite temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-  "pendingJobs": [
-    {
-      "url": "https://www.indeed.com/viewjob?jk=8f9e7c72cd177ccf",
-      "title": "Assistant/Associate Professor - Stratigraphy and Subsurface Geology"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4494078880",
-      "title": "Assistant Professor"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4493975747",
-      "title": "ASDOH - CCU Director, Assistant Professor, General Dentist"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4493021229",
-      "title": "Assistant Professor- IL- Nurse Anesthesia Program"
-    },
-    {
-      "url": "https://www.linkedin.com/jobs/view/4493951472",
-      "title": "Professor of Medical Assisting (Grant Funded - San Luis & Yuma Campuses)"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=42c6e318784e5527",
-      "title": "Assistant Professor of Trombone"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=9d8a019408734325",
-      "title": "Tenure Track Associate/Full Professor of Health Sciences (2027 2028)"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=b4730c040692d219",
-      "title": "Assistant Professor of Computation Archival Science"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=6a8a18e6358da54c",
-      "title": "Assistant/Associate Professor of Computer Science"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=aba1013a8d659e01",
-      "title": "Assistant/Associate Professor of Construction Management"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=47e396395af9aed5",
-      "title": "Assistant/Associate Director, Center for Teaching Excellence (Assistant/Associate Professor)"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=57b3efa9c69610ca",
-      "title": "Tenure Track Assistant Professor Sport Management (2027 2028)"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=5c58c96a9cac609f",
-      "title": "Associate or Full Professor of AI Security (Tenure Track/Tenured,F0144A)"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=b51e21be61fdcddb",
-      "title": "Assistant Professor, Geography"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=ecb32156e5b7aba4",
-      "title": "Open Rank Professor - Swine Nutrition"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=f978e266ab26cb67",
-      "title": "Faculty, Assistant or Associate Professor - Public Policy"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=221da8925ef784d4",
-      "title": "Faculty - Assistant Professor - MSW/BSW Programs"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=cc740f885224e0bd",
-      "title": "Assistant Professor of Teaching"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=95ac447c1628e28e",
-      "title": "Assistant Professor of Public Relations - Advertising"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=f67c3b7e265f1339",
-      "title": "Assistant Professor"
-    }
-  ],
+  "accepted": 1,
+  "rejected": 19,
+  "unsummarized": 0,
+  "complete": true,
+  "stopReason": "",
+  "pendingJobs": [],
   "prefilterExamples": [
     {
       "url": "https://www.indeed.com/viewjob?jk=7015108e5d969c3e",
@@ -167,5 +88,13 @@
       "url": "https://www.indeed.com/viewjob?jk=205e569deca68f8a",
       "reason": "life_sciences"
     }
-  ]
+  ],
+  "manualRecovery": {
+    "model": "gpt-6-luna",
+    "reasoningEffort": "medium",
+    "reviewed": 20,
+    "accepted": 1,
+    "rejected": 19,
+    "remainingQueued": 0
+  }
 }
