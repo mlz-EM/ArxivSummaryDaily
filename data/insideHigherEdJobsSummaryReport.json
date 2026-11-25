@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-24T11:24:47-05:00",
+  "generatedAt": "2026-11-25T10:49:57-05:00",
   "model": "gemini-3.6-flash",
-  "runId": "45431011479",
-  "summaryPasses": 3,
+  "runId": "45647513072",
+  "summaryPasses": 1,
   "modelsUsed": [
     "gemini-3.6-flash"
   ],
@@ -11,19 +11,14 @@
       "model": "gemini-3.8-flash",
       "reason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
       "nextModel": "gemini-3.6-flash"
-    },
-    {
-      "model": "gemini-3.6-flash",
-      "reason": "gemini-3.6-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
-      "nextModel": "gemini-3.5-flash-lite"
     }
   ],
-  "inputJobs": 15,
+  "inputJobs": 12,
   "alreadyProcessed": 0,
   "prefiltered": 0,
   "prefilterReasons": {},
-  "accepted": 1,
-  "rejected": 14,
+  "accepted": 2,
+  "rejected": 10,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",

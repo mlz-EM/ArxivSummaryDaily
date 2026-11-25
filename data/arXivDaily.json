@@ -2,14 +2,48 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-11-24T11:03:46-05:00",
+    "generatedAt": "2026-11-25T10:48:51-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
-      "This report includes the most recent 480 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
+      "This report includes the most recent 483 arXiv papers related to the keyword \"(all:\"ptychography\" OR all:\"electron microscopy\")\".",
       "This page is powered by [ArxivSummaryDaily](https://github.com/dong-zehao/ArxivSummaryDaily)."
     ]
   },
   "items": [
+    {
+      "id": "arxiv-2611.32664v1",
+      "title": "A library-based approach for inverse reconstruction of cavity depth using angle-resolved cathodoluminescence",
+      "url": "https://arxiv.org/abs/2611.32664v1",
+      "date": "2026-11-24",
+      "summary": "This paper aims to reconstruct nanostructure cavity depth using angle-resolved cathodoluminescence (AR-CL) in a scanning electron microscope. The authors find that sidewall-reflected CL forms interferograms, which can be modeled with FDTD; a neural network trained on these patterns successfully reconstructs cavity depth, establishing AR-CL as a proof-of-concept for advanced 3D nanostructure metrology.",
+      "tags": [
+        "physics-optics"
+      ]
+    },
+    {
+      "id": "arxiv-2611.32325v1",
+      "title": "A recursive self-improvement framework for electron microscopy analysis",
+      "url": "https://arxiv.org/abs/2611.32325v1",
+      "date": "2026-11-24",
+      "summary": "This work aims to automate local atomic structure analysis in electron microscopy and convert expert feedback into reusable code updates. The proposed PhyEvo-Mic-RSI framework recursively updates execution paths and code, outperforming larger models in atomic point-defect detection and boosting cross-material interface coverage from 5.13% to 72.11% within a 10% area budget.",
+      "tags": [
+        "cs-cv",
+        "cond-mat-mtrl-sci",
+        "cs-ai"
+      ]
+    },
+    {
+      "id": "arxiv-2611.32156v1",
+      "title": "Toward light-controlled transverse Wigner ordering in attosecond electron beams",
+      "url": "https://arxiv.org/abs/2611.32156v1",
+      "date": "2026-11-24",
+      "summary": "This study aims to achieve transient, substrate-free transverse Wigner ordering in free-electron beams overcoming kinetic fluctuations and space-charge expansion. By combining photon-induced near-field electron microscopy attosecond bunching, synchronized magnetic focusing, and spatial preconditioning, Monte Carlo simulations demonstrate that sixfold order survives quantum fluctuations in magnetic fields ranging from sub-Tesla to 1 T.",
+      "tags": [
+        "physics-optics",
+        "physics-acc-ph",
+        "quant-ph"
+      ]
+    },
     {
       "id": "arxiv-2611.29563v1",
       "title": "Ballistic propagation-mediated super-resolution light-element imaging: in-situ tracking dynamic hydrogen migration",

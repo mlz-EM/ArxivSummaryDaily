@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T11:58:27-05:00",
-  "runId": "45431011479",
+  "generatedAt": "2026-11-25T10:49:57-05:00",
+  "runId": "45647513072",
   "complete": true,
   "remainingQueued": {
     "Chronicle": 0,
@@ -10,153 +10,16 @@
     "arXiv": 0
   },
   "stopReason": "",
-  "rounds": [
-    {
-      "pass": 1,
-      "waitSeconds": 303.3,
-      "before": {
-        "Chronicle": 92,
-        "Inside Higher Ed": 15,
-        "Interfolio": 8,
-        "JobSpy": 20,
-        "arXiv": 0
-      },
-      "after": {
-        "Chronicle": 92,
-        "Inside Higher Ed": 15,
-        "Interfolio": 8,
-        "JobSpy": 20,
-        "arXiv": 0
-      },
-      "outcomes": [
-        {
-          "source": "Chronicle",
-          "exitCode": 1
-        },
-        {
-          "source": "Inside Higher Ed",
-          "exitCode": 1
-        },
-        {
-          "source": "Interfolio",
-          "exitCode": 1
-        },
-        {
-          "source": "JobSpy",
-          "exitCode": 1
-        }
-      ]
-    },
-    {
-      "pass": 2,
-      "waitSeconds": 911.1,
-      "before": {
-        "Chronicle": 92,
-        "Inside Higher Ed": 15,
-        "Interfolio": 8,
-        "JobSpy": 20,
-        "arXiv": 0
-      },
-      "after": {
-        "Chronicle": 92,
-        "Inside Higher Ed": 0,
-        "Interfolio": 0,
-        "JobSpy": 20,
-        "arXiv": 0
-      },
-      "outcomes": [
-        {
-          "source": "Inside Higher Ed",
-          "exitCode": 0
-        },
-        {
-          "source": "Interfolio",
-          "exitCode": 0
-        },
-        {
-          "source": "JobSpy",
-          "exitCode": 1
-        },
-        {
-          "source": "Chronicle",
-          "exitCode": 1
-        }
-      ]
-    },
-    {
-      "pass": 3,
-      "waitSeconds": 1824.0,
-      "before": {
-        "Chronicle": 92,
-        "Inside Higher Ed": 0,
-        "Interfolio": 0,
-        "JobSpy": 20,
-        "arXiv": 0
-      },
-      "after": {
-        "Chronicle": 92,
-        "Inside Higher Ed": 0,
-        "Interfolio": 0,
-        "JobSpy": 20,
-        "arXiv": 0
-      },
-      "outcomes": [
-        {
-          "source": "JobSpy",
-          "exitCode": 1
-        },
-        {
-          "source": "Chronicle",
-          "exitCode": 1
-        }
-      ]
-    }
-  ],
+  "rounds": [],
   "runtime": {
-    "runId": "45431011479",
-    "startedAt": 1795536213.5467362,
+    "runId": "45647513072",
+    "startedAt": 1795621721.953883,
     "requests": {
-      "gemini-3.8-flash": 4,
-      "gemini-3.6-flash": 6,
-      "gemini-3.5-flash-lite": 5
+      "gemini-3.8-flash": 1,
+      "gemini-3.6-flash": 4
     },
     "serviceFailures": {
-      "gemini-3.8-flash": 4,
-      "gemini-3.6-flash": 4,
-      "gemini-3.5-flash-lite": 4
+      "gemini-3.8-flash": 1
     }
-  },
-  "manualRecovery": {
-    "schemaVersion": 1,
-    "generatedAt": "2026-11-24T12:08:20-05:00",
-    "sourceRunId": "45431011479",
-    "model": "gpt-6-luna",
-    "reasoningEffort": "medium",
-    "reviewed": 112,
-    "accepted": 11,
-    "rejected": 101,
-    "unsummarized": 0,
-    "sources": {
-      "chronicle": {
-        "reviewed": 92,
-        "accepted": 10,
-        "rejected": 82,
-        "remainingQueued": 0
-      },
-      "jobSpy": {
-        "reviewed": 20,
-        "accepted": 1,
-        "rejected": 19,
-        "remainingQueued": 0
-      }
-    },
-    "previousRemainingQueued": {
-      "Chronicle": 92,
-      "Inside Higher Ed": 0,
-      "Interfolio": 0,
-      "JobSpy": 20,
-      "arXiv": 0
-    },
-    "previousStopReason": "Delayed recovery passes exhausted; remaining records will be retried next run."
   }
 }
