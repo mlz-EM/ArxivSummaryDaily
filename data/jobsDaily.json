@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.6-flash",
-    "generatedAt": "2026-11-25T10:49:36-05:00",
+    "model": "gemini-3.8-flash",
+    "generatedAt": "2026-11-26T10:27:56-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,134 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor, Foundation Design and Architectural History/Theory",
+      "url": "https://www.indeed.com/viewjob?jk=8ffc61e05cb920e1",
+      "date": "2026-11-26",
+      "location": "University of Arkansas at Fayetteville, AR, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor - Combinatorics - Department of Mathematics",
+      "url": "https://www.indeed.com/viewjob?jk=993fe38d5417f3cc",
+      "date": "2026-11-26",
+      "location": "University of Miami at Coral Gables, FL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Teaching Assistant Professor",
+      "url": "https://www.indeed.com/viewjob?jk=ddddc4428c6b6777",
+      "date": "2026-11-26",
+      "location": "University of Arkansas at Fayetteville, AR, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Design, Technology, and Applied Workflows",
+      "url": "https://www.indeed.com/viewjob?jk=9b6e099769ee9b25",
+      "date": "2026-11-26",
+      "location": "University of Arkansas at Fayetteville, AR, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Communication Studies",
+      "url": "https://www.indeed.com/viewjob?jk=8a6997a2723f326a",
+      "date": "2026-11-26",
+      "location": "San Bernardino Community College District at San Bernardino, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Art History",
+      "url": "https://www.indeed.com/viewjob?jk=2182d580ee9fe1b4",
+      "date": "2026-11-25",
+      "location": "University of Houston at Houston, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of English",
+      "url": "https://www.indeed.com/viewjob?jk=d3e40564c6320167",
+      "date": "2026-11-25",
+      "location": "University of Central Arkansas at Conway, AR, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4494967388",
+      "title": "Professor/Associate Professor, Chair Pathology & Lab Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4494967388",
+      "date": "2026-11-25",
+      "location": "University of Nevada, Reno School of Medicine at Greater Reno Area",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Art",
+      "url": "https://www.indeed.com/viewjob?jk=0ce3036db15461ed",
+      "date": "2026-11-25",
+      "location": "University of Houston at Houston, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor Notice of Filing",
+      "url": "https://www.indeed.com/viewjob?jk=e968ea1718b8b579",
+      "date": "2026-11-25",
+      "location": "University of Wisconsin–Madison at Madison, WI, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "School of Architecture, Carnegie Mellon University Assistant Professor of Architecture, Tenure Track",
+      "url": "https://www.indeed.com/viewjob?jk=2ba5d7d32f21e6ab",
+      "date": "2026-11-24",
+      "location": "Carnegie Mellon University at Pittsburgh, PA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Teaching Assistant Professor of Mechanical Engineering Technology (Non-Tenure Track, F0379A)",
       "url": "https://www.indeed.com/viewjob?jk=099d9ca7c0c369c7",
       "date": "2026-11-25",
       "location": "Old Dominion University at Norfolk, VA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +150,7 @@
       "location": "Montclair State University at Montclair, NJ, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +161,7 @@
       "location": "City University of New York at Queens, NY, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +172,7 @@
       "location": "University of Mississippi at University, MS, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +183,7 @@
       "location": "SUNY Morrisville at Morrisville, NY, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +194,7 @@
       "location": "University of Nebraska at Lincoln, NE, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +205,7 @@
       "location": "University of Arkansas at Fayetteville, AR, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +216,7 @@
       "location": "University of Arkansas at Fayetteville, AR, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +227,7 @@
       "location": "Norwich University at Northfield, VT, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,7 +238,7 @@
       "location": "Bowdoin College at Brunswick, ME, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -128,7 +249,7 @@
       "location": "Farmingdale State College at Farmingdale, NY, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -139,7 +260,7 @@
       "location": "University of Illinois at Chicago, IL, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -150,7 +271,7 @@
       "location": "SUNY Morrisville at Morrisville, NY, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -161,7 +282,7 @@
       "location": "University of California - Santa Cruz at Santa Cruz, CA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -172,7 +293,7 @@
       "location": "Hofstra University at Hempstead, NY, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -183,7 +304,7 @@
       "location": "Virginia Tech at Blacksburg, VA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -194,7 +315,7 @@
       "location": "Loyola University Chicago at Chicago, IL, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -205,7 +326,7 @@
       "location": "Indiana University at IN, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -216,7 +337,7 @@
       "location": "University of Illinois at Chicago, IL, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -227,7 +348,7 @@
       "location": "BALDWIN WALLACE UNIVERSITY at Berea, OH, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -238,7 +359,7 @@
       "location": "University of Houston at Houston, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -249,7 +370,7 @@
       "location": "University of Houston at Houston, TX, US",
       "description": "Tenure-track position directing and teaching in engineering technology with emphasis on industrial materials and manufacturing.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "materials",
         "manufacturing",
@@ -266,7 +387,7 @@
       "location": "University of Utah at Salt Lake City, UT, US",
       "description": "Tenure-track open-rank faculty position in mining engineering focusing on rock mechanics, mineral processing, and extraction.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "mining engineering",
         "rock mechanics",
@@ -283,7 +404,7 @@
       "location": "University of Houston at Houston, TX, US",
       "description": "Tenure-track position in mechanical engineering with research and teaching opportunities in materials testing and composites.",
       "fitScore": 2,
-      "isNew": true,
+      "isNew": false,
       "keywords": [
         "mechanical engineering",
         "materials testing",
@@ -300,7 +421,7 @@
       "location": "University of Arkansas at Fort Smith, AR, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -311,7 +432,7 @@
       "location": "San Bernardino Community College District at San Bernardino, CA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -322,7 +443,7 @@
       "location": "University of California - Santa Cruz at Santa Cruz, CA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -333,7 +454,7 @@
       "location": "Florida State University at Tallahassee, FL, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -344,7 +465,7 @@
       "location": "New Mexico Highlands University at Las Vegas, NM, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -355,7 +476,7 @@
       "location": "Texas Tech University Health Sciences Center at Lubbock, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -366,7 +487,7 @@
       "location": "University of Houston at Houston, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -377,7 +498,7 @@
       "location": "Mount Mary University at Milwaukee, WI, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -388,7 +509,7 @@
       "location": "Lincoln, NE, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -399,135 +520,7 @@
       "location": "Southern Illinois University Carbondale at Carbondale, IL, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Cell Biology and Microbiology (Tenure Track)",
-      "url": "https://www.indeed.com/viewjob?jk=9d8d89432a117a7e",
-      "date": "2026-11-23",
-      "location": "Marietta College at Marietta, OH, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Architectural History",
-      "url": "https://www.indeed.com/viewjob?jk=0dc1029b72e50efd",
-      "date": "2026-11-23",
-      "location": "COLLEGE OF CHARLESTON at Charleston, SC, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Toxicology and Genetics (Tenure Track)",
-      "url": "https://www.indeed.com/viewjob?jk=544f35cedd36b413",
-      "date": "2026-11-23",
-      "location": "Marietta College at Marietta, OH, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of Mechanical Engineering Technology",
-      "url": "https://www.indeed.com/viewjob?jk=773f39d1699da5e0",
-      "date": "2026-11-23",
-      "location": "Purdue University at Fort Wayne, IN, US",
-      "description": "Tenure-track assistant professor position teaching mechanical engineering technology including materials and processes.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "materials and processes",
-        "mechanical engineering technology",
-        "CAD",
-        "applied mechanics",
-        "engineering technology"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor of First-Year Engineering Technology",
-      "url": "https://www.indeed.com/viewjob?jk=6a3049edc5dd5c09",
-      "date": "2026-11-23",
-      "location": "Purdue University at Fort Wayne, IN, US",
-      "description": "Tenure-track faculty position in first-year engineering technology focusing on foundational instruction and project-based learning.",
-      "fitScore": 1,
-      "isNew": true,
-      "keywords": [
-        "engineering technology",
-        "first-year engineering",
-        "CAD",
-        "applied engineering",
-        "engineering education"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Tenure Line Open Rank",
-      "url": "https://www.indeed.com/viewjob?jk=6ac994c830762dd1",
-      "date": "2026-11-23",
-      "location": "University of Utah at Salt Lake City, UT, US",
-      "description": "Tenure-track open-rank faculty position in mining engineering with research in rock mechanics, materials, and processing.",
-      "fitScore": 2,
-      "isNew": true,
-      "keywords": [
-        "mining engineering",
-        "rock mechanics",
-        "mineral processing",
-        "materials",
-        "resource extraction"
-      ]
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor, Design & Technology - Architecture",
-      "url": "https://www.indeed.com/viewjob?jk=cf49420273541ddb",
-      "date": "2026-11-23",
-      "location": "University of Illinois at Urbana, IL, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Tenure Track Position - Department of Biological Sciences",
-      "url": "https://www.indeed.com/viewjob?jk=3d231b2a93acf062",
-      "date": "2026-11-20",
-      "location": "Carnegie Mellon University at Pittsburgh, PA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Post-Baccalaureate Scholar",
-      "url": "https://www.indeed.com/viewjob?jk=878fd7d356d7d112",
-      "date": "2026-11-20",
-      "location": "Stanford University at Stanford, CA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "Assistant Professor & Director of Opera Studies",
-      "url": "https://www.indeed.com/viewjob?jk=182ca33f9a6a1cd3",
-      "date": "2026-11-20",
-      "location": "Carnegie Mellon University at Pittsburgh, PA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -613,6 +606,101 @@
       "url": "https://www.linkedin.com/jobs/view/4493021229",
       "date": "2026-11-24",
       "location": "Midwestern University at Downers Grove, IL, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Cell Biology and Microbiology (Tenure Track)",
+      "url": "https://www.indeed.com/viewjob?jk=9d8d89432a117a7e",
+      "date": "2026-11-23",
+      "location": "Marietta College at Marietta, OH, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Architectural History",
+      "url": "https://www.indeed.com/viewjob?jk=0dc1029b72e50efd",
+      "date": "2026-11-23",
+      "location": "COLLEGE OF CHARLESTON at Charleston, SC, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Toxicology and Genetics (Tenure Track)",
+      "url": "https://www.indeed.com/viewjob?jk=544f35cedd36b413",
+      "date": "2026-11-23",
+      "location": "Marietta College at Marietta, OH, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of Mechanical Engineering Technology",
+      "url": "https://www.indeed.com/viewjob?jk=773f39d1699da5e0",
+      "date": "2026-11-23",
+      "location": "Purdue University at Fort Wayne, IN, US",
+      "description": "Tenure-track assistant professor position teaching mechanical engineering technology including materials and processes.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "materials and processes",
+        "mechanical engineering technology",
+        "CAD",
+        "applied mechanics",
+        "engineering technology"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor of First-Year Engineering Technology",
+      "url": "https://www.indeed.com/viewjob?jk=6a3049edc5dd5c09",
+      "date": "2026-11-23",
+      "location": "Purdue University at Fort Wayne, IN, US",
+      "description": "Tenure-track faculty position in first-year engineering technology focusing on foundational instruction and project-based learning.",
+      "fitScore": 1,
+      "isNew": false,
+      "keywords": [
+        "engineering technology",
+        "first-year engineering",
+        "CAD",
+        "applied engineering",
+        "engineering education"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Line Open Rank",
+      "url": "https://www.indeed.com/viewjob?jk=6ac994c830762dd1",
+      "date": "2026-11-23",
+      "location": "University of Utah at Salt Lake City, UT, US",
+      "description": "Tenure-track open-rank faculty position in mining engineering with research in rock mechanics, materials, and processing.",
+      "fitScore": 2,
+      "isNew": false,
+      "keywords": [
+        "mining engineering",
+        "rock mechanics",
+        "mineral processing",
+        "materials",
+        "resource extraction"
+      ]
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor, Design & Technology - Architecture",
+      "url": "https://www.indeed.com/viewjob?jk=cf49420273541ddb",
+      "date": "2026-11-23",
+      "location": "University of Illinois at Urbana, IL, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
@@ -844,6 +932,39 @@
       "url": "https://www.indeed.com/viewjob?jk=23208eb4d7f711ef",
       "date": "2026-11-21",
       "location": "University of California - Santa Cruz at Santa Cruz, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Tenure Track Position - Department of Biological Sciences",
+      "url": "https://www.indeed.com/viewjob?jk=3d231b2a93acf062",
+      "date": "2026-11-20",
+      "location": "Carnegie Mellon University at Pittsburgh, PA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Post-Baccalaureate Scholar",
+      "url": "https://www.indeed.com/viewjob?jk=878fd7d356d7d112",
+      "date": "2026-11-20",
+      "location": "Stanford University at Stanford, CA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "Assistant Professor & Director of Opera Studies",
+      "url": "https://www.indeed.com/viewjob?jk=182ca33f9a6a1cd3",
+      "date": "2026-11-20",
+      "location": "Carnegie Mellon University at Pittsburgh, PA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
