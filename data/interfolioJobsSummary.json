@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.5-flash-lite",
-    "generatedAt": "2026-11-26T10:31:09-05:00",
+    "model": "gemini-3.8-flash",
+    "generatedAt": "2026-11-27T10:14:52-05:00",
     "source": "Interfolio Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from public Interfolio job pages.",
@@ -10,50 +10,6 @@
     ]
   },
   "items": [
-    {
-      "id": "apply-198209",
-      "title": "Professor and Division Chief [Req#: 991927, Position#: 134781]",
-      "url": "https://apply.interfolio.com/198209",
-      "date": "2026-11-25",
-      "location": "UT Southwestern: 415016 - IM-Digest & Liver at Dallas, Texas",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-198220",
-      "title": "Assistant or Associate Professor in Modern and Contemporary Japanese Politics and Foreign Policy",
-      "url": "https://apply.interfolio.com/198220",
-      "date": "2026-11-25",
-      "location": "Georgetown University: Walsh School of Foreign Service at Main Campus",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-198221",
-      "title": "Faculty Medical Physicist",
-      "url": "https://apply.interfolio.com/198221",
-      "date": "2026-11-25",
-      "location": "Vanderbilt University School of Medicine: Department of Radiation Oncology at Department of Radiation Oncology",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "apply-198168",
-      "title": "Assistant Professor: Acute Services Team",
-      "url": "https://apply.interfolio.com/198168",
-      "date": "2026-11-24",
-      "location": "Yale University: Psychiatry at New Haven, CT",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
     {
       "id": "apply-197666",
       "title": "Assistant Professor of Music Education, College of Arts, Sciences & Education (Hybrid)",
@@ -99,11 +55,55 @@
       "keywords": []
     },
     {
+      "id": "apply-198209",
+      "title": "Professor and Division Chief [Req#: 991927, Position#: 134781]",
+      "url": "https://apply.interfolio.com/198209",
+      "date": "2026-11-25",
+      "location": "UT Southwestern: 415016 - IM-Digest & Liver at Dallas, Texas",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-198220",
+      "title": "Assistant or Associate Professor in Modern and Contemporary Japanese Politics and Foreign Policy",
+      "url": "https://apply.interfolio.com/198220",
+      "date": "2026-11-25",
+      "location": "Georgetown University: Walsh School of Foreign Service at Main Campus",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-198221",
+      "title": "Faculty Medical Physicist",
+      "url": "https://apply.interfolio.com/198221",
+      "date": "2026-11-25",
+      "location": "Vanderbilt University School of Medicine: Department of Radiation Oncology at Department of Radiation Oncology",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
       "id": "apply-198019",
       "title": "Clinical Assistant or Associate Professor - The Lyceum Program, The Snow Institute for the Study of Capitalism",
       "url": "https://apply.interfolio.com/198019",
       "date": "2026-11-25",
       "location": "Clemson University: College of Business at WILBUR O. & ANN POWERS COLLEGE OF BUSINESS (CHANDLER L. BURNS HALL)(000444) BLDG000444",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "apply-198168",
+      "title": "Assistant Professor: Acute Services Team",
+      "url": "https://apply.interfolio.com/198168",
+      "date": "2026-11-24",
+      "location": "Yale University: Psychiatry at New Haven, CT",
       "description": "",
       "fitScore": 0,
       "isNew": false,

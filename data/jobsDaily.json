@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-26T10:27:56-05:00",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-11-27T10:14:52-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,13 +12,35 @@
   "items": [
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Statistics & Data Science",
+      "url": "https://www.indeed.com/viewjob?jk=5629f99ffcf44c94",
+      "date": "2026-11-20",
+      "location": "Carnegie Mellon University at Pittsburgh, PA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-4492733268",
+      "title": "Faculty Physician- Head and Neck Surgeon/Scientist- Assistant Professor (Tenure Track)",
+      "url": "https://www.linkedin.com/jobs/view/4492733268",
+      "date": "2026-11-19",
+      "location": "University of Minnesota Physicians at Minneapolis, MN, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Assistant Professor, Foundation Design and Architectural History/Theory",
       "url": "https://www.indeed.com/viewjob?jk=8ffc61e05cb920e1",
       "date": "2026-11-26",
       "location": "University of Arkansas at Fayetteville, AR, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -29,7 +51,7 @@
       "location": "University of Miami at Coral Gables, FL, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -40,7 +62,7 @@
       "location": "University of Arkansas at Fayetteville, AR, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -51,7 +73,7 @@
       "location": "University of Arkansas at Fayetteville, AR, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -62,7 +84,7 @@
       "location": "San Bernardino Community College District at San Bernardino, CA, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -73,7 +95,7 @@
       "location": "University of Houston at Houston, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -84,7 +106,7 @@
       "location": "University of Central Arkansas at Conway, AR, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -95,7 +117,7 @@
       "location": "University of Nevada, Reno School of Medicine at Greater Reno Area",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -106,7 +128,7 @@
       "location": "University of Houston at Houston, TX, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -117,18 +139,7 @@
       "location": "University of Wisconsin–Madison at Madison, WI, USA",
       "description": "",
       "fitScore": 0,
-      "isNew": true,
-      "keywords": []
-    },
-    {
-      "id": "www-viewjob",
-      "title": "School of Architecture, Carnegie Mellon University Assistant Professor of Architecture, Tenure Track",
-      "url": "https://www.indeed.com/viewjob?jk=2ba5d7d32f21e6ab",
-      "date": "2026-11-24",
-      "location": "Carnegie Mellon University at Pittsburgh, PA, USA",
-      "description": "",
-      "fitScore": 0,
-      "isNew": true,
+      "isNew": false,
       "keywords": []
     },
     {
@@ -269,6 +280,17 @@
       "url": "https://www.indeed.com/viewjob?jk=6fcde3c81e87e8c0",
       "date": "2026-11-25",
       "location": "SUNY Morrisville at Morrisville, NY, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
+      "title": "School of Architecture, Carnegie Mellon University Assistant Professor of Architecture, Tenure Track",
+      "url": "https://www.indeed.com/viewjob?jk=2ba5d7d32f21e6ab",
+      "date": "2026-11-24",
+      "location": "Carnegie Mellon University at Pittsburgh, PA, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,

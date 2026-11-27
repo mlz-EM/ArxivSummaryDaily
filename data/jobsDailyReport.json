@@ -1,36 +1,27 @@
 {
-  "generatedAt": "2026-11-26T10:27:56-05:00",
-  "model": "gemini-3.8-flash",
-  "runId": "45848097720",
+  "generatedAt": "2026-11-27T10:14:52-05:00",
+  "model": "gemini-3.6-flash",
+  "runId": "46022158942",
   "summaryPasses": 1,
   "modelsUsed": [
-    "gemini-3.8-flash"
+    "gemini-3.6-flash"
   ],
-  "modelFallbacks": [],
-  "inputJobs": 120,
-  "alreadyProcessed": 109,
-  "prefiltered": 3,
-  "prefilterReasons": {
-    "humanities_or_social_science": 3
-  },
+  "modelFallbacks": [
+    {
+      "model": "gemini-3.8-flash",
+      "reason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "nextModel": "gemini-3.6-flash"
+    }
+  ],
+  "inputJobs": 140,
+  "alreadyProcessed": 138,
+  "prefiltered": 0,
+  "prefilterReasons": {},
   "accepted": 0,
-  "rejected": 8,
+  "rejected": 2,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
-  "prefilterExamples": [
-    {
-      "url": "https://www.indeed.com/viewjob?jk=8ffc61e05cb920e1",
-      "reason": "humanities_or_social_science"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=2182d580ee9fe1b4",
-      "reason": "humanities_or_social_science"
-    },
-    {
-      "url": "https://www.indeed.com/viewjob?jk=d3e40564c6320167",
-      "reason": "humanities_or_social_science"
-    }
-  ]
+  "prefilterExamples": []
 }
