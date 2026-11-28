@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-27T10:14:52-05:00",
+  "generatedAt": "2026-11-28T09:24:36-05:00",
   "model": "gemini-3.6-flash",
-  "runId": "46022158942",
+  "runId": "46153673566",
   "summaryPasses": 1,
   "modelsUsed": [
     "gemini-3.6-flash"
@@ -9,19 +9,26 @@
   "modelFallbacks": [
     {
       "model": "gemini-3.8-flash",
-      "reason": "gemini-3.8-flash temporarily unavailable (HTTP 503); remaining work deferred. This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "reason": "gemini-3.8-flash network request failed; cooling down before retrying unresolved work.",
       "nextModel": "gemini-3.6-flash"
     }
   ],
   "inputJobs": 140,
   "alreadyProcessed": 138,
-  "prefiltered": 0,
-  "prefilterReasons": {},
+  "prefiltered": 1,
+  "prefilterReasons": {
+    "clinical_or_health": 1
+  },
   "accepted": 0,
-  "rejected": 2,
+  "rejected": 1,
   "unsummarized": 0,
   "complete": true,
   "stopReason": "",
   "pendingJobs": [],
-  "prefilterExamples": []
+  "prefilterExamples": [
+    {
+      "url": "https://www.linkedin.com/jobs/view/4491518798",
+      "reason": "clinical_or_health"
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Basic Info",
-    "model": "gemini-3.8-flash",
-    "generatedAt": "2026-11-27T10:14:52-05:00",
+    "model": "gemini-3.6-flash",
+    "generatedAt": "2026-11-28T09:25:09-05:00",
     "source": "Interfolio Faculty Jobs",
     "notes": [
       "This report contains AI-filtered academic positions discovered from public Interfolio job pages.",
@@ -10,6 +10,17 @@
     ]
   },
   "items": [
+    {
+      "id": "apply-196533",
+      "title": "Research Assistant Professor of Neurosurgery specializing in Translational Immunotherapy in the Perelman School of Medicine at the University of Pennsylvania",
+      "url": "https://apply.interfolio.com/196533",
+      "date": "2026-11-02",
+      "location": "University of Pennsylvania: Perelman School of Medicine - Neurosurgery at Philadelphia, PA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": true,
+      "keywords": []
+    },
     {
       "id": "apply-197666",
       "title": "Assistant Professor of Music Education, College of Arts, Sciences & Education (Hybrid)",

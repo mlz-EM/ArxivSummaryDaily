@@ -2,7 +2,7 @@
   "header": {
     "title": "Basic Info",
     "model": "gemini-3.6-flash",
-    "generatedAt": "2026-11-27T10:14:52-05:00",
+    "generatedAt": "2026-11-28T09:24:36-05:00",
     "source": "TTAP Daily Feed",
     "notes": [
       "This report includes recent tenure-track engineering-related positions from Google, LinkedIn and Indeed.",
@@ -12,21 +12,21 @@
   "items": [
     {
       "id": "www-viewjob",
-      "title": "Assistant Professor of Statistics & Data Science",
-      "url": "https://www.indeed.com/viewjob?jk=5629f99ffcf44c94",
-      "date": "2026-11-20",
-      "location": "Carnegie Mellon University at Pittsburgh, PA, USA",
+      "title": "Assistant Professor - Machining & CNC Technology",
+      "url": "https://www.indeed.com/viewjob?jk=8aaef091eb193664",
+      "date": "2026-11-25",
+      "location": "North Idaho College at Rathdrum, ID, USA",
       "description": "",
       "fitScore": 0,
       "isNew": true,
       "keywords": []
     },
     {
-      "id": "www-4492733268",
-      "title": "Faculty Physician- Head and Neck Surgeon/Scientist- Assistant Professor (Tenure Track)",
-      "url": "https://www.linkedin.com/jobs/view/4492733268",
-      "date": "2026-11-19",
-      "location": "University of Minnesota Physicians at Minneapolis, MN, USA",
+      "id": "www-4491518798",
+      "title": "Assistant Professor Instruction - School of Nursing Undergraduate Studies",
+      "url": "https://www.linkedin.com/jobs/view/4491518798",
+      "date": "2026-11-16",
+      "location": "American Association of Colleges of Nursing (AACN) at Galveston, TX, USA",
       "description": "",
       "fitScore": 0,
       "isNew": true,
@@ -961,6 +961,17 @@
     },
     {
       "id": "www-viewjob",
+      "title": "Assistant Professor of Statistics & Data Science",
+      "url": "https://www.indeed.com/viewjob?jk=5629f99ffcf44c94",
+      "date": "2026-11-20",
+      "location": "Carnegie Mellon University at Pittsburgh, PA, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-viewjob",
       "title": "Tenure Track Position - Department of Biological Sciences",
       "url": "https://www.indeed.com/viewjob?jk=3d231b2a93acf062",
       "date": "2026-11-20",
@@ -1434,6 +1445,17 @@
       "url": "https://www.linkedin.com/jobs/view/4492579552",
       "date": "2026-11-20",
       "location": "Texas Woman's University at Garland, TX, USA",
+      "description": "",
+      "fitScore": 0,
+      "isNew": false,
+      "keywords": []
+    },
+    {
+      "id": "www-4492733268",
+      "title": "Faculty Physician- Head and Neck Surgeon/Scientist- Assistant Professor (Tenure Track)",
+      "url": "https://www.linkedin.com/jobs/view/4492733268",
+      "date": "2026-11-19",
+      "location": "University of Minnesota Physicians at Minneapolis, MN, USA",
       "description": "",
       "fitScore": 0,
       "isNew": false,
